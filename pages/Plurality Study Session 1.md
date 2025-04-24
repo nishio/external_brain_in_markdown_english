@@ -1,0 +1,304 @@
+---
+title: "Plurality Study Session 1"
+---
+
+- [[Cybozu Labs Study Session]]  2024-04-26
+- Audrey Tang and Glen Weyl's new book "[[Plurality]] : The Future of Collaborative Technology and Democracy"
+- English version submitted to printer on 4/18, expected to be completed on 5/20.
+- So in this study group, we will be reading this book in several parts starting this time!
+- Related workshops to date
+    - 2023-05-12  [[Plurality and Polis Study Group]]
+    - 2024-03-15  [[Quadratic Voting and Plural Management Study Group]]
+- Japanese information is available in the forum [/plurality-japanese](https://scrapbox.io/plurality-japanese), and this announcement will be posted in the forum later.
+- AI legend
+    - <img src='https://scrapbox.io/api/pages/nishio-en/⿻Plurality Assistant/icon' alt='⿻Plurality Assistant.icon' height="19.5"/>: [[⿻Plurality Assistant]], GPT to read Japanese forum content in RAG, general purpose use
+    - <img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>: [[Claude 3 Opus]], used to summarize and translate long sentences
+    - <img src='https://scrapbox.io/api/pages/nishio-en/FractalReader/icon' alt='FractalReader.icon' height="19.5"/>: [[FractalReader]], used to summarize long sentences
+    - <img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>: ChatGPT [[GPT-4]], used for Bing searches for the latest information
+
+Explanation of the cover
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The first thing you'll probably see is the description on the back cover, so let's read that
+- [/plurality-japanese/8-cover-cover-commentary](https://scrapbox.io/plurality-japanese/8-cover-cover-commentary).
+- > Digital technology threatens to tear apart a free and open society through division, inequality, and isolation. But Taiwan, a diverse and resilient island nation, has shown in the decade since the weeks-long occupation of Congress that another path is possible.
+- > Taiwan has achieved inclusive, technology-enabled growth, survived a pandemic without a lockdown, dealt with an infodemic without information containment, committed its people to addressing common challenges such as environmental protection, and leveraged its culture of innovation to "hack the government" The company was able to
+- > Here, the internationally acclaimed architects of Taiwan's digital democracy share their secrets of success: plurality (⿻) does not replace people or trust, but channels the energy inherent in social diversity toward progress, growth, and beauty, rather than conflict We utilize digital tools to From telepathy through intimate digital technology to global trade based on social networks rather than money, ⿻ promises to radically enrich human relationships and leave no one behind.
+- >  Thus, ⿻ promises to transform everything from healthcare to media. The book itself is an example of this, written as an open, self-governing collaboration of voices from around the world. The work they have done with this open text shows how everyone, from pious African farmers to Hollywood celebrities, can contribute to building a more empowered, harmonious, and inclusive world.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Can you get this across without any prerequisite information? Isn't it difficult?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>You're going to put this amount of text on the cover?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Sure, there might be a lot of them.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/> In Taiwan, 10 years after the weeks-long occupation of Congress, what are we talking about? became.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yeah, yeah, "What are you talking about?" I know, right? That's why I've prepared an explanation.
+- explanation
+- > In the decade since the weeks-long occupation of Congress, we have shown that another way is possible.
+        - [[Sunflower Student Movement]].
+        - >  [[Sunflower Student Movement]] is a social movement that began on March 18, 2014, when students and citizens of the Republic of China (Taiwan) occupied the Legislative Yuan (the Japanese equivalent of the National Assembly building).
+        - Author Audrey Tang is one of the key participants
+    - ["Another way" is implicitly comparable for US readers when we say:.
+        - >  [[2021 Attack on the United States Capitol]] was a political riot that occurred in the United States on January 6, 2021. Supporters of then-President Donald Trump attacked the United States Capitol, where the United States Congress was in session, claiming election fraud in the 2020 United States presidential election.
+        - Taiwan did the same thing and then got good, what's the difference? A story called
+- > We have successfully "hacked the government" by leveraging our culture of innovation.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/⿻Plurality Assistant/icon' alt='⿻Plurality Assistant.icon' height="19.5"/>Known by the expression "hack the government," the [[g0v]] effort was founded in Taiwan in 2012 by citizen hackers. They began "scraping" data from government websites and providing more user-friendly alternative format websites using the same data at g0v.tw. These are called "[[folk]]ed" sites and are often more popular than the original government sites. After the Sunflower Movement, several forked designs were incorporated into actual government services (from [/plurality-japanese/2-2-digital-democracy-everyday](https://scrapbox.io/plurality-japanese/2-2-digital-democracy-everyday)).
+    - [g0v - Wikipedia](https://en.wikipedia.org/wiki/G0v)
+    - > The 2014 Sunflower Student Movement in Taiwan is still fresh in our minds, and g0v played a pivotal role in that event by broadcasting live online and transparently in real time. --- [g0v zero hour government civic hacker in pursuit of open government - Taiwan Panorama [https://www.taiwan-panorama.com/ja/Articles/Details?Guid=71c2e863-595c-4b39-849c-](https://www.taiwan-panorama.com/ja/Articles/Details?Guid=71c2e863-595c-4b39-849c-) c260c0f3e5a0&CatId=7&postname=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%EF%BD%A5%E3%82%AC%E3%83%90%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92 E8%BF%BD%E6%B1%82%E3%81%99%E3%82%8B%20g0v%E9%9B%B6%E6%99%82%E6%94%BF%E5%BA%9C%E3%81%AE%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%83%8 F%E3%83%83%E3%82%AB]
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Often, the forked site is supported by citizens who say, "This site is better," which is the will of the people.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Do you pronounce `g0v` as gab zero?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/> Yes, `gov-zero` says the head office: [g0v 台灣零時政府](https://g0v.tw/intl/en/)
+- > The energy inherent in the diversity of our society is directed toward progress, growth, and beauty, not conflict.
+    - Progress, Growth, and Beauty is a Star Trek tidbit that "beauty, growth, and progress all come from the union of like and unlike."
+    - <img src='https://scrapbox.io/api/pages/nishio-en/⿻Plurality Assistant/icon' alt='⿻Plurality Assistant.icon' height="19.5"/>Diversity and symbiosis are emphasized in Star Trek, and these values are portrayed within the framework of space exploration and interaction with other planets. One of the themes is to encourage new discoveries, individual growth, and overall group progress through cross-cultural understanding and cooperation.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I feel that diversity is not in conflict with each other, but rather, it is a combination of the two that creates something better.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>The cover is too [[high context]] ......
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yeah, "[[high context]]" is a good expression. That's right. There is a lot of unwritten context. There are four sentences on the cover, but how many pages are used to explain the context of these four sentences? It's like.
+- > Telepathy through intimate digital technology
+    - Advances in technology have made it possible with current technology to go from phone calls to videoconferencing to spatial sharing via immersive VR. Beyond that, BMI and other technologies will enable "higher bandwidth (=[[broadband]]) information sharing.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>BMI=Brain Machine Interface?
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes
+    - Before the advent of cell phones, we used to say things like, "Let's meet in front of Hachiko at what time," and then wait in front of Hachiko for about 15 minutes, frustrated because we didn't see you coming. Now I can communicate with people at a distance even while walking around, so I can say, "Call me when you get there," or "I got there, where are you now? Now, the interaction has changed to "call me when you get there" or "I'm here, where are you now?
+        - From the point of view of people before the advent of cell phones, we are communicating with people in remote areas, so it's a kind of telepathy.
+    - Furthermore, a form of interaction is occurring where people go further from "where are you?" by making a phone call to meet up and share their location in real time via GPS.
+        - I'm [[interacting]] in a [[non-verbal]] way, without [[turn-based communication]].
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Pagers are telepathic with very low bit rates
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes, and telepathy is becoming broadband
+            - "You're doing something interesting!" I want to see it! I want to see!" then you can "share what you see" using Tweakath, Instalive, and various messenger video calls.
+- > Global trade based on social networks, not money
+    - <img src='https://scrapbox.io/api/pages/nishio-en/⿻Plurality Assistant/icon' alt='⿻Plurality Assistant.icon' height="19.5"/>A form of value exchange that does not use the traditional monetary system
+        - Non-monetary values, such as social capital and trust, form the basis of transactions.
+        - Value is created based on mutual cooperation and contributions between communities, which is then used in place of money for trade and exchange of services
+    - Tokens that express quantities of value," such as those once carried by money, can now be easily issued.
+        - For example, contributions to the OSS can be quantified as those tokens, and those tokens can be used to incentivize others to make the contributions you want them to make.
+            - This is the same composition as working, earning money, and then using that money to buy [[made-to-order]] things.
+            - (See previous [[Quadratic Voting and Plural Management Study Group]] for specifics.)
+    - My activities in the Plurality project are "global trade" because I do what Glen in the U.S. wants me to do and receive tokens from me in Japan.
+        - Collaborate without worrying about whether you are in the U.S. or Taiwan, or where you are physically located.
+    - It's similar to stock options in that people who find value in the tokens work for them as a reward.
+        - Stock options are "tokens that cannot be exchanged for money" at the time of grant, and the "expectation" that they may have value when the stock is listed in the future creates subjective value.
+        - PMP tokens can be considered a separate ownership interest in an OSS project, just as shares are a separate ownership interest in a company.
+            - You have a vote on where the project is going, so it's like a real-time shareholder meeting.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I feel like I can explain this story because I've read the PMP paper and am involved in the project, not because I read the book... It's high context.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Tax PMP tokens in the future?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>What is the entity entitled to taxation?
+            - The state is in armed control of an area and has the power to demand that the people living there "give us money" in this way, so taxation is done, but who has the authority to tax this activity on the Web? This is a difficult subject, so I'll leave it at that and go to the next question.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Does the same as stock options include the implication that they may be redeemable for real money in the future?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>This is the important part. If the system allows conversion to Japanese yen, it will be taxable.
+            - > If the so-called NFTs (non-substitutable tokens) or FTs (substitutable tokens) are exchangeable for crypto assets or other assets with property value, then transactions using the NFTs or FTs are subject to income tax.
+            - >  * Transactions using NFTs or FTs that cannot be exchanged for assets having property value are not subject to income tax.
+            - [No.1525-2 Taxation of transactions with NFTs and FTs｜National Tax Administration Agency](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1525-2.htm)
+            - If it's not convertible, it's like in-game currency.
+            - Can be circulated as a medium of value while remaining separate from legal tender, which can be used to make transactions in the game to increase it and make changes favorable to you without being subject to taxation.
+            - This is the meaning of the phrase "Global trade based on social networks, not money
+            - The idea is that such a medium of value can be created and nurtured to increase its value. No one really knows how much the PMP tokens from the PluralityBook project will actually be worth, but the "Audrey Tan-Grenweil Game" has the potential to grow into an interesting game, and I feel like I'm participating in early access to it.
+            - I'm betting on the one that grows, and I'm getting stock option-like tokens to help me work with it. Real stock options, of course, can run out of paper without going public. This is ultimately a gamble.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Does this mean that it is up to the project owner to decide if it can be converted into actual money?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It depends on the will; I don't think PluralityBook's PMP token will do it." It would ruin "what we want to achieve" which is "global trade based on social networks, not money.
+            - The decision to redeem depends on whether you want to redeem it or not, but basically I don't want to redeem it.
+            - Well, I think it depends on how much money people want.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Would it be redeemable if the owner decided to buy it?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Oh, for example, if I were to say in my open source project, "If you fix this bug, I will give you 10,000 credits, and I will buy them back for 1 yen per credit," that would be a redeemable credit.
+            - However, I believe the tax office will tell those who receive 10,000 credits to declare it as miscellaneous income and pay tax on it.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Whether or not to make it redeemable is how the project owner wants to do it, not a layer of the PMP itself?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes, outside of PMP, the Open Question in the PMP paper states [" While management credits are not by default monetary, the decision to distribute such rewards based on them must Therefore, the decision to distribute such rewards based on them must be made in the context of existing organizational cultures. He wrote.
+            - Currently, the value is managed in a ledger on Github, but if it were implemented to be output in [[ERC-20]] format on Ethereum, for example, it would be able to be exchanged on exchanges like existing cryptocurrencies.
+            - What would be the problem if we did that, uh, what would be the problem?
+            - Me personally, I wouldn't want to do that because it would require me to pay taxes. That's my perspective as an individual participating in the project.
+            - For those managing the system, the quickest way to reduce the risk of someone with a lot of money coming in and taking the project is to not allow the money to be exchanged in the first place.
+            - It is preferable to create a situation where only those who have actively contributed to the project can obtain the right to govern the project.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>The issuance and distribution of tokens is the source of power. ...... Conversely, if it becomes too big to overlook, the state (or existing power) will want to control it. On the other hand, the state could ensure that the issuance and distribution of tokens is transparent and fair.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Does the state have control over tokens that have become too big to overlook, e.g. Bitcoin or Ethereum?
+            - What exactly is control?
+            - For example, if China wanted to control Ethereum and attacked servers in the U.S., the U.S. would be upset.
+            - I understand the state's desire to control, but you don't have the ability to implement control. Isn't [[the Network State]] stronger than the state? It's a situation like that.
+            - I think China is doing its best to control the flow of assets out of the country by converting them to Bitcoin and other forms of capital control, which they don't like, but I think it will be a challenge to see how this area will develop.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I realized that PMP tokens are "virtues" in the sense that they are contributions to OSS projects, and that virtues and tokens are similar.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Funny joke, yes, I am now virtuously working on the Plurality project. w
+            - To put it in Christian terms, you are piling up wealth in that heaven. So, you are not spending your wealth in cash, Japanese yen, or other trivial assets on earth, but in this way, you are training and contributing in order to send wealth to the heavenly realms, and you are devoting your labor and loyalty to the realization of God's Kingdom. Heavenly wealth does not need to be convertible into Japanese yen, nor do we want to. This kind of joke makes people think we are a cult. w
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>A class called Introduction to Web3 at Chiba Institute of Technology issues tokens that cannot be redeemed for completing reports and quests, and grades students according to the number of tokens.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Interesting. It's [[gamification]] of education, [[edutainment]], [[token economy]].
+        - [254 students who took Introduction to web3 were issued NFT/VC digital study history certificates | Topics/Announcements | Chiba Institute of Technology](https://www.it-chiba.ac.jp/topics/pr20230822/)
+            - > The web3 overview course offered at Chiba Institute of Technology in the spring semester of 2023 has been completed and students who met certain criteria were issued NFTs and VCs, certifying their academic history.
+            - >  The use of web3 tools such as tokens and [[Dework]] and the gamification element in the classes encouraged students to learn from each other, with 68% of the students saying that the web3 tools enhanced their knowledge acquisition.
+            - Do you also issue [[verifiable credentials]]?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>So far you have finally read the four paragraphs on the cover. Yes, we are moving on.
+
+Changes in interactions due to technological developments affect the way public
+- The reason why we are talking about telepathy and global trade is because we believe that "changes in interactions due to technological development will affect the way public life is conducted.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Whose statement was it that if the way people interact with each other changes as a result of technological development, the structure of society needs to change as well?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/⿻Plurality Assistant/icon' alt='⿻Plurality Assistant.icon' height="19.5"/>With regard to the subject you are talking about, you seem to be referring to Glen Weyl's idea that "technology changes the way people interact, so democracy needs to change with it. This idea is based on the thought of [[John Dewey]] that every time a new technology comes along, it changes the way people interact and therefore the form of democracy needs to change accordingly!
+- Give Claude [[John Dewey]]'s [[The Public and Its Problems]], which is available on the Gutenbeng Project, and ask questions (finally, my summary is in bold, so read there).
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Q: Quote and explain the part about "Every time a new technology comes along, people interact in new ways."
+    - The following is the part of this statement that relates to the way technological developments are changing the way society interacts with each other.
+    - "(English paragraph)"
+    - In other words, as new technologies emerge, the consequences that result from them extend beyond the scope of those directly involved with them. Therefore, special institutions and measures are formed to deal with and manage the consequences, or existing groups must assume new functions. This leads to the organization of the public (public) or the state, the obvious external feature of which is described as the existence of public officials.
+    - Thus, Dewey offers the insight that technological developments will change the way society interacts, and the public and the state will change in response. As new technologies have far-reaching effects on society, new mechanisms are required to manage them.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Summarize in bullet points, including before and after.
+- <img src='https://scrapbox.io/api/pages/nishio-en/Claude/icon' alt='Claude.icon' height="19.5"/>Yes. The following is a summary, including the paragraphs before and after.
+    - The consequences of interconnected actions may be spatially and temporally expansive, uniform, repetitive, and irreversible. The importance of such consequences is a matter of degree, and there are no clear boundaries within which the public (public) is created.
+    - The public consists of recognizing indirect and lasting results and is organized as a state through special institutions to systematically manage its interests.
+        - インタラクションの結果は、インタラクションの行われた場所・時間に限定されない広い範囲の影響を引き起こすことがある。変化の中には、変化前に戻すことが困難なものもある。ある特定の行動パターンが繰り返されると、変化は積み重なっていって大きな影響を持つことがある。インタラクションそれ自体ではなく、それがもたらした"間接的で持続的な結果"によって「公共」が形成される<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - With the development of technology, the consequences of combined actions extend beyond the scope of those directly involved. Therefore, addressing and managing those consequences will require the formation of special agencies and measures, or the taking charge of new functions of existing groups.
+    - An obvious external feature of the organization of the public and the state is the presence of public officials. Government is not the state, but includes both the public and the rulers who have special duties and powers. The public is organized through the civil service.
+    - The main issue for the public is to achieve a self-awareness that will carry the weight of the public interest and influence the election of public officials and the definition of their responsibilities and rights.
+        - 技術の発展によりインタラクションの形が変わる。インタラクションの形が変わると「公共」の形も変わる。それを組織化する「公務員」も変わる。「公務員」の定義が公共の主要な問題だ。<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- I think most people associate the term "public servant" with "someone who is paid by the government."<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - But here it means something a little different
+    - For example, with the birth and spread of television technology, a "ruler with special authority" was born who had the power to decide "what to broadcast on television. This was the "civil servant," and the public at that time was organized through this civil servant.
+    - Later, with the spread of social media, anyone could post and it was up to people to decide which posts to spread widely. Many "influencers" were created who were referenced by many people, and through them a new public was formed.
+    - The American perspective is that this is a problem because of the extreme divisions that are occurring as a result of this. There are more people who think there will be a civil war in the next decade than those who think there won't, in the U.S. ([[Majority believe civil war will break out in the U.S.]]). Can we do something to make this a good thing? So I'm thinking something like.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>The idea that the definition of public servant explains the public is new to me!
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>This morning, I also thought that I didn't have this explanation, so I asked Claude to pull it from the original text and make a commentary. The reason it's not very coherent is that I just finished it, and I wrote it about 30 minutes ago, so it's fresh for me, too.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>So this story is not in the books.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I think there are bits and pieces that may or may not be listed, but they don't seem to use "public servant" in this sense
+        - It is said that the development of technology will change the form of interaction, which in turn will change the form of society.
+
+find one's way
+- A text explaining where to start reading
+- [/plurality-japanese/0-2-find-your-way(Dao)](https://scrapbox.io/plurality-japanese/0-2-find-your-way(Dao))
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The book is about Taoism, Taoism of Taoism, and Tao refers to this "Tao", and so on, without any particular notes. I am getting worried about the translation of this book. I think you need to add a lot of notes to make the text easy to understand.
+- > As discussed in this book, books with a linear narrative structure have the major drawback of forcing all readers onto a single learning path. The online version avoids this problem by making extensive use of hyperlinks, but for those who have the paper book, it may be more difficult to read through. To alleviate some of this problem, we have structured our text in a "circular" fashion. Readers can start reading at various points, then continue from there, and finally come back to the "previous" part of the book.
+- >  In particular, we recommend the following
+    - > If you are primarily interested in current events, politics, or current events, start at the beginning of the book, i.e., the preface, and read in order.
+        - [/plurality-japanese/1-0-see plurality](https://scrapbox.io/plurality-japanese/1-0-see plurality).
+    - > If you have a more conceptual, theoretical, or broadly intellectual interest, I suggest you skip parts 1 and 2 and start reading from part 3.
+        - What is [/plurality-japanese/3-0-⿻](https://scrapbox.io/plurality-japanese/3-0-⿻)?
+            - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Is the double □-like symbol (Plurarity) garbled or intentional? If it is intentional, why does the shape represent plurarity?
+                - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>[/plurality-japanese/⿻](https://scrapbox.io/plurality-japanese/⿻) is a Unicode character intentionally used to represent Plurality. This was originally one of the CJK composite Kanji conventions. It is a Unicode character meant to represent the overlapping of multiple characters to create a new character. In this document, Plurality is represented by this. It expresses the feeling that people with different opinions should also overlap. The Unicode characters are perfect for expressing the idea that new and better things can be created by combining different things, and the process of replacing the words "plurality" and "plural" in the text with these pictograms began around March. The process of replacing all the words "plurality" and "plural" in the text with this pictogram was started in March.
+    - >  Those with a more technical, technological, or engineering focus may want to start with part 4.
+        - [/plurality-japanese/4-0-rights,operating-system,⿻ freedom](https://scrapbox.io/plurality-japanese/4-0-rights,operating-system,⿻ freedom)
+    - >  Those interested in specific techniques and their applications should consider starting their reading with Part 5.
+        - [/plurality-japanese/5-0-cooperation-technology-and-democracy](https://scrapbox.io/plurality-japanese/5-0-cooperation-technology-and-democracy).
+    - >  Those interested in the impact on the real world in specific social areas may want to start with Part 6.
+        - [/plurality-japanese/6-0-⿻ to reality](https://scrapbox.io/plurality-japanese/6-0-⿻ to reality).
+    - >  If your focus is on publicpolicy, government, or social movements, we recommend that you start reading Part 7.
+        - [/plurality-japanese/7-0-policy](https://scrapbox.io/plurality-japanese/7-0-policy).
+    - >  No matter where they start, most readers who find value will find it beneficial to continue reading and supplement the theoretical framework of the "second half" of the book with content from the "first half."
+- >  This book is a [[living document]]. If you are reading the print version, it is most likely already out of date. You can read or download the latest version for free at [https://www.plurality.net/.](https://www.plurality.net/.)
+    - Related: Scrapbox Philosophy [[Not a warehouse to put dead text in.]].
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I also thought that the only real up-to-date version is in my head, and the articles on the web are kind of old.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes, the real Plurality is the one that is collectively and intellectually dispersed and recorded within each person in the community. And the first version that was brought together and written out in the form of a single book is the current version, and the paper book is a printed snapshot of that.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I wonder if the print version is positioned as a gateway to Plurality.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It's one of many entrances, and there should be many entrances.
+            - I hear a documentary film on Audrey is being made.
+            - Regarding the activity of joining the Discord Server and sending a Pull Request to GitHub, how many people are coming in from the print version? I have a feeling that there is a big difference as a segment. I have a feeling that there is a difference in segmentation.
+- >  More importantly, we want you all to be co-creators of this project, not just readers. You can raise concerns or issues with the text (as "issues") for the community to prioritize, or submit suggestions for improvement (as "[[pull requests]]") to [https://github.com/pluralitybook/plurality.](https://github.com/pluralitybook/plurality.) All contributions are valued and earn the contributor recognition and governance rights as described below.
+    - Actual case study: (translation note)[/plurality-japanese/Immersive Reality 加筆Issue](https://scrapbox.io/plurality-japanese/Immersive Reality 加筆Issue)<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>It's open source-like!
+- >  When we make mistakes, see them as opportunities. If you feel we are wrong, correct us. If we are not speaking in your community's language, please make a version that tells us in your language. If you don't want to communicate with your community, this material is not copyrighted, so use only the parts you need and don't worry about the rest. Instead of asking, "Why isn't anyone doing this?" be that someone yourself.
+    - (Translator's note: The last sentence is[[Don't say, "Why isn't anyone doing it?" You're one of them.]] 由来<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - You don't need to ask me what someone else does. That's why "沒有人" is so versatile.
+        - 沒有人=nobody
+
+Where shall I start reading?
+- Naturally, it is not possible to read all of it in this one-hour study session.
+    - In terms of the lab, maybe chapters 4~6 first?
+    - >  Those with a more technical, technological, or engineering focus may want to start with part 4.
+    - >  Those interested in specific techniques and their applications should consider starting their reading with Part 5.
+    - >  Those interested in the impact on the real world in specific social areas may want to start with Part 6.
+- First, see the Table of Contents
+    - Chapter 4
+        - 4-0-Rights, Operating System, ⿻ Freedom
+        - 4-1-Identity and personality
+        - 4-2-Association and ⿻ Public
+            - The word "association" is "association," and I'm having a hard time deciding what to translate.
+        - 4-3-Commerce and Trust
+        - 4-4-Property rights and contracts
+        - 4-5-Access
+    - Chapter 5
+        - 5-0-Cooperation Technology and Democracy
+        - 5-1-Post Symbolic Communication
+        - 5-2-Immersive Shared Reality
+        - 5-3-Creative Collaboration
+        - 5-4-Extended Deliberation
+        - 5-5-Adaptive management
+        - 5-6-⿻ Voting
+        - 5-7 Social market
+    - Chapter 6.
+        - 6-0-⿻ to reality
+        - 6-1-Workplace
+        - 6-2-Health
+        - 6-3-Media
+        - 6-4-Environment
+        - 6-5 Learning
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Which chapters might be of interest to a researcher in a groupware company? Explain with reasons (I gave a summary by <img src='https://scrapbox.io/api/pages/nishio-en/FractalReader/icon' alt='FractalReader.icon' height="19.5"/>).
+- <img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>The following chapters are likely to be of most interest to corporate researchers in groupware.
+    1. 6-1-Workplace
+        - The chapter discusses improvements to the work environment, including strengthening remote teams, designing effective corporate campuses, improving communication, more inclusive access to talent, and more effective delivery of common corporate infrastructure. Groupware will be of great interest to researchers because it provides tools and technologies directly related to these issues.
+    2. 5-1-Post Symbolic Communication
+        - It is stated that in the future, direct sensory sharing, such as telepathy, could fundamentally change human relationships and social structures. Groupware researchers are keenly interested in advances in communication technology, so the content of this chapter will be of interest to them.
+    3. 5-3-Creative Collaboration
+        - This chapter describes a vision of the future of creative collaboration that integrates human and non-human, past and future intelligence and harnesses collective creativity to address global challenges. Researchers will be interested in the content of this chapter because groupware is a tool that facilitates collaboration.
+    4. 5-4-Extended Deliberation
+        - It describes experimental attempts to improve the quality and depth of remote interaction using the latest technology. Groupware researchers are interested in improving the quality of remote communication and discussion, so the content of this chapter should appeal to them.
+
+6-1-Workplace
+- <img src='https://scrapbox.io/api/pages/nishio-en/FractalReader/icon' alt='FractalReader.icon' height="19.5"/> Level3 [https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/6d88c5c3-a42c-4175-85ca-f31eb2ab557f](https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/6d88c5c3-a42c-4175-85ca-f31eb2ab557f)
+    - > The workplace produces about 70% of the world's GDP, and efficiency gains are needed, so this chapter focuses on restructuring the workplace.
+    - > COVID-19 pandemic has led to widespread remote work, an increase in digital nomads, and the establishment of hybrid workstyles.
+        - So far, so Cybozu-esque, it's like, "Yeah, right!"
+        - The question here is how to make new team members and new professionals "part of the organization" and how to do team building
+    - > Remote Immersive Shared Reality (ISR) promotes collaborative and creative teamwork in a virtual environment and greatly enhances team building and training by overcoming geographic barriers.
+    - > The use of digital tools allows for deeper connections beyond the barriers of physical distance.
+    - What is the office in the first place?
+        - > Comprehensive campus design
+        - > The main role of a corporate campus is to realize the "agglomeration" effect within a company, which is an important source of economic benefit for the city.
+            - > Many workplaces, especially white-collar jobs, are physically concentrated on large "corporate campuses." While many of the functions concentrated on these campuses may be organizationally quite independent, extensive co-locations are aimed at providing opportunities for incidental interactions between different departments. This "agglomeration" effect has been shown by the extensive economics literature to be an important source of economic benefits for cities. The primary role of the corporate campus is to realize these benefits within the corporation.
+            - In other words, people who are business-related interact with each other even when they work remotely.
+            - That creating opportunities for unrelated people to interact with each other should have the same benefits as the "economic effects caused by the concentration of population in the city".
+    - > Steve Jobs' redesigned Pixar headquarters includes shared spaces that encourage accidental encounters and cross-pollination.
+    - > The ISR campus allows employees to explore potential placements and participate in virtual meetings, making the physical campus design more flexible.
+        - > Faster and more flexible prototyping than physical campus construction.
+        - In 2021 I set up an in-house Minecraft server and tried to use it as a virtual office platform.
+            - At this point, the use of a virtual office was not feasible because of the lack of audio conversation with people in close proximity and seamless connection to high-definition video conferencing.
+            - If that area is improved, it could become the de facto virtual 3D space creation tool that most people below a certain age are familiar with how to operate.
+    - > Conference
+        - > ⿻ practices and tools can enable more open and inclusive conversations about an organization's biggest challenges, turning top-down rituals into exciting participatory exploration.
+            - This is the "operation" and "culture" that's been established in Cybozu's way, where you bang on the actual thread, regardless of whether the CEO is speaking or not.
+            - Mechanisms have also been created to seek bottom-up advice asynchronously and broadly.
+                - [Cybozu's "advice-gathering app" is a revolutionary attempt to eliminate "unreasonable opinions because you're an important person" - Log Me Biz](https://logmi.jp/business/articles/325852)
+                - [[Even the Opinions of "Rinpai" are Overturned? Cybozu's unique management decision-making style when we asked Cybozu about the process of selecting the classification for the TSE's new market.]]
+                - [THE HYBRID WORK Cybozu's media specializing in hybrid work](https://hybridwork.cybozu.co.jp/condition/decision-making/)
+    - > ⿻ hiring
+        - > Many businesses and roles have a "standard career path" and recruit primarily from a specific degree program or professional background, but regret that this excludes many talented and diverse candidates.
+        - >  Social identity systems, modern large-scale language models (LLMs), and remote shared reality technology may help address these challenges.
+        - >  These tools can help understand the scope of diversity covered by a company's customer base and can help HR optimize diversity in a more sophisticated and intersectional way.
+    - > Aligning wisdom and influence
+        - > Power within an organization is based on position, but in the social web power may emerge from below to above, illustrating the limitations of the traditional hierarchical system.
+        - > New technologies can create a work environment that does not rely on formal hierarchical structures, using natural language processing and generative infrastructure models to assess individual "natural leadership," with power shifting fluidly based on contributions.
+        - This kind of de-hierarchization is also what Cybozu has done.
+            - [What is a teal organization?　What are the points that are often misunderstood? ─ ─ I asked Mr. Kenshu Kamura, a leading expert on the subject | Cybozu Style](https://cybozushiki.cybozu.co.jp/articles/m001504.html)
+            - > Teal organizations often use the "advice process" rather than the approval process or consensus (decision-making through meetings) as a means of decision-making.
+            - Cybozu's "Advice App" is a software realization of the "advice process" here using kintone.
+    - Microsoft Case Study
+        - > Nadella stimulates intra-company entrepreneurship through her role at OCTO, which coordinates cross-sectoral investments to achieve "solidarity and dynamism" in the organization.
+        - > OCTO has achieved much, including business-to-business technology projects related to the Web3 strategy, but has faced the challenge of utilizing a small staff not familiar with the business needs of the field when making major investment and incubation decisions.
+        - > OCTO provides truly cross-organizational support over the traditional "20% time model" by identifying clusters of interest among organizations, hosting fun events to build connections between organizations, and providing [[matching funds]] when diverse organizations support investments.
+            - The "20% time model" refers to Google's [20% rule
+            - Cybozu copied and expanded this when they created the lab.
+                - >  "Within the scope of the R&D areas set by [[Cybozu Labs]], it is guaranteed that you can devote at least 50% of your work time to R&D themes that you set yourself. In a nutshell, we say, 'You can do whatever you want half the time,' but if you look closely, you may be doing what you like 100% of the time (laughs)" (Aono) [src](https://japan.cnet.com/article/20367070/2/).
+            - On the other hand, there is talk that not only the lab but also the headquarters should have the discretion to do spontaneous projects.
+                - The "hackathon" started in 2013 at the Cybozu Lab Youth Center and now also at the head office was based on this awareness of the issue.
+            - The idea of "providing matching funds when diverse organizations support an investment" is interesting.
+                - Creating a fund because it is difficult to evaluate whether discretionary actions are beneficial to the company as a whole.
+                - However, this can only address "needs known in advance".
+                - I can't appreciate something that I'm glad I did after about three years.
+    - > I envision a future workplace where remote and in-person teams form equally strong bonds and leverage diversity to achieve a more productive and inclusive future.
+        - This is a theme that Cybozu would like to consider as its own.
+
+remaining
+- I probably don't have much time, so I'll start with a brief introduction to the rest.
+    - If I have extra time, I'll read it in the fractal summary.
+- 5-1-Post Symbolic Communication
+    - From the story of the aging experience available at the "Aging Park" at the National Museum of Emerging Science and Innovation.
+    - Effects of "shared experiences" that are not "verbal" communication
+    - [https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/2590c159-2dac-42d0-8237-b9fe400d5084](https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/2590c159-2dac-42d0-8237-b9fe400d5084)
+- 5-3-Creative Collaboration
+    - <img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>This chapter integrates human and non-human, past and future intelligence...
+    - Human intelligence and "AI as non-human intelligence" can collaborate creatively.
+    - Collaboration in the present with "thinking in the past" is possible by passing classic masterpieces written in the past to a generative AI that can generate text according to current conditions.
+    - Homogenization of creativity is a problem; it is important to regenerate cultural diversity
+    - [https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/98ada576-6e88-4179-aae5-3197f633201b](https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/98ada576-6e88-4179-aae5-3197f633201b)
+- 5-4-Extended Deliberation
+    - <img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>Experimental attempt to improve the quality and depth of remote dialogues through the use of the latest technology
+    - <img src='https://scrapbox.io/api/pages/nishio-en/FractalReader/icon' alt='FractalReader.icon' height="19.5"/>Extensions of systems such as Polis and Community Notes using graph theory and GFM are being actively developed, which allow participants to move beyond limited short statements and simple voting to full representations of the conversation, and models summarize the conversation to make it easier for other participants to participate The model summarizes the conversation and makes it easier for other participants to participate.
+    - [https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/ce786073-501a-4dcb-96c5-0489a5f11901](https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/ce786073-501a-4dcb-96c5-0489a5f11901)
+
+---
+This page is auto-translated from [/nishio/Plurality勉強会1](https://scrapbox.io/nishio/Plurality勉強会1) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

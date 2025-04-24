@@ -1,0 +1,8 @@
+---
+title: "Gioia Methodology"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/pplx/icon' alt='pplx.icon' height="19.5"/> Gioia Methodology is a qualitative approach used in international business research that focuses on developing a [[grounded theory]] with high standards of rigor. This methodology focuses on the story of how informants perceive a situation, and on the interpretation of events and shaping the future of the organization. This methodology is an implementation of grounded theory, where theory emerges from data analysis without hypotheses. Gioia's approach typically builds theories that are presented as unfolding processes over time, often using graphics to illustrate them. Unlike traditional grounded theory, Gioia methodology applies an interpretive lens, focuses on single case studies, and emphasizes qualitative rigor in attributional research. This methodology seeks to improve the reliability and scholarly quality of research by addressing issues such as sampling, creativity, reflexivity, and precision.
+
+---
+This page is auto-translated from [/nishio/Gioia Methodology](https://scrapbox.io/nishio/Gioia Methodology) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

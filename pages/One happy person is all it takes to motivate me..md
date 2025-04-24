@@ -1,0 +1,13 @@
+---
+title: "One happy person is all it takes to motivate me."
+---
+
+from [/villagepump/2023/12/10](https://scrapbox.io/villagepump/2023/12/10)
+- ![image](https://gyazo.com/096c9a11ae59f3842f7dddaa7b3f3a18/thumb/1000)
+    - Yay!
+    - I'm much more motivated now that I know that there is at least one person who will be happy with the idea of putting it into English and sharing it with the world.
+    - <img src='https://scrapbox.io/api/pages/villagepump/:igyo:/icon' alt='/villagepump/:igyo:.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/cFQ2f7LRuLYP/icon' alt='/villagepump/cFQ2f7LRuLYP.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/meganii/icon' alt='/villagepump/meganii.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/inajob/icon' alt='/villagepump/inajob.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/はるひ/icon' alt='/villagepump/はるひ.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/kidooom/icon' alt='/villagepump/kidooom.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/nomadoor/icon' alt='/villagepump/nomadoor.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/sta/icon' alt='/villagepump/sta.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/yosider/icon' alt='/villagepump/yosider.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/sume/icon' alt='/villagepump/sume.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/wogikaze/icon' alt='/villagepump/wogikaze.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/久住哲/icon' alt='/villagepump/久住哲.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/tsuzumik/icon' alt='/villagepump/tsuzumik.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/基素/icon' alt='/villagepump/基素.icon' height="19.5"/>
+[[pEnglish]]
+
+---
+This page is auto-translated from [/nishio/喜ぶ人が一人いればやる気が出る](https://scrapbox.io/nishio/喜ぶ人が一人いればやる気が出る) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

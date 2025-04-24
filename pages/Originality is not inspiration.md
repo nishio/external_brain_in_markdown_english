@@ -1,0 +1,69 @@
+---
+title: "Originality is not inspiration"
+---
+
+![image](https://gyazo.com/943ada0566a6237cdaf33e56d84a5a23/thumb/1000)
+    - [[Takeo Kanade]]
+    - [[originality]] is not an inspiration #Inspiration
+    - The law of "the amateurish (dilettantish) way of thinking" and "execution by professionals".
+- [Amazon](https://amzn.to/2SH2CpY)
+
+Table of Contents
+- Invitation to Creation
+- Chapter 1: Think like an amateur, execute like a pro - ideas, intellectual stamina, scenarios
+    - 1Playful ideas
+    - 2 How childish, how naive, how lazy an idea!
+    - 3 [[Doubting Success]]
+    - 4 [[Creation begins with omission.]]
+    - 5Make [[scenarios]] to push things forward
+    - The key to the six scenarios is how useful they are to people and society
+    - 7 [[Conceptual ability is the ability to limit the problem]]
+    - 8 [[Kissing Approach]] -simple and easy
+    - 9Intellectual fitness - [[(powers of) concentration]] means that you become the problem itself.
+    - 10 [The more you can do, the more lost you are.
+    - 11 [[The next begins with "I can't do it.]]
+    - 12 [[Ideas are developed by "talking to others.]]
+    - 13Combine my original experience.
+    - 14 "Expert Idea, Amateur Execution" - This is not good.
+    - 15Three counterintuitive theories about originality, creation
+            - [[Originality is not inspiration]]
+- Chapter 2: Computers Challenge People - Problem Solving Skills, Education -.
+    - 16Computers are challenging people.
+    - 17 [People and computers are both calculating machines.
+    - 18 people and computers are different?
+    - 19Computers are more intelligent than people.
+    - 20Thinking and judgment skills are developed by challenging problem solving.
+    - 21Thinking about and solving examples is the best way to deepen understanding
+    - 22Textbook Writing Methods for Developing Thinking Skills
+    - 23Memory as a foundation for creativity and planning
+    - 24Thinking and memory skills grow through repetition.
+    - 25Intelligent confrontation with people from different genres
+    - 26 "Dialectically considering "[[pressure-free education]]" and "[cramming (e.g., for an exam)
+- Chapter 3: Expressing and Persuading Your Ideas: The Art of Speaking, Conversation, and Writing in the Age of Internationalization.
+    - 27Persuade them - they won't know if you keep quiet.
+    - 28Speak without preamble - say this, think that
+    - 29The results speak as much as the explanation
+    - 30 [[Don't explain and convince, but convince and then explain.]]
+    - 31 Look the person in the eye and talk to them.
+    - 32 praise and extend, clarify and talk about issues
+    - 33For example and parable are not the same thing.
+    - 34English should be good enough to be considered "good for a foreigner.
+    - 35Secrets to Improving Your English Conversation
+    - 36Thesis or persuasive writing is the same as a mystery novel.
+    - 37 "Origins and Conclusion" Combination
+    - 38 Producing the "Ties".
+    - 39Write the proposal in a way that makes it easy for the other party to explain it to his or her boss.
+    - 40Three Tips for Presentations and English
+- Chapter 4: [[Speed of decision and clarification]] is required - Considering Japan and the world, oneself and others
+    - 41What Japan needs is "[speed of knowledge
+    - 42The Internet is reshaping society.
+    - 43 Obsession with "how I am seen" and presence
+    - 44 "Unique to Japan" is not a cover for the "Japan's originality".
+    - Leadership to lead 45 people
+    - 46 Sometimes things don't work out, let's change direction easily.
+    - 47 Evaluation is inherently subjective.
+    - 48The courage to say "I decide
+- Conclusion Enjoy Problem Solving
+- Afterword to the New Edition A Message to Japan Ten Years Later
+---
+This page is auto-translated from [/nishio/独創はひらめかない](https://scrapbox.io/nishio/独創はひらめかない) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

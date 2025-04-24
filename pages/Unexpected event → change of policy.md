@@ -1,0 +1,7 @@
+---
+title: "Unexpected event → change of policy"
+---
+
+- [[Unexpected Success]] or failure is the [[observed fact]] that one's past [[understanding]] and [[reality]] are at odds. Therefore, [[Learning Opportunities]] = opportunities to [[revise (e.g. of a rule, regulation, etc.)]] the [[discrepancy]] between understanding and reality. And when the understanding is revised, the best policy based on the old understanding is different from the best policy based on the new understanding, so a [[change of policy]] ([[pivot]]) will take place. A good situation is one in which the process from "[[unforeseen event]]" to "change of policy" occurs quickly, but there are often factors that prevent this from happening. If [[evaluation]] is done at the [[rate of achievement]] of the [[plan]] at the beginning of the year, and the results of actions not in the plan are not evaluated, there will be no [[motivation]] for the change of policy.
+---
+This page is auto-translated from [/nishio/予期せぬ出来事→方針転換](https://scrapbox.io/nishio/予期せぬ出来事→方針転換) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

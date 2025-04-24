@@ -1,0 +1,11 @@
+---
+title: "Hinge base 1 x 2"
+---
+
+- [[Hinge base 1x2]]
+- [[Hinge 1x2 base]]
+- [[Hinge Base]]  1 x 2
+- [[hinge]]
+
+---
+This page is auto-translated from [/nishio/ヒンジベース 1 x 2](https://scrapbox.io/nishio/ヒンジベース 1 x 2) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

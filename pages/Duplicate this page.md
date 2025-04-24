@@ -1,0 +1,9 @@
+---
+title: "Duplicate this page"
+---
+
+![image](https://gyazo.com/87aeaee957993ed430ee72af91acc08a/thumb/1000)
+[[Scrapbox]]
+
+---
+This page is auto-translated from [/nishio/Duplicate this page](https://scrapbox.io/nishio/Duplicate this page) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

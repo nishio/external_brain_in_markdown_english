@@ -1,0 +1,276 @@
+---
+title: "Polis Study Group"
+---
+
+2023-06-23　 [[Cybozu Labs Study Session]]
+- In the last [[Plurality and Polis Study Group]], we mainly explained the context of [[Plurality]], and only lightly touched on [[Polis]].
+- thereafter
+    - Call for a paper describing the algorithm [[Polis: Scaling Deliberation by Mapping High Dimensional Opinion Spaces]] or
+        - [[Polis in EC2]] and running instances of
+        - [Export data from Polis DB
+    - Public pol.is instances are easy and convenient to use, but they do not provide access to raw data, so we can experiment with raw data by setting up our own instances.
+- Polis is a useful tool for better deliberation
+    - So it's used in many applications here and there.
+    - But it's not a magic wand like "put Polis in and it's a deliberative process".
+    - In observing the various applications, I could see specific areas of mismatch with the situation and areas I wanted to change.
+    - To adjust a tool to a situation, we need to know how it works.
+    - So, in this issue, we delve into the inner workings of Polis.
+- Before I do that, I'll add a little context about [[democratic process]].
+
+- About [democratic process
+- What I thought after talking to various people and seeing their reactions.
+    - Sometimes, "[[democratic process]]" and "[[majority rule]] by [[voting]]" are equated.
+    - As a result, "[[digital democracy]]" is sometimes equated with "[[digital voting]]."
+    - Polis are sometimes misunderstood as a tool for [[decision-making]] by voting.
+- Definition by OpenAI
+    - What is a "democratic process?"
+        - (A) a broadly representative group of people exchanging views and [[careful deliberation]]; and (B) a broadly representative group of people exchanging views and [[careful deliberation]],
+        - (b) Through [[transparent decision-making process]].
+        - (c) It means the process that ultimately determines the outcome.
+- Majority vote by ballot satisfies (B) and (C), but (A) is doubtful.
+- We need to support more deliberations.
+    - The word in focus here is "[[deliberation democracy]]."
+    - Digital technology has enabled new forms of communication, so an important aspect of [[digital democracy]] is to support deliberation through digital technology.
+        - Communication before digital technology meant, for example, politicians making speeches in front of train stations or going to petition politicians to express their opinions.
+        - Communication was inefficient.
+    - Polis is "technology that scales deliberations."
+        - [[Polis: Scaling Deliberation by Mapping High Dimensional Opinion Spaces]]
+        - Designing a form of communication that will allow deliberations to be more scalable.
+        - Non-traditional formats and communication mechanisms more suited to deliberative discussions are being explored
+    - This year, advances in LLM technology have led to the state of "Couldn't we create a better deliberation mechanism by combining LLMs?" This is the state of the art.
+        - On 5/25, OpenAI announced [Democratic Inputs to AI
+            - The definition of "democratic process" by OpenAI mentioned earlier is also written in this
+        - On June 20, [[Anthropic]] and Polis' [[The Computational Democracy Project]] teamed up to publish a paper entitled "[[Opportunities and Risks of LLMs for Scalable Deliberation with Polis]]. The Computational Democracy Project] and Polis
+            - Anthropic is the organization that makes Claude, which has a wider context range than OpenAI.
+- Additional information on "Digital Voting
+    - Taiwan and Estonia are active in digital voting due to geopolitical risks.
+    - In 2014-, Hong Kong experienced "election nonsense" and demonstrations against it ([[campaign to prevent a public construction work by acquiring a building or landmark (e.g. housing development, etc. .)]]) took place.
+    - Taiwan fears a similar "electoral nonsense" will take place.
+        - Military power could change "elections in the physical world today" into "bad ones".
+    - I would like to move "elections" to the online world to counter this possibility.
+        - Estonia once thought the same thing and started electronic voting.
+            - > Estonia still has a strong sense of urgency that its land may one day be controlled again....
+            - >  ... Even if a country is invaded and physically loses its "territory," as long as it has the "data" of its citizens, it can regenerate itself... Estonia is working on an idea of "[[data embassies]]" where all the country's data will be stored in embassies outside the country, with the first location to be opened in Luxembourg in 2018.
+            - >  Even if the government ceases to function due to physical occupation of the territory, if there is a government as software on the Internet, citizens with ID cards can access it and function as a country called Estonia. This is the very idea of "[[Government as a Service]]. The former CIO of the Estonian government also said that this idea is the ultimate goal of national security that the country should aim for.
+                - [Three Success Factors That Made Estonia's "e-Government" Possible | Forbes JAPAN Official Website (Forbes Japan)](https://forbesjapan.com/articles/detail/19386/page1)
+                    - [[States that do not need territory]]
+        - 2023, [[Majority of votes cast electronically in Estonia.]]
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Is the online world easier to defend?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Online here is supposed to be moved onto [[Ethereum]], a [[world computer]] distributed all over the planet.
+            - That would make it harder to destroy them.
+            - That's why [[Taiwan's Ministry of Digital Development Participates in Distributed ID Standardization]].
+            - Because it is more suitable for their purposes to create an internationally standardized standard than to create a Taiwanese-only standard.
+    - This is the background behind these countries' promotion of [[digital voting]], and to be frank, Japan does not have the threat that Taiwan feels today, so it is not surprising that most Japanese do not share this awareness of the issue.
+    - Therefore, Nishio's personal opinion is that "in promoting [[Plurality]] in Japan, it is difficult to be understood when talking about [[digital voting]], so it is better to explain it by putting more weight on the aspect of 'it is beneficial to visualize the distribution of everyone's opinions'".
+        - In other words, it becomes "Polis interesting, let's try it.
+- Japan's problem is [[silver democracy]], but I digress.
+    - When we try to implement a "voting system that is not [[one vote per person]]" for reasons such as "let's correct the inequality that minors do not have the right to vote ([[domain voting system]])" or "it is unequal that people with long or short life expectancy have the same voting power ([[life expectancy voting system]])", people say "it is difficult to implement [[paper and box voting]], so [[digital voting]] would be better". If we try to implement a "voting system that is not [[one vote per person]]," we may say that "[[digital voting]] is better because it is difficult to implement [[paper and box voting]]," but it seems that the discussion of these voting systems has not spread yet, doesn't it?
+    - For the time being, I am not interested in changing the electoral system, but in the form of [[unsuccessful campaigns]] such as [[Operation Coconut]], or [[technological use of force]].
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Regarding "representativeness," can digital technology reduce "representatives" to ultimately "individuals"?
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Offline [[representative]] democracy had to represent the entire population by a few hundred people at most, so minority opinions could not be represented
+    - Digital technology allows individuals to express their opinions.
+    - However, the current social networking sites are not able to unite them, resulting in a flood of information, and being small alone is not an ideal state of affairs.
+    - So a good balancing and clustering (=representation) mechanism is needed.
+
+
+What we would like to change about Polis
+- Not visible until there are at least 7 voters.
+    - Not visualizing when there are fewer people has the advantage of making individual opinions less visible.
+    - Inconvenient for situations where you want to visualize internal discussions with a small number of people
+
+- Opinion submissions from general users are considered "agree".
+    - In other words, "Who's more in favor of it, those who are for it or against it?" I can't post with the feeling that
+    - But when I see situations where polls are made on Twitter and elsewhere, I wonder, "What do people think?" There's a lot of "What do you think?
+    - The current Polis makes it difficult to know how others voted on the opinions you posted.
+        - View individual opinion polls in the detailed report.
+        - If you're lucky enough to be chosen as the main opinion of the cluster, you'll see it in the visualization.
+    - There should be permalinks to individual opinion polls.
+        - When you vote, you can see the results of everyone's vote.
+        - If you have already voted, you can see recent results.
+        - Share this URL so others can vote too!
+        - Create incentives for opinion contributors to post on social networking sites
+
+- Unable to update vote.
+    - When you see it in the image of "election" and "voting," you think you shouldn't change your vote after the fact.
+    - But to see the output of others and change one's opinion is what "deliberation" is all about.
+        - If it doesn't change, it's just a statistical survey.
+    - Currently, there is no view to look back on what I voted for and how I voted.
+        - I'd like to be able to change my vote from there.
+    - Maybe this is because Polis focuses on collecting the "emotions" of "people who don't think".
+        - The README expresses [[SENTIMENT GATHERING PLATFORM]] in the README.
+            - [Sentiment / emotion collection platform
+        - When Nishio did Polis, many of the people who participated and returned feedback were "thinkers".
+        - I, personally, would rather observe "10 thinking people's thoughts" than "1000 unthinking people's feelings".
+        - As a democratic process, "a few people thought about it and decided" is not convincing to those who could not participate.
+            - Need to create a subjective feeling of "[[understanding]]"
+    - The current design cannot respond to the "thinking person's" need to know.
+        - Some say, "It would be nice if some material was presented to help us make a decision before we answer Yes/No."
+            - If we actually do that, the majority who don't want to read the material will disengage.
+            - [[People have individual differences.]] to [[no one way can meet everyone's needs]].
+        - Polis needs an approach to broaden its base, a mechanism to reach out to a wide range of people and then scoop up and gather those who are interested and feel a desire to become deeply involved.
+
+- comments make me want to write a reply.
+    - Polis' deliberate design is not to apply opinions directly to opinions
+        - Avoid framing (wrestling)
+        - [(Internet term) Framing (Internet term) - Wikipedia](https://ja.wikipedia.org/wiki/フレーミング_)
+    - Often, however, users' "desire to write their thoughts" increases
+        - This state has a heightened incentive to verbalize.
+        - Wouldn't it be more beneficial to have more data if we let them write honestly?
+        - I just have a problem with feeding it directly back to "the person who wrote the original opinion".
+        - Writing a reply is not in itself a problem.
+        - It would be nice if the LLM could take the replies and convert them into useful feedback.
+
+- Moderation issues.
+    - In Nishio's Polis operation, it is usually always set to "no moderation, user posts are instantly visible to other users".
+        - "No comments shown without moderator approval"
+    - If this setting is turned off, it will not appear until approved by a human moderator (still off by default).
+    - I have a problem with this moderation.
+        - The human burden is heavy.
+        - Opportunity loss due to hidden period of time waiting for moderation
+        - Concern that moderator bias may be introduced.
+    - In fact, the bias comes in.
+        - Because the determination of "opinion not relevant to the topic" is influenced by the individual's opinion on the topic
+            - Case: [[Polis Experience Report: Should same-sex marriage be legalized#644b6d99aff09e00006a4a55]] [[Too many irrelevant questions.]]
+        - Nishio thinks this way because of his background in the KJ method.
+            - What may appear to be unrelated [[may later be found to be related]].
+            - At least one person thought it was relevant and posted it, so don't be too quick to throw it away.
+                    - [[ape]]
+            - →If it were, you wouldn't have to moderate it because you wouldn't throw it away anyway.
+        - In reality, there will be a lot of "emotional or unclear documents" posted, which will cause problems for voters to be upset.
+            - The LLM will do something about it.
+
+- Tends to become less interesting when there are two clusters.
+    - If you take a vote on a subject that is divided into two sides, and you are given a visualization of the two sides, you will say, "Of course....
+    - When you look at the details, there is some interesting data, but most people are not aware of it.
+        - You're splitting it in two.
+        - I'm in the majority, thank God.
+        - I am in the minority, this system is not a good one.
+    - In encouraging deeper thinking, maybe it would be better to have more than three clusters?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Are we aiming for "fun" or "problem solving"?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>That is an important perspective. I think it is important to be interesting first in order to encourage the participation of many people.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Skewing statistical results for the sake of fun would be a hindrance to solving the problem.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>That's true, it seems like a good idea to add another view instead of distorting it
+
+- I want to take over the voting results from a past dialogue.
+    - Using one CONVERSATION for a long time is not a good experience.
+        - The number of comments is only increasing.
+        - I want to re-partition periodically.
+    - But every time it's reset to zero, that's not so subtle.
+    - What do we take over?
+        - Comments that were agreed upon need not be carried over.
+        - Comments with many "I don't know" would be redone with additional information or rewritten to make them easier to understand.
+        - I'd like to recycle the ones that are split, if it's possible to re-vote.
+            - However, I don't want several comments with nearly the same voting trends.
+
+How Polis Works
+- Papers:.
+    - [[Polis: Scaling Deliberation by Mapping High Dimensional Opinion Spaces]]
+- Create [voting matrix
+    - Matrix with +1/0/-1/NaN for each user and opinion
+    - What you haven't voted for yet is represented by NaN.
+- Fill in missing values with user averages per opinion
+    - For an agenda item for which everyone who voted for it is in favor of it, even those who did not vote for it are considered to be in favor of it.
+- This will create a matrix with "-1 to +1" values.
+- Basically just do "high-dimensional data visualization" from here.
+    - There are many and varied ways to do this.
+    - Various things are being tried in Polis.
+    - Basically [[principal component analysis]] (PCA)
+- Average Care
+    - The missing values are filled with the mean, which inevitably leads to a large number of samples near the mean.
+    - Clustering this as it is would create a cluster of "people who haven't voted much yet" around the mean, which isn't interesting.
+    - So we'll use the number of opinions voted on to make adjustments.
+        - Vector from the mean by a factor of 1 for those voting for all, and by a factor of sqrt(2) for those voting for only half.
+    - He writes that this was used at least in the early days, but that the need for this adjustment has since been reduced by "showing users the pros and cons of the opinions first".
+        - It wasn't clear from reading the code whether they were making adjustments in the current implementation or not.
+- Clustering with an undetermined number of clusters
+    - There have always been diverse ways to do this, too.
+        - Hierarchical clustering is typical
+        - However, the number of clusters does not have to be determined, but the threshold must be determined
+    - Polis uses [[K-means method]] and [silhouette coefficient
+        - What is silhouette coefficient?
+            - [Silhouette (clustering) - Wikipedia](https://en.wikipedia.org/wiki/Silhouette_(clustering))
+            - ![image](https://gyazo.com/7a18c06ed7f46ed755dcd3a1e344714d/thumb/1000)
+        - Try K=2~5 and choose the one with the best score
+- ![image](https://gyazo.com/f6e42bdef2612da442f54e526178edba/thumb/1000)![image](https://gyazo.com/41dbf7cf1ac885827d28dc9bbbae9d20/thumb/1000)
+    - I was able to get a similar result with the Python implementation of the calculation, but I wonder why the shape is slightly different.
+- Opinions on behalf of the cluster
+    - Representativeness measure $R_v(g, c)$.
+        - ![image](https://gyazo.com/d7cca6a96e32a604aa79cd627c774aea/thumb/1000)
+        - I think Pv is the mode of [[beta distribution]].
+            - Beta distribution is [[conjugate prior distribution]] of [[Bernoulli distribution]]
+            - > The Bernoulli distribution is a discrete probability distribution in mathematics that takes 1 with probability p and 0 with probability q = 1 - p.
+            - That is, I'm making a [[Bayesian estimation]] of this p, thinking that whether a person in a given group g votes v for a given comment c follows a Bernoulli distribution with probability p.
+    - The paper goes on to say that they do [[Fisher's exact probability test]].
+        - [Fisher's exact probability test - Wikipedia](https://ja.wikipedia.org/wiki/フィッシャーの正確確率検定)
+        - > Fisher's exact probability test ... It is used to examine whether there is a statistically significant association between two variables in a 2 x 2 contingency table (when dealing with data where two populations are classified into two categories, with one degree of freedom).... When the sample size is large, the chi-square test is used because the sample distribution of the statistic is approximately equal to the chi-square distribution... Fisher showed that the probability p of obtaining such a combination of numbers is represented by the following hypergeometric distribution
+    - Source code-wise, they're using [[hypergeometric functions]].
+        - [Hypergeometric distribution - Wikipedia](https://ja.wikipedia.org/wiki/超幾何分布)
+        - > The hypergeometric distribution is a type of discrete probability distribution that gives the probability of how many success states there are in a non-restored extraction from a population with success states. It is applied to non-repeat extraction from a finite population that can be divided into two exclusive attributes, such as male/female, pass/fail, and so on.
+    - So there are two exclusive characteristics of voting for comment c, "v or otherwise," and they're collected from two populations, "people in group g" and "people outside group g."
+    - "Does it make a difference to the group?" I would like to know
+    - So, assuming that "there is no difference between groups," find the probability that the results are more radical than observed in that case
+        - So much for the accuracy test.
+    - I don't know why I'm multiplying these probabilities by Rvgc, but why am I doing this?
+        - The paper states that it "reflects both the estimated effect size and the statistical confidence associated with the effect."
+        - The mathematical interpretation of the resulting values is not quite clear.
+    - Finally, sorting by this value and choosing from the smallest, comments that characterize the group are selected
+        - ![image](https://gyazo.com/8a746a484dff28c8c0971b0b0207b3cb/thumb/1000)
+        - It's a mystery, multiplying a smaller better p-value by an odds ratio that looks like a larger better p-value.
+        - Why not just use the p-value?
+    - The paper states, "First select the significant ones from the affirmative comments, and if none, from the negative comments."
+        - Human beings, because the negative form is hard to understand.
+    - Degree of [[consensus]] per comment is calculated by [$ \prod_g P_v(g,c)
+        - This means ignoring the number of people in the group and multiplying the probability that each group agrees
+        - If one of them is zero, it's zero.
+        - It means that the decision is not made by the majority group alone, but must be supported by all groups, including the minority group.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>It's like the [[veto]] of the Permanent Council.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Resemblance.
+            - The good thing is that "closer to consensus" can now be expressed rather than a binary Yes or No.
+            - It would be nice to be able to visualize this and make suggestions like "we need to convince this group of people to get closer to a consensus".
+            - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Cases where a minority group of experts is opposed, persuade the experts?
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>If we have a majority vote, the opinions of a minority of experts will be crushed, but this method sounds good because it generates communication for persuasion.
+                - The expert side will come up with evidence and other counter evidence.
+                - I tend to implicitly assume the direction of "experts persuade the masses," but the masses can "close their ears because it's too hard and they don't understand it well," and it would be interesting to do the opposite.
+                    - LLM support seems necessary.
+                - The current Polis does not involve a place for "communication for persuasion", so something else is needed.
+- So, with some trepidation, I was able to reproduce the statistical processing done by the Polis backend using Python from the raw CSV of the polling data.
+
+Reexamination of proposed improvements
+- Not visible until there are at least 7 voters.
+    - Aside from appearance, visualization (digest report) can be done from the second person voting stage.
+    - So we can share the URL after the people who prepared it have voted.
+    - Of course, in this case, we know what the first person voted for, so this is for use cases where this is not a problem.
+        - I don't think there's anything in particular that you want to keep secret if it's a situation where you're trying to organize an internal verbal discussion that's getting out of hand, so I think this is fine.
+    - Especially in small cases of about 10 people, it may be useful in some cases to summarize in a way that does not involve dimensionality reduction by PCA.
+        - Specifically, LLMs can give feedback on a controversial opinion, such as, "This opinion is divided, but let's delve into it from different perspectives.
+- Opinion submissions from general users are considered "agree".
+    - Just a UI issue, just stop writing one to the DB.
+- Unable to update vote.
+    - Just a UI issue, just update the DB.
+- comments make me want to write a reply.
+    - How to use this comment in a situation where participants could fight would require a layer of ingenuity that has nothing to do with statistics.
+    - If there is trust between members, such as for internal use, you could allow them to reply to each other.
+        - Do you want a [[Cotonoha]]-like screen?
+- Moderation issues.
+    - This is another LLM layer story.
+    - If there's trust among the members, it might be better to go through bare bones.
+- Tends to become less interesting when there are two clusters.
+    - Can force clusters to three or more
+        - If you fix it to three, it looks like [[MAGI System]].
+    - In this situation, the "first principal component axis" is the "obvious axis of conflict".
+        - So it would be interesting to discard that and cluster them in other dimensions?
+            - When there is [[confrontation]], sometimes it works better to seek another axis rather than push and pull on that axis of conflict.
+                - [[A case study of the debate on whether to change the time zone in Taiwan]] : [[Audrey Tan on digital democracy#6489dff1aff09e00000cfcf1]]
+- I want to take over the voting results from a past dialogue.
+    - be made
+    - > I don't need several comments with nearly the same voting trends.
+        - This is, in essence, just picking out the comments with the largest variance along each principal component axis of the vote distribution.
+- summary
+    - I have a good idea of how to solve some of these problems with the statistical layer.
+    - Some of the rest are UI layers, some are LLM layers
+    - Polis' visualization of updates per second is interesting to watch
+        - Whether it is more than interesting to be updated every second is tenuous.
+        - Maybe we could explore more alternative visualization methods?
+
+---
+This page is auto-translated from [/nishio/Polis勉強会](https://scrapbox.io/nishio/Polis勉強会) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

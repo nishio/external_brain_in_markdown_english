@@ -1,0 +1,9 @@
+---
+title: "Words serialized in one dimension"
+---
+
+- [[One-dimensional text]]
+- [[unidimensionalization]]
+
+---
+This page is auto-translated from [/nishio/一次元に直列化された言葉](https://scrapbox.io/nishio/一次元に直列化された言葉) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

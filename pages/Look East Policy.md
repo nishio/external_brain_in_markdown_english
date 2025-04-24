@@ -1,0 +1,11 @@
+---
+title: "Look East Policy"
+---
+
+[Embassy of Japan in Malaysia - Eastern Policy](https://www.my.emb-japan.go.jp/Japanese/JIS/LEP/top.html)
+> Many of you may have heard the term "Look East Policy" or "Eastern Policy". The "Look East Policy" was proposed by former Prime Minister Mahathir in 1981, and is a Malaysian government policy that aims to contribute to the economic and social development of Malaysia and the establishment of an industrial base by learning from Japan and South Korea, whose success and development are based on the work ethic, willingness to learn and work, morality, and management skills of their citizens. This is a policy of the Malaysian government. This policy continues to be emphasized by Prime Minister Abdullah, who took office in 2003.
+>  However, it is not always widely known what projects are actually being carried out under the policy. The Eastern Policy is a policy of the Malaysian government, but it is also a cooperative project between Japan and Malaysia. The purpose of this section is to introduce the Eastern Policy from various perspectives by posting introductions and related data, interviewing former international students and trainees who participated in the Eastern Policy, students who are receiving preparatory education for study abroad, and their supporters, and reflecting on the diversity of the people involved in the Eastern Policy based on these interviews. The purpose of this program is to introduce the policy from multiple perspectives.
+>  Since 1982 to date, Japan has accepted approximately 12,000 trainees and students under the Eastern Policy. Among them, the Study Abroad Program has produced many graduates who are fluent in Japanese and have a deep understanding of the Japanese way of thinking, values, and Japanese culture. They are involved in Japan-related cultural projects in Malaysia, teach Japanese, and work for Japanese local governments in international exchange.
+
+---
+This page is auto-translated from [/nishio/ルックイーストポリシー](https://scrapbox.io/nishio/ルックイーストポリシー) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

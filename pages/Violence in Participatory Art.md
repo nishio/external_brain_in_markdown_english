@@ -1,0 +1,19 @@
+---
+title: "Violence in Participatory Art"
+---
+
+from [[p2025-04-16]]
+Violence in Participatory Art
+
+<img src='https://scrapbox.io/api/pages/nishio-en/DR/icon' alt='DR.icon' height="19.5"/>
+The ideological background of art that emphasizes process has been a trend in contemporary art since the 1960s. Avant-garde movements such as Happening and Fluxus broke down the barriers between the viewer and the artwork, opening art to the events of everyday life. [[Alain Kaprow]] has organized a series of audience-participation "[[happenings]]" since the late 1950s, with the aim of "[[dismantling]] the distinction between art and life. Based on this trend, aesthetic theorist [[Nicolas Briault]] named the participatory and interactive art that emerged in the 1990s "[[relational art]] ([[the aesthetics of relations]]). In relational art, the work of art is not a one-way passage from the artist to the viewer, but the relationships that arise between people become the work of art. Representative artists such as Rirkrit Tiravanija, who served food to the audience at an art museum and turned the table banter itself into a work of art, and Hiroshi Sugimoto, who worked on a project to collaborate in terraced rice fields in a farming village. These are examples of the process becoming a work of art.
+
+There is, however, some sharp criticism of relational art from critic [[Claire Bishop]]. She pointed out that the Briault theory uncritically regards relationships as "good," and questioned the tendency to praise participatory art as democratic without questioning the quality of the relationships that are created. According to Bishop, "We assume that a relationship is democratic and good only if a dialogue is established, but shouldn't we examine the quality of the relationship and the power structure that is occurring there? What kind of relationship and for whom?" . She rather valued participatory works that are fraught with conflict and tension, and appreciated "[[agonistic relationships]]" that do not settle for easy reconciliation. This is an application of [[Mouffe's]] political thought ([[agonism]]) to art criticism, and Bishop argues that it is in political art that conflicts and disagreements are made visible and have social significance. For example, the "Vote In/Vote Out" project by the Spanish collective PSJM simultaneously aroused trust in and anger toward democracy, as participants voted in a mock election that was later exposed as being rigged. This was intended to create an uncomfortable experience for the participants, but also, therefore, to develop in them a critical awareness of the political system (precisely the art of "learning from disagreement" rather than "comfortable consensus"). Bishop argued that such "### the
+ violence of participatory art" should also be noted, and that mere simulations of harmonious communities would not lead to social change.
+
+[Claire Bishop – Antagonism and Relational Aesthetics |](https://beyondaesthetics.wordpress.com/2010/09/27/claire-bishops-antagonism-and-relational-aesthetics/)
+[Democratic Politics and Conflict: An Agonistic Approach](https://quod.lib.umich.edu/p/pc/12322227.0009.011/--democratic-politics-and-conflict-an-agonistic-approach?rgn=main;view=fulltext)
+
+
+---
+This page is auto-translated from [/nishio/参加型アートの暴力性](https://scrapbox.io/nishio/参加型アートの暴力性) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

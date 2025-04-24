@@ -1,0 +1,62 @@
+---
+title: "Physical arrangement 2021-02-11"
+---
+
+from  [[Lego Classification Tree]]
+Physical arrangement 2021-02-11
+- 2 x 4 block
+- 1 x 1 typical
+    - Block, plate. Includes rounds, cones, does not include tiles
+- plate (often as in "tectonic plate")
+    - 1×2
+    - 1×3
+    - 1×4
+    - 2×2
+    - 2×3
+    - 2×4
+    - Other
+- Other Rectangular Blocks
+- slope block
+- 3x6 wedge
+- Round top, 2 x 2 cones
+- 1 x 1 tile
+    - Includes rounds
+- Tile, grill, round bottom
+- 1 x 2 curved slope
+- Other Curved Slopes
+- 1 x 1 slope
+- Other Ramps
+    - [[center stud]] 1×2　2×2
+- 90 degree conversion
+    - bracket
+        - [[headlight]] 、 [[Side stud block]]
+    - [[Hinge lock joint]]
+- Clip and closed handle
+- Lamp holder and open handle, bar
+    - [[wedge]]
+    - Small wedges of 2 x 4 or smaller
+    - Large wedge
+    - [[Ball Joint Joints]]
+- Guttiferales (plant order)
+- Other end decorations
+    - [[horizontal joint]]
+    - [[Lego diagonal]]
+    - [[clip bar]]
+- T-shaped
+- Cross-axis related
+    - I'll put the pin and what I have both in here.
+- Tire related
+- Propeller related
+- Transparent decoration Car windshields, transparent domes, etc.
+- Plate with holes
+- pin-related
+- Round Plate 6 x 6
+- Other round plates, blocks, turntables
+- garden variety (of)
+- Blocks with holes in them.
+- gear
+- Other parts
+- rubber
+
+---
+This page is auto-translated from [/nishio/物理的整理2021-02-11](https://scrapbox.io/nishio/物理的整理2021-02-11) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

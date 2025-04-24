@@ -1,0 +1,25 @@
+---
+title: "Create small groups within larger organizations to increase opportunities for activity"
+---
+
+from  [[Community design to encourage forking]]
+Create small groups within larger organizations to increase opportunities for activity
+> [realNuun](https://x.com/realNuun/status/1833760823468327401) In "Cult Marketing You Should Know Because It's Dangerous," there was also a story in "Cult Marketing You Should Know Because It's Dangerous" about how "relationships become more intense when you create various groups within a large organization.
+>  >realNuun: I've been working hard to develop a community for our service, and it's going well, but I'm wondering if it's too much to ask for a single community when we want to scale it infinitely, given the limitations of the number of dummies. It seems that we need a structure that allows users to create multiple communities on their own.
+> ![image](https://gyazo.com/4d34471b1f2b792d6c6977d0ba6736b5/thumb/1000)![image](https://gyazo.com/c12f60394387ff7d89847be3f3b7b171/thumb/1000)
+p.176
+> Increase activity opportunities by creating small groups
+> Small groups were mentioned in the Church Growth Movement section, but the technique of creating various groups within a larger organization is one that has been utilized elsewhere. Small groups are an effective way to strengthen the relationship with the organization and to increase the variety of activities in which members are involved.
+> For example, at an online salon led by a celebrity, where the author was a member, various projects were conducted, and members were able to participate as a member. Similarly, at an online salon run by an urban legend influencer with a comedian background, there were various club activities, as well as groups organized by participation period (members who registered at the same time were called "peers"), region, and other attributes, making it easy to form connections with other members. The synchronization and regional groups were assigned at the same time as participation, and club activities were selected at the time of registration, suggesting that the management was intentionally trying to deepen relationships among members.
+> By providing such a variety of groups, members can connect with the salon through a wide variety of activities. Incidentally, in the latter online salon, daily posts were streaming in that discussed the truth of the world from the world news, but what the members mainly did were barbecues, drinking parties, survival games, trips, etc. In other words, although the members gathered in an atmosphere of pursuing the truth of the world, in the end they enjoyed themselves. In other words, although they gathered in an atmosphere of pursuing the world's truth, in the end, what members were enjoying were the gatherings and [[get-togethers]] mentioned at the beginning of this chapter. Groups such as club activities, peers, and the community provided a good opportunity to create a place to interact with peers.
+> In terms of creating communities by region and having them interact with each other, Shinmindo is another example. In Shinmindo, chapters were created by prefecture, and positions such as leader and sub-leader were established. Each branch prepared and executed a demonstration, and members deepened exchanges at the launch party afterward. Shinshinto Q set up a system to have activities carried out by region in this way, and realized a demonstration in all prefectures that attracted a total of approximately 6,000 people. If the demonstration had been concentrated in Tokyo, the ratio of general participants to the organizer's staff would have been much larger, and the sense of connection with the organization would have been much weaker.
+> Another conspiracy theory group that claims that the death of Haruma Miura, an actor who died in 2020, was suspicious (not suicide) has been holding demonstrations and distributing leaflets in various parts of Japan. Once when I interviewed a participant, he said happily, "My friends are active all over the country, and I have conquered at least the Kanto area! I've conquered at least the Kanto region! They must have felt a bond that transcended time and space by observing the activities of their distant friends on social networking sites.
+
+
+Creating [[small groups]] within a larger organization [[increases opportunities for activity]].
+
+[[Departmental support]].
+- [[Toyota]]
+
+---
+This page is auto-translated from [/nishio/大きな組織の中に小グループを作ることで活動機会を増やす](https://scrapbox.io/nishio/大きな組織の中に小グループを作ることで活動機会を増やす) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

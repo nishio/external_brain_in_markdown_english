@@ -1,0 +1,446 @@
+---
+title: 'Experiential Processes and the Creation of Meaning" Study Session 4'
+---
+
+Study group to read "[[Experiential Processes and the Creation of Meaning]]".
+- 2022-05-20
+- In the last [[Study Session 3 on "Experiential Processes and the Creation of Meaning"]], we worked up to Chapter 4, B6.
+- This time we'll do the rest of it, B7 through B9.
+
+Purpose (reiteration of the previous report)
+- Need to put into words the "mumbo-jumbo that hasn't been put into words yet."
+    - Necessary for both individual intellectual production and teamwork
+- Eugene T. Gendlin has taken a deep look at this "blur into words" in his book, "Experiential Processes and the Creation of Meaning.
+    - By reading "Experiential Processes and the Creation of Meaning," we gain a vocabulary and perspective on "putting mumbo-jumbo into words" that allows us to think with greater resolution.
+    - This should help us think about how future groupware should evolve and how methods of intellectual production should be created
+- What it says on p. 27
+    - > Create a vocabulary that can interact with the experience process
+    - > Thereby enabling communication about the experience process.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Eugene Gendlin said roughly the same thing.
+
+Previous Review
+- felt meaning = experienced meaning = felt sense / symbol.
+- symbolize (specify, describe, specify)
+    - In the past study sessions, I have translated the word "specify" as "specify" and it tended to cause confusion, so I will not translate it this time.
+- The "concept" is logically uniquely identified and symbolized
+- Aspects of experience" (4B2)
+    - There is a blurred "experience" that has no clear boundaries.
+    - Experience "works" in the process of creative "symbolization"
+    - As a result of this "work" the "experience" is SPECIFIED
+    - Its SPECIFICATION is "Aspects of Experience."
+        - [[Let's look up "aspect" in the dictionary.]]
+- non-numerical
+    - It has not been determined what part of the bewildering experience will be cut out as "one unit of experience".
+        - ![image](https://gyazo.com/b0bb5a2510888f0eb30e6205c100e7e4/thumb/1000)
+        - This diagram is difficult to draw. Last time [Make the gradient in three steps. This is the way to express what I want to say in the above figure.
+            - ![image](https://gyazo.com/8124439cb1200fb802f666fba5c946dc/thumb/1000)
+        - For these things, the question is, "Is this one? Two?" It is futile to ask, "Is this one or two? It depends on where the boundary is.
+- relationship is meaning and vice versa.
+    - Think of a relationship as a circle in and of itself, not as a line between circles.
+        - ![image](https://gyazo.com/7fff49bf695a1c202a7a5f66bf7c2876/thumb/1000)
+- "in the midst of" and "between" are the same.
+    - ![image](https://gyazo.com/8e2058e7a050627d0e311194bd4e1054/thumb/1000)
+    - It's possible to have both "between A and B" and "in AB."
+    - Difference in which range is recognized as a lump
+- [["relationship between A and B" and "aspects of A created by B" are the same]]
+    - ![image](https://gyazo.com/9fc4a4ac6d77870b8be463b22926dbf6/thumb/1000)
+    - If both are taken to a smaller extent, it becomes an "in-between" relationship.
+    - If you take one side at large, you get "sides made".
+
+Review and additional commentary on "The Scheme."
+- What is the scheme?" I felt it necessary to answer the question, "What is the scheme?<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- I was wondering how to explain this, but this might be a question similar to "What is an object in object-oriented programming?" This question may be similar to "What is an object in object-oriented design?<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - An object is a thing." That's not a good enough explanation.
+    - It would be enormous if I tried to explain it seriously.
+    - It's not cost-effective because the actual benefit gained from conveying that vast explanation is not significant.
+- So, in a nutshell, "A scheme is a form."
+    - Derived from ancient Greek (skhêma, "form, shape")
+        - Can be [[schema]] or [[shema]].
+- Scheme Example
+    - Examples from Section 2.
+        - Compared to a state with no form at all, "First A happened, then B happened" has a form, which is the [[temporal scheme]] ([[temporal scheme]]).
+        - For example, when we speak of "gaining experience," we are recognizing "experience," which is essentially formless, as something tangible that can be accumulated, like a stone. This is the scheme of "things" (THINGS) # scheme of things
+        - Scheme of process # Scheme of process
+            - I would call this a "[[flow scheme]].
+            - It is continuously moving all the time, like the flow of a river.
+                    - [[The river flows constantly, yet it is not the water it was before]] <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+                - It's always different, but it's always there.
+                - In the scheme of things, the default is "no change," but here the phenomenon of "change" persists.
+            - Gendlin sees "experience" as "the stream of emotions we have at any given moment."
+                - What you are thinking at each moment is different, but it is there all the time.
+                - It continues to exist continuously, not discretely.
+                - That's why I call it an "experience process."
+                - Q: Do you distinguish between feelings and thoughts?
+                - A: I didn't. Both experience process (=experiencing)
+                    - Surely the term "emotion" is unfamiliar to this study group?
+                    - Feeling and felt are conjugations of the same word in English, and it is clearly stated that felt meaning=experienced meaning is the same: [[Study Group 1#61b5db5eaff09e00004dd1b2 of "Experience Process and Meaning Creation"]].
+- Other examples
+    - The term shema was made famous by [[Piaget]].
+        - story
+            - A toddler is shown a dog and told, "It's a doggie.
+            - Repeat this process to extract the shapes that are common to several types of dogs.
+            - When you see an unknown dog, you say, "This is another wang wang!" you will be able to determine that it is a dog.
+        - This is the acquisition of the "Shema of Wan Wan"
+        - ![image](https://gyazo.com/6d791b2f087b4504b783745d99ba5bb7/thumb/1000)
+            - This figure was drawn to represent the "process of obtaining the concept of an open set" in the previous issue
+            - Same for "the process of acquiring the one-one shema."
+            - You see a chihuahua, you see a poodle, you see a dachshund, and the overlap of those experiences is, "This is the wang wang.
+        - In Gentlin's terminology, we can safely call this a "one of a kind scheme."
+            - The toddler won't verbalize it, so I'll elaborate instead.
+            - There is a symbol "Wan Wan" S.
+            - In the felt meaning F that S points to.
+            - (for example) there is a scheme for "four-legged soft moving things".
+        - In Piaget's story, the toddler sees the cat after this and says, "Woof!" and is told, "No, it's not.
+            - This story is also relevant, but it doesn't fit into today's flow, so I'll skip it.
+    - What I am doing now is also an act of trying to get people to acquire a common pattern (=scheme) by giving some examples of "schemes".
+    - Example: "Bonsai Scheme" will appear later as an example of my creation.
+        - To elaborate, there is a temporal change scheme of "cutting off unnecessary branches after they grow" in the felt meaning F that the symbol "bonsai" refers to.
+- Five specific examples.
+- The word "scheme" is sometimes used like "logical system".
+    - But if we apply the translation "logical system," we get "one-one logical system," which is not clear.
+    - The scheme is a concept that encompasses simple "forms" such as "objects" to "forms" such as a dog's "softly moving thing on four legs" to "the Christian worldview that 'there is a Creator'".
+- So, if I had to explain it in one word, it would be "scheme is form."
+    - Q: Is it different from a "concept"? Is a "concept" too broad?
+    - A: The word "concept" is clearly defined differently.
+        - >  "concept" is logically uniquely identified and symbolized
+        - That is not a "scheme."
+        - For example, when a toddler acquires the woof-woof scheme and says "woof-woof!" to a dog or cat on first sight, the toddler has not verbalized what "woof-woof" is. the toddler is not able to verbalize "what is a woof".
+        - Not yet symbolized.
+            - So it's not a "concept."
+    - Q: Schemes are not limited to visual, right?
+    - A: Not limited. Ah, I see, so form is a nuance of physical existence.
+        - For example, "The world is something that the Creator God made and then destroyed" is also a scheme.
+        - For example, "time scheme" says nothing about visual form.
+        - I'm not visual, like the "I was in warm water and it got cold over time" scheme as a more specific example.
+        - As an example without a time lapse, for example, the "I have a persistent dull ache in the back of my body" scheme doesn't involve vision either.
+- A little history of philosophy from here
+    - Schemes are relative in the modern West.
+        - In the past, society gave individuals a descent scheme for interpreting their experiences.
+        - But now individuals are questioning it.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>When Gendlin says "the West" here, he doesn't mean "not yet in the East," but he has the history of philosophy in the Christian cultural sphere in mind, and he's talking only within that scope.
+            - Is it easier to understand when compared to when it's not relativized?
+                - The world was created by God saying, "Let there be light.
+                - The "lightning strike" was "the wrath of God."
+                - Skin diseases were God's punishment for evil-doers ([[Job (book of the Bible)]]).
+            - These schemes were given to us by society in a descent way, and if we insisted on a different interpretation, we were punished by society.
+                - Summoned before the Inquisition for "questionable interpretative orthodoxy."
+    - How this thinking has changed.
+        - relativism
+            - To begin with, before Christianity, for example, [[Protagoras]] claimed that "man is the measure of all things."
+                - Looking back from the present time and supplementing my words, I feel that "there is no absolute God, but the individual human being is the measure of all things."
+            - After Christianity, for example, [[Nietzsche]] claimed that "God is dead"
+                - When "God" was alive, it was "blasphemy" to criticize him, but now that he is dead, it is no longer blasphemy to criticize his scheme, so we will do it.
+                - The "worldview" that the world was created by an absolute God is not the only form of the world today, but only one of many forms.
+            - The idea that there is no absolute right
+                - This is relativism.
+            - The relativist position is that "there are many different schemes, and they are all roughly the same."
+        - positivism
+            - The idea that "[[metaphysics]] propositions are nonsense because they are unverifiable."
+            - This position considers all schemes meaningless, and
+                - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>This idea that "unverifiable things are nonsense," those more accustomed to science than philosophy might say, "Yes, yes! might be tempted to say, "Yes, yes!
+                - Taking this position, [[Ernst Mach]] (a scientist who left his name on the Mach unit of speed) argued that "the concepts of 'absolute space' and 'force' in Newtonian mechanics are nonsense because they are unverifiable metaphysical concepts.
+                    - Personally, I think it's radical. w<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+                - (aside) The criticism of the existence of absolute space here is said to have led to Einstein's later theory of relativity, which states that the spatial coordinate system differs depending on the observer.
+                    - Is it beneficial in itself to doubt without taking it for granted?
+                    - But "It's all nonsense!" is radical.
+        - Pragmatism ([[pragmatism]])
+            - The idea that rightness depends on its usefulness
+            - This position is that there are many different schemes, but if they produce the same results, they can be considered the same.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I believe Gendlin is in this position, although he juxtaposes it with relativism/positivism. I use this in subsequent chapters.
+            - Q: It seems to me that "correctness" and "usefulness" can be considered two different things, but do we need to relate them? Doesn't correctness matter?
+            - A: If you say, "It doesn't matter because it's not very useful to discuss whether it's right or not; usefulness comes first," then that's pragmatism.
+                - There are people in the world who want to argue about what is right so badly.
+                - And what do they base their "correctness" on in their discussions?
+                - For example, there was the position that "it's right because the Christian Bible says so."
+                - Some took the position that "what was observed was correct."
+                - There was also the position that "we can't rely on observation, what emerges clearly to reason is correct.
+                - No "definition of rightness" could ever be superior to any other definition, oh, this is after the fall of Christian power.
+                - And when that happened, a new position was born, that of the "it's not useful to argue about what's right, it's more important to be useful" school, which is pragmatism.
+                - If we were to express this claim in the context of the definition of correctness, it would be "correctness is usefulness."
+                - Related "Linux Kernel Development is Pragmatic"
+                    - ["Tuning pressure" won't dig anything deeper──Kernel Hacker, Kozaki, Tomohiro (6) | Cybozu-style](https://cybozushiki.cybozu.co.jp/articles/m000321.html)
+    - I'm talking about an era in which each individual has a different scheme, rather than being given a single "correct scheme" by society in this descending fashion.
+        - Christian forces.
+    - [[Cross-checking of scheme concepts]]
+
+Previous Continued
+- What were we in the middle of last time?
+    - Chapter 4: "Characteristics of Experienced Meaning as Working in the New Symbolization."
+    - What features of "felt meaning" are at work in "the process by which new symbols are produced" (4b)
+        - There are nine subsections.
+        - Last time I did that, I was up to six of them.
+- 4B7: (7) Any experienced meaning can (partly) schematize (creatively determine) a new aspect of another experienced meaning
+    - Experienced meanings can (partially) scheme (creatively determine) new aspects of other experienced meanings."
+    - We have seen that "other experienced meanings" (B) contribute to the creation of new aspects of A.
+        - This "new aspect" can be interpreted as a relationship between A and B, or as something associated with A by B
+            - 4B4 ([[Experiential Processes and the Creation of Meaning" Study Group 3#61fcad9aaff09e00004a8be9]]) on this:.
+            - ![image](https://gyazo.com/9fc4a4ac6d77870b8be463b22926dbf6/thumb/1000)
+        - Another way of putting this would be to say that "other experienced meanings" partially determine the nature of the "new aspect".
+    - 4B4 skipped the explanation of this "decision."
+    - How B worked" is an "aspect of B." Linguizing how B worked is a SPECIFICATE aspect of B
+    - When an aspect of A is SPECIFIED, what kind of interaction does B have?
+    - > Since B functioned when an aspect of A was created in interaction with B, some possible scheme "already" in B can later be seen to have determined the new aspect of A.
+        - ![image](https://gyazo.com/8ae9a14b8a58dcda21276849c7dc9b92/thumb/1000)
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I've drawn them apart for clarity, but if you draw the X and S on top of each other, you'll get a familiar picture.
+                - ![image](https://gyazo.com/65208979826e6e315bcf0022ed3ef3de/thumb/1000)
+        - At time T1, a new aspect X of A is created in the interaction with B
+            - (Specific examples to follow.)
+        - B is a function of this creation.
+        - So at the later time T2
+            - "Certain scheme S that was originally in B,
+            - You were deciding on a new aspect of A, X, in T1."
+            - and can be viewed ex post facto.
+        - Then, at time T3, this scheme S can be separated from B and X and symbolized
+    - Definition of schematize
+        - We call this "a scheme S that originally existed in B determined a new aspect X of A" "B schematized a new aspect X of A" ([[schematize close reading]]).
+    - For example, this question is asked after the fact
+        - What is it about A that makes it similar to B?"
+        - The question, "What in A can answer the question, B?"
+        - The aspect of A that is about to be created is determined by B.
+        - After "The Lover is a rose," we then ask, "What aspect of the Lover resembles the rose?" and after the fact, the aspect of the "lover" is determined by the "rose".
+    - Of course this decision is not FULLY, it becomes B itself
+        - I just looked for a new aspect that was already in A that fits into B.
+        - So, "partially determined."
+    - I'll try to make an actual example.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - The process of creating this lecture material is like bonsai.
+        - First, you have to grow and extend them, but you have to cut off the excess branches because they won't carry the message if left to grow naturally."
+        - 1: The "process of creating lecture materials" was changed from a vague "process of creating lecture materials" to a verbalized aspect of "first write down what seems to be relevant, and then delete it.
+        - 2: This is a time variation scheme that "bonsai" originally possessed, in which branches are cut off after they have grown and are no longer needed.
+        - 3: I can then verbalize after the fact that "this kind of scheme worked".
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I don't think many people are aware of how these schemes work, and I didn't recognize it until I re-observed my own thought process from Gendlin's perspective.
+        - Now that I've verbalized it, I'll call it "[[Pattern of pruning after thickening]]" or something, so I can use it someday when explaining composition techniques.
+        - Finding a common "pattern" between the "writing process" and "bonsai" and finding a common "shema" when looking at a chihuahua and a poodle have the same "structure."
+            - This "pattern," "shema," or "structure" is called a "scheme."
+        - Q: Did you think "the writing process is kind of like a bonsai" and then "prune after it grows" was born?
+            - A: This time yes.
+            - Q: "The writing process is to write a lot and then cut down" came first, and you didn't arrive at "bonsai" by looking for something similar to that?
+            - A: I think there are cases where ideas develop in that vein. In that flow, the "writing process" has already been verbalized, and you are making a bonsai metaphor later to communicate it to others, but the scope of this chapter is "how the 'felt meaning' functions in the new symbolization," so cases that have already been verbalized are outside the scope of this chapter.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Schemes are not only given by churches and schools, but also by individuals who create them in this way, which is important!
+        - When Christian forces were strong, schemes and worldviews were given by the church.
+        - Some schemes are still given by schools and other institutions.
+        - But schemes are created by individuals, they can be created, and the fact that they are created is often ignored, and schemes created by individuals are often disregarded as being no big deal,
+        - There was a time when what the church gave was more correct, but that time has passed, and we need to focus on what each individual produces, because what the church, school, or society gives can no longer be considered absolute,
+        - It is becoming necessary for each individual to take a hard look at his or her own scheme, worldview, lifeview, and experiences.
+
+(Added) Bonsai Metaphor
+- ep.1
+    - > Q: Wasn't "the writing process is to write a lot and then cut down" first, and then you looked for something similar to that and came up with "bonsai"?
+    - The metaphor of bonsai was not born from scratch, but rather, I had a plant metaphor in my mind like "an idea is a seed, if it falls into the soil, it will show its eyes, but if it falls into a stone, it will die".
+    - When I thought about the process of intellectual production to create lecture materials, the metaphor of a plant suddenly came to mind, specifically the image of a bonsai tree.
+    - I may have chatted elsewhere about the image of cutting branches in bonsai, I came to think I had, I think I remembered that.
+    - But this time, when it came up to my consciousness, I thought, "I have to make an example of something, so let's compare the lecture material to a bonsai tree.
+    - B: I didn't feel uncomfortable because I sometimes think "we look alike" without knowing the basis for it.
+- ep.2
+    - I think there are cases, of course, where a person says, "In creating lecture materials, it is necessary to write a lot and then cut it down," and then thinks, "What would you say this is in terms of," and "bonsai" comes up.
+    - The difference between "A" and "B" is the difference between "A" and "B", and the difference between "A" and "B" is the difference between "A" and "B".
+    - Writing a lot and then cutting it down" is not equal to "bonsai."
+- ep.3
+    - > "How does the 'felt meaning' function in the new symbolization?" so cases that have already been verbalized are out of scope.
+    - As a demonstration of this kind of process, let's put the "back pain" from the "examples of non-visual schemes" into the "writing process"
+    - I'll start by saying, "[[The writing process is]] like a dull backache."
+    - Then I think, "What does this mean?"
+    - (Think about it)
+    - Yeah, I wonder if moving it around and getting the blood flowing will help reduce the pain.
+    - It might hurt at first, but it gets easier.
+    - Speaking of this as a side aspect of the writing process
+    - I wonder if it's something like, "If you don't leave a blurry clot that you can't express properly, don't just leave it there, use it, even if you feel a little uncomfortable, and it will gradually loosen up and become words.
+    - After doing this, you will be able to judge after the fact, "Yes, this feels right" or "It doesn't feel right.
+    - I thought this was "more about emotional rancor within the organization than the writing process." I thought.
+    - I can't imagine there being anything about the writing process that is "stiff and painful because it's uncomfortable to touch and you're leaving it untouched.
+
+Q&A
+- Q: Schemes to be matched prior to linguification?
+    - A: The object to be matched before verbalization is the scheme or... the scheme is created when it is matched before verbalization.
+    - Q: Is it being generated or is it being discovered?
+    - A: I use that in the same sense. When a baby sees a poodle and a chihuahua, there is not much difference in what he is trying to express whether he describes it as "finding a common scheme" or "creating a common scheme in his brain".
+- Q: What is the difference between a side (aspect) and a scheme?
+    - A: I can't answer that right away.
+    - B: I feel that part of the scheme is aspect, the "cutting branches" aspect of bonsai is used.
+    - A: You just made the right point (I only caught the first half here), and now I have an explanation. The "write a lot and then cut" aspect of the "process of creating lecture materials" and the "cut after the branches have grown" aspect of "bonsai" are not equal, but they do share a common scheme
+    - Q: Okay, there is an abstract structure in between.
+    - PS: The argument before us, "How is a scheme different from a concept?" The same argument can be made as in the discussion of "What is the difference between a scheme and a concept? That is, "aspects" are defined as verbalized, and schemes function in their non-verbalized state (remember the "dog shema" example of the toddler).
+- Q: What scheme is that of the three types?
+    - A: No, the scheme is not limited to three types, there are countless schemes.
+    - Q: I was wondering if it's analogous to a scheme of things or something like that.
+    - A: I just listed three as examples, the dog scheme does not apply to any of the three.
+- Q: When I heard this story, I associated it with abstraction, similar to Plato's concept of Idea?
+    - A: Well, if we take the dog, for example, Plato thought that there is an ideal dog, the dog-idea, which is abstracted from various concrete dogs and has common "attributes that a dog should have," but he thought that this "only exists.
+    - In the current philosophical stream, which is relative, schemes exist in each individual, they're all different, and we're all free to make them up as we go along.
+    - Idea exists as an absolutist, root of rightness, so I think that is where we differ.
+    - > Our souls once lived in the heavenly world, seeing only Ideas, but because of their defilement they were banished to the earthly world and forced into the prison (sema) of the body (soma). And on the way down to this earth, he crossed the river of forgetfulness (Lethe), so he has forgotten most of the Ideas he used to see. However, when we see an object in this world that is an image of the Idea, we dimly remember the Idea that we had forgotten. When we turn our eyes not to the outside world but to the inner world of our souls and recall the ideas we once saw, we truly perceive things in their original form.
+        - [Idea - Wikipedia](https://ja.wikipedia.org/wiki/イデア)(The Keyword Dictionary of Philosophy, p. 50)
+    - I was talking about a monotheistic worldview, mainly using Christianity as an example, so you might mistake it for something from a later period than Plato, but it's like AC1280 Establishment of Judaism, AC350 Plato, Plato knew the Jewish way of thinking and he philosophized about it.
+
+
+4B8
+- (8) Every experience is capable of havinng an aspect schematize by any other experience
+    - Every experience can have aspects that are schemeed by some other experience."
+    - ![image](https://gyazo.com/8ae9a14b8a58dcda21276849c7dc9b92/thumb/1000)
+    - 7 was the viewpoint of the one who schemes, 8 is the viewpoint of the one who is being scheming (cut1).
+    - Suppose there are two meanings A and B
+        - Can find aspects of B in interaction with A (= can create, specify)
+            - (Note that from here on, A and B in the original text are the opposite of feature 7)
+        - This aspect was schemed by A
+            - Example: the lover aspect was schemed by roses, the writing process aspect was schemed by bonsai
+        - Since the meaning is multi-schematic (4B2), the schematic relationship between A and B is produced according to the new meaning (17).
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The creation of new meanings and the creation of new schematic relationships are taking place simultaneously
+        - So what if the SPECIFIED relationship is given? ([[Question on p.195 translation]])
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Example: what if there is a "similar" relationship between "lover" and "rose", given?
+        - The multi-schematic feature (4B2) allows us to find a new aspect X to this given relationship.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>We can also find "what kind of similarity" in this "similarity". For example, both have spines.
+        - This aspect X is schemed by both A and B.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The "spiked" is schemed by both the lover and the rose. This is the pattern found in the two.
+        - Hence, the "newly created application" of that given relationship, between A and B, is also multi-schematic.
+            - Even if all three elements, A, B, and relation, are specified as unique.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>There is not a single way in which it can be schemed. It can be "smells good" instead of "has spikes."
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I'm not talking about between symbols that have already been verbalized and specifies, but between "experienced meanings" pointed to by that language (cut3).
+        - Not just 7 or 8, but all 9 features are about "meaning experienced, not yet SPECIFIED".
+        - It's about "what's left to be created."
+            - > refer to what is left open to creation
+
+
+    - At first glance, "every experience can have aspects that are schemeed by some other experience" seems like a very metaphysical trait.
+        - In fact, it is refreshing to express metaphysics (Gendlin says it is refreshing, but I disagree whether it is refreshing or not).
+            - All possible schemes come from some metaphysical source X."
+            - So any scheme A encompasses some scheme that is a creation of X.
+            - Hence any scheme A can be found in any other scheme B, for A is also a creation of X."
+            - > "Because all possible schemes (all intelligibility) come from a metaphysical source X, therefore any scheme or meaning will embody some scheme that is a creation of X. Therefore, any scheme or meaning can be found again in any other meaning, since it is also a creation of X."
+            - I've called this X "God" or "nature" or "conditioning" or "mind" in many different kinds of philosophy.
+                - So it's relative.
+                - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>In Buddhism, "[[hollow]]" X creates everything, so we think that everything has other things in it ([[free from obstacles]]) or something like that.
+                - We will delve into this X in Chapter 5, calling it the "IOFI point" (IOFI=instance of itself), but we'll talk about that later.
+        - No need to specify what X is.
+            - Even if we don't specify where the source of creation is, the point that X, which is called by many different names, refers to the process of creation is the same.
+            - These answers are "functionally equivalent" (English p. 214)
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>This "functionally equivalent" means, roughly speaking, the same correctness in terms of pragmatism.
+                - The idea is that if the usefulness of what is produced is the same whether we say "God is..." or "my mind is...", then there is no need to make a distinction.
+            - If you're comfortable thinking of it as God, you can think of it that way, or if you don't believe in God, you can think of it as "the result of conditioning done from birth to now."
+            - Q: Does this mean that it is difficult to talk about the future without assuming the existence of X?
+            - A: Rather, I'm saying that some readers may read this story and think, "Well, isn't that, in essence, God?" A: I think what I'm trying to say is that it's okay to think it's God, because it's not important at this stage to specify what it is.
+            - Q: I have a question about the existence of X
+            - The discussion on the existence of A:X will be in the next chapter, I'd like to skip it from this study group because it will be even more abstract. w
+    - I'm not saying that any given shape fits any given thing.
+        - Then all meanings would be ARBITRARY!
+        - Not so, most cases do not fit
+        - So a "new side" needs to be created.
+    - An example of this: the
+    - Poet: "If I were to compare my lover to..."
+        - Find and pick up "red roses" from past experiences.
+        - New aspects are being created for "My Lover" at this time.
+            - Aspects are being made, but not yet verbalized.
+    - How "The Red Rose" is found in "My Lover"
+        - The "rose" element is found in the "side" X created in "My Lover."
+            - X does not equal roses.
+                - For example, lovers don't grow out of the ground.
+                - So X and roses don't fit directly.
+                - Certain elements (certain aspects) in the rose fit with X
+            - For example, "lover freshness" and "rose freshness" can fit
+        - By the way, here's a little interesting part
+        - I'm sure many of you would agree with the earlier statement that "lovers don't grow out of the ground."
+        - but Feature 8 requires that "any meaning B is found in a newly created aspect X of another arbitrary meaning A."
+        - Then let's do it!
+        - I'll just say, "[[My lover grows out of the earth like a red rose]]."
+            - If "grows out of the soil" is a given and specified schematic relation (similarity), what can be said
+            - New aspects of given and specified relationships are created.
+        - Can Given "grows out of the soil" R create an aspect to Meaning A "my lover"?
+            - Yes, "grows out of the soil" to make side X. Example.
+                - My lover's behavior is deeply rooted in the culture of his native land."
+                - My lover appears so quietly and suddenly, it's as if she grew right there."
+
+    - When B schemes A, there are aspects of B that fit the scheme and aspects that do not.
+        - With sides that do not fit, you can create another new side on A.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>In this instance, I initially said, "It doesn't grow out of the ground, does it?", meaning this was an aspect that didn't fit.
+            - I dared to choose "grow out of the ground" which doesn't fit.
+            - As a result, a new aspect "rooted in the culture of the country of birth" emerged
+            - It is possible to create new aspects in this way
+                - This "possible" means "can happen as a phenomenon," and it depends on the individual's poem skills in terms of whether the individual can cause the phenomenon.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - Some of these new aspects of X fit into B.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I don't know this "lover" thing, so I don't know if "rooted in the culture of your birth country" fits.
+            - A poet can think of his or her lover and say, "This doesn't fit!" or "It doesn't." or he can think
+            - This is done after the fact
+    - The eighth feature is made possible by the fact that any number of sides or "sides of sides" can intervene in this way.
+        - Dare I ask, for the sake of explanation, "How can you be sure that in any sense N can be a relationship between A and B?
+        - Only certain relationships are possible between the identified meanings.
+        - How does the infinite variety of experienced meanings enter into this determined and limited relationship between identified meanings?
+        - New aspects are created in A by N. Many are created. If we call this NA, then at least one relationship is possible and can be found between each NA and B.
+            - It is the relationship between A and B. It is the aspect of N.
+        - If you create an aspect of "my lover" that "grows out of the earth," then from that point onward you have to ask, "What does this mean? Or not?" we will be able to ask, "What does this mean? ( [[Question on p.170 translation]] )(cut 2)
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It's like the game "[[Sea turtle soup]]". Two seemingly unconnected things are presented as being connected, and then you think about why they are connected.
+
+- (9) [[Creative regress]]
+    - Finally, the last one!
+    - Given a specified meaning S, we can direct refer to an experienced meaning E that is related to it, and we can specify that experienced meaning E in a different way than S.
+    - For example.
+        - 'Um, come to think of it, what was the point of this?'
+        - What did we start this conversation for?"
+        - What do I mean by this word 'X'?"
+    - The act of digging down and coming back to the blur once away from what you have put into words.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The third question, an image I often do myself.
+        - After a lot of talking, I'm again making direct comparisons with "what I wanted to say".
+        - Seemingly backward, this is a pretty creative outcome.
+    - This direct reference to "what was meant" is called "creative regress
+        - Creative regression, creative retreat, creative regression. The Japanese book chooses "regression". Personally, I don't feel comfortable with it.
+    - The word "regress" means to leave the specified meaning and return to the felt meaning.
+        - Back to mumbo jumbo, away from language.
+    - With "creative," this progress indicates that it is for creating (create, specify, discover) new aspects.
+        - Return to Moya Moya to find a new side
+    - In such transitions, experienced meanings play several roles
+        - 1: we have SPECIFIED meaning S
+        - 2: S is "directly referenced" in "creative regression".
+        - 3: This (same?) experienced meaning E is specified in a new and different way.
+    - We cannot say for sure that E is really the same as the original experienced meaning of S. Nor can we assert that it is "not the same."
+    - I am sure you have all experienced CREATIVE REGRESS.
+
+- Chapter 4 completed🎉.
+    - After this, the book goes on to discuss the principles of [[IOFI]], but as the level of abstraction increases and the elements of philosophy grow, it may be more useful to move on to [[Thinking At the Edge]] and [[focusing]], which are specific methodologies born out of this philosophy.
+
+Q&A
+- Q: How does the scheme relate to [[model]]?
+- A: The word "model" does not appear in the book, so we are talking about whether the symbols S1 and S2, which are used by different people, refer to the same thing. First, let's dig into what you mean by that "model."
+- Q: Approximation, something concrete and then approximated, abstraction, abstract structure, I just considered the scheme to be an abstract structure, and the model is also an abstract structure, so they are similar.
+- A: I see.
+    - It depends on what the "thing before being approximated" in that "approximation" is. For example, in the case of data, or a concept that is already in language and is processed on the language to change it into a simpler linguistic expression, I don't think the scheme is relevant because this is only working in the symbol.
+    - On the other hand, there are a few blurred things that I have experienced that have not yet been verbalized, and the abstractions made from them seem schematic.
+- Q: You mean that the word "model" is used in many different ways, but it seems to match some of the schemes as well?
+- A: I think it is important to ask "what is being modeled?" and "what is the material being modeled?
+- B: Modeling a dog is exactly the scheme, like "a fluffy, moving thing with four legs."
+
+Below are the pruned branches
+
+cut1
+        - The perspective of schematizing experience
+            - Is this another "process"?<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+            - ~ed experience X
+            - The X side is created.
+            - 7 is
+                - Any experience is
+                - Some Aspects
+                    - What is ~ed by other experiences
+                - The "I" in the "I" is the "I" in the "I".
+
+cut 2
+- It has to do with the fact that roses only grow out of the ground in certain ways. (For example, it does not necessarily have roots in the place.) If this is to be "my love," then a further new aspect must be created.) The logical necessity of a specified meaning is not hindered by creativity.
+
+
+> If we can assert that any meaning can be a relation between any other meanings, we have covered all the other possible ways in which a new aspect schematized by any one meaning can be found in any other. Seven implies eight. If the creation is possible, the finding "in" is implied. The creation is possible and determined (schematized) by all the interacting experiences. Because they determine the creation, an aspect of them can be created that can be seen to have determined it, that is, that can be seen to be related to any (new) aspect of any experience, or indeed to any experience considered as being determined by it in the creation of aspects of it.
+>  All these characteristics are possible because the multiplicity and multischematic character of experienced meaning enters and offers its capacities for countless new¹9 aspects, whenever experienced creating of meaning occurs.
+
+![image](https://gyazo.com/93ec2a1d59513fb6b19e3eec49e8baf8/thumb/1000)
+
+![image](https://gyazo.com/e361003c841d822878baef3180e1e569/thumb/1000)
+
+Lover=Rose, related:country, Lover=Rose, related:scent, Lover=Rose, related:spikes.
+
+cut3
+    - Of course, both 7 and 8 are POSSIBLE OF EXPERIENCED MEANIGS
+        - not possible of specified meanigs
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>What I mean is that I am not talking about the meaning that has already been verbalized and specified, but the "experienced meaning" side that is pointed to by the language.
+            - Not just 7 or 8, but all 9 features are about "meaning experienced, not yet SPECIFIED".
+            - It's about "what's left to be created."
+                - > refer to what is left open to creation
+        - Even if we have to relate A to B in a certain way, we can still find new aspects
+        - That's what "thinking" means.
+        - Without any room for creation, any problem can be described as unsolvable
+            - This doesn't cause thinking.
+---
+This page is auto-translated from [/nishio/「体験過程と意味の創造」勉強会4](https://scrapbox.io/nishio/「体験過程と意味の創造」勉強会4) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

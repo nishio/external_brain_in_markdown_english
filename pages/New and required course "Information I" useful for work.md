@@ -1,0 +1,151 @@
+---
+title: 'New and required course "Information I" useful for work'
+---
+
+![image](https://gyazo.com/77977e430f63ecbaf1e1d2c600e38bc9/thumb/1000)
+- New required course "[[Information I]]" useful for work, a waste not only for high school students
+    - [[Kinta Nakayama]]
+- [Amazon](https://amzn.to/460CgRo)
+    - [[New and required course for work "Information I" Impression 1]]
+    - [[New and required course for work "Information I" Impression 2]]
+
+
+[Manuscript Offering-The %EF%BC%91-8d7d23e7d62c Information I Book, Unabridged Manuscript Offering Part 1. A commentary book for working people on Information I was published by PHP Research Institute. The book is a commentary for high school students only... | by ＠＠tokuiten | Nov, 2023 | Medium](https://tokoroten.medium.com/情報ⅰBook-Unabridged)
+- [[Programming languages handled in Information I]]
+- [[Fable of the Tayupinko people]].
+        - [[The parable of the Tayupinko people]]
+- Aside: [[Business Continuity and Personnel Changes]].
+- [[Japanese firms' IT systems depend on bottom-line capabilities]].
+- Public key cryptography, hash functions, digital signatures
+- [[Pigs and Encoding]]
+- [[Causality and pseudo-correlation]]
+- [[You can make indicators to make decisions]], FQ7
+- [[KPI is the human tongue.]]
+- [[Why is it so hard to define requirements?]]
+- [[Think in advance of possible changes.]]
+- [[Easy and hard specification changes for programmers]].
+[[This is the second unabridged manuscript of Information I. It is related to ChatGPT and machine learning. 85%E5%A0%B1%E2%85%B0%E6%9C%AC-%E6%9C%AA%E5%8F%8E%E9%8C%B2%E5%8E%9F%E7%A8%BF%E4%BE%9B%E9%A4%8A-%E3%81%9D%E3%81%AE%EF%BC%92-c5c48fd 04a69]]
+- Search Engine and LLM Integration, Benefits and Issues
+- [[Ask in the abstract, then apply to reality]].
+- ChatGPT mimics the thinking of System 1
+- ChatGPT is Advanced Data Analysis and plug-ins for limited System 2
+- ChatGPT is not available for FAQs.
+- What is made more efficient by generative AI in labor?
+- Multimodalization of Generative AI
+    - [[democracy]] ([[free speech]]) and [[Generative AI]] are incompatible
+- Problems with Learned Models
+- The bookstore of the future, the age of book generation
+- We see the introduction of machine learning as a shift to the [[equipment industry]], and we will draw up a revenue/expense plan.
+
+Table of Contents
+- Chapter 1: The Impact of Information I
+    - 1-1: What are today's high school students learning?
+        - The Impact of the "Information I" Prototype Problem
+        - Flow of Information Education in High School
+        - Information I Objectives and Curriculum
+        - Relationship between IT Passport and Information I
+        - Explanation of the "Information" prototype problem (Simulation of crepe sales)
+        - New "Reading, Writing, and Soroban" by Information I
+        - Study acquires the knowledge of the ignorant
+    - 1-2: What is modern business improvement?
+        - Without computers, we have nothing.
+        - Computers outnumber the earth's population.
+        - Computers are used in all professions.
+        - Moore's Law, Advances in Semiconductor Integrated Circuits
+        - Computers that are less expensive and more powerful
+        - Breakthrough for Software Companies
+        - What is agility in a software company?
+        - Information ensures "modern agility".
+    - 1-3: DX in its entirety What is the agility of Japanese companies?
+        - What was the agility of Japanese companies and the strength of Japanese companies?
+        - DX is a change in the source of agility
+        - Dysfunctional Agility of Japanese Companies
+        - Spreading the concept of DX
+        - Disruption
+        - Misreading of DX reports
+        - Reflections on the DX Report 2, and changes to the definition of DX.
+        - The concept of DX as a dark pot, various DX directions
+        - If you want to DX, don't use the word "DX".
+        - Dangers of the term "human capital," collective efficacy, cognitive dissonance, and big-picture management
+        - Post-DX organization, changes in required qualities
+        - Information as reskilling|IT Passport, Statistics Test
+
+- Chapter 2: Getting an Overview of Information I
+    - 2-1: Information Society and Us
+        - Information Society and Problem Solving
+        - Laws and Institutions in the Information Society
+        - Information security and measures taken by individuals
+        - Media
+        - communication
+        - Information Design and Expression
+        - Content Creation
+        - How to represent information
+        - Digital Expression on Computers
+        - Information Equipment and Computers
+        - Algorithm and Basic Structure
+        - Program Basics
+        - Program Applications
+        - modelling (e.g. a system, etc.)
+        - Simulation
+        - Utilization of Data
+        - How the Network Works
+        - Information Systems and Services
+        - Information Security
+
+- Chapter 3: Understanding Information More Deeply
+    - 3-1: What is the difference between computers and humans?
+        - Very little the CPU can do
+        - There are so many things a CPU can do
+        - Algorithms are made from algorithms.
+        - Humans can see the "whole". Computers cannot see the "whole.
+        - When there are more of them, people cannot see the "whole".
+        - Computers can't see the "whole" either, but they can.
+        - What is Programming? CPU Elephant Evaluation
+        - How does the world look from a computer's point of view?
+        - Think about the problem itself and simplify the problem with statistics.
+    - 3-2: Statistics look at the "whole" without looking at the "totality
+        - Strengthening probability statistics in school education, making probability statistics compulsory
+        - The purpose of the revision of mathematics teaching guidelines, the widespread use of computers and probability statistics, and mathematical problem solving.
+        - statistical training
+            - 6th grade (mean, median, mode, typical)
+            - 6th grade (class, histogram)
+            - Middle school 1st year (relative and cumulative relative frequencies of histograms)
+            - Second grade (percentile values, interquartile range, box plots)
+            - Middle School 3rd Grade (sample survey/total survey, sampling, random sampling, population, sample size, sample mean and population mean)
+            - High School Mathematics I (Deviation, Mean Deviation, Variance, Standard Deviation)
+            - High School Mathematics I (scatter plots, correlation coefficients)
+            - High School Mathematics I (Hypothesis Testing)
+        - Those who look only at statistics are deceived.
+            - selection bias
+            - information bias
+            - publication bias
+    - 3-3: Requirement definition is a top-to-bottom breakdown
+        - V-shaped model of system development
+        - V-shaped model for small projects
+        - Hearing what you want to do
+        - Listen to the requests. We listen and then ignore them to solve the real issues.
+        - Requirement definition is breakdown and matching
+        - Why can mathematics and information technology solve problems?
+        - Computers are not zeroes and ones. Theory and De Facto Standards
+
+- Chapter 4: Beyond Information I, What We Need to Learn Now
+    - 4-1: From Programming to Machine Learning
+            - Here is my lecture "[[From if statements to machine learning]] 」がもとになってます(明示的に許可を出してます)<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - From If statement to polynomial
+        - Fundamentals of Machine Learning with the Perceptron
+        - There are cases where accuracy is poor but still valuable.
+        - Differences between Academia and Business
+    - 4-2: Social Transformation through Generative AI
+        - Generation AI adds to IT Passport syllabus
+        - Intelligence and Halcynation of ChatGPT
+        - From the Age of Search to the Age of Generation
+        - The fool questions knowledge, the wise man argues
+    - 4-3: Government Buzzword Commentary
+        - ESG、SDGs
+        - Industry 4.0, the Fourth Industrial Revolution
+        - CPS: Cyber-Physical System, Data-driven Society
+        - Society 5.0, super-smart society
+
+
+---
+This page is auto-translated from [/nishio/仕事に役立つ新・必修科目「情報Ⅰ」](https://scrapbox.io/nishio/仕事に役立つ新・必修科目「情報Ⅰ」) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

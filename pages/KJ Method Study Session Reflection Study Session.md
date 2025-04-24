@@ -1,0 +1,691 @@
+---
+title: "KJ Method Study Session Reflection Study Session"
+---
+
+2022-12-16 @ Cybozu Labs.
+- Flow of events up to this point
+    - Late May, planning for [[KJ Method Study Session @ Loftwork]] starts.
+    - 2022-06-24 [Study Group "Let the Chaos Speak for Itself" @ Cybozu Labs
+    - 2022-07-01 [[Exploratory Net (Fireworks) Study Session]] @ Cybozu Labs
+    - Creation of lecture material: [[KJ Method Study Session @ Loftwork_Lecture Material v1]].
+    - 2022-08-19  [[KJ Method Study Session @ Cybozu]]
+        - Earlier, a study session was held within Cybozu using the same lecture material.
+    - 2022-11-16 Meeting It was decided that the lecture material would be a short version of 30 minutes
+    - 2022-11-30  [[KJ Method Study Session @ Loftwork_Lecture Material v2]]
+    - 2022-12-02 [[KJ Method Study Session @ Loftwork]] Held
+    - 2022-12-13 [[Beyond the KJ Method]] @ Cybozu
+- Purpose of this time
+    - There has been a lot of development in the four months between the time of the August study session and now.
+    - Reflecting on the differences
+
+2022-12-02 Day of the event
+- Something pretty interesting happened.
+    - The only pre-assignment was to make 25 labels and read the lecture material.
+        - However, when I looked on the morning of the day, I saw that about 20 people who had learned how to do it from the lecture materials had started to make a net.
+        - Very active, proactive and good
+        - Has the fact that everyone's work status is shared in Miro had a positive impact?
+    - I went around with my comments as of this morning because there is no benefit to procrastination.
+            - [[KJ Method Study Session @ Loftwork Pre-map comments]]
+        - In retrospect, this was a very good case study collection.
+        - Individuals are starting in advance and rounding up where appropriate.
+        - So many of them are in a "state of crispness" and "stumbling hands" compared to what I look around and observe in real time during the workshop!
+- lecture
+        - [[KJ Method Study Session @ Loftwork_Lecture Material v2]]
+        - [[KJ Method Study Group @ Loftwork Zoom comments during lecture]]
+- During the workshop, questions were accepted via Slack and answered via Slack.
+        - [[KJ method study group @ Loftwork Slack during personal work]]
+    - This was also very good.
+        - We were able to have 45 people in parallel, which is difficult to do in a physical event.
+        - There's a psychological resistance to raising your hand and asking questions in a real setting.
+            - →Writing in Slack is less psychologically burdensome because you don't get so much attention from people around you.
+        - (The Nishio side is always in full operation, so there is a heavy burden.)
+    - Digital data so comments can be looked back on later.
+        - I have a record of everything we've discussed, including taking screen shots.
+        - It's been a very good resource.
+    - The problem that people around you stop and try to listen to you when you communicate with them by voice in a physical setting.
+        - Since it was a chat, that didn't happen either (probably).
+- Questions via Zoom + answers to missed questions later via Slack
+        - [[KJ Method Study Session @ Loftwork Q&A]]
+
+Early, Middle, and Late
+- Jiro Kawakita's ideas have changed over the past 20 years.
+    - This is par for the course.
+        - Jiro Kawakita was a smart man who could learn from new experiences and update his ideas.
+        - It would be even stranger if the idea hadn't changed for 20 years.
+    - But "thinking" naturally changes over a 20-year period, and the "long time span" "changing and dynamic worldview" was not well shared.
+- Three epochal books have been published at approximately 10-year intervals
+    - First semester 1967 "Idea method"
+    - Mid 1977 "Exploratory Studies of Knowledge"
+    - Late 1988 "KJ Method: Let Chaos Speak for Itself"
+- These three books were called the "Early, Middle, and Late Periods."
+    - This apparently made it easier to imagine Jiro Kawakita's thoughts changing and evolving.
+        - With a name to point to [The world that was a blur has been carved out.
+    - How was the last fiscal year?
+        - 1967 Publication of "Ideas".
+        - The first prerequisite is to have a huge amount of routine data.
+            - How to summarize the vast amount of qualitative data
+                - Categorizing and organizing routine data by homogeneity does not make it "cohesive".
+                - How to synthesize heterogeneous data is important (p. 53).
+            - ~ and proposed a methodology for
+            - In Nishio's lecture, to clearly distinguish the KJ method at this point, he referred to it as the "KJ method of the beginning."
+    - What happened in the mid-term
+        - 1977 "[[Exploratory Studies of Knowledge]]" published.
+        - He says something like, "I thought the KJ method was the bottleneck, but the bottleneck was not the KJ method but the interview phase before the KJ method" (p. 28).
+            - If the quality of the data collected in the first place is poor, the quality of the results of the KJ method is also poor (p. 29).
+            - He insisted that the interview phase in front of the KJ method needs to be improved.
+        - Expedition Net] is created by applying KJ legal ideas.
+    - What will happen in the second half of the year
+        - 1988 "KJ method: Let the chaos speak for itself."
+        - Starting with no data, the idea of "[[Fireworks to think about]]" becomes clear.
+        - Positioning "Explore-Net-Fireworks" as the "twin brother of the KJ method" and the "practical application of the KJ method."
+- What does a quick bird's eye view of this trend mean in comparison?
+    - Last term: large amount of information already exists "KJ method of beginnings"
+    - Mid-term: Focus on ways to gather information
+    - Late: I generate new information "Thinking Fireworks"
+    - The basic premise of the last term was that [* a large amount of information was already available
+        - In reality, however, when I actually tried to teach various people, I found that the "assumption of a large amount of information" was not correct in the first place.
+        - In the medium term, it becomes "We need to gather information first, right?
+        - What is the first step in the process of gathering that information?
+            - First do a thorough [[interior exploration]] and put into words what you think the problem is, what you want it to be, and what you think should be done to solve it.
+            - It's going to be that you need to be in a place where you generate new information.
+- In retrospect, I see that "I create new information" was also done in the "How to summarize a lot of data" phase of the "Beginning KJ Method".
+    - Jiro Kawakita realized after trying to put it together and not being able to put it together (Idea method, p. 54) that it is important that he creates even when putting it together.
+    - This realization later became a system called the KJ method
+    - In other words, "putting together" is actually closely coupled with "conceiving.
+        - That's why the result of thinking about "how to organize" is published under the name of "Idea Method" and explained in a chapter called "KJ Method for Promoting Ideas.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Any questions so far?
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>How is the latter term "I generate new information" used in situations like mobile universities and fieldwork?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>If we apply Jiro Kawakita's concept in the mid-term, you say, "We need [[Interior Exploration]] before we start the interview.
+        - There is a phase where I first explore my mind and clarify "what needs to be covered in the future".
+        - It's like it became a firework to think about.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Okay. Thank you very much.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>What kind of image do you have, Nishio-san?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The former.
+        - Jiro Kawakita, who was able to do well and already had data that he had collected through interviews, did not understand that people in the world were stumped on how to collect data.
+        - You don't know because you haven't experienced it yourself.
+        - So I released a book called "How to Think" about what I did with the "data after I collected it".
+        - Over the next 10 years or so, Jiro Kawakita gained experience in teaching by being asked by various people, "Please teach me this KJ method.
+        - Then I realized that the data was wrong in the first place, and that many people stumble here.
+        - So in the mid-term, with the "exploratory study of knowledge," we're talking about "we need to do a better job of collecting data, right?"
+        - Jiro Kawakita's ideas developed as a result of his new experiences.
+        - So "if you are in the same situation as in the previous period, you can of course continue to use the same method as in the previous period"!
+        - Jiro Kawakita realized that there are various situations.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Okay, so if you get the interview part right in a way like the Exploration Net, then you can use the "Beginning KJ method" to summarize and generate ideas.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes, yes, that's the image I have.
+        - Let me explain from another angle.
+        - Jiro Kawakita was unaware of the necessary conditions to do the "KJ method of beginnings" the way he did in the previous period.
+        - As I was teaching the KJ method, I realized I needed good coverage.
+        - That's why we built an expedition net in the mid-term.
+        - Jiro Kawakita was unaware of the necessary conditions to make that expedition net work.
+            - While teaching exploratory net,
+                - Before "explore, collect data, and create a net."
+                - We need to do a phase of thinking about what we are going to do.
+            - That is, in essence, the equivalent of what we called "internal exploration" in the terminology of the early-mid period.
+        - The "Thinking Fireworks" organized it into a specific methodology of "writing a theme in the middle and placing your thoughts around it".
+        - and gradually moving to the front in the process flow.
+            - You need to do Y first before you can do X, notice the prerequisite.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I see what you mean, thank you very much.
+
+
+let data speak for itself
+- > "How to put together data given from many outside sources" is also important in the phase of "I create new information".
+- Some people make an incongruity between this idea and the catchphrase "[[let data speak for itself]]," which is often used as a catchphrase
+    - The reason for this is the implicit assumption that "data" is "objectively correct."
+- Basic premise about "data".
+    - In the first place, <img src='https://scrapbox.io/api/pages/nishio-en/Jiro Kawakita/icon' alt='Jiro Kawakita.icon' height="19.5"/> thought "[All data is a lie
+        - >  All data is a lie. Use the data knowing it to be false. And from that, we can determine the more correct truth. That is the path to judgment. But how can the truth be determined from a lie? Because, from a different point of view, every piece of data also contains some semblance of truth. ([KJ method Let the chaos speak for itself p.71)
+    - <img src='https://scrapbox.io/api/pages/nishio-en/川喜田二郎/icon' alt='川喜田二郎.icon' height="19.5"/>What the "data" is called by the
+        - Observations and records of a wide variety of things
+        - Not "objectively correct facts."
+        - ![image](https://gyazo.com/4e12cabf0cb8a183c6a4d7c1c1eda673/thumb/1000)(ibid. p. 71)
+    - Jiro Kawakita viewed the data that way, based on this,
+    - Can I add my own thoughts that come to mind while I'm doing the KJ method?" Answer the question "Yes.
+        - First of all, [anything that comes to mind should be recorded.
+                - [If you don't record it, it disappears.
+            - What you come up with could be beneficial.
+                - It could prove beneficial later.
+                - It would be a shame to keep it only in your head and let it disappear.
+                - So we should record it first.
+            - I think this is the main principle of intellectual production, regardless of whether you do the KJ method or not.
+        - Next, we will discuss the recordings of the
+            - What is this?
+            - This is "data" of course, since it is "data of my thoughts observed and recorded".
+        - Either you mix this data right now or you don't.
+            - You can mix it right up.
+            - You can keep it close by and focus on sorting through the data that came in from the outside first.
+            - Earlier, I asked, "Are you going to distinguish them with a mark or something?" There was a question
+                - You can make a distinction, you don't have to make a distinction, just do whichever suits your purpose.
+                - When it's a "decide what I'm going to do next" type of firework to think about, there's not much need to distinguish between the two.
+                - I think some people want to distinguish between their opinions and the data collected when it comes to "compiling a report that separates my opinions from the data collected."
+                    - However, in this day and age, if the data collected is digital, it is easy to find out where it came from by searching, and I think there is little need for humans to mark labels and do their best to distinguish between the two.
+- Explanation from a different angle from [[KJ Method Study Group @ Loftwork Q&A#63906b6aaff09e0000d221da]].
+    - If you can draw useful conclusions from the data alone, that's the best you can do.
+        - That's what we should aim for first.
+    - In many cases, however, data alone is not enough to reach a conclusion.
+        - Pinched before reaching a conclusion.
+        - It's like, "There's so much information out there, it's a mess, how do I organize it?"
+            - Jiro Kawakita had trouble with this before he created the KJ method, as described in "Idea Method," p. 52.
+        - It's not productive to dwell on "what should I do..." at this time.
+            - Nothing is going ahead.
+        - Worse yet, "There are some parts that are organized and some messes that aren't. Let's just use the parts that are organized."
+            - This is so bad.
+            - for some reason
+                - Where it was organized quickly, where it matched existing thinking, existing [[frame of mind]].
+                    - I was able to organize it quickly because I was able to [[rhetorical flourish]] the [[framework]] of ideas that I already had.
+                - Using only that and throwing away a mess that was not well organized is just reproducing the existing framework of thinking.
+                    - No new ones are created.
+                - The seeds of new ideas should have been discovered in the discarded parts.
+                    - And yet, you only pick up and use data that supports your existing perceptions, your existing frame of thought.
+                    - Unintentionally trample [[sprout]] of ideas
+    - At times like this, it is useful to realize things like, "Oh, I thought this was unrelated, but if I look at it from this perspective, it makes a connection! It is useful to realize something like this.
+        - Awareness = Idea
+                - Discover [New Connections
+                - Discovering that there is a connection between different assumptions.
+                - This breaks the framework of assumptions.
+            - Creation of new information
+        - Help with organizing.
+            - Because it reduces our preoccupation with existing frameworks.
+        - This new "awareness = idea" came "out of" the individual who was looking at the data.
+            - I think there is a relationship between this data and this data" is a subjective opinion that comes from the mind of an individual.
+            - So, if you're trying to organize by looking only at "data given to you from the outside," you're going to say, "Can I put that in?" would be.
+        - Both the data that came from the outside and the data that came from the inside "<img src='https://scrapbox.io/api/pages/nishio-en/Jiro Kawakita/icon' alt='Jiro Kawakita.icon' height="19.5"/> [[All data is a lie]]"
+            - > They use data knowing that it is a lie. And from that, we can determine the more correct truth. That is the path to [[judgment]].
+            - Use "knowing it's a lie" = "knowing it's just my hypothesis with no objective basis."
+        - How do you know if "[[judgment]]" created in this way is correct?
+            - Verified by subsequent actions.
+            - for example
+                - They could do an experiment,
+                - They would go out for interviews for corroboration,
+                - Or look at the results of a hypothetical action.
+            - Correctness is verified after the fact by
+            - It's not something that can be solved by thinking on a desk.
+    - It's important to make your own decisions.
+        - In creating that "judgment"
+            - The phenomenon that I thought to myself, "I think this has something to do with this.
+            - This phenomenon is observed and recorded to create data, add
+            - That's what we'll treat as newly discovered and important.
+            - That's how we arrive at our decision.
+        - Less unproductive time spent dilly-dallying at the desk wondering how to put it all together, making decisions, making decisions, and moving on.
+        - Jiro Kawakita's [Achievement of one job fosters both people and teams.
+- relevance
+    - [[Einstein's way of thinking]] introduced in The Intellectual Production of Engineers, p. 47.
+        - ![image](https://gyazo.com/b6586c9189c654c2684964d11b8f27f0/thumb/1000)
+        - Axioms are generated by intuition from experience,
+        - Then logically specific claims are derived,
+        - That specific claim is validated by experience, thought
+
+Breaking the boundaries of existing assumptions
+- This time, each individual's work could be copied in digital form, which made it much easier to provide explanations based on case studies.
+- Bad pattern that Jiro Kawakita criticizes in various expressions in explaining the KJ method.
+    - Like, "[[Assumed frame of mind]] needs to be broken."
+    - For example, "Do not make [[an adaptation (e.g., of a poem or novel)]] to [[Existing Structure]]" or "Do not make [[an adaptation (e.g., of a poem or novel)]] to [[Existing Structure]].
+    - Do not classify."
+    - [[stereotype]]", "[[Group formation is from small teams to large teams]]", etc.
+    - There's a concept that's been expressed many times in many different languages.
+    - ![image](https://gyazo.com/f0b12d1d4f1c77a764a514a0a561b11f/thumb/1000)![image](https://gyazo.com/855e218d09b40a984a388970b8f5472a/thumb/1000)
+        - [[KJ Method Study Group @ Loftwork Pre-map comment #638dc07eaff09e0000900ff2]] Case 4, Case 8
+    - ![image](https://gyazo.com/973ea9617662cabdccfcf594eff6bb7c/thumb/1000)
+        - > ... You have a dogmatic principle of grouping in your mind in advance... The KJ method is merely applying the dogmatic classification scheme, and sifting and fitting paper scraps of material into the ready-made categories. In this way, the conceptual significance of the KJ method is completely lost.
+            - [[way of thinking]]  p.77
+        - The top-down approach is to have a framework in your mind in advance, and then sift through the scraps of paper and fit them into that framework.
+            - I'm talking about here in the diagram:.
+                - ![image](https://gyazo.com/9062b9461bf1c8f9dacb175d5f327af9/thumb/1000)
+        - I'm saying it as of last quarter, I've been saying it for 20 years.
+        - But when you actually ask people to try the KJ method, many people do it this way.
+        - Why can't they get the message?
+- Jiro Kawakita tends to use [[negative form instructions]], saying "This is not good, you must not do this
+    - You know, "don't categorize" or "top down is not good."
+    - The result is, "They said no, so what do I do then?" Many people end up saying
+    - It's an observed fact that there are a lot of people who make it this way.
+    - therefore
+        - To realize, "This shape is not good."
+        - Advice on "how to get out of it."
+    - I think it's a good idea to tell a set of
+- Case 4
+    - ![image](https://gyazo.com/f0b12d1d4f1c77a764a514a0a561b11f/thumb/1000)
+    - What's wrong.
+        - The "hierarchical structure" of "family > daughter > eldest daughter" is strongly expressed.
+        - I've even drawn the boundaries of the group.
+        - This is a pre-expressed "natural structure".
+        - It is rare that something new and interesting comes out of here.
+            - Why?
+                    - [[Existing Structure]] boundaries prevent the discovery of new structures.
+                    - The boundaries represented by this "eldest daughter" circle get in the way of discovering new associations.
+                    - At the time a new structure is discovered it is weak, so it loses out to a strong existing structure.
+                    - Existing structures need to be dismantled.
+    - advice
+        - What is represented by this "big circle" is "the group that originally had it."
+            - The "boundaries" on this one are obstructive.
+            - This is a concept that was originally in my head."
+            - Let's take it off.
+        - It would be good to focus on finding "[[relationships that cross over existing groups]]" that are obscured by boundaries
+                - [Note the line across the group boundary.
+        - If you're afraid to erase it, copy it.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>It's like I had the label "eldest daughter" in my head and collected sticky notes.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes, I also recently wrote about this being a Bad Pattern: [[Bad Patterns of Group Formation]].
+- Case 8.
+    - ![image](https://gyazo.com/855e218d09b40a984a388970b8f5472a/thumb/1000)
+    - This one has no group boundaries drawn, but the label is tasteless.
+    - Terminal labels such as "flower" and "sunset" are currently "too abstract a concept."
+        - Concrete images are truncated.
+    - Flowers and sunsets, if they are placed side by side, there is essentially some relationship between them.
+        - I want to be able to describe what the relationship between these two pieces is by looking at the two labels.
+        - However, the abstract concept of flowers and sunsets makes it difficult to find a connection.
+    - When each becomes a concrete enough image, we have a chance to find the connection.
+        - For example, "falling cherry blossoms" and "a cold meadow with the setting sun" could be connected by "sadness.
+    - Another expression
+        - Label is not "[[delving into]]", [[frivolous]], [[greater duckweed (Spirodela polyrhiza)]].
+        - ![image](https://gyazo.com/792914b315b1c641276973c5deac9624/thumb/1000)
+            - see  [[The Parable of the Floating Grass and the Trees]]
+            - [[root]] is missing.
+            - Instead, you need to [[stump]] your [[personal experience]], [[sense]], and [[subject]] as a firm [[personal affair]].
+            - I tend to cut the roots off with a zap and turn it into an abstract concept.
+                - Some people unknowingly cut it off because they think it's a good idea.
+                - Cutting roots should be minimized or they will die.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/川喜田二郎/icon' alt='川喜田二郎.icon' height="19.5"/>s words, "Leave the scent of the earth as much as possible."
+        - > ... It's not just about the letter-symbol meaning, but also about the [[associative mood]] that surrounds the center of that meaning.... Never [[you're abstracting too much...]]" and "Don't get hung up on rigid idioms and jargon..."... "Leave the scent of the earth..." as much of the original material as possible. The minimum necessary "[[conceptualization process]]" is important, and should not be unnecessarily reduced to a "concept.
+            - Ideas p. 141 see [[You're abstracting too much.]]
+            - It's not just about the symbolic meaning of the letter, it's about the hazy associative atmosphere that surrounds the center of the letter's meaning.
+            - Never over-abstract.
+                - We need to retain the earthy flavor of the original material instead of turning it into stiff idioms and phrases.
+                - Conceptualization should be kept to the minimum necessary, not more and more conceptualized.
+    - advice
+        - > As for one-word labels, "What exactly does ~ mean?" or "What is it, for example?" and so on, asking yourself more information and adding to the label or adding a new label will make it easier to net!
+        - This is the [[Five basic questions]] ([[(6.2.4.2) Clean Language and Symbolic Modelling]]) in [[symbolic modeling]], which I wrote about on p.197 of The Intellectual Production of Engineers.
+            - If I'm teaching one-on-one, I'll be the one asking questions.
+                - What kind of 'flower' is this 'flower'?"
+                - It's a flower.
+                - Then write that on a sticky note."
+                    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>In the haiku corner of Prevato, Natsui-sensei said, "Write that down!" I remember the part where he was getting angry with me.
+        - This question elicits "[[delving into]]" and "[[concrete image]]".
+        - What is now an abstract concept, such as an abstract flower or the moon, will be made "properly connected to my [[somesthesis]]" ([[Properly subjective]]).
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Do you have any questions so far?
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I know it's not really essential, but what was the theme of this work?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The theme of the work is free.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I was curious because I felt that the way the theme is set is also crucial, as the specificity of the labels that emerge from the conception technique changes quite a bit depending on the setting of the theme (i.e., the theme itself).
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Well, to be precise, this time I said, "Do something for which the right answer is likely to be inside you, not something for which you have to go out and search to get the right answer."
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Super difficult WW
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Room for improvement.
+        - For example, I wonder if there could have been an option "Please collect things you find interesting" ( [[KJ method of amusing]] , [[The "Interesting" Exploration Net]] ).
+        - I do think there was room for improvement in the theming, the quality of the labels was affected by the theming, and people seem to be stumped by that.
+        - Free...
+            - Many people were so entrenched in the idea that there was a "right way (of doing things)."
+            - No, I said, "You can use it more [[*freedom]] for whatever you want to think about," and I asked him to bring me something to think about, but...
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>What was your goal in choosing "something that seems to have the right answer?"
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Not "what the right answer is likely to be," but "what the right answer is likely to be [[within]] me."
+        - If you bring a theme that is "something for which the correct answer has been decided in a place that is not yours," I would say, "Let's not think about it here, let's go to the site and observe it.
+        - It is not a direction of consciousness to observe one's own mind closely.
+        - I'd look out.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Do you want me to look inside and do something that I might have the answer to?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>So. Maybe I should have been a little more specific and said something like, "Something that seems to be getting closer to an answer by taking a closer look inside myself."
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Difficult!
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>The KJ method case study I saw was on the subject of "What is valuable to you?"
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I see
+        - I knew that "value [[for me]]" and so on.
+        - Like, "What do you find interesting [[to you]]?"
+        - Maybe I should have been more explicit about that sort of thing.
+        - When I saw that they put "observation" in the middle, I was like, "Oh (>_<)."
+            - You're already thinking abstractly when you set up this theme.
+            - I feel that when you set a theme of "Okay, let's KJ about observations" instead of something specific, I feel like "No, you're talking a lot [[have no roots]]."
+        - Another example was someone who had a theme like "I'll have an anniversary vacation soon, what shall I do?" and I think that was a good, specific theme.
+            - It's, "[[*I am]] what I want."
+        - The rest were deep in thought about "how I will live my life."
+            - I found it interesting in terms of the theme itself, but I'm commenting on the "form" of the theme, and I don't want to get too deep into a discussion of the specifics of the theme, so I didn't dig too deep into it.
+            - (Tip: In one-on-one or small group situations, I may be the one to listen to the "verbal explanation of the group's content" and then ask a [[Clean Question]]. I do not give my opinion when "teaching the KJ method," but if we have a relationship where [[Undesirable Compromise]] does not occur, I may share my opinion.)
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I thought it was interesting that there was such freedom to set various themes.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I'm sorry for him in this case study 8, but I learned a lesson from the observation that "if you give a theme complete freedom, some people will rub you the wrong way in the theme-setting stage."
+        - I needed to limit the scope of the topic a bit more and give some direction.
+    - PS: In organizing this Q&A conversation, I noticed that all of the "good" themes included "I am" and "for me". It seems that "[[personal affair]]" is an important direction.
+    - Side note: [[Keichobot's value question may be a prelude to fireworks to think about]].
+
+
+Pre-conceived groups and lines across them
+- On the KJ method creating "[[awareness]]" and "[[idea]]"
+    - People who've been there will say, "Of course they do."
+    - People who haven't experienced it will say, "I don't know what you're talking about.
+    - There was no verbalization of what exactly "awareness" meant.
+- This time, we have a clear, concrete example.
+- Realization that "this is something relevant, although it is placed far away now."
+    - This time, the action of "drawing a line" was added to the "exploration net" origin.
+    - This led to frequent cases of lines being drawn between "labels placed at a distance".
+    - ![image](https://gyazo.com/bbb7b6791477bbe1c73160b6506f76ca/thumb/1000)
+    - This is "awareness."
+        - Before the lines were drawn, I thought "the two are unrelated."
+            - That's why I put them apart.
+        - But after the fact, I thought, "There seems to be a relationship between the two."
+            - So the line was drawn.
+        - The timing when this line is drawn is the timing of "awareness".
+    - What does the KJ method without lines do in such a situation?
+        - The way to express that "awareness" was to "move it closer.
+        - This destroys the "pre-aware" "[[assumed frame of mind]]" and a new structure emerges.
+        - However, we tend to feel psychological resistance to this "movement with destruction
+            - Priority is given to "objectively correct," "known structures," and "hierarchical organization."
+            - Ignoring or downplaying my subjective feeling of "this and that seem to be related".
+            - But that feeling is more important.
+                - Brain structures that I had in my mind before I saw the actual data.
+                    - Assumption that this is the way it would be
+                    - So this is not looking at the data.
+                    - So that's what I thought before I looked at the data.
+                - The structure "before" looking at the data and what you realize is related to this and that "after" looking at the data.
+                    - The latter realization is naturally more important
+                    - We need to change the value system that says
+
+    - How about Jiro Kawakita's original expedition net
+        - I was not using a digital tool that allows me to draw lines of any length.
+        - The relationship was "clipped."
+            - ![image](https://gyazo.com/2854299df9bc6cfeee876f737584534d/thumb/1000)
+                    - [[let the chaos speak for itself]] p.307
+        - As a result, the only way to keep things relevant was to keep them close together.
+    - By using the Miro digital tool, I can now draw lines from a distance.
+        - Can express "relevant" without psychological resistance, even if it is far away.
+            - This is good.
+                - The bar has been lowered.
+                - Information that "I can't verbalize in words, but I think it's relevant" can be recorded.
+                - Output, out of the mind, can be made indelible.
+        - On the other hand, it's now possible to "leave it far away".
+            - The freedom of digital tools has allowed for bad expression.
+            - There were a lot of lines drawn, and people were getting crossed all over the place and messed up, and they were like, "What am I supposed to do?"
+            - I couldn't have made that kind of crossing when I was expressing it with a clip.
+        - Lines drawn later are more important because they are "newly noticed".
+        - You can move the label around to shorten the line.
+        - (Jiro Kawakita is opposed to moving it on a large scale. This is where Nishio and I disagree, and it will become clear in the future what this disagreement stems from. (Opposition to the Great Migration of Peoples], to be written in the future.)
+    - We can take care of the anxiety of destruction with "just copy and keep it.
+        - Once the current mess is copied and set aside (you can go back to it if you want).
+        - Transform to shorten the line
+- Concerns expressed by several people.
+    - "I thought, 'I wonder if this and that are connected,' but can I just let that feeling sort it out?"
+    - profitable (e.g. deal, business offer, etc.)
+        - Rather, that's what they're doing.
+        - I think it's connected." This is what I realized.
+        - By connecting them and making them closer together, the words will later become "why connect".
+    - from  [[The process by which the KJ method was created]]
+        - > When you focus on "homogeneity" and do groupings, you don't "get it together".
+        - >  In some cases, it is necessary to find new associations from combinations of heterogeneous data
+        - >  Putting together heterogeneous data = combining things that are not in the same group
+    - Related: [[KJ Law Study Group @ Loftwork Q&A#63906b6aaff09e0000d221ec]]Question 5
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Does anyone have any questions so far?
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>This "breaking the structure" could be done in such a way that a human does it until the line is drawn, and once the line is drawn, the system breaks the structure for you.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It is technically possible to formulate a spring model, for example, from the state where this line is drawn.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>If we break them down, it may lead to the discovery of a new human structure, saying, "This kind of structure exists.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Yes, indeed.
+        - In fact, we have tried auto-shaping with a spring model, and the reason why we are not doing it now is because "it is irritating when the auto-shaping moves the position while a human is placing the model".
+        - It's irritating because it's "destruction in the making" to be moved by the system when humans are "expressing by arrangement what has not yet been put into words".
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I see
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I just had this discussion and thought that if I had a "backup of the current version so that I could go back to it," then the machine could change the arrangement.
+        - ![image](https://gyazo.com/bbb7b6791477bbe1c73160b6506f76ca/thumb/1000)
+        - It's not that difficult to reshape this with a spring model after all of these things are connected.
+        - Actually, Kozaneba already has the code to format it with the spring model, the menu is just disabled.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I'd like to see it.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It looks to me that the green one in this case can be reshaped into a beautiful shape that doesn't cross if you take it to the right, and I'm inclined to do that.
+        - ![image](https://gyazo.com/9620eb3e267571fe1f4bf6db8cc1fead/thumb/1000)
+
+        - I'm really curious to see what will happen here in the three rows.
+            - ![image](https://gyazo.com/8b1f9a4a84a649ce2b8a7339c777b7d7/thumb/1000)
+
+
+
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>By spring model, are you talking about a physical spring?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>You generate a force that brings you closer together between things connected by lines, and then you apply a repulsive force against this individual block.
+        - If you do iterative calculations in terms of physics simulation, the spring is beautifully shaped in a way that looks like it's going to bjorn.
+
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>When you put down the first sticky note, you put it down as you take it out, so it's like deciding where to put that first sticky note, isn't it?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>That's a tough question...
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>You draw one line to make it, and then you take all the lines and shuffle them around and make another one, so you can see it on a different axis.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It's probably hard on the human heart to shuffle it around and do it again.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Oh, that's hard.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Even if the structure is not good, it would be hard to say, "Let's tear this all down and reassemble it from scratch again.
+        - It's like the story of the child who piles up stones on the bank of the river and the ogre comes along and breaks them down.
+        - But, you know, if you look at Jiro Kawakita's book, he did that, and I think he would be sued for power harassment if it were today. w
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>They're going to destroy it.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>He proudly wrote something like, "I told them it was no good at all to do this, and I stirred up a mess of labels.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Terrible W.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>He wrote something like, "I looked at it with a sad look on my face," but not in this day and age, like, that's not good, that's, like, w
+        - PS: After we talked, I checked and this episode is in [[Examples of Group Formation Failures]]. I went a little overboard.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I don't know what I would do if I were you, I'd put it to bed and start over again when I forgot about it.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It might be a good learning experience to erase, blur, or dilute the previous behavior from freshly forgotten and then start over again!
+        - And we need to talk about that "[[ferment]]."
+        - It's totally fine to leave things lying around that don't come together at a certain point.
+        - You let them sleep on it, forget about it for a week, for example, and come back to it after doing another job.
+        - Then, once you look at the Internet with a reset head and newly input knowledge, you will see the following.
+            - I'm like, "Oh, there's a connection between here and here."
+            - I'll say something like, "That thing I saw on another job I was working on recently leads to this label."
+        - So it happens that labels are added, lines are added.
+        - As the number of "expressed realizations" increases in this way, we gradually begin to see a form.
+        - So I think it's quite beneficial to put the net down for a week and look at it again!
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Okay, I can see that as a realization.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I've given lectures and then a year later I'm asked to speak again on a similar topic, and I've done things like reuse lecture materials and create other lecture materials.
+        - I have a feeling that it is quite beneficial to take lecture materials that have been sitting for a year, put them back together again in fragments, add new information, and reconstruct them.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I can relate to that, and I do too.
+        - I only remember the important stuff and forget the details, which is a nice touch.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>For example, if you try to reuse something that is left in detail in the form of a text, and you try to reuse it well, what you had "before you read it" will wipe out at the time you are reading it.
+        - There is a more favorable feeling to reconstruct from information that is so rough that the associative network of sticky notes is connected.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>In terms of reconfiguration, maybe so.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>As for the first question When you first put down a sticky note, you put it down as you put it up", there are two ways to do it, as far as whether you put down the labels sequentially or not.
+    - What I really wanted to do this time was "just have a label for the theme in the middle and add what I associate with it.
+    - But I thought if we did that, we wouldn't have enough time.
+    - So I gave him the advice, "Write 25 labels in advance."
+    - There was a sense that this caused confusion.
+    - If we were to do it a second time.
+        - Write the theme on the middle label.
+        - Prepare 25 labels according to the following procedure: 1.
+            - Create labels by association with the labels they are placed on.
+            - Draw a line with the source of the association and leave it there.
+        - To keep the shape of everything connected.
+    - I think it would be good to do something like
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Did you originally want to do a thinking fireworks type thing?
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>That's right.
+        - The real "thinking fireworks" have a theme in the middle and are increased by association from scratch.
+        - But for some people, that phase seems to take a long time.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Yes, they have to come out.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>There are people who get stuck, or who spend half an hour writing only 10 pages.
+        - And if that happens, you can't do the later phases, if they say there are only 10 sheets.
+        - So the risk is crazy high for a workshop with limited time.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I see
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I was afraid that would happen, so I said, "Please prepare 25 copies in advance."
+        - When I observed the people I worked with beforehand, there were a lot of "people who were not connected to the central theme and were doing the KJ method that they were used to, with the theme in the middle," so I thought there might have been a better way to give them guidance.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I see
+
+Parable of the Bicycle
+- It's not something taught in words."
+- Skills acquired through repetitive practice in a safe environment."
+- It's not about whether it's right, it's about whether the bike moves forward."
+- This metaphor was further developed in the process of reworking the lecture material.
+- To "move forward" is to "realize something you didn't realize before."
+    - Pedaling a bicycle with the stand up does not move it forward.
+        - It looks like "riding a bike" but it's not.
+        - No amount of that is going to make me learn to ride a bike.
+        - Actually, it's not just the pedals steering wheel operation is important (see below).
+- Parable of the Two Riders
+    - Why it doesn't work when there are seniors and juniors and [authoritarian gradient
+    - It's like a two-seater.
+        - Seniors hold the wheel, seniors pedal.
+        - Lots of two-person rides won't help juniors learn to ride a bike.
+        - I have to hold the handlebars and pedal by myself.
+        - "I take the wheel" = I make the decisions about what direction to go.
+        - I pedal" = I generate the energy to move forward.
+- The problem of "fast people" who sass up appearances without much thought.
+    - It's like buzzing around on the pedals with the bike stand up.
+    - It's just spinning faster because it's not under load ([Parable of the Gears).
+    - Doing that doesn't move you forward, it doesn't give you new insights.
+- What was verbalized after
+    - Handle" and "[[decision-making]]" are equivalent to what Jiro Kawakita calls "[[judgment]].
+    - <img src='https://scrapbox.io/api/pages/nishio-en/川喜田二郎/icon' alt='川喜田二郎.icon' height="19.5"/> [[Achievement of one job fosters both people and teams.]]
+        - What is this "one job"?
+            - It is not "work" that you are told to do by your boss.
+            - To determine what and how you can get good fruit by yourself and do it.
+        - By tasting its fruits, you will become more confident in your "judgment.
+        - This process is important.
+    - In other words, this is "decision-making" in a "situation where the correct answer is not given from the outside.
+        - No "this is the way to do it" given.
+        - People who are used to working according to a given policy feel insecure.
+    - When trying to compile data collected from outside
+        - The right answer to "how to put it all together" is not given from the outside.
+            - If the correct answer is known, there is no point in going through the costly process of "collecting data and making a decision".
+            - We do it because the right answer is unknown, and this is the basic premise.
+        - The right answer can't be given to you from the outside, so you have to create your own.
+            - If you work hard enough to do what you can assemble from the data alone, but you can't move on, then you need to make decisions to move on from there.
+            - You hold the steering wheel and make a decision, "Okay, I'm going this way," and then you press the pedal yourself to move forward.
+- This is how the "bicycle metaphor" has become so matchedu
+    - In symbolic modeling, "symbols have developed
+        - This metaphor of "bicycle" is a symbol in a symbolic space
+        - Symbols have evolved and symbol spaces are now described in more detail
+        - I have it on record here that that is what happened.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Do you have any questions?
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>There was a bicycle analogy that said "practice where it's safe."
+    - Just now helping a young man write a paper, but wonder if it is a safe place
+    - You need to insist on documenting the story you create, like what is the problem you want to solve or the contribution you want to make to this paper.
+    - If you don't have time, the teacher will pedal.
+        - I'm thinking it's not good for him, but I have a deadline to meet.
+    - I still need to do it where there are no time constraints?
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I don't consider a situation where there is pressure to "get to the finish line in time" to be a "safe environment."
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>isn't it?
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Practicing on the bike" is like "running around the park in circles as much as you want."
+    - I don't think it's about getting where you're going.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>grunting or groaning sound
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I think a "safe environment" is a situation where you are only focused on rowing forward, and there is no constraint that you have to "reach the goal" as a result of your rowing.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Also, cars don't come along and hit you.
+    - What's the comparison with is that "learning the KJ method through on-the-job training by being assigned to a job received from an actual client" is "not a safe environment".
+    - There is a client, there is a time limit, and if you don't get it into shape and out by the allotted time, or if the quality of what you put out is not good enough, the client or senior staff might get angry, but "what is the right answer" is not given.
+    - This is a natural environment for anxiety.
+    - Some people are able to ride bicycles because they are placed in that environment, but [[survivor bias]].
+        - Side note: When my grandfather taught my mother to skate when she was a kid, he took her by the hand to the middle of the rink and left her there.
+    - It's important to note that the theme of this year's event is also "not a work theme.
+        - Whether the results of what we do work or not doesn't affect our work.
+        - If you don't practice with those easy things, you can't do it with the hard ones.
+        - Like a child playing with clay.
+            - Without the experience of "kneading clay and making something suitable to play with."
+            - Can you suddenly make pots and pottery to sell as products?
+            - You can't. You need a carefree play phase in the foreground first.
+        - I wanted to push for something like that.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Yes, yes, I sympathize.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>But what to do in a "I don't have time to do that now" situation is a difficult question.
+    - As long as you are a student, you can't help it for having a paper deadline.
+    - I thought it was important how to let them play before the deadline.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I see
+
+I will talk when I have more time (planned).
+    - [[Name the Nishio's own style.]]
+    - [[Bad Patterns of Group Formation]]
+
+- [[Name the Nishio's own style.]]
+- (I only talked about part of this page because I had little time.)
+- In 2018, when I wrote [[The Intellectual Production of Engineers]], I asked, "Why don't you give this intellectual production technique a name like the KJ method?" I was asked.
+    - I said, "I won't name names."
+        - Deliberately avoided naming names from the time of writing.
+    - for some reason
+        - This manuscript was written in 2017.
+            - I wrote the book thinking, "The paper method is useful, but it has a number of problems, it needs to be electronic."
+            - No digital tool had yet satisfied me.
+            - After the writing was done, we started developing digital tools.
+                - This led to the current [Kozaneba digital stationery to organize your thoughts
+        - I think in retrospect that at the time I was writing it, I had the feeling that the way I was doing it at the moment was not the finished version.
+- 2022 [[KJ Method Study Session @ Loftwork]] at
+    - I told him, "Let's make our own style," and "It's good to exchange information about our own style."
+    - > Q: [[name your own style]] and might be easier to distribute/exchange?
+    - And I thought, "That's right."
+    - for some reason
+        - > It makes sense to create a [[lingua franca]] to share within the organization, but as a preliminary step, it might be a good idea to secretly give your methods a personal name ([[Personal words]]).
+        - > Unnamed concepts are like liquid, elusive and difficult to manipulate
+        - > Naming the concept allows us to manipulate it with a handle, like coffee in a mug ([[Metaphor of liquid in a container]]).
+        - The first step before creating a common language is to give a personal name to your method.
+        - It is easier to manipulate than unnamed concepts
+        - By naming a concept, you turn that concept into an object that can be manipulated and handled with a handle, like "liquid is in a container."
+        - This is the story I wrote in [[The Intellectual Production of Engineers]] p.36 [(Column) To name the pattern.
+- Compare with 2018 decisions
+    - Writing in a book with a name" is the equivalent of creating "a common language shared around the world."
+    - The 2018 decision "not at the stage of naming names" is "not at the stage of creating a common language."
+    - Giving a "private name" as a preliminary step is beneficial
+- So I gave a tentative name to Nishio's own style.
+
+- [[Presentation Story Construction Method]]
+- This is literally the method we use to create the presentation story
+- KJ method combined with [knee-swing (gymnastics)
+- Fragments of a story are told as stickies, and related stickies are connected to each other.
+- Sticky notes are placed in close proximity or connected by lines.
+- The ones we've determined we're going to talk about in this order, we're going to group them in close proximity and lump them together.
+    - This is Kozaneba and can be folded up.
+    - If you decide to quit, just ungroup.
+- The process of sticking things together to make them stick is the equivalent of stapling in the Kozane method.
+    - ![image](https://gyazo.com/3f79670a7f18423e3c645f0effa41bcd/thumb/1000) [[The Art of Intellectual Production]] p.204
+    - In the Kozane method, when you think "this is how the story goes," you staple it together into a single chunk.
+- Roughly, it's like starting at the top left and finishing at the bottom right.
+    - For example, a sticky note introducing oneself is placed in the upper left corner.
+    - If there is group work after the lecture, the explanation of how to proceed goes on the bottom right.
+- Most of the rest of the stickies are pulled into place by lines and stuff.
+
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Why not start in the middle?
+    - I think the one by Loftwork started in the middle.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>When creating lecture materials from scratch, we sometimes do a divergence phase with the theme in the middle, like [[Fireworks to think about]].
+    - On the other hand, the real value of this method is when you already have the materials.
+        - I'm told that there are past presentation materials that need to be changed in their structure.
+    - There is a "back-and-forth adjacency" between "already written out sentences and presentations."
+    - Already in a state where the connection between the material and its
+    - I use this when I want to reuse it.
+    - So in most cases, the material is already there.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Can we have a general outline, like speaking in this order, and extend it from the upper left to the lower right?
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It's a situation where the general framework is set but needs to be changed.
+    - When constraints, such as presentation time or audience prerequisite knowledge, change
+    - example
+            - [[Create a short version of the lecture material]]
+            - The process of converting [[KJ Method Study Session @ Loftwork_Lecture Material v1]], scheduled for one hour, into [[KJ Method Study Session @ Loftwork_Lecture Material v2]], scheduled for 30 minutes.
+    - ![image](https://gyazo.com/8f3a23e3f97dca2ab3568fc6baa022c6/thumb/1000)
+        - [https://kozaneba.netlify.app/#view=v3hqfiIZYCbaQxcRpM9k](https://kozaneba.netlify.app/#view=v3hqfiIZYCbaQxcRpM9k)
+    - When we decided to do a 30-minute lecture on the one-hour version of the KJ method, we rearranged the materials and said, "Well, let's see what we can cut out.
+    - For example, the self-introduction was about this much on the original slide.
+        - ![image](https://gyazo.com/5d0d5b0e213d72f66144baa6f68417b7/thumb/1000)
+
+        - We don't need so many, so we bundle them up and make them smaller.
+            - ![image](https://gyazo.com/9bf1b943137d48e4f12b8d6da81eca68/thumb/1000)
+
+
+        - In fact, in the final 30-minute version of the presentation material, the self-introduction was changed to one line
+            - > <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Introducing myself: I recently read a paper on image generation AI and its source code and tinkered with the contents.
+        - You needed a connection to the next slide [["...to promote multifaceted understanding by offering different perspectives..."]].
+        - [[elimination of conflicts]], "I need to say 'our backgrounds are much different' to connect to this slide" and "I don't have time, I want to cut down on the introductions."
+            - [[From a 360-degree viewing angle]] is important, because Jiro Kawakita says, "From a 360-degree viewing angle," which is connected to the following.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I have three more names, but it's time to go, so I think I'll end with this one.
+- Do you have any questions so far?
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Is it correct to say that "we should create our own style of KJ method and share it" is based on the KJ method?
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The concept of "base KJ method" is pretty vague, isn't it?
+    - Where is the "base" part of the "base KJ method?"
+    - I have a friend who thinks in Excel, using cut-and-paste to collect and move related things close together ([[Excel-based KJ method]]), and I think of this as the KJ method.
+    - The outliner's favorite.
+        - Write it down in a gulp.
+        - The Outliner can fold up the tree, you know."
+        - So, we can write a summary of the child's content at the parent of the tree, and then fold the tree to organize the concepts."
+        - This is a KJ method grouping, I think.
+    - I think this level of "essence" or "principle of intellectual production" is useful, but as for whether or not to arrange stickies in two dimensions, I don't think it's a MUST.
+        - I don't think it's always a necessary factor when it comes to "does it produce effects as a method of intellectual production?"
+        - I have not yet been able to verbalize when a two-dimensional arrangement is necessary.
+    - It is not yet clear which parts are the important essences for the intellectual production techniques to be effective.
+    - I don't think we'll know until we become more mature about comparing many different methods and talking about what the commonalities are in this and that.
+    - For example.
+        - Like the idea that "all data is false" and "by synthesizing false data, we can get closer to the truth."
+        - Or the idea that "whether a conclusion is correct or not is not something you can figure out at your desk, but something that should be verified through action."
+    - I have a feeling that this kind of thinking is the essence of what is important.
+        - Not specific methods.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>I think that creating your own style is good for the person who creates it, but if you share it, "it would be nice if other people could use it, too.
+    - As more and more self-styles are shared, the question becomes, "What is better about method B compared to method A?
+    - If it is not verbalized, it will be like the idea technique: "There are a lot of unknowns," and "I don't know which one is better.
+    - I think it would be better for the users if there is an "essence" or "base method" and the differences can be compared for each method, such as "I modified this part from there.
+        - I thought it would be very interesting if I could support the "breaking" part of [[Shuhari]] well!
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>When I heard that, I thought, I guess we need to have a lot of our own methods and then we need to have a "[[Map]]" for our own methods.
+    - I still haven't figured out what the "main road" is or anything like that yet.
+    - You seem to think there are several "main paths".
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Also, the accessibility of the tools is very important when they are used by others.
+    - The KJ method became popular because it could be done with Post-It instead of "I will buy Jiro Kawakita's labels from Kawakita Institute.
+    - In this workshop, we used Miro, but I wonder if we could have done the same thing with paper before Miro was born.
+    - Availability of available tools will be a major factor.
+    - I hope Kozaneba can be released with a more user-friendly look, but it's a bit of a compromise with my development resources, so we'll see how it goes.
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>No, but I thought the overall message was something I could really relate to, so thank you!
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I didn't realize how important it was to "draw the line" when I created Kozaneba.
+    - The best part of creating Kozaneba may have been the verbalization of "a line is necessary.
+    - Related: [[Why are lines essential?]]
+- <img src='https://scrapbox.io/api/pages/nishio-en/human/icon' alt='human.icon' height="19.5"/>Indeed, it's great fun to see that kind of trial-and-error process reveal the necessary elements!
+---
+This page is auto-translated from [/nishio/KJ法勉強会振り返り勉強会](https://scrapbox.io/nishio/KJ法勉強会振り返り勉強会) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

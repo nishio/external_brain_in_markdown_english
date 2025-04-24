@@ -1,0 +1,347 @@
+---
+title: "Intellectual Production of Engineers All Levels Table of Contents"
+---
+
+- [[The Intellectual Production of Engineers Author's official page]]
+
+2018-07-26
+- Since the entire table of contents is quite large, a digest version is available at [[Intellectual Production of Engineers Table of Contents Digest]].
+2022-02-13
+- In the process of creating the English translation on Scrapbox, I thought, "Let's assign unique numbers to the headings. The reason:.
+    - It's hard to reference by page number when it's in digital form instead of a paper book.
+    - Headings are natural to use as titles, but there are headings that appear multiple times, such as "Summary
+- This was so useful that we did the same for the table of contents of this Japanese version
+    - When there is a mention on Scrapbox, it will be a blue link
+    - We have decided to put the added articles not included in the book version in the table of contents as additional content.
+
+    - [[(0) Introduction]]
+        - [[(0.1) Purpose of this book]]
+            - [[(0.1.1) What is intellectual production?]]
+            - [[(0.1.2) Benefits of reading this book]]
+        - [[(0.2) How to learn programming]]
+            - [[(0.2.1) First, gather specific information]]
+            - [[(0.2.2) Abstraction and modeling]]
+            - [[(0.2.3) Practice and verify]]
+        - [[(0.3) Flow of this book]]
+        - [[(0.4) Acknowledgements]]
+- Chapter 1: [[(1) To learn something new]] 1
+        - [[(1.1) Learning Cycle]] 	2
+            - [[(1.1.1) Information Collection]] 	3
+            - [[(1.1.2) Modeling and abstraction]] 	3
+            - [[(1.1.3) Practice and verification]] 	5
+        - [[(1.2) Driving force behind the cycle: motivation]] 	7
+            - [[(1.2.1) Differences between learning as a student and learning from college]] 	7
+                - [[(1.2.1.1) Textbooks are given]] 	7
+                - [[(1.2.1.2) How much time do you have to learn?]] 	8
+                - [[(1.2.1.3) Who pays for the learning?]] 	9
+                - [[(1.2.1.4) Headwinds]] 	9
+            - [[(1.2.2) How to stay motivated?]] 	10
+                - [[(1.2.2.1) Goals are clear]] 	10
+                - [[(1.2.2.2) Tutorial brings the goal closer]] 	10
+                - [[(Column) SMART criteria]]	11
+            - [[(1.2.3) Should I re-enter college?]] 	12
+                - [[(1.2.3.1) A more casual way]] 	12
+            - [[(1.2.4) Tips for finding good reference books]] 	13
+            - [[(1.2.5) Tips for choosing paper reference books]] 	14
+                - [[(1.2.5.1) Selected as a reference book for university lectures]] 	14
+                - [[(1.2.5.2) Full list of errata]] 	14
+                - [[(1.2.5.3) Revised and long-selling]] 	15
+        - [[(1.3) Three ways to gather information]] 	15
+            - [[(1.3.1) From where you want to know]] 	16
+                - [[(1.3.1.1) Delayed evaluative study method]] 	16
+                - [[(1.3.1.2) "You don't need that" YAGNI principle]] 	17
+                - [[(1.3.1.3) How to read Matz source code]] 	18
+            - [[(1.3.2) Prerequisites for learning from what you want to know]] 	18
+                - [[(1.3.2.1) Goals are clearly defined.]] 	18
+                - [[(1.3.2.2) Goals are achievable]] 	19
+                - [[(1.3.2.3) I have a broad overview of the whole picture.]] 	19
+            - [[(1.3.3) Roughly]] 	20
+                - Column: [Will the ability to find it still be necessary 10 years from now?
+                - [[(1.3.3.1) Only 6 pages of table of contents in a 1,000+ page document]] 	21
+                - [[(1.3.3.2) Read source code step by step]] 	21
+                - [[(1.3.3.3) Rough structure of the document]] 	22
+                - [[(1.3.3.4) Rough structure of English language papers]] 	23
+                - [[(1.3.3.4) Civil law map]] 	23
+                - Column: [[(Column) Excerpts from Civil Code Maps]] 24
+            - [[(1.3.4) From one end to the other]] 	25
+                - [[(1.3.4.1) The technique of sutra copying]] 	25
+                - [[(1.3.4.2) Mathematics]] 	26
+                - [[(1.3.4.3) Let's break up the time]] 	27
+                - [[(1.3.4.4) Scripture is an auxiliary wheel]] 	27
+                - [[(1.3.4.5) When the sutra is needed again]] 	28
+        - [[(1.4) What is abstract?]] 	29
+            - [[(1.4.1) abstract/abstract]] 	30
+            - [[(1.4.2) Models and models]] 	31
+            - [[(1.4.3) Module]] 	32
+                - [[(1.4.3.1) Limit interactions]] 	32
+                - [[(1.4.3.2) Hide unimportant parts = extract important parts]] 	33
+            - [[(1.4.4) Model View Controller]] 	33
+            - [[(1.4.5) Pattern Discovery]] 	34
+            - [[(1.4.6) Design Patterns]] 	35
+                    - [[(Column) To name the pattern.]] 	36
+            - [[(1.4.7) Why is abstraction necessary?]] 	37
+                - [[(1.4.7.1) Generalization by pattern discovery]] 	38
+        - [[(1.5) How to abstract]] 	39
+            - [[(1.5.1) Compare and learn]] 	39
+                - [[(1.5.1.1) Notice between "same" and "different".]] 	39
+                - [[(1.5.1.2) Parable]] 	40
+                - [[(1.5.1.3) Note the difference]] 	41
+            - [[(1.5.2) Learning from History]] 	42
+            - [[(1.5.3) Learning from pattern books]] 	43
+        - [[(1.6) Verification]] 	44
+            - [[(1.6.1) Make and verify]] 	45
+                - [[(1.6.1.1) Commentary is also a kind of making]] 	46
+            - [[(1.6.2) Verified by testing]] 	46
+            - [[(1.6.3) Areas difficult to verify]] 	47
+        - [[(1.7) Summary]] 	47
+
+- Chapter 2: [[(2) How to get motivated]] 49
+        - [[(2.1) 65% of people who are unmotivated are unable to focus on one task]] 	50
+            - [[(2.1.1) Let's first get the big picture to narrow it down]] 	51
+            - [[(2.1.2) Getting Things Done: Collect everything first]] 	51
+            - [[(2.1.3) Collect them all and process them afterwards]] 	52
+            - [[(2.1.4) How do I choose one task?]] 	53
+                - [[(2.1.4.1) Similar to cleaning up a room]] 	53
+                - [[(2.1.4.2) Build the base first]] 	54
+                - [[(2.1.4.3) Too many tasks]] 	54
+        - [[(2.2) "Prioritization" is a difficult task in itself]] 	55
+            - [[(2.2.1) Computational complexity of the sort]] 	55
+                    - [[(Column) Urgency Decomposition Theory]] 	55
+            - [[(2.2.2) Cannot compare large and small without 1 dimension]] 	56
+            - [[(2.2.3) What are the major and minor relationships when there is uncertainty?]] 	57
+                - [[(2.2.3.1) Trade-off between search and use]] 	59
+                - [[(2.2.3.2) When in doubt, be optimistic.]] 	59
+                - [[(2.2.3.3) Risks, Values and Priorities]] 	61
+            - [[(2.2.4) Prioritize important matters]] 	62
+                - [[(2.2.4.1) "Notified" is not "urgent"]] 	64
+                - [[(2.2.4.2) Values are verbalized bottom-up]] 	64
+                    - [[(Column) Seven Habits]] 	65
+            - [[(2.2.5) Don't try to set priorities now]] 	66
+        - [[(2.3) Motivate one task]] 	67
+            - [[(2.3.1) Task is too large]] 	67
+                - [[(2.3.1.1) The great task of writing]] 	67
+            - [[(2.3.2) Time Box]] 	68
+                - [[(2.3.2.1) Limitations of Concentration]] 	68
+                - [[(2.3.2.2) Pomodoro Technique]] 	70
+                - [[(2.3.2.3) Develop estimating skills]] 	70
+                - [[(2.3.2.4) Task-shooting time technique with minute-by-minute estimates]] 	71
+                    - [[(Column) PDCA Cycle]] 	72
+                - [[(2.3.2.5) Measure, Retreat, and Summarize]] 	73
+        - [[(2.4) Summary]] 	74
+
+- Chapter 3: [[(3) How to train your memory]] 75
+        - [[(3.1) Mechanism of Memory]] 	76
+            - [[(3.1.1) Hippocampus]] 	76
+            - [[(3.1.2) Persons who have had the hippocampus removed]] 	77
+            - [[(3.1.3) Morris water maze]] 	77
+            - [[(3.1.4) There is more than one kind of memory]] 	78
+        - [[(3.2) Commonalities between memory and muscle]] 	79
+            - [[(3.2.1) Synapses that carry signals]] 	80
+            - [[(3.2.2) Long-term potentiation of synapses]] 	82
+            - [[(3.2.3) First make it in a way that is easy to disappear, then gradually change to a method that lasts longer.]] 	83
+        - [[(3.3) Stronger with repeated use]] 	84
+                - [[(Column) Time is compressed in the hippocampus.]] 	84
+        - [[(3.4) Output trains memory.]] 	86
+            - [[(3.4.1) Testing is a means of memory]] 	86
+            - [[(3.4.2) Test and then learn more]] 	87
+            - [[(3.4.3) Not confident but high grades]] 	87
+            - [[(3.4.4) Adaptive boosting]] 	88
+            - [[(3.4.5) Fast test cycle]] 	90
+        - [[(3.5) Interval repetition method to prolong knowledge]] 	91
+            - [[(3.5.1) Review after forgetting]] 	91
+            - [[(3.5.2) Leitner System]] 	92
+            - [[(3.5.3) Ease of the problem]] 	93
+            - [[(3.5.4) 20 rules for structuring knowledge]] 	94
+        - [[(3.5.5) Anki]]	95
+            - [[(3.5.6) Automatic adjustment of difficulty level]] 	96
+            - [[(3.5.7) Create your own teaching materials]] 	97
+                    - [[(Column) The remaining 15 rules for structuring knowledge]] 	98
+                - [[(3.5.7.1) The process of creation deepens understanding]] 	99
+                - [[(3.5.7.2) Personal information available]] 	99
+                - [[(3.5.7.3) Copyright and reproduction for private use]] 	100
+        - [[(3.6) Summary]] 	101
+
+- Chapter 4: [[(4) How to read efficiently]] 103
+        - [[(4.1) What is "reading"?]] 	104
+            - [[(4.1.1) Purpose of reading a book]] 	104
+                - [[(4.1.1.1) Entertainment is out of scope]] 	105
+                - [[(4.1.1.2) Is the objective to obtain information?]] 	105
+                - [[(4.1.1.3) History of information transmission]] 	105
+                - [[(4.1.1.4) Assembling one-dimensional information in the brain]] 	106
+                - [[(4.1.1.5) The content of the book is not the only material to assemble]] 	107
+                - [[(4.1.1.6) Gradient between "find" and "assemble"]] 	107
+            - [[(4.1.2) Type and speed of "reading]] 	108
+        - [[(4.2) What is your usual reading speed?]] 	108
+            - [[(4.2.1) Pyramid of reading speed]] 	109
+            - [[(4.2.2) Where is the bottleneck?]] 	110
+            - [[(4.2.3) Suffering from speed reading]] 	112
+                - [[(4.2.3.1) Figure out the pace at which you can continue]] 	113
+            - [[(4.2.4) Not read]] 	113
+                - [[(4.2.4.1) Obtaining knowledge without reading]] 	114
+        - [[(4.3) How to "find" readings of less than 2 seconds per page]] 	115
+        - [[(4.3.1) Whole Mind System]]	117
+                - [[(4.3.1.1) ❶Preparation]] 	117
+                - [[(4.3.1.2) ❷Preview]] 	117
+                - [[(4.3.1.3) ❸Photoreading]] 	117
+                - [[(4.3.1.4) ❹Creating questions]] 	118
+                - [[(4.3.1.5) ❺Mature]] 	118
+                - [[(4.3.1.6) ❻Find the answer]] 	118
+                - [[(4.3.1.7) ❼Make a mind map]] 	119
+                - [[(4.3.1.8) ❽Fast Reading]] 	119
+                - [[(4.3.1.9) 5-day training]] 	119
+            - [[(4.3.2) Focus Reading]] 	120
+                - [[(4.3.2.1) Measure and control speed]] 	121
+            - [[(4.3.3) Attention to headings, etc.]] 	123
+                - [[(Column) Time Direction Reading]] 	125
+        - [[(4.4) "Assembled" reading of at least 3 minutes per page]] 	126
+            - [[(4.4.1) How to read philosophy books]] 	126
+                - [[(4.4.1.1) Open and closed books]] 	127
+                - [[(4.4.1.2) Books requiring external references]] 	127
+                - [[(4.4.1.3) Mountaineering type book and hiking type book]] 	128
+            - [[(4.4.2) Spend 40 hours reading each book.]] 	128
+                - [[(4.4.2.1) View shelf]] 	129
+                - [[(4.4.2.2) Reading while writing in a reading notebook]] 	129
+                - [[(4.4.2.3) Read to clear up what you don't understand]] 	130
+            - [[(4.4.3) How to read a math book]] 	130
+                - [[(4.4.3.1) Definition of know]] 	132
+                - [[(4.4.3.2) Is it necessary to know?]] 	132
+        - [[(4.5) Design of the task of reading]] 	133
+            - [[(4.5.1) Understanding is an uncertain task]] 	133
+            - [[(4.5.2) Reading is a means, not an end]] 	134
+                - [[(4.5.2.1) Obtain a rough map]] 	134
+                - [[(4.5.2.2) Causing a bond]] 	135
+                - [[(4.5.3.3) Get the tools of your thinking]] 	136
+            - [[(4.5.3) Creating materials for review]] 	137
+                - [[(4.5.3.1) Make a leverage memo]] 	138
+            - [[(4.5.3.2) Incremental Reading]]	139
+                - [[(4.5.3.3) Teaching others]] 	140
+        - [[(4.6) Summary]] 	141
+
+- Chapter 5: [[(5) How to organize your thoughts]] 143
+        - [[(5.1) Too much information? Too little?]] 	144
+            - [[(5.1.1) Check the amount of information using the export method]] 	145
+                - [[(5.1.1.1) Do not seek quality]] 	146
+                - [[(5.1.1.2) Practice.]] 	146
+                - [[(5.1.1.3) Let's set a goal of 100 sheets.]] 	147
+                - [[(5.1.1.4) Advantages of a 100-page target]] 	147
+                - [[(5.1.1.5) Duplication is not a concern]] 	148
+        - [[(5.2) How to organize too much information]] 	149
+            - [[(5.2.1) Lists side by side for better listing]] 	149
+                - [[(Column) Examples of Export Methods]] 	151
+            - [[(5.2.2) Record as soon as you think of it in the process of arranging]] 	152
+            - [[(5.2.3) Move the possibly related items closer together]] 	152
+                - [[(Column) Size of the label]] 	152
+                - [[(5.2.3.1) Flow of the KJ Method]] 	153
+            - [[(5.2.3.1-1) Exploration before starting the KJ method]] (Additional content)
+            - [[(5.2.3.1-2) Group organization]]
+            - [[(5.2.3.1-3) Illustration and documentation]]
+            - [[(5.2.3.1-4) Effect of changing format]]
+            - [[(5.2.4) Group formation requires a change in thinking]] 	155
+                - [[Draft addition to "Group Formation Requires a Change of Mindset"]] (additional content)
+                - [[(5.2.4.1) Group formation is not objective]] 	155
+                - [[(5.2.4.2) Grouping is not a hierarchical classification]] 	156
+                - [[(5.2.4.3) Disadvantages of using existing classification criteria]] 	157
+                    - [[(Column) Streamlining through frameworks]] 	158
+                - [[(5.2.4.4) Disadvantages of creating classification criteria in advance]] 	159
+                - [[(5.2.4.5) Benefits of reducing burden by classification]] 	159
+                - [[(5.2.4.6) Family resemblance]] (Additional content)
+            - [[(5.2.5) What is a relationship?]] 	160
+                - [[(5.2.5.1) Similarity is not the only relationship]] 	160
+            - [[(5.2.5.1-2) Not "related pieces" but "pieces likely to be related"]] (additional content)
+                - [[(5.2.5.2) The NM method focuses on the opposing relationship]] 	160
+            - [[(5.2.5.2-2) Conflict is not only one]] (Additional content)
+                    - [[There is more than one conflict.]]
+                - [[(5.2.5.3) Relationships where topics are connected]] 	161
+            - [[(5.2.5.4) Group organization is similar to method extraction]] (Additional content)
+            - [[(5.2.6) Bundled, fronted, and compressed]] 	162
+                - [[(5.2.6.1) Advantages and disadvantages of making nameplates]] 	163
+                - [[(5.2.6.2) Groups that are good groups that can make nameplates]] 	163
+                - [[(5.2.6.3) Making a front cover when there is an enormous amount of warps]] 	164
+                    - [Suggested additions to make a nameplate when the sticky notes are enormous.
+                - [[(5.2.6.4) "I can't think straight" and "my room is untidy" are similar]] 	165
+                    - [[(Column) Color of nameplate and fusuma]] 	166
+                    - [[(Column) Knowledge Integrity]] 	167
+            - [[(5.2.7) Spread the bundled fusible wafers out again]] 	169
+            - [[(5.2.8) Written output]] 	169
+        - [[(5.3) Tuning for working people]] 	170
+            - [[(5.3.1) Omission of steps]] 	171
+            - [[(5.3.2) Interruptible design]] 	171
+            - [[(5.3.3) How to organize A4 documents]] 	172
+        - [[(5.4) It is important to repeat]] 	173
+            - [[(5.4.1) Repeat KJ method]] 	174
+            - [[(5.4.2) Repeat triggers]] 	174
+            - [[(5.4.3) Incremental improvements]] 	174
+            - [[(5.4.4) Regroup past output]] 	175
+            - [[(5.4.5) Digitization]] 	176
+        - [[(5.5) Summary]] 	177
+
+- Chapter 6: [[(6) How to come up with ideas]] 179
+        - [[(6.1) "Coming up with ideas" is an ambiguous and large task]] 	180
+            - [[(6.1.1) Three phases of coming up with ideas]] 	180
+                - [[(6.1.1.1) Tilling Phase]] 	181
+                - [[(6.1.1.2) Budding Phase]] 	181
+                - [[(6.1.1.3) Nurture Phase]] 	181
+            - [[(6.1.2) The way of thinking of our predecessors]] 	181
+                - [[(6.1.2.1) How to create Young's idea]] 	182
+                - [[(6.1.2.2) Jiro Kawakita's Ideas]] 	183
+                - [[(6.1.2.3) Otto Scharmer's Pattern of Change]] 	185
+                - [[(6.1.2.4) Sprouting is unmanageable.]] 	186
+        - [[(6.2) First, gather information]] 	187
+            - [[(6.2.1) Exploration within oneself]] 	187
+            - [[(6.2.2) Methods to facilitate verbalization]] 	188
+                - [[(6.2.2.1) Trigger by question]] 	189
+                - [[(6.2.2.2) Advantages and disadvantages of frameworks]] 	189
+                - [[(6.2.2.3) Creation is subjective]] 	191
+            - [[(6.2.3) Sense of body]] 	191
+                - [[(6.2.3.1) Try to draw a picture]] 	193
+            - [[(6.2.4) Parables, metaphors, and analogies]] 	194
+                - [[(6.2.4.1) NM Method and Analogy]] 	195
+                - [[(6.2.4.2) Clean Language and Symbolic Modelling]] 	197
+            - [[(6.2.5) That which has not yet been put into words]] 	200
+                - [[(6.2.5.1) Tacit knowledge: sense of approaching a solution]] 	201
+                    - [[(Column) Two kinds of tacit knowledge]] 	202
+                - [[(6.2.5.2) Discomfort is an important sign]] 	203
+                - [[(6.2.5.3) Thinking At the Edge: Where the words are not yet spoken]] 	204
+                - [[(6.2.5.4) Matching against dictionaries]] 	204
+                - [[(6.2.5.5) Public and private language]] 	205
+                - [[(6.2.5.6) KJ method also focuses on discomfort]] 	206
+            - [[(6.2.6) Summary of Linguisticization]] 	207
+        - [[(6.3) Polishing]] 	208
+            - [[(6.3.1) Minimum feasible product]] 	208
+                - [[(6.3.1.1) If you don't know who your customers are, you don't know what quality is]] 	209
+                - [[(6.3.1.2) What should be verified depends on the purpose]] 	210
+            - [[(6.3.2) Climbing the U curve]] 	210
+            - [[(6.3.3) Other people's perspectives are important]] 	212
+            - [[(6.3.4) Can learn from anyone]] 	213
+            - [[(6.3.5) Build a time machine.]] 	215
+                    - [[(Column) Knowledge Distribution Chart]] 	216
+            - [[(6.3.6) Plow again]] 	217
+                    - [[(Column) Books are not a two-way communication.]] 	218
+        - [[(6.4) Summary]] 	219
+
+- Chapter 7: [[(7) How to decide what to learn]] 221
+        - [[(7.1) What is the right thing to learn?]] 	222
+            - [[(7.1.1) Mathematical Correctness]] 	222
+            - [[(7.1.2) The difference between scientific and mathematical correctness]] 	224
+            - [[(7.1.3) Correctness of decisions]] 	226
+                - [[(7.1.3.1) Repeated scientific experiments and one-time decision making]] 	226
+                - [[(7.1.3.2) Usefulness determined ex post facto]] 	227
+                - [[(7.1.3.3) Looking back and connecting the dots]] 	227
+        - [[(7.2) Self-management strategy]] 	228
+            - [[(7.2.1) Search strategy to find a subject to learn about]] 	229
+                    - [[(Column) Effect of the number of options on the quality of decision making]] 	229
+                - [[(7.2.1.1) Wider search area]] 	230
+            - [[(7.2.2) Strategies for using knowledge to expand and reproduce]] 	230
+            - [[(7.2.3) Differentiation Strategies for Excellence]] 	231
+                - [[(7.2.3.1) Acquiring knowledge from others is less costly]] 	232
+                - [[(7.2.3.2) Knowledge obtained from others is of low value]] 	232
+                - [[(7.2.3.3) Pursuit of excellence]] 	234
+            - [[(7.2.4) Differentiation strategy through a combination of]] 	235
+                - [[(7.2.4.1) Knowledge of lid hump]] 	236
+                - [[(7.2.4.2) Continuous Specialist]] 	239
+                - [[(7.2.4.3) Proposed strategies for new hires]] 	240
+            - [[(7.2.5) Trade commercial strategies for knowledge across organizational boundaries]] 	240
+        - [[(7.3) Create knowledge]] 	243
+
+---
+This page is auto-translated from [/nishio/エンジニアの知的生産術 全階層目次](https://scrapbox.io/nishio/エンジニアの知的生産術 全階層目次) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

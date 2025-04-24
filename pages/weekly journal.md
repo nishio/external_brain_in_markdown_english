@@ -1,0 +1,40 @@
+---
+title: "weekly journal"
+---
+
+prev  [[Weekly journal 2024-06-24~2024-07-12]]
+
+2024-07-13
+- Taking a break to clean up the campaign
+- Reminds me more of the Plurality book.
+
+2024-07-16
+- One week to go until FtC! Oh no!
+- [[Plurality in Japan(7/25)]]
+    - [[Plurality in Japan(Japanese)(7/24)]]
+
+2024-07-17
+- 7/23 11:00~13:00 audrey+anno+halsk Private study session
+- 7/24 16:10~16:50 nishio 25 min talk 15 min Q&A: [[Plurality in Japan(Japanese)(7/24)]].
+- 7/25 14:40~15:10 anno+audrey
+- 7/25 16:50~17:20 audrey+glen+nishio: [[Plurality in Japan(7/25)]]
+- 7/26 10:00~12:00 audrey+glen+halsk @Cybozu
+- 7/26 14:00~16:00 audrey+glen+kensuzuki(+...) @Miraikan
+
+2024-07-20
+- It's obvious that we'll be busy until FtC, and I don't think the weekly journal will switch over until then.
+    - I'm going to write it down here because I'm going to be distracted afterwards and say, "Um, what was that?"
+    - Overall review of Plurality book
+    - I'm willing to build a better tool based on TTTC's experience.
+        - Running it on Google Colab is one step in that direction.
+    - Two consultations have already been brought in by people who want to use TTTC.
+    - GPT-4o mini is out now.
+        - I think I'm ripe.
+        - Scrapbox to English
+            - Roughly fits in the context width, even with format specification, fixed translations, etc.
+        - LLM+KJ method system
+
+
+
+---
+This page is auto-translated from [/nishio/週記](https://scrapbox.io/nishio/週記) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

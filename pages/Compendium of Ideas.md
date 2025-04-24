@@ -1,0 +1,67 @@
+---
+title: "Compendium of Ideas"
+---
+
+![image](https://gyazo.com/5ea407962a6bb2a86f03ec70633480bd/thumb/1000)
+- Idea Compendium--42 tools for creativity and breakthroughs
+    - [[book monkey (any monkey of family Cercopithecidae)]]
+- [Amazon](https://amzn.to/2NKqnvP)
+
+Table of Contents
+- Part 1: From 0 to 1
+    - Chapter 1: Ask Yourself
+        - 01  [[bug list]]
+        - 02  [[focusing]]
+        - 03 [[My Sentence Sheet]] in [[TAE]]
+        - 04  [[Edison Notes.]]
+        - 05  [[nonstop writing]]
+    - Chapter 2: Reading Coincidences
+        - 06  [[Random Stimulus]]
+        - 07  [[excursion]]
+        - 08  [[serendipity card]]
+        - 09  [[Vague parts of Vincke]]
+    - Chapter 3: Detecting Problems
+        - 10  [[Kepner-Trigor's situational awareness]]
+        - 11  [[Space and Time Grid]]
+        - 12  [[Example - Code Matrix]]
+    - Chapter 4: Analyzing the Problem
+        - 13  [[Question by P.K. Dick]]
+        - 14  [[Why-Why Analysis]]
+        - 15  [[Kipling Method]]
+        - 16  [[concept fan]]
+        - 17  [[Kepner-Tregoe issue analysis]]
+    - Chapter 5: Doubting Assumptions
+        - 18  [[hypothetical destruction]]
+        - 19  [[problem reversal]]
+- Part 2: From One to Plural
+    - Chapter 6: Changing Perspectives
+        - 20  [[What would Lubitsch do?]]
+        - 21  [[Three rooms at Disney]]
+        - 22  [[Virtual Wise Men's Conference]]
+        - 23  [[Osborne Checklist]]
+    - Chapter 7: Combining
+        - 24  [[relational algorithm]]
+        - 25  [[de Paisman]]
+        - 26  [[(Japanese) cherry blossom division method]]
+        - 27  [[attribute (definition) list method]]
+        - 28  [[morphometrics]]
+    - Chapter 8: Thinking in terms of contradictions
+        - 29  [[Morse Rivalry Learning]]
+        - 30  [[dialectical approach]]
+        - 31 [[Conflict Resolution Diagram]] (Evaporating cloud)
+    - Chapter 9: Thinking by Analogy
+        - 32  [[bionics method]]
+        - 33  [[Gordon's Four Analogies]] ( [[analogy]] )
+        - 34  [[equivalence transformation]]
+        - 35 [[NMDA]] Type T
+        - 36  [[Gennai's spellbinding copywriting]]
+        - 37 [[Kaiowa's "Science of the Diagonal."]] #Kaiowa
+    - Chapter 10: Paraphrasing
+        - 38  [[thesaurus paraphrase]]
+        - 39  [[Talmudic dialectic]]
+    - Chapter 11: Waiting
+        - 40  [[red-haired hound]]
+        - 41  [[Poincaré Incubation]]
+        - 42  [[having a dream]]
+---
+This page is auto-translated from [/nishio/アイデア大全](https://scrapbox.io/nishio/アイデア大全) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

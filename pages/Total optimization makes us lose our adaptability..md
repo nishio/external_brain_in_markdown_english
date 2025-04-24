@@ -1,0 +1,20 @@
+---
+title: "Total optimization makes us lose our adaptability."
+---
+
+[[Hiroki Azuma]]
+> According to Ochiai, the birth of digital nature will enable humankind to optimally allocate resources without relying on unstable market principles. Productivity will increase dramatically, and it will also be able to analyze the characteristics of each individual human being and provide him or her with an optimal social role. However, Ochiai then goes on to argue that humanity will be divided into a handful of advanced capitalist-engineers (AI + VC) and the remaining majority of the labor-free masses (AI + BI). AI+VC" is a term coined by Ochiai to refer to venture capitalists (VC) who will take on the challenge of innovation supported by artificial intelligence, while "AI+BI" refers to a way of life where food, clothing, and shelter are guaranteed by a government basic income (BI), while pursuing a moderately happy lifestyle as recommended by artificial intelligence. It is said to mean a way of life in which people are guaranteed food, clothing, and shelter by the government while pursuing a moderately happy life according to the recommendations of artificial intelligence. Some of that electorate (AI + VC class) is no longer involved in small goals like personal happiness. Instead, they will promote innovation from a larger perspective and realize the happiness of the species as a whole through "problem solving by total optimization brought about by computers. Therefore, they do not need to be bound by old ideas such as freedom and equality. In "Digital Nature," Ochiai wrote clearly that in the world to come, the concept of "human" is a "hindrance," people must respond to a "machine-centered worldview," and "totalitarianism through total optimization can pursue the happiness of all mankind," so "it will not make anyone unhappy. (PLANETS, pp. 181, 219, 221). --- Yoichi Ochiai and Harari are "dreamy and dangerous." Hiroki Azuma cuts down on the "Singularity" theory and its latent "electorate ideology. articles/-/53514?page=5]
+
+> [mshouji](https://x.com/mshouji/status/1535875094496436225) I read the whole article in the May issue of Bungeishunju and it made me think very much. Maybe we should be cool with the human/technological faith argument represented by Kurzweil, Yoichi Ochiai, and Harari.
+> [mshouji](https://x.com/mshouji/status/1535876796519919616) But hey. I've been holding up information sociology for over 20 years since the 2000s, not just the 2010s as Azuma pointed out, so I wanted to take my time to think about how to digest this discussion in my own mind.
+
+
+> [fpocket](https://x.com/fpocket/status/1535907194017050626) I agree. I feel the problem is condensed in the idea that total optimization = good. As Audrey Tan pointed out, optimization requires an objective function, but I think the problem is how to determine that objective function. I believe that the overall optimum will result in dysfunctional collective knowledge and loss of adaptability of people and society!
+> [fpocket](https://x.com/fpocket/status/1535911001404903424) Specifically speaking, to optimize you need to know what is optimal, but it is almost impossible to determine what is optimal in an environment where predictions do not work, such as complex systems. If the predictions are wrong, we will be wiped out. I think it is foolish to aim for such a fragile society, but I feel that the idea that total optimization = good is spreading in Japan.
+
+- [[global optimization]]
+- [[adaptability]]
+- [[objective function]]
+
+---
+This page is auto-translated from [/nishio/全体最適は適応力を失わせる](https://scrapbox.io/nishio/全体最適は適応力を失わせる) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,12 @@
+---
+title: "Similar substitutes reduce satisfaction."
+---
+
+Compared eating a cheap chocolate with a high similarity to eating a granola bar with a low similarity when a high quality chocolate is not available instead. People believe that eating a high similarity is more satisfying, however, the high similarity causes an unfavorable negative contrast effect, and the low similarity alternative is more efficiently satisfying.
+
+One interpretation is that eating a similar [[substitute article]] lowers [[(degree of) satisfaction]], since those who continued to eat high-end chocolate and those who ate granola bars had the same level of satisfaction.
+
+[http://journals.sagepub.com/doi/abs/10.1177/0956797616640705](http://journals.sagepub.com/doi/abs/10.1177/0956797616640705)
+> When people cannot get what they want, they often satisfy their desire by consuming a substitute. Substitutes can originate from within the taxonomic category of the desired stimulus (i.e., within-category substitutes) or from a different taxonomic category that serves the same basic goal (i.e., cross-category substitutes). Both a store-brand chocolate (within-category substitute) and a granola bar (cross-category substitute), for example, can serve as substitutes for gourmet chocolate. Here, we found that people believe that within-category substitutes, which are more similar to desired stimuli, will more effectively satisfy their cravings than will cross-category substitutes (Experiments 1, 2a, and 2b). However, because within-category substitutes are more similar than cross-category substitutes to desired stimuli, they are more likely to evoke an unanticipated negative contrast effect. As a result, unless substitutes are equivalent in quality to the desired stimulus, cross-category substitutes more effectively satisfy cravings for the desired stimulus (Experiments 3 and 4).
+---
+This page is auto-translated from [/nishio/似ている代用品は満足度を下げる](https://scrapbox.io/nishio/似ている代用品は満足度を下げる) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

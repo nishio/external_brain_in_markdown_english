@@ -1,0 +1,117 @@
+---
+title: "ONI MOD"
+---
+
+- Falling Sand
+    - Collapsed sand is also subject to excavation.
+- Build Over Plants
+    - Can direct construction where plants are growing, plants are pulled out.
+- Bigger Capacity
+    - Capacity adjustment of hangars, etc.
+    - Materials to build the hangar will soon be plentiful.
+    - I'd rather solve this problem with a mod than with a bunch of side-by-side solutions.
+- Aquatic Farm
+    - Farm tile that absorbs ambient water
+    - Not much use for it now.
+    - Cultivated in temperature-controlled ponds
+- GasOverlay
+    - easy to see
+- Blueprints
+    - Construction instructions can be copied and pasted when you want to build another one of what you have constructed.
+    - Can be named, saved and reused.
+- DGSM - Duplicants Generation Settings Manager // by @Ony 👾
+    - Can interfere with initial duplicant and print pod behavior
+- Favorite Resources // by @Ony 👾
+    - Improved resource display
+- Self-sealing Airlocks
+    - It's also airtight when the airlock is open.
+    - Airtight release when open
+    - Liquid airlock is troublesome.
+- Bigger Camera Zoom Out
+    - Zoom in all the way
+- Longer Bridges
+    - Long bridge across two pipes
+- Buildable AETN
+    - Anti-entropy device can be built.
+- Travel tube crossing wall and ladder
+    - Tubes can intersect with ladders
+- No Drop // by @Ony 👾
+    - Don't drop things.
+- ChainedDeconstruction
+    - Dismantle contiguous items together.
+- Bigger Building Menu
+    - Make menus larger to reduce scrolling
+- Speed Control
+    - I always play it 10x faster.
+- Half Door
+    - 1 square door
+- Deconstructable POI Props
+    - Demolish ruins and stuff.
+    - demon who obstructs sentient beings from maintaining moral behaviour
+- Fluid Shipping
+    - Equipment that allows liquid tanks to be carried and then placed directly into pipes
+- Smart Mop // by @Ony 👾
+    - Cumbersome to select a range of mopping.
+    - Mop up a continuous stream of liquids with a single click
+- Advanced Electrolyzer
+    - Hydrogen and oxygen enter the pipe separately.
+    - A mechanism for separation without filters can now be made in Sola, and it's a pain to make.
+        - [/OxygenNotIncluded/SPOM](https://scrapbox.io/OxygenNotIncluded/SPOM)
+    - PH2O can be converted to PO2, which can also replace the evaporator.
+- Buildable Natural Tile
+    - Can install soil blocks, etc.
+    - Baking argae is a hassle.
+    - The same amount of resources are required, so the resources cannot be increased.
+- Butcher & Fishing Stations
+    - Equipment to turn surplus organisms into meat
+- Double Sweeper Range
+    - Extend the scope and increase the room for automation
+- Compact Info Cards
+    - Display Improvement
+- Efficient Supply
+    - I wonder what it's called.
+- Crack Reacher
+    - Extend the scope of construction, etc.
+- Cooling Element
+    - Not tried yet, a device that uses electricity to cool (thermal destruction)
+    - We can now do active cooling with boilers, and we've built a number of them, and it's getting tedious.
+- Pliers
+    - I can chop the pipe.
+    - Pipes can be disconnected immediately instead of waiting for a dismantling instruction.
+- Black Hole Garbage Disposal
+    - Throw away things you don't need (and don't use yet)
+    - If they start doing natural gas distillation or something and make sulfur or something that has zero use, I'd be tempted to dump it.
+    - If I dump the regolith, will the machine run lighter?
+    - The solution for infinite liquid tanks is airlock doors and airflow tiles, while infinite gas tanks are saunas.
+    - Infinite gas tanks have a well-known solution of liquid to vent, but it's a pain, so I only use saunas these days.
+- Piped output
+    - Recently added
+    - Convert all environmental emission type facilities to pipe output type
+        - It is upwardly compatible with Advanced Electrolyzer.
+    - Sealing the equipment and pumping it will solve the problem, when that hassle is too much.
+- Thermal Isolation Door
+    - Doors to be insulated
+    - If you stack three doors on top of each other and only raise the middle one, you can insulate it by creating a vacuum, but when that's too much trouble.
+- Advanced Generators 2
+    - A generator that generates electricity by absorbing ambient heat.
+    - Operating temperatures range from 10 to 55 degrees Celsius, so it is not a replacement for boilers
+    - Good for compactly cooling a living area.
+    - If you have a type of farm where 10 degrees Celsius is the optimum temperature, it is easy to maintain the optimum temperature just by placing this on the farm.
+- Simpler Pip Plant Rule
+    - Simplify Pip's seeding rules.
+    - Leave it alone and plant it just fine.
+    - It's a pain in the ass to control if you try hard enough with a ladder or something.
+- Power Tweaks
+    - Power-related balancing
+    - I don't think I need this one anymore.
+- Claustrophobia - Stuck Duplicant Alert
+    - Alerts you when you're trapped.
+    - Avoiding Unexpected Death
+
+What I want now
+I want a device that has all the SCPS PowerGrid distribution equipment in one piece, it's a pain to make every time.
+
+In retrospect, the "trial-and-error stage of figuring out how to do something" is fun, but once it stabilizes, I find myself saying, "I hate doing work that I know how to do.
+
+---
+This page is auto-translated from [/nishio/ONI MOD](https://scrapbox.io/nishio/ONI MOD) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

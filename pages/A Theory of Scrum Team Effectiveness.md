@@ -1,0 +1,14 @@
+---
+title: "A Theory of Scrum Team Effectiveness"
+---
+
+> Scrum teams are at the heart of the Scrum framework. Nevertheless, an integrated and systemic theory that can explain what makes some Scrum teams more effective than others is still missing. To address this gap, we performed a 7-year-long mixed-methods investigation composed of two main phases. First, we induced a theoretical model from 13 exploratory field studies. Our model proposes that the effectiveness of Scrum teams depends on five high-level factors ([[responsiveness]], [[stakeholder concern]], [[continuous improvement]], [[team autonomy]], and [[management support]]) and 13 lower-level factors. In the second phase of our study, we validated our model with a covariance-based structural equation modeling analysis using data from about 5,000 developers and 2,000 Scrum teams that we gathered with a custom-built survey. Results suggest a very good fit of the empirical data in our theoretical model (CFI = 0.959, RMSEA = 0.038, SRMR = 0.035). Accordingly, this research allowed us to (1) propose and validate a generalizable theory for effective Scrum teams and (2) formulate clear recommendations for how organizations can better support Scrum teams.
+[A Theory of Scrum Team Effectiveness | ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/doi/10.1145/3571849)
+(DeepL)[[Scrum teams]] are at the heart of the [[scrum]] framework. Despite this, we have yet to find an integrated and systematic theory that can explain why some scrum teams are more effective than others. To address this gap, we conducted a seven-year mixed-methods study consisting of two main phases. First, we derived a theoretical model from 13 exploratory field studies. Our model proposes that scrum team effectiveness depends on five top factors ([[Responsiveness]], [[Stakeholder Consideration]], [[Continuous Improvement]], [[Team Autonomy]], and [[Management Support]]) and 13 sub-factors. In the second phase of this study, we tested our model with a covariance-based structural equation modeling analysis using data from approximately 5,000 developers and 2,000 Scrum teams collected through a custom-made questionnaire. The results suggest that the empirical data fit our theoretical model very well (CFI = 0.959, RMSEA = 0.038, SRMR = 0.035). Thus, this study allowed us to (1) propose and validate a generalizable theory for effective scrum teams; and (2) to test the theory of scrum team effectiveness.
+
+- [[teamwork]]
+
+[[Takeo Imai]] told me about it.
+
+---
+This page is auto-translated from [/nishio/A Theory of Scrum Team Effectiveness](https://scrapbox.io/nishio/A Theory of Scrum Team Effectiveness) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,16 @@
+---
+title: "In the emotional public sphere, the key is how much you can move people's emotions."
+---
+
+from [[p2025-04-16]]
+In the emotional public sphere, the key is how much you can move people's emotions.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/DR/icon' alt='DR.icon' height="19.5"/>
+In fact, the populist phenomena seen around the world since the beginning of the 21st century have clearly demonstrated the power of emotions such as anger, fear, hatred, and a sense of belonging in politics. The Trump phenomenon in the U.S., the breakthrough of far-right parties in Europe, and the Brexit referendum in the U.K. all demonstrated the "voice of the people" by addressing voters' dissatisfaction and anxiety. Negative emotions such as fear of immigrants and anger toward elites were the main driving force. Social media have also served as a platform for spreading and amplifying feelings of anger and disgust, and many argue that they have become a breeding ground for "populism" that has deepened divisions. As a result, the more extreme the discourse, the more likely it is to spread. As a result, "emotional public opinion" is easily formed, with fear and hatred swirling around it, creating a "Post-Truth" situation in which emotional narratives prevail over dispassionate fact-checking.
+However, emotions are not only negative in nature, and their positive role as a driving force for political solidarity and social movements should not be overlooked. For example, in the 2011 "[[Arab Spring]]" and the 2019 Hong Kong demonstrations ([[2019-2020 Hong Kong Democracy Demonstrations]]), positive emotions such as hope and courage as well as anger and despair were important denouncers that connected participants. Media researcher [[Gigi Papacharissi]] has named the new [[public sphere]] of the Internet age, such as the hashtag movement, the "[[affective publics]] ([[affective publics]])."
+[Review of Papacharissi, AFFECTIVE PUBLICS](https://compositionforum.com/issue/34/rai-papacharissi-review.php)
+According to her, contemporary online public opinion is an "emotionally connected public" where facts, opinions, and feelings are mixed together, and people are slowly driven to political action by sharing their feelings. A typical example is the loose solidarity through hashtags on Twitter, such as #MeToo and #BlackLivesMatter, where anger and feelings of solidarity resonated through hashtags and developed into a large-scale social movement. In this kind of "[[feeling and participating]]" public sphere, not only rational discussion but also "empathy for the story" and "imagination for the pain of the people involved" contribute to the formation of public opinion. In other words, political messages are not evaluated merely on the basis of their accuracy or rationality, but on how well they move people's emotions.
+
+
+---
+This page is auto-translated from [/nishio/情動的公共圏ではどれだけ人々の感情を動かせるかがカギ](https://scrapbox.io/nishio/情動的公共圏ではどれだけ人々の感情を動かせるかがカギ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,11 @@
+---
+title: "Collection of unused knowledge generated in the process of document preparation and verification of the possibility of its utilization"
+---
+
+[Collection of unused knowledge generated in the process of document preparation and verification of its potential for utilization | Literature Information | J-GLOBAL Science and Technology Research Link Center](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201902256881754171)
+>  Abstract/Points: Abstract/Points
+> There have been many studies on the efficient use of knowledge. The knowledge that these studies target is knowledge that has been formalized based on the judgment that it is useful. On the other hand, the process of creating this knowledge generally involves trial and error, and [[knowledge fragments]] ([[wisdom not to know]]) that are judged to be useless in this process are ultimately discarded without being stored or recorded, and are not considered as objects of utilization. However, useless knowledge is only judged as useless in the context of a certain knowledge creation, and it is not appropriate to judge it as useless uniformly in other knowledge creations as well. The authors have been focusing on the possibility of utilizing disused knowledge, and have been studying the collection and utilization of rejected sentence fragments (rejected sentence fragments) as disused knowledge. Specifically, we have developed a text creation support system [[Text ComposTer]] that can separate and collect rejected sentence fragments into those with high potential for use (R-DTF) and those with low potential for use (F-DTF). In this paper, we examine whether the R-DTFs collected by Text ComposTer are actually utilized in the creation of new sentences, and based on the results of this examination, we discuss the construction of an environment for utilizing rejected sentence fragments as an intellectual resource. (Author's abstract)
+- [[Yasuaki Ikuta]], [[Kentaro Takashima]], [[Kazushi Nishimoto]]
+
+---
+This page is auto-translated from [/nishio/文書作成過程で生成された不用知の収集と活用可能性の検証](https://scrapbox.io/nishio/文書作成過程で生成された不用知の収集と活用可能性の検証) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,34 @@
+---
+title: "Local service providers are local amateurs"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT/icon' alt='GPT.icon' height="19.5"/>
+    - People in [[region]] are often unaware of the attractions of the region in which they live.
+- He says, "There are many attractions, such as nature and food, and we want more people to know about them." However, few locals use local restaurants and hotels, and their main clientele are city dwellers and foreign tourists.
+    - Local service providers are not experts who know their local area well; they are amateurs in the local area.
+- The community leaders are,
+    - New perspectives and ideas should be gained by visiting different regions.
+    - It is necessary to compete and find an advantage by taking advantage of the unique characteristics of one's region.
+    - We should visit other progressive regions and learn from their best practices.
+- Unless they themselves visit other regions, any attempt to bring people to their own region can be ego.
+    - [[movement]] People with large distances, i.e., those who visit many places, tend to be more successful.
+- Economic success often comes more from observing people and [[having new perspectives]] than from deviation during school years.
+
+[Hideto Fujino Facebook [https://www.facebook.com/hideto.fujino/posts/pfbid02YGwvqy9M2fWkWPgUEYDnj7zmki6TjPZQxXX1pSw7S4zE8w51i9NjX4UTB1nCXZmCl](https://www.facebook.com/hideto.fujino/posts/pfbid02YGwvqy9M2fWkWPgUEYDnj7zmki6TjPZQxXX1pSw7S4zE8w51i9NjX4UTB1nCXZmCl) ]
+> Rural people are surprisingly unaware of "rural" areas.
+>  I often travel to various regions and provinces of Japan for business and personal reasons. I often meet with leaders of various regions and people who are working hard with tourism resources. And I always think that I really don't know as much about the local regions as if I did.
+>  It's really great here. The nature is abundant and the water is clean. The sake is delicious, and there is both ocean and mountains. Mushrooms and wild vegetables are abundant. The rice is good. The food is delicious. I wish more people knew about these wonderful places, and it is true. And it is true, all 47 prefectures are like that. Even in Tokyo, if you go to remote islands or Hinohara Village, it is true.
+>  On the other hand, few locals come to local restaurants, HOTELs, and inns. Customers are city people and inbound foreigners. They have a wide variety of choices, and they compare and contrast different regions. They have a discerning eye for local regions. They are regional experts. Few service providers have traveled to more rural areas than their customers. Service providers in rural areas are amateurs in rural areas.
+>  People who are doing well in their regions sometimes go to Tokyo to visit, but rarely go to other regions. I know very few local or regional people who travel all over Japan. There are a few, of course, but those people are real community leaders.
+>  When you talk to the owners and leaders of cool auberges, HOTELs, etc., you will usually find that many of them are spending their own money. They travel a lot. I enjoy exchanging information about which hotels have been good recently. Such lodgings continue to evolve.
+>  Very few people from Tohoku travel to Kyushu. The reverse is also true. Many people from Wakayama have never been to Kyushu or Tohoku. People from rural areas talk about their regions in comparison to Tokyo, but it is no surprise that they are actually chosen based on comparisons between regions in terms of tourism. Therefore, "good taste" is also "bad" as a business unless there is a relative sense of comparison. We need to be aware of whether or not the hotel or auberge A, a cutting-edge example in Okinawa, is good or not, or how sophisticated the scenery or service is. However, most people do nothing, saying that they do not have time or money, and they always complain that they cannot hire new people.
+>  Of course I understand such a situation, but inter-regional competition has already started, and the regions in the places that are attracting customers have close inter-regional leader exchanges. The regions that are attracting customers have close interactions with each other's leaders, and each region is taking advantage of its unique characteristics to find objective advantages and compete there. Those who complain and do nothing are weeded out. It is a matter of course.
+>  You have to invest with your own money. If you don't invest with your own money, you don't have money and you can't hire people.
+>  Besides, coming to our place and saying you want to increase the population involved is just ego if you don't go around to other regions yourself.
+>  What I always tell local leaders, even in Toyama Prefecture, is to travel, to look at other advanced examples and steal from them. From another perspective, there are still very few such local leaders, so the value of walking around the region is very high.
+>  To begin with, people who are financially successful usually have large distances to travel. While this may seem to be a causal relationship between being financially successful and being able to travel (because they can afford it), it appears from observation that from a young age (when money and status were not available), the distance traveled was greater than that of other people of the same age group. It is difficult to do value-added work, at least for those who are exclusively traveling back and forth between home and work. Well, maybe it has something to do with the fact that hyperactive-ish people tend to be more successful. The more material there is to compare, the easier it is to come up with ideas.
+>  At least for financial success, not so much deviation superiority in school days has little to do with it. A higher deviation means that you can be a relatively better businessman, but a regular self-employed person with more hands and more variety in his or her approach is more likely to be successful. There are many ways to design an interesting life without having to breathe a sigh of "I'm going to go IPO as a startup. To do so, it is important to observe people and find the gaps in their lives. The quickest way to do this is to change your location and travel.
+>  So, what I am saying is that local leaders (and those who aspire to be leaders) should travel around the countryside more and more.
+
+---
+This page is auto-translated from [/nishio/地方のサービス提供者は地方の素人](https://scrapbox.io/nishio/地方のサービス提供者は地方の素人) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

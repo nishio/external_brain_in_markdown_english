@@ -1,0 +1,13 @@
+---
+title: "The Rise of Populism as a Shakeout from Indifference in the Age of Consensus"
+---
+
+from [[p2025-04-16]]
+The Rise of Populism as a Shakeout from Indifference in the Age of Consensus
+<img src='https://scrapbox.io/api/pages/nishio-en/DR/icon' alt='DR.icon' height="19.5"/>
+Contemporary political philosopher [[Martha Nussbaum]] argues that "[[feelings of]] love and solidarity" as well as rational institutional design are essential to maintaining a liberal society. In Nussbaum's book "[[Emotions in Politics: Why Love is Necessary for Justice]]" (2013), he explains the need to foster feelings of patriotism and empathy, which make people want to respect each other's basic human rights, in order to support abstract principles such as freedom and equality. This is an idea that is also in line with the "civil religion" advocated by the 18th century philosopher [[Rousseau]] and the "association" ("spirit of association") pointed out by [[Tocqueville]], and it is an assertion that people will not make sacrifices for the common good simply by having laws and a constitution, and that [[emotional bonds]] are necessary. This is the claim. Not only Nussbaum, but political scientists argue that "[[civic passion]]" is important for democratic stability. Excessively [[consensus-oriented]] and [[tasteless politics]] will cause people to lose [[interest in political participation]] and make room for [[populists]] to appear by skillfully inflaming passions - a swing back from what Mouffe calls "indifference in the age of [[middle-of-the-road consensus]]. The recent rise of populism is sometimes explained as a
+[Democratic Politics and Conflict: An Agonistic Approach](https://quod.lib.umich.edu/p/pc/12322227.0009.011/--democratic-politics-and-conflict-an-agonistic-approach?rgn=main;view=fulltext)
+[Political Emotions: Why Love Matters for Justice | Reviews | Notre Dame Philosophical Reviews | University of Notre Dame](https://ndpr.nd.edu/reviews/political-emotions-why-love-matters-for-justice/)
+
+---
+This page is auto-translated from [/nishio/コンセンサスの時代の無関心からの揺り戻しとしてのポピュリズム台頭](https://scrapbox.io/nishio/コンセンサスの時代の無関心からの揺り戻しとしてのポピュリズム台頭) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

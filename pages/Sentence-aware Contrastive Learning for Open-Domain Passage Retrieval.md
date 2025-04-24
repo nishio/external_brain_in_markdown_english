@@ -1,0 +1,17 @@
+---
+title: "Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval"
+---
+
+> Training dense passage representations via contrastive learning has been shown effective for Open-Domain Passage Retrieval (ODPR). Existing studies focus on further optimizing by improving negative sampling strategy or extra pretraining. However, these studies keep unknown in capturing passage with internal representation conflicts from improper modeling granularity. Specifically, under our observation that a passage can be organized by multiple semantically different sentences, modeling such a passage as a unified dense vector is not optimal. This work thus presents a refined model on the basis of a smaller granularity, contextual sentences, to alleviate the concerned conflicts. In detail, we introduce an in-passage negative sampling strategy to encourage a diverse generation of sentence representations within the same passage. Experiments on three benchmark datasets verify the efficacy of our method, especially on datasets where conflicts are severe. Extensive experiments further present good transferability of our method across datasets.
+[https://aclanthology.org/2022.acl-long.76/](https://aclanthology.org/2022.acl-long.76/)
+- (DeepL) Training dense passage representations through contrast learning has been shown to be effective for Open-Domain Passage Retrieval (ODPR). Existing studies have focused on further optimization through improved negative sampling strategies and additional prior learning. However, these studies have difficulty capturing passages with internal representation conflicts due to inappropriate modeling granularity. Specifically, under our observation that a single sentence can be composed of multiple semantically distinct sentences, it is not optimal to model such sentences as a unified, dense vector. Therefore, we present a refined model based on smaller granularity, contextual sentences, to alleviate the conflicts of concern. In detail, we introduce an intra-passage negative sampling strategy to encourage the generation of a variety of sentence representations within the same passage; experiments on three benchmark datasets validate the effectiveness of our method, especially on highly competitive datasets. Furthermore, extensive experiments show that the method has good portability across datasets.
+
+Talk about problems caused by not using the right units for the search target, and that chopping it up more finely will solve the problem.
+- ![image](https://gyazo.com/9eb9b2ec68bea2cdbe4be0127a2da199/thumb/1000)
+- So how do we chop it?
+    - Put a special token in the sentence separator and use BERT to take the timing output of that token.
+    - [[Contrastive Learning]] between correct and other and incorrect sentences.
+    - I see - if you split the input string itself, you lose the context, this way you can embed each sentence based on the common context.
+
+---
+This page is auto-translated from [/nishio/Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval](https://scrapbox.io/nishio/Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

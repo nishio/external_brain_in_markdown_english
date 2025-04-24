@@ -1,0 +1,12 @@
+---
+title: "Addressing the Digital Divide in Korea"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/DR/icon' alt='DR.icon' height="19.5"/>Response to and inclusion in [[the digital divide]]: While [[South Korea]] has a high rate of Internet use among its citizens, the digital divide between generations has become an issue. Older generations are less likely to use digital devices and services than younger generations, and in some cases feel inconvenienced and alienated in their daily lives. In particular, in recent years, the replacement of unmanned kiosk terminals for ordering at restaurants, paying utility bills, and other services has become a social issue, causing confusion among the elderly. For this reason, the government and local governments are working to subsidize the development of terminals with an elderly-friendly UI and to provide digital education programs.
+- [Rights agency urges Korea to bridge digital divide for older people - The Korea Times](https://koreatimes.co.kr/www/nation/2024/11/281_369067.html)
+
+The National Human Rights Commission of Korea also issued a recommendation in 2024 that "the elderly should be guaranteed access to digital access" and asked for support in terms of the right to access information for everyone.
+
+Specific measures include the widespread use of smartphones with larger font sizes and voice-guided ATMs for seniors, and smartphone workshops at local public facilities. In addition, subsidies for the purchase of digital devices and support for communication costs are also provided to the disabled and low-income groups, and efforts are underway to ensure that no one is left behind in the digital society. The Korean government advocates an inclusive nation in the digital age, and has set the correction of digital disparities and social inclusion as important policy goals.
+---
+This page is auto-translated from [/nishio/韓国におけるデジタル格差への対応](https://scrapbox.io/nishio/韓国におけるデジタル格差への対応) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

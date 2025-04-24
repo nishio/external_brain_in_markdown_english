@@ -1,0 +1,11 @@
+---
+title: "A Consideration of the Logical Development of the Japanese in Expressing their Opinions"
+---
+
+[PDF](https://urayasu.meikai.ac.jp/japanese/meikainihongo/14/ogiwara.pdf)
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+This paper is a study that examines, based on conversational data, whether the logical development of Japanese people in expressing their opinions is really only "inductive" (i.e., the conclusion is stated after the conclusion). The author analyzed a corpus of natural conversations (transcribed data of spoken interviews) and found that both "deductive" patterns, in which the conclusion (central sentence) comes first (at the beginning) and "inductive" patterns, in which the conclusion comes last (at the end), exist at about the same level. The results showed that both "deductive" and "inductive" patterns existed to about the same extent.
+
+Furthermore, the study reveals that experience of living abroad has a stronger influence on the development of logic than gender or social position. Those who had lived abroad were more likely to take the "deductive" approach, which presents the conclusion at the beginning of the conversation. These results suggest that the blanket understanding that "Japanese people are always inductive because they are Japanese" is incorrect, and that a variety of factors such as language used, relationship with others, and overseas experience affect logical development. In addition, the paper argues that it is important to consider "which type" can be used depending on the situation, even in the context of education on expressing opinions and cross-cultural communication.
+---
+This page is auto-translated from [/nishio/意見述べにおける日本人の論理展開についての一考察](https://scrapbox.io/nishio/意見述べにおける日本人の論理展開についての一考察) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,25 @@
+---
+title: "Introduction to Anti-Philosophy"
+---
+
+![image](https://gyazo.com/1d37eeebce98dca8be79f5f04b20f7f0/thumb/1000)
+    - [[Hajime Kida]]
+    - > Born in 1928. Born in Yamagata Prefecture. Philosopher. Graduated from Tohoku University, Faculty of Letters, Department of Philosophy. Professor emeritus at Chuo University. Known for his translation of major works of modern Western philosophers such as Martin Heidegger, Edmund Husserl, and Maurice Merleau-Ponty into easy-to-understand Japanese. He is also famous for an episode in which he made a living as a black market trader right after the end of the war.
+- [Amazon](https://amzn.to/3FM0x0L)
+
+Read and commented in 2013 [[Hatena2013-10-27]].
+- I read "An Introduction to Anti-Philosophy."
+- This book was compiled by an editor who asked the author, a philosopher, verbatim. The author was concerned about "the same content coming up over and over again," but was told by the editor that "it is rather easy to understand what is important over and over again," which he found to be true. There's a similar thing in mathematics. I think that important things should be written more than once, but for some reason I think about making the same content appear only once, and then I worry about the order of the story.
+- Well, that aside, the orally summarized portions of the book are very readable.
+- There are two ways of thinking about the philosophical question, "Why do things exist? Both Japan and ancient Greece believed that things come into being and "become" spontaneously. On the other hand, [[Judaism]] held that "the Creator made the world.
+    - [[Socrates]] repeatedly denied the existing Greek philosophy, but did not create a new system himself, while his disciple [[Plato]], perhaps under the influence of Judaism, believed that an ideal "[[idea (in Platonic thought)]]" existed and that the real world was "made" in its image. After Plato, this idea of "making" became a strong force in Europe. One of the reasons for this is that [[Christianity]] used the framework of "nature" and "the transcendent who created it" for its own theoretical armament.
+    - In [[Descartes]], too, the idea is that a transcendent who has changed the form of "[[reason]]" creates the world by "thinking. In those days, when Galileo was put on trial for religion, it was dangerous to contradict the Church's ideas. The idea was that human reason was correct because it was "guarded by [[divine reason]].
+- A century or two after Descartes, Kant thought we should get rid of "[[Guardianship of Divine Reason]]. This is what he meant by "What is enlightenment? It is to get rid of [[juvenile delinquency]] that man has brought upon himself. A juvenile is a state in which one cannot use one's reason without the guidance of others" ([[What is Enlightenment?]]). Instead of bringing up God and saying "it is right because it is reason," [[Critique of Pure Reason (Kritik der reinen Vernunft) (Kant)]], he wondered how much can be said by pure reason alone and what is too much to say.
+- Nietzsche] said that all of the various philosophies after Plato had dragged Plato's idea in that "transcendent beings exist because they are created by transcendent beings," and that this was not right. His first study was "[[The Formative History of Greek Tragedy]]," and in the process he had the opportunity to come into contact with pre-Platonic thought. At the time, [[Darwin's theory of evolution]] was emerging, which suggested that if organisms change themselves to adapt to their environment, then human cognitive functions may have "become" adaptive to their environment as well.
+- He believed that "[[will to power]]" - "to be stronger, to be greater" - was the reason existence "came to be" as it is. He did not need to posit a transcendent being such as "God" or "reason," and his idea was catchily expressed in the phrase "[God is dead.
+- After this, we talked about Heidegger and Nazism, and then about Husserl, whom the author loves, but it seems that the author started to add more and more things to the conversation, and it became difficult to understand the details of the conversation. I am sorry to say that the story is now finished. Since I had read the book in e-book format, I did not feel that there were only a few pages left, and I was very surprised because it was written as if it was still in the middle of the story.
+- So even though I don't know much about Heidegger and Husserl, the book was very easy to follow up to Nietzsche.
+- Last time I read "[[Introduction to Philosophy]]" by Kitaro Nishida. Next, I intend to read "[[Philosophy Textbooks]]" by Yoshimichi Nakajima.
+
+---
+This page is auto-translated from [/nishio/反哲学入門](https://scrapbox.io/nishio/反哲学入門) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

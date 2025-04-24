@@ -1,0 +1,75 @@
+---
+title: "Nodal Point of Thought 2023-04-04"
+---
+
+from  [[What would you do if you had a thousand people in your life?]]
+>  "[[A better form of knowledge representation]]" is not yet understood.
+> Vector search.
+    - [[Forms of Knowledge Representation]]
+        - [[Scrapbox and the use of knowledge representation and permalinks in books]]
+        - Differences between books and Scrapbox
+            - Scrapbox is excellent for pointing to information because it comes with human-readable permalinks and redirects to connect even if renamed.
+            - Scrapbox-like if ebooks had the ability to select portions of text and create permalinks
+            - Content first, [[title after the fact]] method is better
+        - [[Forms of Knowledge Representation]]
+        - Scrapbox
+            - No attributes on the link itself
+            - Instead, contextual information is made an attribute of the link by bracketing its occurrence in the sentence.
+        - A method for extracting meaning from the occurrence of surrounding words
+            - word2vec is used to represent the type of relationship as a continuous vector rather than a discrete classification
+            - [[Continuation of relations]]
+    - [[Knowledge and Wisdom]]
+    - [/qualia-san/ difference between knowledge and wisdom](https://scrapbox.io/qualia-san/ difference between knowledge and wisdom).
+    - > [@Qualia_san](https://twitter.com/Qualia_san/status/1630561489034817537?s=20): Q: What is the difference between [[knowledge]] and [[wisdom]]?
+    - > A: Knowledge is the accumulation of facts and ideas; wisdom is the application of knowledge to make decisions in real-world situations.
+    - > Knowledge may come from books, but wisdom must come from experience.
+    - A better form of knowledge representation may be "a form that is easy to apply".
+        - Then the next question becomes, "What is the application of knowledge?" becomes
+    - [[Means of sharing information without verbalization]]
+        - [[Knowledge Transfer through Collaboration]]
+        - > Knowledge transfer without verbalization by sharing the work process.
+        - A better form of knowledge expression may not be words.
+            - Well, LLM's weight is not in words.
+            - We use language as an interface for human beings and communication.
+    - [[I know.]]
+    - > Knowing" is better than "not knowing. However, there is not much difference in knowledge that can be easily acquired through search, because those who realize they "don't know" can easily change to "know". Those who "think they know" and believe in false knowledge are worse off than those who "don't know" because they don't have the opportunity to search for and acquire correct knowledge.
+        - The value of "knowledge that can be easily acquired through search" is low.
+    - [[How to give knowledge to those who lack knowledge]]
+    - Connect minimal knowledge to give concept X
+    - But this requires knowing in advance what the user knows
+    - What if not? Breadth-first search and the first one found is the shortest path
+        - First [[width-first search]]
+        - Then create "[[Connecting Stories]]".
+    - [[excellence]]
+    - are [[Knowledge Exchange Requirements]].
+    - If knowledge areas are covered, then there is no knowledge exchange.
+    - In other words, in order to create a system that works for me, I can't just let people read my Scrapbox, I need to let them read what I don't know and find the quickest way to connect it to what I already know.
+    - [[Knowledge of long-term value]]
+        - [[Knowledge obsolescence]]
+            - [[New things become obsolete faster than old things.]]
+            - Should I have them read the classics they haven't read yet?
+            - [[Principle of Emphasizing Elderly Opinion]]
+            - > Decline in the correlation between "storing useful knowledge" and "being able to generate useful knowledge"
+            - > Usefulness of applying "knowledge accumulated in the past" to a new environment/compared to "acquiring knowledge quickly from a new environment
+            - When the time came to start thinking about "better forms of knowledge representation," it was "how to store knowledge."
+            - But maybe it's not about "storing" but about "creating" and "acquiring."
+            - "Generating" may be a prelude to "applying" by "finding a relationship."
+            - [[time efficiency]]
+            - What was useful is more likely to be useful again later.
+            - When Scrapbox links connect to the past, odds are it will also be useful
+    - [[Knowledge Creation]]
+    - [[Nodes of Thought2019-10-14]]
+    - This is a pretty relevant story.
+    - [[There is more than one way to be rich.]]
+    - [[Reading Assist]]
+    - [[Corrected differences for the 4th printing]]
+    - [[Knowledge Generation and Use]]
+    - [[Finding quality sources of information]]
+    - [[Taught by people with a lot of knowledge.]]
+- [[Hatena2009-03-11]]
+        - [[2009 Leverage Memo Organizing]]
+    - [[Digest for sticky notes]]
+    - [[Knowledge Creation Methodology]]
+
+---
+This page is auto-translated from [/nishio/思考の結節点2023-04-04](https://scrapbox.io/nishio/思考の結節点2023-04-04) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

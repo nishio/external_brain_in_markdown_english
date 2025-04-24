@@ -1,0 +1,54 @@
+---
+title: "wat watashi (Ischikauia steenackeri) (freshwater fish of the carp family)"
+---
+
+from [/villagepump/2022/03/08](https://scrapbox.io/villagepump/2022/03/08)
+- When I'm busy with a lot of tasks, I'm inspired by something I happen to see and I say, "Oh, I should probably do that! and add a task [[human bug]].
+    - (present progressive tense)
+    - Think calmly! You don't have to do that now!
+    - Go back to basics and write it down first
+        - For this purpose.[[Inbox]] ([[GTD]])を使い始めた<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+            - Put it in [[UserScript to quickly put it in /takker/Inbox]] and forget about it on the spot.
+            - We're operating pretty well there.
+    - Newly conceived tasks tend to pile up on top of the stack when left to the brain
+        - But the truth is that unless there is a "clear reason why it should be prioritized over the previously recognized task", it should be added to the end of the queue.
+- This "wata wata" is a little different from impatience.
+    - Impatience is a negative feeling, a "Oh no, this is bad, this is bad,
+    - Wata wata is positively high-strung and manic?
+    - The point is the same: they are both [[racing (of an engine)]] out of gear.
+        - ref  [[Parable of the Gears]]
+        - [[sense of anxiety]] is,
+        - First of all, the gears don't mesh.
+        - So there is no output.
+        - They begin to get impatient when they realize that "the expected output is not being produced."
+        - You get impatient and rev the engine faster, but the gears aren't meshing, so you don't get any output, and you get impatient again.
+        - Empty engine overheats, with no results, of course.
+            - [[The hell of slacking off in the face of frustration.]]
+        - [[wat watashi (Ischikauia steenackeri) (freshwater fish of the carp family)]] is,
+            - [[Detailed tasks that can be done quickly and easily]] are all over the place.
+            - [[crunchy]] As I'm doing it, the tension rises and the engine starts revving at high speed.
+        - Suddenly bang! and the gears or something breaks and you lose control of your speed.
+            - The steering wheel doesn't work either, and the car runs in strange directions (= tasks are not properly selected and prioritized).
+                - ref  [[They're fighting over the wheel of the car.]]
+        - The engine starts idling even faster because the load is removed.
+- SNS notifications and Scrapbox Streams exacerbate the latter situation because they generate a large number of "small tasks that can be done quickly" that say, "Oh, I should comment on this.
+    - It's the one that happens every time I open the well!<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/kuuote/icon' alt='/villagepump/kuuote.icon' height="19.5"/>
+        - This was the reason time was melting away every day~.
+    - #The Pathology of Well-Being Dependency
+- Important tasks with deadlines, easily triggered when waiting for others to take action
+    - I'd be curious to see if they've had any action, so I'd go to the notifications.
+    - Okay.<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+        - So what is it about ...... that makes you open your well at all hours of the day to worry about it?
+- cope
+    - No caffeine today.
+        - ？<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+            - Does it mean to force them to sleep with drowsiness?
+                - (I assumed that caffeine was used to numb drowsiness so that they could work for longer periods of time.)
+            - It has nothing to do with sleepiness.<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+                - Caffeine is a drug that produces excitatory effects by disabling the inhibitory neurotransmitter adenosine
+                    - <img src='https://scrapbox.io/api/pages/icons/知見/icon' alt='/icons/知見.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+                - I can't show you the exact source, but I wrote this with the feeling that it's not right to break the brakes when the car is spinning because the brakes aren't applied.
+    - Tasks are written down
+        - [[pomodoro]] do (do not go to notifications during pomodoro, use as a barrier)
+---
+This page is auto-translated from [/nishio/ワタワタ](https://scrapbox.io/nishio/ワタワタ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

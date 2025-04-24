@@ -1,0 +1,13 @@
+---
+title: "Going to New York, a fake artist"
+---
+
+> The "Fake Artist Goes to New York" game is a game in which everyone works together to complete a painting. The theme of the painting is told to everyone in advance. However, there is one person who has not been told the theme, and he is called "fake artist. It is terrible to call someone a fake artist just because he has not done the [[information sharing]]. However, according to the rules of this game, you lose if you are revealed as a fake artist, so you can't say, "I didn't share the information! You can't say, "I didn't share information with you! Therefore, you have to pretend that you are sharing the information and cooperate with everyone else to paint the picture. The fake artist wins if he or she is not revealed to be a fake artist, or if he or she can answer the theme even if he or she is revealed to be a fake artist. The other players must not let the Écée discover the theme, so they dare to harass the Écée into drawing an ambiguous picture. The aim is to reveal who is the fake by making the fake misunderstand the theme. However, if the artist continues to draw ambiguous pictures while harassing others, others will suspect that the artist is actually a fake and that he/she is drawing pictures that can be taken any way he/she wants because he/she does not know the theme. In this game, you are supposed to appeal to your colleagues that you know the theme and are not a fake, while at the same time acting so that the fake does not find out your theme.
+
+> It would be bad if the organization were in this state. But conversely, board games are effective as a safe way to experience what a [[shadow organization]] is like. If you experience a bad situation in an actual organization, there is no way to recover from it. By experiencing it as a game, you will learn that information sharing is important, and that when there are omissions in information sharing, it is important to show that information is not being shared, rather than "[[acting like one understands]]". And in order to maintain the state of being able to do so, it is important not to make it a game like this, where you lose if it is discovered that information has not been shared.
+- [[Board Game Connect Camp 2017]]
+
+- [[Management Games]]
+
+---
+This page is auto-translated from [/nishio/エセ芸術家ニューヨークへ行く](https://scrapbox.io/nishio/エセ芸術家ニューヨークへ行く) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

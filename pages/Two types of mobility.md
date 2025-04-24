@@ -1,0 +1,97 @@
+---
+title: "Two types of mobility"
+---
+
+nomadic hunter-gatherer
+    - [[pure gift]] and [[reciprocal gift]]
+    - [[Marcel Morse]]
+        - reciprocity of a gift
+    - [[Marshall Sahlins]]
+        - hunter-gatherer society
+        - pure gift
+            - [[joint deposit]]
+    - Emorya believes that the principle of reciprocity was formed after settlement
+    - Thought experiment on [nomadic hunter-gatherer
+    - [[Drifting Bands]]
+    - 25-50 persons
+        - Joint deposition of food = equal distribution
+        - Joint hunting
+    - Constant movement makes it impossible to stockpile the harvest
+        - [[Distribute because there is no point in owning]].
+[[The Settlement Revolution]]
+- Reciprocity principle that avoids the state
+    - [[Gordon Child]]
+        - [[Neolithic Revolution]]
+        - Emaya: "The idea that agriculture led to settlement is dubious."
+            - Hunter-gatherers also settle
+            - Cases where settlement did not result in accumulation of products and inequality of wealth and power
+                - A mechanism was invented to prevent
+                - That's [[reciprocity of a gift]].
+                - We call this the "settlement revolution."
+    - [[Clan society]] is not a prelude to state formation, but an attempt to circumvent the path to state society.
+        - Advanced Society
+        - The Way Beyond the State
+    - How can we introduce reciprocity without relying on God's commands?
+            - [[Freud]] "[[Totems and taboos]]"
+- Reciprocity as "[[the]] return of the oppressed."
+    - [[original father killed]]
+        - The original father never existed.
+        - Family bonding was fragile.
+        - Nation = Original Father
+            - Prevent this formation
+            - totemism
+            - repetition of the original father-killer
+    - Freud thought the murdered original father would regress.
+    - Emorya considered the mobility lost by settlement, and the freedom and equality it brings
+Two Kinds of Nomads
+- Farming and cattle raising emerged in the original city.
+    - child
+        - Agriculture and cattle raising → expansion of productive forces → urban development → class decomposition → state
+    - The Economics of the City]," [[Jayne Jacobs]].
+        - reverse
+        - Agriculture began in "[[the original city]]"
+        - The "original city" began as a place of trade between communities.
+        - Trade → original city → information accumulation → agriculture
+        - Emaya supports this hypothesis.
+        - [[Tadao Umesao]] "[[The World of Hunting and Nomadism]]"
+        - Criticizes the idea that cattle ranching occurred as a development of husbandry
+        - Sheep, for example, are herding animals that live in herds on grasslands.
+        - Occurred in the meadows.
+        - Karaya: invented in the original city where information accumulates
+            - Agriculture and cattle raising invented
+            - Differentiation between farmers and nomads
+            - Nomads left the original city and became nomadic.
+            - Restored the nomadic nature that was present in nomadic hunter-gatherers.
+            - [[Nomads and farmers have a division of labor.]]
+                    - [[Farmers and Trade]]
+                - As a [[merchant]], [[trade]] with the community
+                        - [[People on the move connect people who settle down.]] だね<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- [[Nomads form a nation]]
+    - Nomads conquer and subjugate farmers.
+        - State Formation
+    - Exchange of protection for obedience
+        - interchange format B
+    - No absolute authority arises from within the community.
+        - External conquests are necessary for a kingdom to be established
+        - Even if conquest does not take place, defense against the threat of conquest creates a collectivized state.
+    - Nomads are between communities and infiltrate them through commerce and war
+        - Nomadic nomadism is exchange modes B and C, not A
+    - [[Mountain People]]([[Zomia]])
+        - [[James Scott]]
+- Nomadology cannot transcend state and capital.
+    - [[Deleuze & Guattari]] "[[A Thousand Plateaus]]" [[Nomadology]].
+    - State vs. [[war machine]].
+    - Hoping to dismantle [[the Cold War structure]].
+        - Ideologizing to justify [[the empire of capital]], [neoliberalism
+    - A new type of nomad
+        - [[Jetsetter]]
+    - With this kind of playfulness, you can't go beyond capital=nation=state.
+    - The clue to transcend is hunter-gatherer nomadism.
+        - That is the exchange style D
+        - Comes compulsively as a "regression of the repressed" as was the case with Exchange Form A.
+- [[Kunio Yanagida]]
+- Yanagida worked all his life on the nomadic nature of pre-settlement
+
+
+---
+This page is auto-translated from [/nishio/二種類の遊動性](https://scrapbox.io/nishio/二種類の遊動性) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

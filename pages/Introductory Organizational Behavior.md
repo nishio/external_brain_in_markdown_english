@@ -1,0 +1,113 @@
+---
+title: "Introductory Organizational Behavior"
+---
+
+![image](https://gyazo.com/ba726cc5c3f0946ff0ea39252f004843/thumb/1000)
+- [Amazon](https://amzn.to/2KkLC1H)
+    - [[Kouya Kaimoto]]
+- I have the 1st ed.
+
+    - [[Organizational Behavior]]
+    - Tissue generation
+        - Need for [cooperation
+        - [division of labor
+        - [[human model]] (how we perceive people)
+    - Appropriate relationship between organization and people
+    - Human Behavior in Organizations
+        - [[recognition]]
+    - [[motivation]]
+        - [[hierarchy of needs]] and [[E.R.G. Model]]
+            - [[self-realization desire]]
+        - [[Motivation - Hygiene Theory]]
+        - [[intrinsic motivation]]
+        - [[expectancy theory]]
+        - [[job characteristic theory]]
+    - [[Organizational Commitment]]
+        - [[Emotional Commitment]]
+        - [[utilitarian commitment]]
+        - [[Disillusionment with reality]]
+        - [[promotion]]
+        - [[invisible investment]]
+        - [[Company Special Skills]]
+    - Positive/negative aspects of organizational commitment
+    - [[career management]]
+        - [[Labor Market Development]]
+        - Definition of [carrier
+        - [[Intra-organizational careers]]
+    - Two ways to view careers
+        - How the organization provides opportunities for career development
+        - How individuals shape their own careers
+    - Avoiding career stagnation
+    - Formation of autonomous careers
+    - How can we meet the needs of both organizations and individuals?
+    - [[Organizational Citizenship Action]]
+    - [[OCB]]
+        - Actions not guaranteed by the official reward system
+    - Performance Evaluation Actions
+    - Organizational Performance
+        - retention/attention
+        - Stability and flexibility
+    - Job Satisfaction
+        - [[organizational justice]]
+    - [[Organizational Stress]]
+        - [[stressor]]
+        - [[strain]]
+        - [[moderator]]
+        - [[coping]]
+- Team Management
+    - Team Definition
+    - Team Type
+        - Diverse team of members
+        - Teams connected by information technology
+        - Self-managed teams
+    - Three types of decision making
+        - Constructive decision-making
+        - Extreme decision-making
+        - Shallow Decision Making
+    - Toward Team Success
+- leadership
+    - natural born into (e.g. a family)
+    - Leadership Typology
+    - Michigan Studies
+    - Ohio Studies
+    - PM Theory
+    - managerial grid
+    - contingency approach
+    - conditional acceptance model
+    - Transformational Leadership
+- communication
+    - vertical communication
+    - horizontal communication
+    - Official and unofficial
+    - One-to-many type, connecting pin type, web type
+- Organizational Culture
+    - Organizational Life Cycle and Culture
+    - Sustaining Culture
+        - socialization
+        - episode
+        - symbol
+        - ritual
+- organizational change
+    - planned change
+    - emergent change
+    - Thawing, migration, refreezing
+    - resistance
+        - selective cognition
+        - custom
+            - [[Anxiety about the unknown]]
+    - Ways to ease resistance
+        - [[single-loop learning]] ・ [[double-loop learning]]
+- organizational justice
+    - Fairness, Equity and Equality
+    - Fairness of distribution results
+    - Fairness of Distribution Curriculum
+- Diversity Management
+    - Assimilation, Separation, Integration
+- Professional Management
+        - [[conforming group]]
+        - [[Double royalties]]
+        - [[inverse model]]
+        - [[stand-alone model]]
+
+---
+This page is auto-translated from [/nishio/入門組織行動論](https://scrapbox.io/nishio/入門組織行動論) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

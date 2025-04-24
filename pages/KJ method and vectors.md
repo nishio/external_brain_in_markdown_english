@@ -1,0 +1,10 @@
+---
+title: "KJ method and vectors"
+---
+
+    - The [[spatial arrangement]] in [[KJ method]] is an interface that associates a short sentence with a two-dimensional [[vector]].
+    - Humans can directly create [[distributed representation]] teacher data (though only in 2 dimensions)
+    - The [[doorplate]] operation relates the short text of the nameplate to the short text of the component.
+
+---
+This page is auto-translated from [/nishio/KJ法とベクトル](https://scrapbox.io/nishio/KJ法とベクトル) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

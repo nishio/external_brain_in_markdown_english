@@ -1,0 +1,14 @@
+---
+title: "Personal Knowledge Base"
+---
+
+> A personal knowledge base (PKB) is an electronic tool used to express, capture, and later retrieve the personal knowledge of an individual. It differs from a traditional database in that it contains subjective material particular to the owner, that others may not agree with nor care about. Importantly, a PKB consists primarily of knowledge, rather than information; in other words, it is not a collection of documents or other sources an individual has encountered, but rather an expression of the distilled knowledge the owner has extracted from those sources or from elsewhere.
+- [Personal knowledge base - Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_base)
+- (DeepL) A Personal Knowledge Base (PKB) is an electronic tool used to represent, capture, and later retrieve an individual's personal knowledge. Unlike traditional databases, it contains the owner's [[subject]]-like information, which others do not agree with or care about. In other words, PKB is not a collection of documents or other sources of information that an individual has encountered, but a representation of knowledge that the owner has extracted from those sources and elsewhere.
+
+> Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005). It is a response to the idea that knowledge workers need to be responsible for their own growth and learning (Smedley 2009). It is a bottom-up approach to knowledge management (KM) (Pollard 2008).
+- [Personal knowledge management - Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_management)
+- (DeepL)Personal knowledge management (PKM) is the process of collecting information that people use to gather, classify, store, retrieve, acquire, and share knowledge in their daily activities (Grundspenkis 2007) and the way these processes support work activities ( Wright 2005). It is a response to the idea that knowledge workers need to take responsibility for their own growth and learning (Smedley 2009). It is a bottom-up approach to knowledge management (KM) (Pollard 2008).
+
+---
+This page is auto-translated from [/nishio/Personal Knowledge Base](https://scrapbox.io/nishio/Personal Knowledge Base) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

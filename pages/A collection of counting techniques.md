@@ -1,0 +1,89 @@
+---
+title: "A collection of counting techniques"
+---
+
+- [[enumeration]] Techniques
+- [http://degwer.hatenablog.com/entry/20171220](http://degwer.hatenablog.com/entry/20171220) [[DEGwer]]
+- [PDF](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view)
+
+- 2  [[Summarize the state of the art]]
+        - [[DP speeds up all searches]]
+        - Speeding up the process by equating states
+        - Conditions that can be summarized
+            - Same destination state
+            - The coefficients on the transitions are the same.
+            - All of the summarized states either meet or do not meet the conditions of the problem statement.
+        - [[ARC059F]]
+        - [[codefestival_2016_final_F]]
+        - [[AOJ2439]]
+- 3  [[Change search order]]
+    - 3.1  [[Sort in descending order of size]]
+        - [[AOJ2333]]
+    - 3.2  [[The permutation is insertion DP]]
+        - When determining permutations in DP, it is necessary to keep track of "what has already been used".
+            - If it is small, you can use [[bit DP]].
+        - Instead of doing it in order, do it in ascending/descending order of what you put in.
+    - 3.3  [[Section sorted by endpoint]]
+- 4  [[Paraphrasing conditions]]
+        - [[Many operations but few products.]]
+- 5 Return from greedy
+    - Find the number of columns that may be created by an operation" is difficult when the same column is created by multiple operation columns
+    - It would be easier to count if there was a way to uniquely determine the operation sequence from the product.
+- 6 Techniques for Case Segregation
+    - Case by parameter
+        - Be careful to DISJOINT
+    - [[AGC013D]]
+- 7  [[Decomposition into linear sums]]
+    - It is similar to what I call [[change order of operations]].
+        - [[Decompose bitwise operations into digits]]
+- 8 [[subgroup]] techniques
+        - [[Operation is reversible and the whole area → subgroup]]
+        - [[Lagrange's theorem]]
+    - Predicting the number of invariants
+        - If it's even, it's likely to have even-odd invariants.
+- 9 Use of recursive definitions
+    - Works well with DP [[Recursive definition → DP]].
+    - [[ARC037D]]
+- 10 About [Digit DP
+    - [[AOJ0570]]
+- 11 Acceleration Techniques
+    - 11.1 Using [cumulative sum
+    - 11.2 Use of Data Structures
+            - [[Fennic tree]]
+    - 11.3 Array usage
+    - 11.4  [[Fast Fourier Transform]]
+        - [[NTT]]
+    - 11.5  [[fast zeta transformation]]
+        - Can be used for operations that satisfy the coupling and exchange laws
+    - 11.6  [[Convolution of And and Add]]
+            - Algorithm similar to [Fast Fourier Transform
+    - 11.7 Simple branch trimming
+- 12 Techniques with Matrices 26
+    - 12.1  [[power of two]]
+        - [[AGC013E]]
+        - Power of the companion matrix
+        - Power of polynomial
+    - 12.2 Matrix Expression Techniques
+            - [[matrix tree theorem]]
+                - [[Number of trees in the whole area]]
+            - [[LGV Official]]
+                - [[Number of non-intersecting paths]]
+        - [https://www.ioi-jp.org/camp/2017/2017-sp_camp-kumabe2.pdf](https://www.ioi-jp.org/camp/2017/2017-sp_camp-kumabe2.pdf)
+- 13  [[Ignore small probabilities.]]  29
+- 14 Binomial coefficient technique 30
+    - 14.1 Collection of frequently used formulas
+            - [[binomial coefficient formula]]
+    - 14.2 Return to [Number of routes
+        - Attributing binomial coefficients to the number of paths makes it easy to transform the equation
+    - 14.3  [[45 degree rotation]]
+            - [[divide into X and Y]]
+    - 14.4  [[Catalan number]]
+- 15  [[principle of inclusion]]  33
+    - 15.1 When symmetry is used
+        - [[AGC005D]]
+    - 15.2 Using DP
+    - 15.3  [[irreducible inclusion]]
+        - [[ARC064F]]
+- 16 Identifying "unsolvable problems
+---
+This page is auto-translated from [/nishio/数え上げテクニック集](https://scrapbox.io/nishio/数え上げテクニック集) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

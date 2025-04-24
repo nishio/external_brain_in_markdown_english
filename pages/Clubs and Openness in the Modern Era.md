@@ -1,0 +1,40 @@
+---
+title: "Clubs and Openness in the Modern Era"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>
+- Using the concepts of "club" and "bazaar" as metaphors for understanding the structure of society, Nishio Yasukazu's series of tweets explore the diversity of contemporary society and the complexity of community formation that accompanies it. In contrast to Geertz's worldview, Rorty viewed the world as a bazaar where diverse clubs exist in a continuous land. Nishio explores this metaphor in depth, explaining that clubs in the modern world take different forms depending on the difficulty of joining. He also suggests the existence of "invisible clubs" like friendship and the significance of clubs that encourage open participation and its challenges.
+- Nishio argues that the boundaries between clubs and bazaars are blurred and that no clear line can be drawn between them. He points out that even open communities need a [[Code of Conduct]] to clarify their values and standards of behavior, and emphasizes that this is an important element in maintaining a club-like nature. Ultimately, we will explore how club culture embraces diversity while maintaining its own identity, and how this process responds to the criticism that it is ethnocentrism.
+- Nishio's discussion offers profound insights into community building and the maintenance of cultural diversity in contemporary society. By using the metaphor of the club and the bazaar as a framework for diverse people to interact and coexist with one another, he reveals the complexity of contemporary society and how individuals find a sense of belonging within it.
+
+> [nishio](https://twitter.com/nishio/status/1760103519603118152) Let me reconstruct what I learned. While Geertz thought, "The world used to be divided into homogeneous groups of friends like membership clubs, but now it's like a bazaar, a place where diverse people of different origins and ideologies come and go," Rorty thought, "No, the bazaar is surrounded by a myriad of clubs that are surrounded by a land of myriads."
+
+> [nishio](https://twitter.com/nishio/status/1760104266566660303) Let me delve into this "club" in my own way. The bazaar of clubs is a continuous one, with a variety of clubs that are easy or difficult to enter. At one extreme are the clubs that are so secretive that only their members can see that they even exist. These clubs exist even today. At the other extreme are those that are a little more relaxed,
+
+> [nishio](https://twitter.com/nishio/status/1760105162826457332) A club of clubs where it is visible to non-members that they exist and that they are doing something interesting inside, but where the entrance is unknown. And even looser is the type of club that has a clearly marked entrance but has a membership screening process. Typical of this type of "gated club" is the alumni community.
+
+> [nishio](https://twitter.com/nishio/status/1760108053268222083) To give an example that makes it easier to think about the "invisible club" as your own, when Mr. A and Mr. B are friends, there is no need to announce "we are friends," so Mr. C It's very possible that Mr. C doesn't know about that group of friends, and it wouldn't work if Mr. C said, "Why don't you tell me?" or "I want to be a part of this club, too.
+
+> [nishio](https://twitter.com/nishio/status/1760108857144360997) Well, in elementary and junior high school, the world is a small place, and people get angry or hurt by the existence of communities they don't know about that don't include them. However, many people today learn that everyone belongs to various clubs in the process of growing up (although some may not).
+
+> [nishio](https://twitter.com/nishio/status/1760110636783349822) Out of these diverse clubs come those that think "more openness is a good thing". For example, something like, "Let's create a place for technical talks open to anyone who is interested. This is almost a bazaar already, so one cannot draw a clear line between a club and a bazaar.
+
+> [nishio](https://twitter.com/nishio/status/1760111837901889601) This idea that "it is good for everyone to be able to participate" is not something that can be based on any kind of rational basis, but simply on the fact that the clubs have been around for historical reasons, etc. It is not particularly well-founded, simply because the club happened to be in that culture by chance. This is what Rorty calls "chance."
+
+> [nishio](https://twitter.com/nishio/status/1760112730412064840) In the course of holding many technical events in which anyone can participate, we have observed the following phenomena: for example, when we decided to serve food to the participants, some people came just to eat the food without being interested in the technical talk. For example, when we served food to the participants, we observed that some people came only to eat the food without being interested in the technical talk, some people used the Q&A time for their own speeches, and some people had problematic interactions with participants of the opposite sex.
+
+> [nishio](https://twitter.com/nishio/status/1760117007352205588) Even in communities that believe that "openness is a good thing," there is a growing feeling that the system should not be similar to the bazaar, and a Code of Code of Conduct was set up. In other words, "This place is open to everyone, but it's a club, not a bazaar.
+>  [Code of Conduct Guidelines - HackMD](https://hackmd.io/@codeforjapan/CoCguide)
+
+> [nishio](https://twitter.com/nishio/status/1760118843538657614) The CoC, in other words, clearly defines the "values that members should share" or, in Rawls' theory of justice, the "good". And the important point is the sentence "The organizers ~ may take such measures as they deem appropriate, including expulsion. It's a statement that the club's administration has the right to decide to expel you from the club.
+
+> [nishio](https://twitter.com/nishio/status/1760120431305261132) As a result of trying to make the club "more open and open to everyone," it was mistakenly thought that it was a bazaar, so So we started to ask for consent to the CoC as a very light club admission procedure. This procedure legitimizes a different means of governance than the bazaar outside.
+
+> [nishio](https://twitter.com/nishio/status/1760121943322460475) Is this kind of thinking of one's own culture as good and ostracizing people of other cultures an option or not? In response to the criticism that this is ethnocentrism (self-culture-centeredness), Levistrose argued that ethnocentrism is rather a good thing, and has the effect of maintaining diversity.
+
+> [nishio](https://twitter.com/nishio/status/1760128571304210725) For example, if "person X who attends a technical event and tries to talk to all the female attendees to get them to have a one-on-one meal" appears, the management will think, "Hey, hey, Stop it. But if X, who was told to "Hey, stop it," says, "What? There is no legal problem, is there? Isn't this an imposition of your culture?" And then, when they say, "Hey, hey, hey...
+
+> [nishio](https://twitter.com/nishio/status/1760130410011603332) If you have a "each person has a different culture and there is no superiority or inferiority to it, we should not impose our own culture" mindset, you will allow X's argument If you have the mindset that "people have different cultures and there is no superiority or inferiority to them, and we should not impose our culture on them," you will allow X's argument. Allowing people from different cultures to come in and disrupt the place is an obstacle to preserving our own culture and maintaining cultural diversity.
+
+---
+This page is auto-translated from [/nishio/現代におけるクラブとオープンネス](https://scrapbox.io/nishio/現代におけるクラブとオープンネス) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

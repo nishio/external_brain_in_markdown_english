@@ -1,0 +1,75 @@
+---
+title: "Information and Idea Flow"
+---
+
+Ideas emerge from new combinations of existing elements, and their combination is influenced by the abundance and distance of information, making it important to capture them in a dynamic flow.<img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>
+
+- [[ai shaman 2023-09-03]]
+- [[AI Shaman]]
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>You are a shaman. You have received the following oracle. The word does not mean what it says in the dictionary. Interpret.
+An idea is a new combination of existing things, so if there is not enough that can be connected
+The connection between the two elements is O(N^2)
+Not 0/1.
+The more distant something is, the harder it is to connect.
+The closer they are, the less value they have when connected.
+A fragment floats in midair
+down-to-earth fragment
+Like a fish being scooped up out of the stream.
+flow, not matter
+
+<img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>The text of the oracle is very poetic and its meaning is multifaceted. It can be interpreted from many angles, but below is one possible interpretation.
+
+- An idea is a new combination of existing things, so if there is not enough that can be connected
+    - New ideas and creations are often created by new combinations of existing elements and information. Many elements and information are needed to create new combinations, and if they are lacking, it becomes difficult to create something new.
+
+- The connection between the two elements is O(N^2)
+    - As the number of elements increases, the number of combinations and relationships among those elements increases exponentially. In other words, the abundance of information and knowledge dramatically increases the potential for new ideas and combinations.
+
+- Not 0/1.
+    - Events and information in the world are not simple dualistic. Diversity and intermediate states are also important, and it is important to understand each element in depth.
+
+- The more distant something is, the harder it is to connect.
+    - Physical, informational, and emotional distance makes connection and communication difficult.
+
+- The closer they are, the less value they have when connected.
+    - When similar elements and information are combined, new value is unlikely to be created. When elements with different backgrounds and perspectives are combined, new ideas and value are likely to be generated.
+
+- A fragment floats in midair
+    - When ideas and information are fragmented and lack background and context, they do not lead to something concrete and exist without substance.
+
+- down-to-earth fragment
+    - Information and ideas with concrete background and context are useful for actual problem solving and creation.
+
+- Like a fish being scooped up out of the stream.
+    - Information and events in the world exist as a flowing stream, and capturing new ideas and information from it is like scooping up fish from the stream.
+
+- flow, not matter
+    - It is important to view the world and information not merely as static "objects" but dynamically as "flows.
+
+The oracle seems to contain suggestions regarding perspectives and methodologies for generating new ideas and information. Interpretation, however, is subjective and may vary among readers and situations.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Create another oracle.
+<img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>Of course, below is the message as a new oracle.
+
+Like stars shining in the night sky,
+Numerous possibilities reside in the human mind.
+But if there are many stars shining brightly,
+There are also stars that hide in darkness.
+
+Dreams are like the moon reflected on the surface of water,
+We often assume it is out of our reach.
+But the real power lies in the courage to pursue it,
+Only those who have the courage to do so can reach for the distant moon.
+
+The shadows of the past can hold back progress, though,
+A new dawn always brings new hope.
+Only those who do not get stuck in the past, but move on to the light of tomorrow,
+The true future can be grasped.
+
+The oracle contains messages about one's potential, the pursuit of dreams, the past and the future. The meaning and message of the oracle is abstract, allowing each reader to find his or her own interpretation.
+
+- Impressions
+- It's not good enough to create an oracle.
+
+---
+This page is auto-translated from [/nishio/情報とアイデアの流れ](https://scrapbox.io/nishio/情報とアイデアの流れ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,11 @@
+---
+title: "type of dramatic recitation accompanied by a shamisen (associated with the Japanese puppet theater)"
+---
+
+[[Michel Foucault]]
+[[Michel Foucault]]
+- [[Michel Foucault]]
+- [[Michell Foucault]]
+
+---
+This page is auto-translated from [/nishio/フーコー](https://scrapbox.io/nishio/フーコー) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

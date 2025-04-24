@@ -1,0 +1,18 @@
+---
+title: "Deliberation Technology: Generative CI through 'Collective Response Systems'"
+---
+
+[[Deliberation]] Technology: [[Generative CI]] through '[[Collective Response Systems]]'
+![image](https://gyazo.com/c324fabfd1ace1b3a205a534cf00d435/thumb/1000)
+[https://www.youtube.com/watch?v=RyObAHv777E&t=9946s](https://www.youtube.com/watch?v=RyObAHv777E&t=9946s)
+
+Summary by<img src='https://scrapbox.io/api/pages/nishio-en/GPT-4/icon' alt='GPT-4.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- Hello, I'm a new member of the team and I'm looking for a new job. I am someone who works at the intersection of AI platforms, information systems, and governance. Today I will give a brief overview of [[careful deliberation]] (deliberation) technology. Specifically, I will describe the potential and practice of [[Generative Collective Intelligence]] (Generative CI). This implies a group decision-making process in which the outputs are not choices, but the participants create them. Think of something like the GPT-3 made up of governance and people.
+- This technology is important because there are many generative questions at all levels of society, issues such as improving communities, resolving geopolitical conflicts, and how to coexist with powerful AI systems. However, deliberations are difficult to scale, people don't have a voice, insights are missed, and attention tends to cause conflict.
+- One solution is to try a simple democratic ideal. Given a question or prompt, everyone answers, everyone is heard, and the one most representative of the group is chosen. Not only is this abstract, but many people have worked to build or support such systems. An example is "[[Polis]]" developed by Colin McGill.
+- The essence of these generative group intelligence systems is that given a group and a prompt, they collect responses, evaluate them, and condense them into meaningful generative output that best represents the group. Language models can also be used to improve how efficiently everyone can speak to one another.
+- However, these systems are not a panacea. There are many different approaches to decision making and attention allocation, from one end of the congress to the other end of the engagement signal. Deep face-to-face human interaction is also important.
+- We need to improve the design of these systems so that they can be used by organizations of all sizes around the world. I am specifically focusing on strong technology companies and AI labs, but we need these at all levels of society. There is a lot of untapped potential here and a lot of work to be done. There are risks and challenges in many areas, but please email me so that I can obtain a complete draft and other links regarding this paper. Links will be posted on the website when they are published.
+- This is only part of a much larger vision and direction. Part of it is to help powerful technology companies harness all levels of deliberation, from citizen assemblies to these efficient and generative CI models. There is much work to be done and I look forward to working with all of you on this.
+---
+This page is auto-translated from [/nishio/Deliberation Technology: Generative CI through 'Collective Response Systems'](https://scrapbox.io/nishio/Deliberation Technology: Generative CI through 'Collective Response Systems') using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

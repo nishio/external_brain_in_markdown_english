@@ -1,0 +1,21 @@
+---
+title: "Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory"
+---
+
+Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory
+[Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory | bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.22.614329v1.full)
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+This study clarified the relationship between memorability and typicality by modeling the semantic similarity of concrete object concepts (about 1,854 types) in hyperbolic space instead of the commonly used Euclidean space. Hyperbolic space can efficiently represent the hierarchical structure among concepts in a small number of dimensions, and this allows object concepts to be arranged according to a hierarchical tree structure, indicating that objects closer to the "center" (root) are easier to remember and are more typical category members. It was also found that the spatial characteristics of concepts in this hyperbolic space (radius, intra- and inter-category distance) explain more variation in the recall probability (memorability) of object images than when using conventional Euclidean space.
+explanation
+- In the past, the ease of memorizing objects was often considered in terms of similarity in Euclidean space, but this does not represent sufficient hierarchy.
+- Hyperbolic space allows us to reproduce the hierarchical structure among concepts with a small number of dimensions and reflects the generality and particularity among categories.
+- The analysis revealed that typical concepts located in the center are more likely to be remembered more strongly, and more distant from other categories, the more independent they are.
+- With only three measures (distance from center, density within category, and degree of distinctiveness from other categories), we were able to explain more memory variability than the previous model.
+- These results suggest the importance of moving away from a Euclidean understanding and toward a hyperbolic, hierarchical understanding in memory research.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The idea of using [[hyperbolic space]] is not new, if I remember, there was already [[Hyperbolic SOM]] 20 years ago. Show me what the related research is going on and what is new in this research.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>Indeed, hyperbolic space has been used for more than 20 years in SOM (Self-organizing map) and other applications, so it is not a novel idea as a spatial representation. The novelty of this study, however, lies in the fact that it takes the conventional engineering approach of "simply representing data in a hyperbolic space" one step further and applies it to a framework for explaining "the hierarchical structure and memorability of human cognitive domains (concrete object concepts). Specifically, (1) based on an extensive set of real-world object concepts (the THINGS database), (2) it was shown that [[layered structure]] in hyperbolic space is directly related to human memorability and typicality, and (3) an interpretable memory principle that could not be obtained in Euclidean space was extracted This is new. While previous studies were mainly limited to clustering and data structuring, the main difference is that this study utilized hyperbolic representations for psychological and cognitive science tasks (prediction of memory and elucidation of its factors).
+
+---
+This page is auto-translated from [/nishio/Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory](https://scrapbox.io/nishio/Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,119 @@
+---
+title: "40 Tips on How to Quell Anxiety"
+---
+
+![image](https://gyazo.com/34cf1aca58419550c207c4345391ec06/thumb/1000)
+- [Amazon](https://amzn.to/48nC80Q)
+- [[Kato, Giving up.]]
+- > I encourage people to do three things when they are anxious. (1) Tell yourself, "The facts are not the hard part. (2) "What if others were involved in a similar situation?" (2) Think, "What if others were involved in a similar situation? (3) Think about what you fear the most. Surprisingly, you will often find that the situation is not a big deal.
+
+[[Hatena2010-10-14]]
+- It didn't feel like there were 40 clues, but it was an explanation of what [[anxiety]] is, citing various references.
+- [[People are insecure when their value is threatened.]]
+    - People are anxious about being abandoned because we are all [[lonely]].
+- "Humans differ greatly in [[their ability to handle crisis situations when encountered]]. "Rollo May, "[[The]] Anthropology of Anxiety."
+    - So striving to improve that processing capacity is important for life.
+    - People who are afraid of anxiety avoid [[opportunities to test their strength]].
+        - Avoiding opportunities for creativity from themselves.
+- There are two types of anxiety: realistic anxiety and neurotic anxiety. Unreasoned anxiety or fear, [[sense of anxiety]].
+- When you are anxious, it is important to identify the cause of your anxiety.
+- "[[A]] solely results-oriented attitude often robs life of its joy."[[Ellen Langer]].
+- [[Karen Hornai]] lists "pandering," "attack," and "withdrawal" as three ways to escape anxiety.
+    - [[Pandering makes people less confident in their own worth]].
+    - Pandering is roughly defined as the following three things
+        - １： [[submissive]] 、 [[discretion]]
+        - 2: [[work hard]], [[serious]], [[try to excel]].
+        - 3: [[Forced to act cheerful]].
+
+- Children have anxiety about being abandoned by their parents. Hence, they play the good child.
+    - As a result, the child becomes anxious about life itself.
+    - The threat of "be good or I won't love you."
+    - For children, it is indeed a threat. You as an adult need not be intimidated by it.
+    - Interpersonal relationships in adulthood are built up in the life of the infant and repeated in later life" [[Fromm-Reichman]] "[[The pathology of human relationships]]."
+        - [[Erich Fromm.]]'s idea.
+        - [[People become anxious when they lose their primary bond and cannot gain a secondary bond]].
+        - The [[primary bond]] is the [[sense of oneness with the mother]] that existed before individuation.
+        - In the process of [[individualization]], they become physically and mentally stronger, but on the other hand, their loneliness increases.
+        - I don't feel [[my role]] or [[the meaning of life]] anymore.
+        - Feelings of helplessness and insignificance grow.
+        - The impulse to throw away [[individuality]] and run away from [[solitude]] is [[obedience]]. Erich Fromm, "[[Escape from Freedom]]", p. 44-45
+    - Obedience does not solve problems.
+        - Obedience is not the same as obedience. An obedient person can communicate with others.
+        - Obedience is not communicating by conforming to the other person.
+    - Those who pander want to be seen as nice. But in many cases, they are taken lightly.
+    - "[[You can't be happy because]] you make sacrifices."[[Tatarkevich]].
+    - Children raised by parents with strong neurotic tendencies perceive that their surroundings are forcing them to be obedient even as adults. Even though the other person is not demanding obedience.
+    - Why do you feel threatened by the world?
+        - Because my parents expected me to be different and I tried to live up to them.
+        - A basic sense of security that they are accepted by their parents as they are.
+        - A sense of insecurity that if you say "no," they will throw you away.
+        - The world is not a threat to you as an adult.
+        - You just feel threatened on your own.
+        - I tell myself, "I'm not afraid of the world around me."
+    - Seriousness and work ethic are desirable. But for what purpose? Is it an escape from reality from insecurity or the pursuit of a goal?
+        - The [[good]] boy is [[honesty]] being hunted down to protect himself from the fear of abandonment.
+    - Fear of failure.
+        - What happens when they fail?
+        - I can't live up to people's expectations."
+        - This is highly stressful for obedient people who have lived by meeting people's expectations since childhood.
+    - Isn't a happy person someone who looks like they are working hard from the side, even though they don't think they are?
+        - [[Effort motivated by love and effort motivated by a sense of inferiority]] are completely different.
+        - It is the effort motivated by love that brings victory.
+    - When you work hard with a goal, you don't work too hard.
+        - [[You can't achieve your goals if you work too hard to maintain them]].
+    - People who work hard because of anxiety are always tense and easily tired.
+        - People who have support in their hearts are not afraid of any changes in their surroundings. Those without it are vulnerable to difficulties and changes.
+    - I don't know how to deal with people other than being serious. That's why I can't communicate.
+        - I made an effort, but it was not an effort for me to live.
+        - It was an effort to meet the expectations of others. And those expectations were too great compared to my abilities.
+    - Reconstruction of values is important.
+    - There are many cunning people in this world.
+        - He is a genius at scenting out insecure people.
+        - Flattery.
+        - Will he help me when I burn myself out?
+        - It's better to be alone than to be pampered by cunning people.
+        - Anyone who accuses you of trying to [[self-realization]] when you are trying to [[self-realization]] is a bad person.
+        - A person who exploits others. A person who takes away power.
+        - Cut down.
+        - [[People with poor mental and physical health need to sort out their relationships or they will get stuck]].
+        - Cut out those who do not do anything specific for you, but only offer a few words of pleasantries.
+    - Drop the mask of forcing yourself to act cheerful.
+        - Cheerfulness is sometimes just a mask to cover up insecurity.
+        - They say things like, "Why a bright kid who committed suicide?" Why?" and so on. Wasn't brightness a way to hide her insecurities?
+    - Try to stop doing something (such as attacking another person) and you will become anxious, which will show that the anxiety was the reason for the behavior.
+    - If you want to essentially quell anxiety, you need to be able to communicate.
+    - Ultimately, your life is your responsibility.
+        - With that in mind, I think about my life from many angles.
+        - When you leave life to others, you pander to them.
+        - If you don't believe that "your life is your responsibility," you are quick to fall for the advice of others.
+        - You have to judge for yourself.
+    - 90% of seniors believe they may have dementia, but medical statistics show that 4% of seniors over age 64 have severe dementia and 10% have mild dementia
+    - People have various anxieties.
+        - But are you prepared?
+        - Are you researching to gain detailed knowledge about your concerns?
+        - They have desires, but they do not want to make the effort to realize them.
+        - And I don't recognize myself as such.
+        - They resent me for saying, "Why don't you just make an effort?"
+        - What he is looking for is someone who will be with him and say, "Oh no!
+        - [[It is only when you are energetic that you want specific advice]].
+    - The idea to actually take action.
+        - The next best thing is to do the best you can do.
+        - [[obsessed with the best solution]] and taking the worst without being able to do the next best thing.
+        - For example, it's best to sleep and wake up healthy, but if that's not possible, the next best thing is to take sleeping pills to sleep.
+        - And yet, he adamantly refuses, and as a result, he can't sleep and gets sick.
+        - What is the purpose?
+        - [[Humans are not supermen]].
+        - Realistic solutions, not idealistic pursuits.
+    - Those who are in a hurry can't do the next best thing either.
+        - Ideally, we would accomplish what we thought we wanted one after another, but in reality, that is not always possible.
+    - [[Superman Obsessive Compulsive Syndrome]].
+        - If you are trying to contribute to society by becoming Superman, you are not in a hurry if you can't. You are in a hurry because you are trying to resolve a conflict in your mind.
+    - The next best thing is to "[[do]] what you can. You can't do what you can't do.
+    - When I am troubled, I tell myself, "My brain is just poisoned right now.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- I get tangled up with [[people who attack other people]] when I go in and say that they are making claims that I don't agree with and that's not true. I used to think I was the victim, but I guess not. People like that are insecure, and they find [[peace of mind]] by criticizing others to relieve their insecurity. They resent me because I suddenly pull them away from it with an "attack" in the name of "[[good argument]]. I guess they are the victims.
+    - I just don't like information that I think is wrong to be circulated without being corrected, so I guess I should correct them but not fold them in with more righteous arguments if they are offended by the correction.
+
+---
+This page is auto-translated from [/nishio/不安のしずめ方 40のヒント](https://scrapbox.io/nishio/不安のしずめ方 40のヒント) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

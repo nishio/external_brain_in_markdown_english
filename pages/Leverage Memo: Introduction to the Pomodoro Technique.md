@@ -1,0 +1,91 @@
+---
+title: "Leverage Memo: Introduction to the Pomodoro Technique"
+---
+
+    - [[Too long TODO list]] doesn't make sense. You forgot about [[Cost of choosing]] the appropriate one from there.
+    - [[TODO list that doesn't end in a day]] doesn't give "[[sense of accomplishment]]" if you work hard for a day and a few lines of it disappear.
+
+from [[Hatena2012-11-11]]
+    - After reading [[Agile estimating and planning]], I re-read [[Agile Time Management Techniques]] [[Introduction to the Pomodoro Technique]] and found a lot of new things, so I [[ Leverage memo]]" because I found many new things.
+- preface
+    - Initially I thought I could do about 12 pomodoros a day, but [at most 8 pomodoros a day is realistic.
+    - Scrum, XP, etc. measure "how much work is completed per iteration" ([[velocity]]).
+        - Pomodoro measures the "number of Pomodoro completed" (= the number of consecutive 25 minutes of concentration) in a day.
+        - Pomodoro is a "focus on what you focus on" methodology.
+- Chapter 1: One Activity at a Time
+        - [[Can't do more than one thing at a time.]]
+    - If a scheduled task is not completed in 25 minutes, that is not a failure.
+        - Success record of "25 minutes of focus."
+        - [[If it's complicated, I'm less motivated.]] 。
+        - Even complex tasks can be tackled for 25 minutes to gain some insight.
+        - Don't worry about it before you start,
+            - Worked for 25 minutes,
+            - Then take a break,
+            - Then we can figure out what to do next.
+    - It is also less motivating when tasks are boring.
+        - Think of it as a game to increase the speed at which you perform tasks.
+        - [Maintain high productivity.
+            - You can't run long distances without [[sustainable pace]].
+        - [[Perfectionism is an excuse for not acting.]] 。
+        - There is no way to make something 100% perfect from the start.
+        - It is not right to aim for perfection from the beginning.
+            - [[First, run it for 25 minutes.]]" Practice "action".
+- Chapter 2
+        - Why does [[postpone]] happen?
+        - A sense of being made to do things by others.
+        - Pressure to be perfect.
+        - Fear of failure or criticism.
+    - Postponement temporarily relieves these stresses.
+        - The behavior of "putting off" is reinforced because of the mental rewards this provides.
+        - But this is just [[Borrowing peace of mind from the future]].
+        - The more you borrow, the more you suffer with interest.
+    - Stress comes from within you.
+    - It's a story that ties in with the other day's [Not confident" is overconfident.
+- Chapter 3
+        - When writing items on the [Activity Inventory Sheet
+        - (like a so-called [[to-do list]]).
+        - Instead of writing what needs to be done,
+        - Write down what state the work will be in when it is completed.
+        - In "agile estimating" terms.
+            - Instead of writing "tasks.
+            - Write the value ([[user story]]) that doing so gives to the user."
+            - So that's what it means.
+    - A too long TODO list is meaningless. Forget about the cost of selecting the appropriate ones from it.
+    - Not some vague idea that "this project is big and important."
+        - [[Start with small steps.]]" and concrete actions.
+    - Long, never-ending TODO list in a day
+        - If you work hard for a day and a few of those lines disappear, you don't get a "sense of accomplishment".
+        - No spiritual rewards are given.
+        - Choosing "to do today" at the beginning of the day enhances the sense of accomplishment when completed.
+        - [[voluntary commitment]] increases the sense of accomplishment.
+        - [Close to the goal,
+        - Increase productivity with spontaneously set deadlines.
+    - Deadlines are often,
+        - It was set up by others, not by me,
+        - It is not always set at a convenient time.
+        - Still, many people feel that they are more focused and productive around deadlines.
+        - If so, can't we make that effect happen every day?
+    - Imagine a virtual "Now List".
+        - This is a TODO list in which only one item can be written.
+        - I guess this is the equivalent of me writing one task on a sticky note.
+        - It is very comfortable when there is one sticky and confusing when there are more.
+        - Should I make them invisible once I have more than one, except for "highest priority"?
+    - The best break is a five-minute nap.
+    - What if the work is completed in the middle of the 25 minutes?
+        - In this book.
+            - Review what you've done."
+            - Repeat what you've learned."
+            - I'll see if I can't improve my work."
+            - He cites, among others, "jotting down your conclusions on a piece of paper."
+        - But I wonder.
+            - If it's 3 minutes or something, I think that's doable,
+            - When something that was supposed to take 25 minutes ends up taking 15 minutes,
+            - I can't spend productive time because I'm perplexed about what to do.
+            - In this case, it would be better to mark the Pomodoro as a failure, even if it is "finished too early due to an estimation error".
+
+    - What you track depends on what you want to know.
+    - [[Length of breaks in the Pomodoro Technique]]
+- This is a leveraged memo, so not all of what is written here is in the Pomodoro book, but some of it is what my brain has pulled out as relevant information from reading it. The stuff about peace of mind and stress being something you create comes from early Buddhism ([[Practice without thinking]]), and the stuff about how procrastination reinforces behavior comes from behavior analysis ([[Applied Behavior Analysis for Beginners]] is a good textbook, but I'd recommend [[Performance Management]]). Performance Management] is recommended if you want something easier).
+
+---
+This page is auto-translated from [/nishio/レバレッジメモ:ポモドーロテクニック入門](https://scrapbox.io/nishio/レバレッジメモ:ポモドーロテクニック入門) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

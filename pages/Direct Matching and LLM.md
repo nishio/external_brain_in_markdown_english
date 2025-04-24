@@ -1,0 +1,19 @@
+---
+title: "Direct Matching and LLM"
+---
+
+
+
+
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>
+- "[[Direct comparison]]" ([[Direct Reference]]) is an important concept in [[Eugene Gendlin's]] thinking. He defines "direct comparison" as the process by which language and symbols are directly associated with our internal experiences and sensations. This process, he argues, allows for deeper understanding and self-transformation through the use of language to access our experiences and feelings and express them.
+- [[LLM]] (Large Language Model) is a type of natural language processing technology in artificial intelligence (AI) that has the ability to learn large amounts of text data to generate and understand human-like sentences. For example, OpenAI's GPT series is an example of an LLM.
+- Linking direct matching to LLMs raises the question of the extent to which LLMs can understand human experiences and feelings and express them linguistically. Although current LLMs are highly capable of learning large amounts of textual data and capturing linguistic patterns, they are not capable of directly understanding internal human experiences and feelings. Thus, while LLMs can mimic superficial linguistic patterns, they are limited in their ability to generate linguistic expressions based on actual human emotions and experiences.
+- In the future, however, LLM and artificial intelligence technologies may evolve to allow for expressions that more closely resemble human internal experiences and emotions. If such technological advances are realized, it will be possible to develop AI assistants and counselors that are more in tune with human emotions and experiences. At present, however, the relevance of direct matching and LLM is limited, and AI that fully understands human inner experiences and emotions has not yet been realized.
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Is there no need for understanding?
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>
+- As you say, there are times when understanding is not necessary. In particular, there are many situations, especially in tasks and problems involving artificial intelligence such as LLM, where it is not necessarily important to understand the internal experiences and emotions of humans. For example, in tasks that primarily involve language processing, such as simple information retrieval, question answering, and sentence generation and editing, it is not necessarily important for AI to directly understand human experiences and emotions.
+- However, in tasks that involve a great deal of human emotion and experience, such as psychotherapy, counseling, and interpersonal support, comprehension can play an important role. This is because understanding the emotions and experiences of others allows humans to provide appropriate advice and support. In these situations, AI will be able to provide more effective assistance if it has an improved ability to understand the internal experiences and emotions of humans.
+- In other words, the need for AI to understand depends on its application and task. Current LLMs perform well in many language processing tasks, but they are not yet capable of fully understanding human internal experiences and emotions. Future technological advances are expected to improve AI's understanding and enable it to handle a wider variety of tasks.
+---
+This page is auto-translated from [/nishio/直接照合とLLM](https://scrapbox.io/nishio/直接照合とLLM) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

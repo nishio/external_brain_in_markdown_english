@@ -1,0 +1,55 @@
+---
+title: "A Thousand Technology Expos that Changed Japan"
+---
+
+Photographs were allowed, but video commentary was not.
+
+- "A foreigner in charge" "University faculty members became almost all Japanese in 1887, meh, meh, meh.
+    - [[Civil War and Submarine Cable]]
+    - [[High speed camera]]
+    - [[ferrite]]
+    - [[gas mantle]]
+- Arc lamps are destroying the country
+- resuscitator
+    - The story of how Edison made a tin foil type and left it unattended, while others made a wax tube type and he panicked and worked tirelessly to make a popular version.
+    - If they made a recorder, the newspapers would be out of business.
+    - [["Galapagos" cell phone (Japanese brand)]] and patent
+    - [[Patents on dry cell batteries]]
+    - [[Linde type air liquefaction shunt]]
+    - It's the one I saw in [[Factorio]]!
+- Video reproduction of manual telephone exchange
+    - Hand-cranked to generate electricity to ring the call bell.
+- Tiger Seal Calculator," 1923
+    - It didn't sell at all, so I translated it into English and made it look like a foreign product, and it started selling.
+    - → [[Tiger Calculator]]
+    - [[mercury arc valve]]
+    - [[portable television]]
+    - [[magnetron]]
+    - [[nylon]]
+    - [[word processor]]
+- History of Loom Evolution
+        - [[flying shuttle (of a loom)]] is automatically exchanged.
+    - Water makes the threads fly, and the textile gets soaked (ee).
+    - Fly it with the wind, poof, blow it and shoo it in on the other side.
+        - Air jet loom
+- Video of equipment for making thread from cocoons
+    - As the yarn gets thinner, boiled cocoons are automatically added."
+    - What about the contents of the cocoons? Do people remove them on a regular basis?
+- Japanese bulldozer No. 1
+    - Komatsu: "They told me to make it in a month, so I put a board on the tractor."
+    - Wife: "What happened?"
+    - I said, "At that time, it was wartime, so if we can speedily build airstrips in occupied areas, we can expand our airspace control as quickly as possible."
+    - It was dumped at sea in Indonesia? The dumped materials were found in the ocean in Indonesia, and when they were pulled up because they were interfering with navigation, they were sold to an Australian farmer because they were moving (yeah).
+    - [[silkworm (Bombyx mori)]]
+    - Wife: "At first they were small and nubby in various colors, but as time went on they became white, round, and large."
+    - Eventually they introduced jellyfish and spider genes.
+    - The silkworm has transformed into a creature that can no longer live in the wild
+    - Wife: "Mankind will pay for the deeds it has done to the silkworm, or is currently doing so."
+- magnetic tape
+    - First, slowly fry yellow iron oxalate in a frying pan until it turns black (in air it decomposes at 160 degrees to iron oxide).
+    - Mix well with lacquer.
+    - Apply with a brush.
+    - Cut with a jig with a razor attached.
+    - I was able to record it!
+---
+This page is auto-translated from [/nishio/日本を変えた千の技術博](https://scrapbox.io/nishio/日本を変えた千の技術博) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

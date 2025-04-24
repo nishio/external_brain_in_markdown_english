@@ -1,0 +1,17 @@
+---
+title: "a purposeless"
+---
+
+- [[a purposeless]]
+- [[Non-objective]]
+        - [[teleology]]
+- [[aimless strolling]]
+- [[Aimless information gathering]].
+        - [[Aimless information gathering has serendipitous value.]]
+
+- [[self-purpose]]
+
+
+
+---
+This page is auto-translated from [/nishio/無目的的](https://scrapbox.io/nishio/無目的的) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

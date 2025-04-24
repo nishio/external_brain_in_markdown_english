@@ -1,0 +1,12 @@
+---
+title: "Memo_2"
+---
+
+[[Architected Agile Solutions for Software-Reliant Systems]]
+
+- [[Deadlines and estimation errors]]
+
+- [[Agile estimating and planning]]
+
+---
+This page is auto-translated from [/nishio/メモ_2](https://scrapbox.io/nishio/メモ_2) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

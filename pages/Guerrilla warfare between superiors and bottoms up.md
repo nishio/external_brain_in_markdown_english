@@ -1,0 +1,30 @@
+---
+title: "Guerrilla warfare between superiors and bottoms up"
+---
+
+2017-10-05
+- [tokoroten](https://twitter.com/tokoroten/status/915785198213537792) [[conveying the will of the governing to the governed]] and [bottom-up Chatwork seems to be aiming for that, but it's still a bit too much of a superlative tool. As a member of Chatwork, I am slowly feeling the pressure of the two. I wonder how we can achieve both.
+    - [nishio](https://twitter.com/nishio/status/915798554769108992) At least within Cybozu, "[[groupware]]" is the tool that makes it happen, but I guess it's a bit of a mixed bag as to how customers use it.
+        - [tokoroten](https://twitter.com/tokoroten/status/915800109509574657) Cybozu has historically been introduced by [[middle management]] buying licenses at a price they can afford to pay, so it seems like they are looking toward the middle. I feel that Cybozu is moving toward the middle. I feel that Cybozu is more like a [[solution for PM's overwork]].
+
+- [tokoroten](https://twitter.com/tokoroten/status/915771993030410240) I was called by my boss and got angry when I wrote various things on [[an internal SNS]] of a telephone company, and I was a game company that had created [[an internal blog]], and I liked it on the internal blog. When I wrote something selfish, my boss called me up and got angry with me. Now I understand why. In-house SNS and in-house blogs were introduced for the purpose of superiors, so they were used for purposes other than what they were intended for.
+    - [tokoroten](https://twitter.com/tokoroten/status/915769666148081664)There are those who say "communication = problem solving" and those who say "communication = political power, interest alignment, mind control, and control. There are two types of people. The latter group makes the decision to introduce internal tools, so things like internal SNSs and other incomprehensible things are introduced, and the company becomes underdeveloped. Then, Slack and others start guerrilla warfare.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>The metaphor "[[guerrilla warfare]]" is useful see [[guerrilla warfare]].
+        - [ajiyoshi](https://twitter.com/ajiyoshi/status/915802081243435009) slack has an exquisite setup of free and charged plans, and it's designed to be used in a very [[guerrilla on site]] way. By the time you want to give an approval to move to a paid plan, there are already a lot of users.
+
+- History
+    - My understanding of the history of Cybozu is that the early versions of Cybozu Office had the ability to add comments to the "bulletin board". This was a [[bulletin board system]] usage as a place for bottom-up [[communication]]. Later, however, at the request of a client, an option was added to "prohibit comments on the bulletin board. This is a supercilious usage.
+    - There was a time when "[[BBS]](electronic bulletin board system)" was used for communication on the Internet, though young people today may not know it.
+        - > In the early 1990s, electronic bulletin boards were one of the major services of personal computer communications, which were in full swing before the Internet became popular.
+            - [Electronic bulletin board - Wikipedia](https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E6%8E%B2%E7%A4%BA%E6%9D%BF)
+        - Cybozu [https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA) was founded in 1997. It was a natural idea to use BBS, which was already widely used on the Internet at that time, for internal communication.
+        - However, it is also natural, well, given the circumstances of the time, that some customers considered a "bulletin board" to be "a piece of paper posted on a wall" and wanted to prevent comments from being written on the board.
+
+    - For people of a certain age, communication is "an output to be conveyed to a specific person" (the image of dialogue or e-mail), but with [[Web Diary]], [[Blog]], and [[Twitter]], "an output for sharing information or externalizing thoughts without a specific person in mind" (the image of [[soliloquy]] or diary) has become more common. (the image of [[soliloquy]] and diaries), which are "outputs for sharing information and externalizing thoughts without a specific partner in mind" (the image of dialogue and e-mail).
+        - [Web diary - Wikipedia](https://ja.wikipedia.org/wiki/Web%E6%97%A5%E8%A8%98)
+        - [Blog - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%82%B0)
+        - [Twitter - Wikipedia](https://ja.wikipedia.org/wiki/Twitter)
+    - In-house SNS was born from the idea of bringing the communication taking place on SNS into the company, but it is a prerequisite for a "culture in which it is good for each individual to transmit information" to function as individuals on SNS do.
+    - Cybozu's [[kintone]] now comes with a (Twitter-like) one-to-one place for all members by default. The bottom-up information transmission function from employees is incorporated into the tool because they feel the need to use it, and they are actually using it to the fullest. From the standpoint of those who use it to the fullest, "cases of beneficial communication within the company triggered by individual one-on-one conversations" happen every day and cannot be counted (like, "Do you remember how many loaves of bread you've eaten so far? You can't even count them all (do you remember how many loaves of bread you've eaten?)
+---
+This page is auto-translated from [/nishio/上意下達とボトムアップのゲリラ戦](https://scrapbox.io/nishio/上意下達とボトムアップのゲリラ戦) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

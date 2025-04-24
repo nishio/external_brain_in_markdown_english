@@ -1,0 +1,16 @@
+---
+title: "Q: Is it not correct that in some cases research is evaluated after death because it does not lead to the benefit of the person's life?"
+---
+
+Q: Is it not correct that in some cases research is evaluated after death because it does not lead to the benefit of the person's life?
+A: It depends on one's [[Purpose of Life]], [[the desire to fulfill]].
+- If he "wants the world to appreciate his research and say, 'Wow, that's great,'" then at the time of his death his choice was not correct. Perhaps he should have chosen a more straightforward topic. Maybe he should have spent a little less time on research and more time on external exposure. Maybe he should have made a sales pitch to a TV station, aiming to appear on a program like "Sekai ichidai uketai jugyo" (The most popular lesson in the world).
+- If he "wants to know why some things happen," it doesn't matter if the world appreciates the research or not. If he can know, he can die satisfied. If he cannot know, then his choice was not correct. Maybe he should have gone into debt to buy better laboratory equipment. Maybe he should have studied another field to broaden his horizons. Maybe he should have been more open about the information he was researching and sought feedback from others.
+- If he wants to "solve some problem and make the people around him happy," the people who had the problem will appreciate your research if you succeed in solving the problem. If most of the rest of the world does not appreciate his research, it does not matter to him. His concern is not the evaluation, but whether the people around him are happy. If it didn't work out, perhaps he should have listened to those around him more.
+- If he wants to "live his life without being bothered by troublesome things and concentrate on his research," it does not matter whether he gets recognition or not. In fact, it would be rather annoying if he is evaluated and asked to do an interview. I am not sure how many people are out there because they are not very visible, but [Henry Cavendish [https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E) 3%82%AD%E3%83%A3%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5] and [Grigory Perelman [https://ja.wikipedia.org/](https://ja.wikipedia.org/) wiki/%E3%82%B0%E3%83%AA%E3%82%B4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9A%E3%83%AC%E3%83%AB%E3%83%9E%E3%83%B3] are typical examples. If this is Perelman's case, the world appreciated him, but he might see it as a "failure".
+- Thus, the correctness of the choices he made depends on what kind of desires he has and what his purpose in life is.
+
+from  [[Nada School Saturday Lecture 2014 Questions]]
+
+---
+This page is auto-translated from [/nishio/Q: 死後に研究が評価されるケースは、その人の人生の有益さにつながらないので正しくないのか？](https://scrapbox.io/nishio/Q: 死後に研究が評価されるケースは、その人の人生の有益さにつながらないので正しくないのか？) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

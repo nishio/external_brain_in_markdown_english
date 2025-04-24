@@ -1,0 +1,14 @@
+---
+title: "How to Create Ideas and Adult Counterproductive Interventions"
+---
+
+2021-03-21
+> [@nishio](https://twitter.com/nishio/status/1373354886306299904?s=46&t=ECsAshllg5Wp2zLedKKSVg): "[[How to Create Ideas]]" means that you have [[Sprouting Ideas]], there are cases where people are not aware of the existence of [[Sprouting Ideas]] and are stepping on them and squashing them, cases where people find a sprout but don't grow it because they say "such a small sprout is not good enough", cases where people want to grow it but don't know how, and cases where it is growing well but when they show it to adults around them, they are told that "such a small sprout is not good enough".
+> In terms of discovering the buds, the type of person who wants to create something first already has something that he or she wants to create, but because of his or her own misunderstanding or inappropriate advice from the adults around him or her, he or she is convinced that "this is not good enough," so it is necessary to convey the message that it is okay to nurture and grow. Or
+> On the other hand, there is a type in which the "problem to be solved" takes precedence over what is desired to be created. For example, "My grandfather has trouble reading small letters, so I want to make the letters bigger so he can read them" is a problem-first type. In this type of case, it would be good to gather information on what kind of solutions are available.
+>  If you come up with a hypothesis that "this problem could be solved in this way," that will be the germ. Then, if you repeat the experiment and verify the hypothesis, it will grow.
+> The adults around them need to give approval and [[have a burst of courage]] to the type of person who wants to make something first, but then ask, "What good is it going to do? "Don't you have to make a proposal that solves more social problems?" There are adults who make counterproductive statements like
+> For this type of person, the most important resource is a high level of "wanting to do it," and any intervention that causes them to lose that desire will be counterproductive. For problem-solving types, if the problem is "small but familiar and observable" and the problem is "large but distant and vague," it is easier to work on the former.
+
+---
+This page is auto-translated from [/nishio/アイデアの作り方と大人の逆効果な介入](https://scrapbox.io/nishio/アイデアの作り方と大人の逆効果な介入) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,113 @@
+---
+title: "Summary of past presentations"
+---
+
+2018-06-03 Summary
+- Tokyo Tech MBOT Mach Lecture "Intellectual Production
+- Tokyo Tech Homecoming Day "AI and MOT" (coming soon)
+- 2018-04-17 Omnibus Lecture "ICT and Industry" [[Case studies of how ICT is changing society]], Graduate School of Economics, University of Tokyo
+- 2018-03-24 MANABIYA Keynote [[Self-Management Strategies for Engineers]].
+- 2017-12-28 Tokyo Tech MOT Special Seminar [[IT and Management]] [SlideShare](https://www.slideshare.net/nishio/it-85153914) Management] [SlideShare](https://www.slideshare.net/nishio/it-85153914)
+- 2018-01-12 Cybozu Labs Study Session Programming a Quantum Annealing Machine (Ising Machine) [[Programming a Quantum Annealing Machine]] [SlideShare [https://www.slideshare.net/nishio/](https://www.slideshare.net/nishio/) ss-86734296]
+- 2018-01-19 Summer Pro Singh Report (Summer Pro Secretary Experience) [[Summer Pro Report]] [SlideShare](https://www.slideshare.net/nishio/ss-86441339)
+- 2017-11-10 Geister AI with Partial Observation Monte Carlo Programming [[Geister AI with Partial Observation Monte Carlo Programming]] [SlideShare [https://www.slideshare.net/](https://www.slideshare.net/) nishio/ai-84162103]
+- 2017-11-17 Unexplored 8-Going Camp on Negotiation Skills [[Negotiation skills]] [SlideShare](https://www.slideshare.net/nishio/ss-82258731)
+- 2017-09-26 BPstudy#121 From if statements to machine learning [SlideShare](https://www.slideshare.net/nishio/if-80195170)
+- 2017-09-22 Tanabe Research Group Presentation Connecting smoothly from self-introduction to cross-organizational laboratory concept [[Cross-organizational laboratory concept]] [SlideShare [https://www.slideshare.net/nishio/ss](https://www.slideshare.net/nishio/ss) -80104882]
+- 2017-09-13 Tokyo Metropolitan University Special Lecture on Information and Communication What Researchers Working for Companies in the IT Industry Think [[2017 Tokyo Metropolitan University Special Lecture on Information and Communication]] [SlideShare](https://www.slideshare.net/nishio/2017-79797297)
+- 2017-08-07 Machine Learning Study Group Reinforcement Learning Part 5 Partial Observation Monte Carlo Programming (Partial Observation Markov Decision Processes 2) [[Reinforcement Learning Part 5]] [SlideShare [https://www.slideshare.net/nishio/5-](https://www.slideshare.net/nishio/5-) 79364176]
+- 2016-07-01 Unexplored Boost Conference - What do you mean by "networking"? [[What do you mean by "networking?"]]  [SlideShare](https://www.slideshare.net/nishio/ss-63642373)
+- 2017-03-31 Unexplored Junior Camp How to come up with good ideas [[How to come up with good ideas]] [SlideShare](https://www.slideshare.net/nishio/ss-74084313)
+- 2017-02-02 Machine Learning Study Group Reinforcement Learning Part 4 Partially Observed Markov Decision Processes [[Reinforcement Learning Part 4]] [SlideShare](https://www.slideshare.net/nishio/4-71709532)
+- 2017-01-31 Machine Learning Study Group Reinforcement Learning Part 3: Method Iteration [[Reinforcement Learning Part 3]] [SlideShare](https://www.slideshare.net/nishio/3-71708970)
+- 2017-01-26 Machine Learning Study Group Reinforcement Learning Part 2 [[Reinforcement Learning Part 2]] [SlideShare](https://www.slideshare.net/nishio/2-71708934)
+- 2017-01-13 Machine Learning Study Group Reinforcement Learning Part 1 [[Reinforcement Learning Part 1]] [SlideShare](https://www.slideshare.net/nishio/1-70974083)
+- 2016-11-09 Linear? Non-linear? [[Linear? Non-linear?]] [SlideShare](https://www.slideshare.net/nishio/ss-68456812)
+- 2016-11-08 Machine Learning Canvas ver. 0.1 [[Machine Learning Canvas 0.1]] [SlideShare](https://www.slideshare.net/nishio/01-68382174)
+- 2016-09-07 Tokyo Metropolitan University, Special Lecture on Information and Communication What Researchers Working for Companies in the IT Industry Think [[Tokyo Metropolitan University, "Special Lecture on Information and Communication" for Nishio 2016]] [SlideShare](https://www.slideshare.net/nishio/2016-67480959)
+- 2016-10-07 Gradient Descent Optimization Algorithm (Adagrad, Adadelta, Adam) [SlideShare [https://www.slideshare.net/nishio](https://www.slideshare.net/nishio) /ss-66840545]
+- 2016-08-24 Talking Sushi #3 Location estimation with Wifi radio wave [[Location estimation with Wifi]] [SlideShare](https://www.slideshare.net/nishio/wifi-65924813)
+- 2016-08-19 Location estimation with ESP8266EX [[Location estimation with ESP8266EX]] [SlideShare](https://www.slideshare.net/nishio/esp8266ex)
+- 2016-07-15 Building a Wifi router with Raspberry Pi [[Building a Wifi router with Raspberry Pi]] [SlideShare](https://www.slideshare.net/nishio/raspberry-piwifi)
+- 2016-07-15 Wifi-connected devices (ESP8266EX, ESP-WROOM-02, ESPr Developer, etc.) [[Wifi-connected devices (ESP8266EX, ESP-WROOM-02, ESPr Developer, etc.)]] [SlideShare](https://www.slideshare.net/nishio/wifiesp8266ex-espwroom02-espr-developer)
+- 2016-09-02 A Picture Book of Machine Learning Algorithms [[A Picture Book of Machine Learning Algorithms]] [SlideShare](https://www.slideshare.net/HirokazuNishio/ss-65620579)
+- 2016-06-28 What do you mean by "accelerate innovation by networking?" [[What do you mean by "accelerate innovation by networking?"]] [SlideShare](https://www.slideshare.net/nishio/ss-63596541)
+- 2016-06-10 Controlling multiple peripherals from the Raspberry Pi with 12C (and report on participation in "Unexplored IoT Development Camp #1") [[Control multiple peripherals from the Raspberry Pi with I2C]] [[SlideShare https ://www.slideshare.net/HirokazuNishio/i2craspberry-pi]]
+- 2016-04-26 Use of kintone in unexplored foundations [SlideShare](https://www.slideshare.net/nishio/kintone-61372573)
+- 2016-01-09 Programming Symposium Sponsor Lecture "Cybozu Advertising" *This slide is a supplement to the Programming Symposium Sponsor Lecture [[2016 Proceedings Sponsor, Addendum. 2016]] [SlideShare](https://www.slideshare.net/HirokazuNishio/2016-57037815)
+- 2015-12-14 Unexplored Year-End Party IP LT [[IP LT for Creative Personnel]] [SlideShare](https://www.slideshare.net/nishio/lt-56113139)
+- 2015-11-21 Unexplored Interim Training Camp Recommendations for Improving Productivity through Community (and Unexplored Foundation) [[Recommendations for Improving Productivity through Community]] [SlideShare [https://www.](https://www.) slideshare.net/nishio/ss-55412704]
+- 2015-10-27 BPstudy#98 Learning Technologies for Engineers [[Learning Technologies for Engineers]] [SlideShare](https://www.slideshare.net/nishio/ss-54458355)
+- 2015-09-16 From Rule-Based to Machine Learning *This slide is a reorganized version of a talk given at a Cybozu internal machine learning study group, with internal data and other slides removed [[From Rule-Based to Machine Learning For publication]]. [SlideShare](https://www.slideshare.net/nishio/ss-53221829)
+- 2015-09-20 Why can the IO pins of a microcontroller be used for both input and output?  [[Why can the IO pins of a microcontroller be used for both input and output?"]] [SlideShare](https://www.slideshare.net/nishio/io-52977913)
+- 2015-08-04 About the Productivity Improvement Working Group (Working Group) *This slide is a supplemental explanation to the lecture I gave at the "Unexplored Research Group Kickoff" of the Unexplored Research Group [[About the Productivity Improvement Working Group]] [SlideShare](https://www.slideshare.net/nishio/ss-51288295)
+- 2015-07-31 Cybozu Labs Machine Learning Study Group Long Short-term Memory [[Long Short-term Memory]] [SlideShare [https://www.slideshare.net/nishio/long-shortterm-](https://www.slideshare.net/nishio/long-shortterm-) memory]
+- 2015-05-29 Practical Multi-Class Classification [[Practical Multi-Class Classification Lessons Learned from Kaggle Otto]] [SlideShare [https://www.slideshare.net/nishio/](https://www.slideshare.net/nishio/) kaggle-otto]
+- 2015-05-21 Clean Space Experience [[Clean Space Experience]] [SlideShare](https://www.slideshare.net/nishio/ss-48424328)
+- 2015-05-11 The W-type problem-solving model of the KJ method and the U-theory, each with its own problem consciousness *This slide is an oral supplement to the presentation material at the Technical Committee on Software Engineering Technology of Japan Electronics and Information Technology Industries Association (JEITA), with the addition of questions and questionnaire results. [[The W-type problem-solving model of the KJ method and the U-theory, each with its own problem consciousness Additional Edition]] [[SlideShare https:// www.slideshare.net/nishio/kjwu]]
+- 2015-05-11 W-type problem-solving model of KJ method and U-theory, and their respective problem consciousness [[W-type problem-solving model of KJ method and U-theory, and their respective problem consciousness]] [SlideShare](https://www.slideshare.net/nishio/jeita)
+- 2015-04-10 kintone First Steps for General Incorporated Association [[kintone First Steps]] [SlideShare](https://www.slideshare.net/nishio/kintone-46846678)
+- 2015-04-03 kintone migration tips for those who are used to Facebook [[KINTONE Migration Tips for those who are used to Facebook]] [SlideShare [https://www.slideshare.net/](https://www.slideshare.net/) nishio/facebookkintonetips]
+- 2015-02-18 About Clean Language Part 2 [[About Clean Language Part 2]] [SlideShare](https://www.slideshare.net/nishio/2-44913054)
+- 2015-02-15 About Clean Language [[About Clean Language]] [SlideShare](https://www.slideshare.net/nishio/ss-44913042)
+- 2014-11-10 Nagoya University Designing ways of learning Addendum *This slide is a verbatim version of a talk I gave to information science students at Nagoya University, with verbal exchanges and questions added. This talk was given to me after seeing my keynote speech at PyCon JP, an international conference on the Python programming language.  [[Design for Learning Nagoya University Edition Addendum]] [SlideShare](https://www.slideshare.net/nishio/ss-41509693)
+- 2014-11-10 Design for Learning Nagoya University [[Design for Learning Nagoya University Edition]] [SlideShare](https://www.slideshare.net/nishio/ss-41509601)
+- 2014-11-07 Statistical Science of Survey and Observation Data Study 1 [[Statistical Science of Survey and Observation Data 1]] [SlideShare](https://www.slideshare.net/nishio/1-41241633)
+- 2014-10-28 Design for Learning Additions The process of learning begins with noticing blind spots *This slide is a lecture material used in the 2014 Nada School Saturday Lecture, with verbal exchanges and questions added [[Design for Learning Additions]] [SlideShare](https://www.slideshare.net/nishio/ss-40813458)
+- 2014-10-25 Nada School Saturday Lecture: Designing Learning The process of learning begins with noticing blind spots [[Nada School Saturday Lecture: Designing Learning]] [SlideShare [https://www.slideshare.net/](https://www.slideshare.net/) nishio/ss-40713032]
+- 2014-10-03 Kyoto University Summer Design School 2014 Groupware [[groupware]] [SlideShare](https://www.slideshare.net/nishio/x-39833461)
+- 2014-10-03 Kyoto University Summer Design School 2014 The Art of Reading [[the art of reading]] [SlideShare](https://www.slideshare.net/nishio/x-39833441)
+- 2014-10-03 Kyoto University Summer Design School 2014 Listening Skills [[Listening Skills]] [SlideShare](https://www.slideshare.net/nishio/x-39833439)
+- 2014-10-03 Kyoto University Summer Design School 2014 Drawing Techniques [[Drawing Techniques]] [SlideShare](https://www.slideshare.net/nishio/x-39833436)
+- 2014-10-03 Kyoto University Summer Design School 2014 Relationship between PDCA cycle and U-curve [[Relationship between PDCA cycle and U-curve]] [SlideShare [https://www.slideshare.net/nishio/](https://www.slideshare.net/nishio/) pdcau]
+- 2014-10-03 Kyoto University Summer Design School 2014 Brainstorming [[brainstorming]] [SlideShare](https://www.slideshare.net/nishio/x-39833073)
+- 2014-10-03 Kyoto University Summer Design School 2014 Relationship between learning style and U-curve [SlideShare [https://www.slideshare.net/nishio/x-u](https://www.slideshare.net/nishio/x-u) ]
+- 2014-10-03 Kyoto University Summer Design School 2014 KJ method, NM method, GTA [[KJ method, NM method, GTA]] [SlideShare](https://www.slideshare.net/nishio/x-kjnmgta)
+- 2014-10-03 Kyoto University Summer Design School 2014 03 2 Structuring Fragmentary Information_KJ Method Practice [[03 2 Structuring Fragmentary Information_KJ Method Practice]] [SlideShare [https://www.](https://www.) slideshare.net/nishio/03-2-kj]
+- 2014-10-03 Kyoto University Summer Design School 2014 03 3 Structuring Fragmentary Information_KJ Method Background [[03 3 Structuring Fragmentary Information_KJ Method Background]] [SlideShare [https://www.](https://www.) slideshare.net/nishio/03-3-kj]
+- 2014-10-03 Kyoto University Summer Design School 2014 11 Orientation for Day 2 [[11 Orientation for Day 2]] [SlideShare](https://www.slideshare.net/nishio/11-2-39832532)
+- 2014-10-03 Kyoto University Summer Design School 2014 12 Learn one from many suggestions [[12 Choose one from many suggestions]] [SlideShare](https://www.slideshare.net/nishio/12-39832531)
+- 2014-10-03 Kyoto University Summer Design School 2014 Non-Participant Orientation [[Non-Participant Orientation]] [SlideShare](https://www.slideshare.net/nishio/ss-39832530)
+- 2014-10-03 Kyoto University Summer Design School 2014 13 Method of presentation [[13 Method of presentation]] [SlideShare](https://www.slideshare.net/nishio/13-39832529)
+- 2014-10-03 Kyoto University Summer Design School 2014 02 Write it down and then think about it [[02 Write it down and then think about it.]] [SlideShare](https://www.slideshare.net/nishio/02-39829316)
+- 2014-10-03 Kyoto University Summer Design School 2014 01 Orientation [[01 Orientation]] [SlideShare](https://www.slideshare.net/nishio/01-39829315)
+- 2014-10-03 Kyoto University Summer Design School 2014 03 1 Structuring Fragmentary Information _ Preliminary and Actual KJ Method Flow [[03 1 Structuring Fragmentary Information _ Preliminary and Actual KJ Method Flow]] [SlideShare](https://www.slideshare.net/nishio/03-1-kj)
+- 2014-09-17 PyCon JP Keynote Speech English version Rediscover with Python [[PyConJP Keynote Speech (English version)]]
+[SlideShare](https://www.slideshare.net/nishio/pyconjp-keynote-speech-english-version)
+- 2014-09-17 Rediscover with Python Japanese version Question and Answer Added Version [[PyConJP Keynote Speech (Japanese version)]] [SlideShare [https://www.slideshare.](https://www.slideshare.) net/nishio/pyconjp-keynote-speech-japanese-version]
+- 2014-09-05 Heart Sutra [[Heart Sutra]] [SlideShare](https://www.slideshare.net/nishio/ss-38742646)
+- 2014-08-07 Is mathematical induction not induction?  [[Is mathematical induction not induction?"]] [SlideShare](https://www.slideshare.net/nishio/ss-37710300)
+- 2014-08-06 An example of a "cycle in which the model is modified" [[Cycle in which the model is modified]] [SlideShare](https://www.slideshare.net/nishio/ss-37708045)
+- 2014-06-06 Commentary on "Distributed Representaion of Sentences and Documents" [["Distributed representation of sentences and documents"]] [SlideShare](https://www.slideshare.net/nishio/distributed-representation-of-sentences-and-documents)
+- 2013-11-08 About the chi-square distribution [[About the chi-square distribution]] [SlideShare](https://www.slideshare.net/nishio/chisq)
+- 2013-10-17 Nada School Saturday Lecture Career Strategies - Diversity of People, Lifestyles, and Work Styles [SlideShare [https://www.slideshare](https://www.slideshare) .net/nishio/ss-27390660]
+- 2013-10-01 Kyoto University Summer Design School 2013 Do it alone or together?
+- 2013-10-01 Kyoto University Summer Design School 2013 Method of Presentation [SlideShare](https://www.slideshare.net/nishio/ss-26727421)
+- 2013-10-01 Kyoto University Summer Design School 2013 What is correctness [[What is correctness?]] [SlideShare](https://www.slideshare.net/nishio/ss-26727384)
+- 2013-10-01 Kyoto University Summer Design School 2013 Unverbalized knowledge [SlideShare](https://www.slideshare.net/nishio/ss-26727371)
+- 2013-10-01 Kyoto University Summer Design School 2013 Incorporate outside knowledge [SlideShare](https://www.slideshare.net/nishio/ss-26727344)
+- 2013-10-01 Kyoto University Summer Design School 2013 How to get motivated [[How to get motivated]] [SlideShare](https://www.slideshare.net/nishio/ss-26727280)
+- 2013-10-01 Kyoto University Summer Design School 2013 Choose one from many suggestions [SlideShare](https://www.slideshare.net/nishio/ss-26723961)
+- 2013-09-30 Kyoto University Summer Design School 2013 Resist peer pressure [[Resist peer pressure]] [SlideShare](https://www.slideshare.net/nishio/ss-26723633)
+- 2013-09-30 Kyoto University Summer Design School 2013 [[consider feasibility]] [SlideShare](https://www.slideshare.net/nishio/ss-26723623)
+- 2013-09-30 Kyoto University Summer Design School 2013 Background of the KJ Method [[Background of the KJ Method]] [SlideShare](https://www.slideshare.net/nishio/kj-26723200)
+- 2013-09-30 Kyoto University Summer Design School 2013 Practicing the KJ Method [SlideShare](https://www.slideshare.net/nishio/kj-26689289)
+- 2013-09-30 Kyoto University Summer Design School 2013 Preliminary and actual KJ method flow of structuring fragmentary information [SlideShare](https://www.slideshare.net/nishio/kj-26687739)
+- 2013-09-30 Kyoto University Summer Design School 2013 I'll think about it after I write it down.] [SlideShare](https://www.slideshare.net/nishio/ss-26687453)
+- 2013-09-30 Kyoto University Summer Design School 2013 Orientation [[orientation]] [SlideShare](https://www.slideshare.net/nishio/ss-26686448)
+- 2013-07-21 Supplement to DB Press article [[Supplement to DB Press article]] [SlideShare](https://www.slideshare.net/nishio/db-press)
+- 2013-06-05 FPGAX2 FPGA Experience (story about making a life game) [[FPGAX 2]] [SlideShare](https://www.slideshare.net/nishio/fpgax-2)
+- 2013-04-25 What do we learn? Chapter 2: Three major input methods [[What do we learn? 2: Three major input methods]] [SlideShare](https://www.slideshare.net/nishio/ss-19956967)
+- 2013-04-14 BLUE* Algorithm [[BLUE* Algorithm]] [SlideShare](https://www.slideshare.net/nishio/blue-18770290)
+- 2013-04-09 What do we learn and how do we learn it? (Revised 04-25) [[What do we learn and how do we learn it?]] [SlideShare](https://www.slideshare.net/nishio/ss-18540949)
+- 2012-10-10 Introduction to ZDD (Subtitle: How to Save Your Sister) [[Introduction to ZDD - How to Save Your Sister]] [SlideShare](https://www.slideshare.net/nishio/zdd)
+- 2012-08-29 Visualization of the structure of the Heart Sutra [[Heart Sutra]] [SlideShare](https://www.slideshare.net/nishio/ss-14096753)
+- 2012-05-24 Dive into .git Japanese version [[Dive into .git Japanese version]] [SlideShare](https://www.slideshare.net/nishio/dive-into-git-13060995)
+- 2012-05-24 Dive into .git [[Dive into .git]] [SlideShare](https://www.slideshare.net/nishio/dive-into-git-13060630)
+- 2012-04-28 Nico Nico Superconference 2012 Super Engineer Meeting Don't take your ideas with a grain of salt - how to get people from all over the world to help you...] world to help you...]  [SlideShare](https://www.slideshare.net/nishio/ss-12725054)
+- 2011-01-11 Security & Programming Camp 2011 Testing and Debugging *This is a presentation of a lecture I gave for middle school to college students [[Testing and Debugging]] [SlideShare [https://www.slideshare.net/nishio/](https://www.slideshare.net/nishio/) ss-10957773]
+- 2011-04-11 What is a module?  [[What is a module?]] [SlideShare](https://www.slideshare.net/nishio/ss-7586631)
+- 2010-08-20 Security & Programming Camp 2010 Programming Language Group 8/14 Second Hour Lecture Material Language design decisions [SlideShare [https://www.slideshare.net/nishio](https://www.slideshare.net/nishio) /ss-5019563]
+
+---
+This page is auto-translated from [/nishio/過去の発表資料まとめ](https://scrapbox.io/nishio/過去の発表資料まとめ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -1,0 +1,139 @@
+---
+title: "Programming Contest Challenge Book"
+---
+
+![image](https://gyazo.com/60679569ff163799c034ed061a0bf503/thumb/1000)
+- Programming Contest Challenge Book - Training problem-solving [[algorithm]] utilization skills and coding techniques.
+    - [[anthology]]
+- [Amazon](https://amzn.to/2CmDVsq)
+
+Table of Contents
+- 2 Start with the basics! 1 Beginner's level
+    - global search
+        - recursive function
+        - stack
+        - queue
+        - depth first search (search algorithm in AI)
+        - breadth first search
+        - Enumeration of special conditions
+        - pruning (e.g. decision tree)
+    - greedy algorithm
+        - Coin Problem
+        - Interval Issues
+            - p.43  [[Interval Scheduling]]
+        - Lexicographic Order Minimum Problem
+        - Other examples
+    - dynamic programming
+        - Memorization and dynamic programming of search
+        - Devise an asymptotic formula
+        - DP for calculation problems
+    - data structure
+        - binary tree
+        - Priority queue and heap
+            - [[binary tree]]
+        - [[UnionFind]]
+    - graph
+        - Chart Representation
+        - Graph Search
+            - [[shortest route problem]]
+            - [[minimum area tree]]
+        - application problem
+    - Tips for solving mathematical problems
+            - [[Euclid's reciprocal division]]
+        - Basic algorithms for prime numbers
+        - Calculating the remainder
+        - Fast computation of power powers
+3 Here's the difference! Intermediate level
+    - [[dichotomous search]]
+    - Finding a value in a sort column
+    - Assume a solution and determine if it is possible
+    - Maximize Minimum
+    - mean maximization
+        - Related [https://www.slideshare.net/mobile/hcpc_hokudai/binarysearch2016](https://www.slideshare.net/mobile/hcpc_hokudai/binarysearch2016)
+- frequently used technique
+        - [[inchworm law]]
+    - inversion
+    - elastic collision
+        - [[half-full enumeration]]
+        - [[coordinate compression]]
+- data structure
+        - [[segment tree]]
+    - [[Binary lndexed Tree]]
+        - [[bucket method]] and [[square partitioning]]
+- Mastering Dynamic Programming!
+        - [[bit DP]] 　[[bitDP]]
+        - [[matrix power]] 　 [[iterative square law]]
+    - Accelerate with data structures
+- network flow
+        - [[maximum flow]]
+        - [[minimum cut]]
+        - [[two-part matching]]
+        - [[General Matching]]
+        - [[matching]]
+        - [[edge cover]]
+        - [[stable set]]
+        - [[point coverage]]
+        - [[least-cost current]]
+- computational geometry
+    - planar scanning
+        - [[gibbet]]
+    - numerical integration
+- Further mastery! One advanced version
+    - More complex mathematical problems
+        - matrix
+        - Mod World
+        - enumeration
+        - Symmetric Counting
+    - Games and Winning Methods
+            - [[Grundy number]]
+    - graph
+            - [[strongly-coupled component decomposition]]
+        - [[2-SAT]]
+        - [[LCA]]
+    - frequently used technique
+        - Use of Stacks
+        - Use of Deck
+            - [[doubling]]
+    - Explore ingeniously and wisely
+        - pruning (e.g. decision tree)
+        - A* and IDA*.
+    - divide and rule law
+        - method of divide and conquer in columns
+        - Tree Divide and Conquer Method
+        - Divide-and-conquer method for planes
+    - character string
+        - Dynamic programming for strings
+        - character string search
+            - [[suffix array]]
+
+column
+- Stack and heap areas
+- Proof of Algorithm for Appetite Law
+- Huffman code
+- Initialization by memset
+- How to write a full search
+- Be careful not to forget to initialize
+- Various DP
+- Array Reuse in DP
+- lower bound
+- equilibrium binary tree
+- Proofs, laws, etc.
+- Convergence judgment of binary search
+- Integer representation of a set
+- [[Sparse Table]] [[RMQ]]
+- domain tree
+- Number of complete matches
+- More Fast Asymptotic Formula Calculations
+- Maximum flow for various graphs
+- Fast maximum flow algorithm
+- Minimum cost flow for various graphs
+- linear programming problem
+- computation error
+- integer programming problem
+- Faster preprocessing of string DP
+- multiple length operation
+
+[[atcoder]]
+
+---
+This page is auto-translated from [/nishio/プログラミングコンテストチャレンジブック](https://scrapbox.io/nishio/プログラミングコンテストチャレンジブック) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

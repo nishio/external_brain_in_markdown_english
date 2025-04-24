@@ -1,0 +1,10 @@
+---
+title: "Attract young people who reinforce their own theories."
+---
+
+> [@philomyu](https://twitter.com/philomyu/status/1574230999676104704?s=21&t=oVG_AVNlZ2wwBti_ylbT8A): I'm an adult myself, so I'm careful not to get into what we call [[problems caused by the elderly (esp. gerontocracy, and elderly people's control over the young)]]. I'm also an adult, so I try not to get into what people call [[problems caused by the elderly (esp. gerontocracy, and elderly people's control over the young)]], but I wonder if that could be explained by a mechanism like "[[Abrasion of curiosity]]". I wonder if it can be explained by a mechanism like "[[Abrasion of curiosity]]". I wonder if it could be explained by a mechanism like "[[Abrasion of curiosity]]", in which you become unimpressed with new ideas that you found interesting when you were younger, or you feel that you are being rejected for not understanding their interest.
+
+> I think this "[[New Ideas]]" is important as the borderline between becoming an old person and not becoming an old person, and I want to be careful because I think that if I only take on young people who tend to tell me "stories that [[Reinforces prejudice]]" or "stories that give new authority to my theory" no matter how much I think I am inputting information by talking to young people, I will end up becoming an old person. I want to be careful not to take up with young people who tend to give "stories that [[Reinforces prejudice]]" or "stories that give new authority to one's own theory".
+
+---
+This page is auto-translated from [/nishio/自説を強化する若者を集める](https://scrapbox.io/nishio/自説を強化する若者を集める) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

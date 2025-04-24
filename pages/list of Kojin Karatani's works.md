@@ -1,0 +1,91 @@
+---
+title: "list of Kojin Karatani's works"
+---
+
+I heard from friends abroad that they are interested in Kojin Karatani, and I became curious about which books have been translated and which ones haven't yet.
+
+## A list of Kojin Karatani's works
+<img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+
+- A Man in Awe (1972)
+- The Disease of Meaning (1975)
+- Marx: The Center of Possibility (1978)
+- The Origins of Japanese Modern Literature (1980)
+    - (EN) Origins of Modern Japanese Literature (1993)
+    - (ZH) 《Japanese Modern Literary Origins》.
+- Architecture as Metaphor (1983)
+    - (EN) Architecture as Metaphor; Language, Number, Money (1995)
+    - (ZH) 《為喻隱的建築》
+- Introspection and Retrospection" (1984)
+- Criticism and Postmodernism" (1985)
+- Exploration 1" (1986)
+- Words and Tragedy (1989)
+- Exploration 2" (1989)
+- On the End of the World" (1990)
+- Soseki's Essays on Soseki" (1992)
+- Materialism as Humor (1993)
+- The "Prewar" Mindset" (1994)
+- Ango Sakaguchi and Kenji Nakagami" (1996)
+- Ethics 21" (2000)
+    - (ZH) 《Ethics 21》
+    - A book discussing various ethical issues in the 21st century, including the Tokyo War Crimes Trial, Maruyama Masao, education, religion, and the Sakakibara Seito incident.
+- Possible Communism" (2000)
+    - A book exploring the possibilities of communism in the modern era.
+- 『 [[NAM Principles]] : NEW ASSOCIATIONIST MOVEMENT』(2000)
+    - A book introducing the principles of the [[New Associationist Movement]] ([[NAM]]).
+- Transcritique: Kant and Marx" (2001)
+    - (EN) Transcritique: On Kant and Marx (2003)
+    - A philosophical work comparing and contrasting the thoughts of Immanuel Kant and Karl Marx.
+- 『 [[NAM Generation]] : NAM New Associationist Movement』(2001)
+    - A book discussing the formation and development of the New Associationist Movement (NAM).
+- Japan Psychoanalysis (2002)
+    - An analysis of the Japanese mentality and spirit, including discussions on Akutagawa Ryunosuke, Tanizaki Jun'ichiro, and Kikuchi Kan.
+- Nation and Aesthetics" (2004)
+    - (EN) Nation and Aesthetics: On Kant and Freud (2017)
+    - A book exploring the relationship between nationalism and aesthetics, drawing on the ideas of Kant and Freud.
+- History and Repetition" (2004)
+    - (EN) History and Repetition (2011)
+    - A philosophical work examining the concepts of history and repetition.
+- The End of Modern Literature" (2005)
+    - A book discussing the end of modern literature, including lectures on the topic and an analysis of the translation issues in the works of Futabatei Shimei.
+- Toward a World Republic" (2006)
+    - (ZH) 《Mai Xiang World Republic》(Mai Xiang World Republic)
+    - A book proposing the idea of a world republic, moving beyond the concepts of capital, nation, and state.
+            - [[universal republic]]  is the concept from Kant.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- Gyojin Karatani, Talking about Politics (2009)
+    - (ZH) 《Gyoto Emotani talks politics
+    - A collection of interviews with Karatani Kojin discussing various political issues.
+- 『 [[Structure of World History]] 』 (2010)
+    - (EN) The Structure of World History: From Modes of Production to Modes of Exchange (2014)
+    - (ZH) 《World historical quite》.
+    - A major work analyzing the structure of world history, focusing on the transition from modes of production to modes of exchange.
+- 『 [[Read "The Structure of World History."]] 』 (2011)
+    - A companion book to "The Structure of World History," providing further insights and explanations.
+- Politics and Thought 1960-2011" (2012)
+    - A collection of Karatani's writings on politics and thought from 1960 to 2011.
+- The Origins of Philosophy (2012)
+    - (EN) Isonomia and the Origins of Philosophy (2017)
+    - (ZH) "Philosophical Origins.
+    - A book tracing the origins of philosophy and the concept of [[isonomia]] (equality before the law).
+- Yanagida Kunio" (2013)
+    - A book discussing the works and ideas of [[Yanagita Kunio]], a prominent Japanese folklorist.
+- 『 [[University Lectures for Junior High School Students 2: How to Read History]] 』(Karatani wrote in 2013, published in 2018)
+    - A book guiding junior high school students on how to read and understand history, part of a series of university lectures for younger students.
+- 『 [[Structure of Empire]] 』 (2014)
+    - (ZH) 《帝國的結構》
+    - An analysis of the structure of empires, focusing on the center, periphery, and sub-periphery.
+- Yūdōron: Yanagida Kunio and the Mountain People" (2014)
+    - A book discussing the concept of "yudō" (nomadism) in relation to [[Yanagita Kunio]] and the "yamabito" (mountain people).
+- Sadamoto, Emiya Yukito: Bungeki Ronbunshu (2016)
+    - A collection of Karatani's essays on literature.
+- 『 [[Constitutional Unconsciousness]] 』 (2016)
+    - (ZH) 《站在震後的廢墟之上》
+    - A book examining the unconscious aspects of the Japanese Constitution.
+- 『 [[New Associationist Manifesto]] 』(2021)
+    - A manifesto for the New Associationist Movement.
+- 『 [[power and modes of exchange]] 』 (2022)
+    - A book discussing the relationship between power and modes of exchange.
+- 『 [[Read "Power and Exchange Styles" by Yukito Karatani]] 』(2023)
+    - A companion book providing a guided reading of Karatani's "Power and Modes of Exchange."
+---
+This page is auto-translated from [/nishio/list of Kojin Karatani's works](https://scrapbox.io/nishio/list of Kojin Karatani's works) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

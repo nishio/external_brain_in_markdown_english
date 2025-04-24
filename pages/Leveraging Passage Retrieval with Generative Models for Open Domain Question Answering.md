@@ -1,0 +1,11 @@
+---
+title: "Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering"
+---
+
+> Generative models for open domain question answering have proven to be competitive, without resorting to external knowledge. While promising, this approach requires to use models with billions of parameters, which are expensive to train and query. In this paper, we investigate how much these models can benefit from retrieving text passages, potentially containing evidence. We obtain state-of-the-art results on the Natural Questions and TriviaQA open benchmarks. Interestingly, we observe that the performance of this method significantly improves when increasing the number of retrieved passages. This is evidence that generative models are good at aggregating and combining evidence from multiple passages.
+[https://arxiv.org/abs/2007.01282](https://arxiv.org/abs/2007.01282) (2020)
+(DeepL) Generative models for open domain question answering have proven to be competitive without relying on outside knowledge. While this approach is promising, it requires the use of models with billions of parameters and is expensive to train and query. In this paper, we investigate how much these models can benefit from retrieving potentially evidence-laden text. We obtain state-of-the-art results on the Natural Questions and TriviaQA open benchmarks. Interestingly, we observed that increasing the number of sentences searched significantly improves the performance of this approach. This is evidence that the generative model is adept at aggregating and combining evidence from multiple sentences.
+[[Fusion-in-Decoder]]
+
+---
+This page is auto-translated from [/nishio/Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://scrapbox.io/nishio/Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

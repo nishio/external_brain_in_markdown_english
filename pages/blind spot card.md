@@ -1,0 +1,129 @@
+---
+title: "blind spot card"
+---
+
+The idea is to create a typology of the process by which a human being notices a [[blind spot]] and resolves it, so that when he/she is troubled, he/she can draw a card to solve the problem. This is a more abstract version of TRIZ, which was created by typifying physical patent documents.
+
+We are aiming for a reasonable number of physical cards or pictured mugs in the end, but right now we are in the process of structuring it bottom-up (SEE [[Top-down and bottom-up]]) and are gradually structuring it by collecting examples where we have noticed blind spots or changed our perspective.
+
+- [[Blind Card Candidate]]
+- [[Blind spot card with no picture yet]]
+
+- 2025-01-29
+    - 46:  [[High probability of failure, but average good]]
+    - 47:  [[When more variability is better]]
+- 2024-06-13
+    - 45:  [[Assumption that it is a circle]]
+- 2024-05-13
+    - 42:  [[Even if the quantity doesn't decrease, the percentage will.]]
+    - 43:  [[Two non-orthogonal axes]]
+    - 44:  [[Fill the lake with a glass of water.]]
+- 2023-09-04
+    - 40:  [[Interaction Attributes]]
+    - 41:  [[Splitting up conflicts.]]
+- 2023-07-28
+    - 38:  [[Assumption that the top is single]]
+    - 39:  [[barbell]]
+        - I had written on 4/13 but didn't make it a blind spot card.
+- 2022-11-24
+    - 37:  [[There is not always one solution.]]
+- 2022-05-25
+    - 36:  [[Only large stones emerge from the water.]]
+- 2022-02-16
+    - The last update on 2021-10-22 was an attempt to make a [[tote bag]].
+        - In the process, [[A series of pictures of two people saying different things]] was created.
+            - More and more have been added since then.
+            - [[Whether to add a series of pictures of two people saying different things to the blind spot card?]]
+            - I won't add all of them, I wrote them on the candidate blind spot card.
+    - I was trying to make a new addition to [[Blind Card Candidate]] this time and saw this page and added
+        - The blind spot card candidate page is [[dull and uninteresting]], not good.
+            - It's just a list of links.
+            - What's not good.
+                - The link alone is not enough information.
+                    - Is that the same for other blind spot cards?
+            - Why "candidate" in the first place?
+                - Because I'm anxious to shake the sequential number ID.
+                - But it's unclear whether everything that's been sequentially numbered in the past is "of a quality that's up to par."
+                        - [[(6.3.1.1) If you don't know who your customers are, you don't know what quality is]]
+                        - Once you have a clear idea of the specific purpose, such as "to make a tote bag," you can then sift through the criteria for usefulness.
+                                - [[Sift through after the use is clear.]]
+                        - Undecided whether these blind spot cards will be randomly drawn cards as originally planned, or whether they will be readable, tote bags or mugs.
+                - Then we can look at the candidates and add them if there's no reason not to.
+            - Why did you assign sequential numbers in the first place?
+                - Because we weren't using Scrapbox when this project started.
+                    - He felt the name of the card could change.
+                        - Referencing by name breaks the link when the name is changed.
+                        - So I tried to refer to it by number.
+                    - Tried to create a [[network structure]] of knowledge at a time when Scrapbox was not yet in use.
+                        - This is strongly reflected in the fact that the first blind spot card is [[Tree and Rhizome]].
+                            - [Not a tree of knowledge, but a rhizome of knowledge
+                - Can we use Scrapbox now?
+                    - In the process of translating the Engineer's Guide to Intellectual Production into English, I assigned unique numbers to the headings.
+                        - Because there are different pages in different languages that point to the same thing
+                        - Blind spot cards don't create value only in Japan either, so there's a chance they'll be translated into English in the future.
+                        - Let's keep the numbers.
+            - Look at the candidates and add them if there is no reason not to "Then let's process them in order from the top of the candidate blind spot cards," I thought and looked at the first one, and it said, "This should be split into several.
+                - It's a tasteless list, I didn't notice.
+                - I've split it up and painted a picture, I'll give you some time to make an adoption decision.
+        - I'm still having trouble rereading "Blind Spot Cards Without Pictures."
+            - I thought it was "the manuscript of the blind spot card that had no picture at the time it was transcribed to Scrapbox," to be exact.
+    - 31:  [[Both "is X" and "is not X" are compatible.]]
+    - 32:  [[familial resemblance]]
+    - 33:  [[Two non-orthogonal axes]]
+    - 34:  [[There are multiple ways to compromise.]]
+    - 35:   [[Move the good stuff.]]
+- 2021-10-22
+    - 23  [[A set, not an element]]
+    - 24  [[Axis, not set]]
+    - Cards that have been treated as blind cards for some time OR that were on the list of candidates but not numbered.
+        - 25:  [[There is more than one conflict.]]
+        - 26:  [[The bias of easy drawing]]
+        - 27:  [[The fastest course is not the fastest]]
+        - 28:  [[Not one way, but both ways.]]
+        - Considerations:.
+            - Even if you write "`[blind spot card] candidate`" on the side of the individual page, the link here is too big to be buried.
+            - The trigger for consideration isn't pulled when you think, "I'll consider it later before I put it in."
+                - [[Blind Card Candidate]]
+    - 29:  [[Observation coverage issues]]
+    - 30:  [[False dichotomy]]
+- 2021-06-28
+    - It's been a while since I looked at this one and said, "Where are the 1's and 2's?" I'm like, "Where are 1 and 2?
+    - [src](https://github.com/nishio/idea-generation/blob/master/blindspot/original_cards.html)
+        - 1  [[Tree and Rhizome]]
+        - 2  [[Top-down and bottom-up]]
+    - I wonder if there should be a page called "List of Blind Spot Cards."
+        - 2022-02-16 I think this page is it.
+            - And it appears with a picture on the Related Pages section below.
+            - A listing page with just a list of lists is [[dull and uninteresting page]].
+- Added on 2019-02-07 22 [[Effectiveness]].
+- Added on 2018-08-11 21 more ""Why" is ambiguous."]
+- 2018-04-29 Addition of 1045,1046
+- 2018-04-22 20 additions [[Large and small relationships do not exist.]].
+- 2018-01-31 19 additions [[Curse of the dimension]].
+- 2018-01-28 Addition of 1047
+- 2018-01-16 Addition of 1045, 1046
+- 2018-01-11: Addition of 18, 1044
+    - 18:  [[Identifying things that are not equal and cannot be identified by increasing differences]]
+- 2017-06-17: 17 additions [[A cylinder looks like a circle or a square, but it is neither a circle nor a square]]
+- 2017-05-31: Addition of 15,16
+    - 15:  [[Use yourself as part of yourself.]]
+    - 16:  [[Learn from those with little knowledge.]]
+- 2017-05-27: For now, 1-14 with pictures were ported to Scrapbox, and after 1000, they were put in [[Blind spot card with no picture yet]] for now.
+- 2015-02-18: Manage in Github to see the change history of individual items
+- 2015-02-17: 9-14, 1029-1030 added
+    - 9:  [[The Place of Nothingness]]
+    - 10:  [[Different things belonging to the same thing]]
+    - 11:  [[symmetry (physics)]]
+    - 12:  [[golden ratio (approx. 1.6180339887)]]
+    - 13:  [[yin-yang taiji diagram]]
+    - 14:  [[dialectics]]
+- [[2015]]-02-16: 1-8, 1000-1028, Published.
+    - 3:  [[spiral staircase]]
+    - 4:  [[Proceed in reverse, but the goal is the same.]]
+    - 5:  [[It's one or two things.]]
+    - 6:  [[You have to climb up to get down.]]
+    - 7:  [[We'll work it out in another world.]]
+    - 8:  [[Same" and "different" go hand in hand.]]
+
+---
+This page is auto-translated from [/nishio/盲点カード](https://scrapbox.io/nishio/盲点カード) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

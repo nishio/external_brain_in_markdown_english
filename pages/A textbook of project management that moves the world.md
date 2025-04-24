@@ -1,0 +1,11 @@
+---
+title: "A textbook of project management that moves the world"
+---
+
+![image](https://gyazo.com/bfecb2ca388d6519a05a8b7f28eb99e6/thumb/1000)
+- Textbook of Project Management that Moves the World
+- [Amazon](https://amzn.to/2KkgLSZ)
+
+
+---
+This page is auto-translated from [/nishio/世界を動かすプロジェクトマネジメントの教科書](https://scrapbox.io/nishio/世界を動かすプロジェクトマネジメントの教科書) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

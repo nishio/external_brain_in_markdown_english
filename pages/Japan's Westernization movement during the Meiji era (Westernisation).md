@@ -1,0 +1,19 @@
+---
+title: "Japan's Westernization movement during the Meiji era (Westernisation)"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>Civilization and civilization development refers primarily to the process of improving society and culture for the purpose of civilization development, progress, enlightenment, and indoctrination. The concept is often used in two senses: narrow and broad.
+- In a narrow sense, civilization and enlightenment refers to the modernization of Japan from the mid-19th century to the early Meiji period, a period in which Japan sought to achieve its own modernization by adopting Western technology, culture, and institutions. This period saw the dissolution of the national isolation policy, the establishment of Western-style armies and schools, and the introduction of a new legal system.
+- In a broad sense, civilization-building can refer to the development and progress of any civilization from ancient times to the present, as well as the exchange and spread of cultures. The propagation of technology, knowledge, and culture through contact between different civilizations in different parts of the world, resulting in the transformation of society and culture, can be considered an example of civilization opening.
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Compare the relationship between Japan and the West in the civilization of Japan with the relationship between humanity and the LLM today.
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>Several similarities and differences can be found in the relationship between humanity and Large Language Models (LLMs) during Japan's civilization and today. The following is a comparison of their relationship.
+- Common points:
+    - Propagation of Technology and Knowledge: During the period of civilization in Japan, advanced technology and knowledge from the West were introduced to Japan. Even in the relationship between humanity and LLM today, advanced technologies such as AI and LLM have had a lot of impact on people's lives and businesses.
+    - Social Transformation: The period of civilization in Japan was a catalyst for major changes in Japanese society and culture. Similarly, in the relationship between humanity and LLM today, AI technology is transforming industries and society as a whole.
+    - Globalization: During the period of civilization in Japan, international relations were strengthened and globalization progressed. Modern humanity and LLM are also becoming more globalized as information and technology are shared across borders.
+- Differences:
+    - Difference in subject matter: In Japan's civilization period, the state and humans were the main actors, learning technology and knowledge from the West. On the other hand, in the contemporary relationship between humans and LLM, humans develop and use AI technology, and AI provides support to humans. In this respect, there is a clear difference in the subject matter.
+    - Different Purpose: The purpose of Japan's civilization period was to achieve the modernization and development of the country. In the modern relationship between humanity and LLM, the objectives are diverse, and LLM is used for a variety of purposes, including information retrieval, decision support, and creative writing.
+
+---
+This page is auto-translated from [/nishio/文明開化](https://scrapbox.io/nishio/文明開化) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

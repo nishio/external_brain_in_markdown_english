@@ -1,0 +1,23 @@
+---
+title: "INTEGRITY, INTIMACY and DUMBNESS"
+---
+
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1874797697225638055) The story about "[[uncool]]" becoming a word to describe personal [[integrity]] rather than taste in music reminded me of the Friday attack I was reminded of the praise for Beat Takeshi's press conference video after the Friday attack. Even if it is "bad" in terms of right and wrong, if it is based on consistent values and aesthetics, it is not lame and is cool.
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1874808232587530630) I once read that Japan is a society that values [[Intimacy]] ([[intimacy with others]]) more than Integrity ([[self-integrity]]). Because it is a society with strong Intimacy, sexual assaults have been covered up by organizations, but if the concept of Integrity is brought in with the word "tacky," more people may be willing to accuse others, even within organizations.
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1874810922864394412) Most perpetrators who are told, "Don't do such a bad thing as forcing yourself to do it," only feel victimized and think, "I'm being forced to be right! But when they are told "You look tacky", not many people say "I was forced to be fashionable! I don't think there are many people who say "I was forced to be fashionable" when they are told "You're tacky!
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1874813076324880481) Even those who believe that righteousness is always outside of themselves, and that it is only a suffocating thing imposed from the outside, may be afraid of being placed in a lower position in the world because of their inner sense of beauty and values. I wonder if they are afraid of being put in a lower position in the world because of their inner sense of beauty and values.
+> [futon3928](https://x.com/futon3928/status/1891265309094326538) If you're so pissed off with Bunshun, why don't you just assault him with the assumption that you're going to arrest him, instead of doing the ineffective thing of having your followers bad-mouth him on social networking sites?
+
+
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1891074312058077298) The apology video by Romain Reijiwa is highly rated, and I felt that what is required now is not "[[Compliance]]" but "integrity" (self-integrity). I felt that "integrity" (self-integrity), not "[[Compliance]]," is what is required nowadays. [The behavior that seems to be based not on external compliance but on one's own [[consistent sense of beauty]].
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1891075994464780438) I often hear from young comedy lovers that they want older comedians to stop using social networking sites because they are too lame. I often hear from younger comedians that they want older comedians to stop using social networking sites because it is too lame....
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1891077912167661681) Instead of telling people what they did or didn't do in a way that would be understood by people other than their own relatives, we can say, "It's finally happened...." I think it can be said that the reason why they imply (intimate) is because the way they relate to the world is intimacy oriented.
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1891081229694317036) That's exactly what sexual assault is about, it's about doing things to other people that would not be a problem if the relationship was intimate, and when you are popular from a very young age and the only people around you are your fans and relatives, you tend to feel like the whole world is intimate. When you are popular from a very young age and the only people around you are your fans and relatives, you tend to feel that the whole world is intimate, and it may become a problem only when you get older and are seen as other people by young people.
+> [fmfm_nknk](https://x.com/fmfm_nknk/status/1891083708255387941) So, even if we think we can get back in the game by issuing an apology video, I imagine it might be difficult to admit that the other party sincerely disliked you because it shatters the world view that "everything in the world is intimate". I imagine it might be difficult for them to admit that they disliked you because it shatters their worldview that "everything in the world is intimate".
+
+
+relevance
+- [[inner-city community]].
+
+---
+This page is auto-translated from [/nishio/integrityとintimacyとダサさ](https://scrapbox.io/nishio/integrityとintimacyとダサさ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

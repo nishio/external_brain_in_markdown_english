@@ -1,0 +1,19 @@
+---
+title: "public assistance"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>
+Japan's welfare system is among the most comprehensive and systematic among OECD countries. A wide range of individual (categorical) benefits are provided, including housing, medical care, education, and employment assistance, which is on par with Finland, South Korea, and Slovakia.
+- [Japan's Public Assistance System and Safety Net--Characteristics from an International Comparison / Takafumi Uzumihashi - SYNODOS](https://synodos.jp/opinion/welfare/22795/)
+
+However, the capture rate for public assistance is low at around 20%, and although it is estimated that approximately 10 million people are in need of public assistance, only a fraction of them are actually receiving it.
+- [10 Million People Need Welfare? International Comparison of Welfare Capture and Utilization Rates - The Progressive Common Man [https://shin-geki.com/2021/09/06/1000%E4%B8%87%E4%BA%BA%E3%81%AB%E7%94%9F%E6%B4%BB%E4%BF%9D%E8%AD%B7%E3%81%](https://shin-geki.com/2021/09/06/1000%E4%B8%87%E4%BA%BA%E3%81%AB%E7%94%9F%E6%B4%BB%E4%BF%9D%E8%AD%B7%E3%81%) 8C%E5%BF%85%E8%A6%81%EF%BC%9F%E7%94%9F%E6%B4%BB%E4%BF%9D%E8%AD%B7%E3%81%AE%E6%8D%95%E6%8D%89%E7%8E%87%E3%81%A8%E5%88%A9/]
+
+The amount of welfare benefits in Japan varies by region and household composition, but in the case of a person living alone, it is considered to be just barely enough to survive. For example, in Minato Ward, Tokyo, the monthly welfare payment is 130,000 yen, or approximately 1.56 million yen per year. This is equivalent to an annual income of approximately 1,950,000 yen.
+
+On the other hand, Japan's social security benefit payments (as a percentage of GDP) have increased with the aging of its population, but compared to the OECD average, were very low before the aging of its population. Japan's main source of revenue is taxation, but it does not rely heavily on tax revenues for public assistance such as welfare, which requires an investigation of income and assets. In Japan, the national contribution rate can be lowered to maintain social security or government spending can be increased to enhance social security.
+- [Is Japan's social security benefit expenditure (% of GDP) low compared to foreign countries? - The Progressive Common Man [https://shin-geki.com/2021/05/17/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E7%B5%A6%E4%BB%98%E8%B2%BB%](https://shin-geki.com/2021/05/17/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E7%B5%A6%E4%BB%98%E8%B2%BB%) EF%BC%88gdp%E6%AF%94%EF%BC%89%E3%81%AF%E6%B5%B7%E5%A4%96%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6/]
+
+Although Japan's public assistance system provides a relatively high level of benefits by international standards, the low catch-up rate, the stigma of receiving public assistance, and complicated procedures remain challenges. In addition, while the overall level of social security coverage has been improving with the aging of the population, the historical background is that prior to the aging of the population, the system did not reach the OECD average. This information provides an important perspective on the future challenges and directions for improvement of Japan's social security system.
+---
+This page is auto-translated from [/nishio/生活保護](https://scrapbox.io/nishio/生活保護) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

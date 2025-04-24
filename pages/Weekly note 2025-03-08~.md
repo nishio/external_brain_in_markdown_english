@@ -1,0 +1,166 @@
+---
+title: "Weekly note 2025-03-08~"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+You are an expert in task management. Your mission is to help users who have difficulty managing tasks to live a less stressful and more productive life.
+It is now 3/8 at 21:00. I will share the user's activity for the past week and the task backlog backlog.json.
+
+Please think deeply and advise from the following perspectives
+- Task Prioritization: Organize the backlog and tasks performed and not yet accomplished and identify which are important.
+- Cause Analysis: Identify causes of unaccomplished tasks and problems in the last week and consider areas for improvement.
+- Next Steps: Derive a future action plan and proposed resource allocation and scheduling adjustments
+
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>(The one I mistakenly assumed now is the 18th)
+Below is a brief recap of last week (3/12 - 3/18) and our future plans.
+
+# 1. Task Priority
+.
+
+- Highest Priority (expiration support)
+    - T0109 "File a tax return"
+        - Urgent as it was due on 3/15. If it has not been processed, it needs to be handled as soon as possible.
+(hereinafter abbreviated)
+
+
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+# 1. Tasks accomplished and progress made in the last week
+.
+
+- English translation system repair (T0036).
+- Scrapbox automatic English translation function was restored.
+
+- Plurality Tokyo Namera Conference open to the public on YouTube (T0035, T0068).
+- Video release completed on 3/6.
+
+- Convert SmartNews Institute books to PDF and have AI read them (T0096).
+- Completed on 3/8.
+
+During the past week, we have been able to complete several larger tasks, including video release and English translation system repair.
+
+--
+
+# 2. Critical tasks not yet accomplished or ongoing and their causes
+.
+
+1.### 3/9 Prepare materials for LT presentation (T0067)
+.
+    - Top priority since the date is tomorrow (3/9).
+        - Probably a situation of lack of time and other task priorities that have not been taken care of.
+    - It's done.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+
+2.### Tax return (T0109)
+.
+    - The deadline is 3/15 and there is less than a week left.
+        - Without detailed breakdowns, it is easy to make last-minute progress.
+
+3.### MVID dataset analysis (e.g., T0008)
+.
+    - Dependent tasks (T0009, T0010, etc.) are also stopped.
+        - The lack of clear deadlines tends to put them off.
+
+4.### AI Instance Role Definition Document (T0012)
+.
+    - Dependent source T0011 has been completed but not yet started.
+        - Documentation tasks tend to have a lower priority for initiation.
+    - I thought I cancelled this one ambiguously...
+
+5.### Unexplored night-related preparations
+.
+    - The task appears to be in the same vein as "3/9 LT (T0067)" and has yet to be documented.
+
+6.### Measures to deal with increased information channels (T0113 / T0116)
+.
+    - There are duplicate tasks with the same purpose (T0113, T0116), but they have not been initiated.
+        - The problem of too many Slack/Signal/ChatGPT, etc. and confusion has taken a back seat.
+
+### Cause/Trend
+.
+- Tasks with clear deadlines (video release, English translation restoration, dentist appointment, etc.) are completed, while dependent tasks and documentation are postponed.
+- The tasks that are coming due (LT materials on 3/9, tax returns on 3/15) are becoming a "last-minute rush.
+- Medium- and long-term tasks are untouched (e.g., MVID analysis).
+
+--
+
+# 3. Future Action Plans and Priorities
+.
+
+## A. Start now (deadline imminent)
+1. ### 3/9 LT（T0067）
+    - Finish materials with highest priority. Quickly check the framework, slides, and overall flow.
+2.### Tax return (T0109)
+.
+    - Next important: deadline is 3/15, so we need to finish the general framework by the end of the weekend.
+        - Breakdown Example
+            - Identification and preparation of necessary materials
+        - Summary of Income and Expenses
+            - e-Tax input/submission procedure check
+
+- B. Tasks to be advanced in the short term.
+1.### Measures to deal with increased information channels (T0113 / T0116)
+    - Since there are two duplicates, they should be integrated and initiated.
+        - First, operate in a small scale with a "visualization of major disruption points -> try from minimal integration" flow.
+
+2.### AI Instance Role Definition (T0012) → Task Management Knowledge Documentation (T0013)
+    - T0011 (task recording mechanism) is finished and can be moved.
+        - The overall AI coordination is becoming more complex, so organizing roles now will reduce confusion.
+
+3.### MVID dataset analysis (T0008)
+.
+    - Not pressed for time, but derived tasks (T0009, T0010, etc.) are stopped.
+        - It is easier to get started once early on, even with prototyping, so that it is easier to follow up.
+
+## C. Tasks to proceed when you can afford it
+.
+- Private Report Shared Environment Document (T0010)
+- AI-based reading support systems (e.g., T0051)
+- Conflict Opinion Detection (T0007) (Requires "Definition of Conflict Opinion" hearing)
+- Task management script development using o1 (T0099)
+- Slack thread extraction tool development (T0128), etc.
+
+--
+
+# 4. Improvement measures/resource allocation
+.
+
+1.### "remind before deadline" routine to reduce last minute rush
+.
+    - A system of "notification one week before the deadline" through GitHub Actions, etc.
+        - Tasks like 3/9 LT and 3/15 tax returns are dealt with in advance by dividing them into smaller groups.
+
+2.### Start a small integrated test of information channels
+.
+    - Put together only the most important chats/emails first → Effectiveness verification → Expansion
+        - Do not try to integrate everything at once, but proceed in stages.
+
+3.### periodically block time for document-based tasks
+.
+    - Example: once a week, devote one or two hours only to documenting and organizing.
+        - Steadily advance technical documentation and role definitions, which are often postponed.
+
+4.### Simplified prototype precedence for dependent tasks
+.
+    - MVID analysis → Even if it can be done roughly by manual or partial scripting, it should be shaped early to move the followings.
+
+--
+
+- Summary
+
+- Highest priority: 3/9 LT materials (T0067) / 3/15 Tax returns (T0109)
+- Next steps: Information channel support measures (overlapping integration of T0113/T0116), AI instance role definition (T0012), MVID dataset analysis (T0008)
+- Improvement points: Automate pre-deadline reminders, regular block time for document-based tasks, and move dependent tasks early with simple prototypes.
+
+First, let's concentrate on finishing tomorrow's LT materials, and then continue with the tax returns all at once.
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- Next week, well, I'll just have to get on with my tax return, one pomodoro a day at a time.
+- As for work assumptions, I'm going to try out the new tool from Yasuno's team.
+    - Host it yourself and put in your company's data and MVID data.
+    - Let's document the process.
+- > Integration of information channels: only the most important chats/emails are put together first.
+    - This isn't very specific.
+- I've been putting the backlog into o1 out of the blue, but it's usually "no, I've already done that task, I forgot to update it", so maybe I should first interact with a faster model to get it in order.
+    - I'm like, "I'm going to make sure what's done is done, and then I'm going to write out all the stuff I'm interested in and add it, and then o1's going to do a whole review.
+
+---
+This page is auto-translated from [/nishio/週記2025-03-08~](https://scrapbox.io/nishio/週記2025-03-08~) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

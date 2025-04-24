@@ -1,0 +1,8 @@
+---
+title: "Wealth is not how much you have, but how much you can give"
+---
+
+see [[Yes, I am rich. Not in terms of how much I have, but how much I can give.]]
+
+---
+This page is auto-translated from [/nishio/富とは、いくら持っているかではなく、いくら与えることができるかである](https://scrapbox.io/nishio/富とは、いくら持っているかではなく、いくら与えることができるかである) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

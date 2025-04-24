@@ -1,0 +1,141 @@
+---
+title: "Nodal Point of Thought 2021-10-28"
+---
+
+- I'm talking about the first time in two years that we can hold an offline meeting instead of a videoconference after we're done vaccinating.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>What is the difference between online and offline?
+        - time constraint
+        - fully commit
+        - Engagement in conversation
+- Hopefully something similar can be done online.
+    - What's missing.
+    - Engagement going down?
+    - When I'm chatting with someone, I'll look at another page while I'm waiting for them to type.
+    - I don't start up a phone game when I'm talking to someone face to face.
+        - This is a comparison of asynchronous chat vs. synchronous voice interaction, not online video conferencing vs. offline face-to-face conversation
+- I'm going to come to work and talk to my colleagues in different departments," he said.
+    - The premise of "come to work and talk to your co-workers" is not always True to begin with.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I don't have many voice conversations with my coworkers when I come to work, and even less with people in different departments, so is it hard to feel the pain of a full remote of coronation?
+        - In fact, some of my colleagues hold weekly "snack meetings" with no theme, but I attended a few and didn't find much value in them, so I stopped attending them.
+- Q: If Mr. Nishio feels that he would like to hold a physical event when he is done vaccinating, then there must be some value that he feels for a physical event.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>That's rather clear.
+        - If meeting in a conference room, a whiteboard is available
+        - My wife cares if I videoconference from home; if I go outside, I don't have that.
+        - What I'd especially like to do now is the type of conversation we can have while walking around the park.
+            - When I was on Zoom, I would have done it if I could have, but the signal was so bad on the course I wanted to walk that I couldn't.
+- <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>I hate feeling like an old person who can't communicate without seeing you.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>There is a mentor who goes to meet the creators in the unexplored juniors.
+        - Some mentors are actively involved in organizing the camp.
+        - As you can probably guess, I don't do it myself.
+            - We don't want to reduce the creators' options, so if a creator says, "I want to attend the camp," we say, "Go ahead. If not, I'll go.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>When junior creators say, "We don't need offline meetings, everything should be online," it feels like the times have moved on.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>No, I don't think so.
+            - ![image](https://gyazo.com/e3bde4fdae0c88e7fd10974a1ae1d6e4/thumb/1000)
+            - The experience gained online and the experience gained offline are not inclusive, so "what you get when you do both" is greater.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>The international exchange circle I did as a student also did online and offline, and even though we interacted a lot online, it was nice to be able to see each other offline.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It would be nice to meet in the office for a festival.
+    - If you gather in an office for work, it is difficult to talk to the people there because they are working
+    - Then why not just have the festival four times a year?
+        - Every employee there is at the festival.
+        - A common context is created in which people gather for the purpose of offline communication.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>Emotional full swing event
+- Is it communication to send out to Twitter?
+    - Communication is...
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Some people take communication too narrowly.
+            - [[Metaphors for face-to-face dialogue]]
+            - see  [[Assumption of intent in statements]]
+        - People who bring the metaphor of face-to-face interaction to groupware.
+            - I'm wondering, "To whom did you address this post, and what kind of response did you expect?"
+            - Assumption that speech is directed to a subject and requires a response
+        - Twitter and [[minutes (of a message)]].
+            - More and more people are disseminating information that is not a metaphor for talking to a specific person.
+    - 'I don't particularly expect a return on my Twitter postings'?
+        - I find that expression a little disconcerting.
+        - I expect a positive return as an expectation, but I don't expect a specific response from a specific person.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Like stocks, investments
+            - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>Don't care about the return, but want the size of the variance?
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>No, I care about returns, I compared it to stocks because the expected value is positive, not to pachinko, and pachinko is not an investment because the expected value is negative.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>This is not communication, you may want to assign some new words
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/> [[Information Dissemination Gacha]]
+                - ![image](https://gyazo.com/91fb6a8b315a7f8bf597233b4a7a39cb/thumb/1000)
+                - Zero in most cases, low probability of large returns changing.
+                - Gacha with low probability of SSR
+                    - What exactly? →After publishing the lecture materials, the editor contacted me to write a feature article.
+                        - I think he started out publishing them because "it's convenient to publish them so they can be found in searches", but after drawing a few rare cards, he recognized their value as a gacha.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>Isn't every action a mess?
+            - Reading a book, playing a game, going to a new restaurant, messing around.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Washing dishes doesn't sound like a mess.
+                - Uncertainty that occurs in daily chores is usually negative.
+                    - The shape of the probability distribution is different.
+                    - Big pluses with low probability" is important to the mess.
+                - Like [[Herzberg's two-factor theory]], there are things that are natural and things that are not.
+- <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>Japanese people like gacha.
+    - Lottery tickets, pachinko
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Really?
+        - In "[[risk phobia]]" where individuals deposit money without buying stocks.
+        - The reason why there appear to be so many pachinko parlors is because they are located in front of train stations, and I don't believe that more than 50% of the population plays pachinko.
+        - People who don't like uncertainty are unlikely to be in our observation range in the first place, they don't take MOTs or CUMOTs.
+        - They both seem to be considered by people who don't like uncertainty, "What's he doing?" They'll think, "What's he doing?
+            - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>People tend to say, "You're a man of many things," but even people who work for one company must have many different jobs.
+                - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>It is the difference between what we equate and what we consider different [[Cognitive Resolution]].
+
+- [[The world is you, isn't it?]]
+- [[Family togetherness]]
+- [[Majority Judgement Study Group]]
+
+subject
+- I do it because it's "fun."
+- Is there really a difference between INTERESTING and FUNNY?
+    - [Exciting Surprises.
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Exciting and unexpected, in the gutter?
+        - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>Gacha can be expected to be "the SSR thing when it hits".
+            - So, there are no exciting surprises.
+            - Similarly, a lottery ticket, where the winning amount is known, is exciting but not surprising.
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>I see, then my "information dissemination gacha" is also different from a gacha because "what will come out is unknown".
+- Perspectives that find the unexpected interesting
+    - <img src='https://scrapbox.io/api/pages/nishio-en/立川 智也/icon' alt='立川 智也.icon' height="19.5"/>The fun of comedy is also the unexpectedness of the point of view
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>That is, Mr. Tachikawa "thinks comedy that is unexpected in its viewpoint is funny."
+        - For example, a new comedy, "Here comes the usual pattern, here comes the usual pattern, here comes the usual pattern! I think it's the type of fun.
+- Different people find different things interesting.
+        - [[People have individual differences.]]
+    - Interesting, different possibilities for different people.
+            - [[qualia (qualities or feelings considered independently of their effects on behavior)]]
+    - What is 'interesting' to you?"
+        - It's funny how things fall apart.
+- The resolution of your perception of what is "interesting" to you may have a strong influence on your happiness in life.
+    - Thoughts on Interest
+        - The "consideration of fun" that comedians make is "what the public finds funny."
+        - What I want to discuss here is "what I personally find interesting."
+    - [[What is "interesting"?]]
+    - Three years ago, we said, "We don't know what 'interesting' is, but we can subjectively judge whether something is interesting or not for each specific case. Then, let's collect interesting things first.
+            - [[KJ method for "interesting]]
+        - As a result, "[[People have individual differences.]]" was verbalized.
+            - In other words, <img src='https://scrapbox.io/api/pages/nishio-en/Tomoya Tachikawa/icon' alt='Tomoya Tachikawa.icon' height="19.5"/> thinks it's interesting how different people are.
+        - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>found "[[human bug]]" to be interesting.
+    - Now, think again about "What is 'interesting'?
+        - What does that "interesting" look like?
+        - Where does it come from?
+        - What does it lead to?
+    - This question is worth taking the time to address.
+        - Is that "interesting"?
+        - Some are interesting but not worth the time to work on.
+        - Worth spending an interesting time"?
+            - It makes sense logically, but it doesn't feel right subjectively.
+
+- [[A foregone conclusion]]
+- It's very interesting, but when you put the conclusion into words, it sounds so obvious, why
+- It is because those of us who have repeatedly abstracted from concrete cases and unexpectedly come to that conclusion have "Unexpected bonding", but those who hear the conclusion after it has been reached do not have that "Unexpected bonding". but those who are told of the conclusion after it has been reached do not have that "[[Unexpected bonding]]".
+    - ![image](https://gyazo.com/8b104277feb615f1ddc60c7c64fb91e2/thumb/1000)
+    - Related [[Taking the top of the pyramid is not what I expected...]]
+    - [[It has to be bottom up to be applied.]]
+
+- [[Thoughts depend on flow]]
+- Written "conclusions" are only a snapshot of a certain time.
+        - [[Conclusion is a cross-section of the thought process]]
+- Depending on the flow of events leading up to it, things will develop differently from there.
+- a metaphor for the flow of
+- ![image](https://gyazo.com/f03b9cbf3ca1e7dd8b3fdec28e0759c1/thumb/1000)
+
+
+---
+This page is auto-translated from [/nishio/思考の結節点2021-10-28](https://scrapbox.io/nishio/思考の結節点2021-10-28) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

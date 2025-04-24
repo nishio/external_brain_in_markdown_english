@@ -1,0 +1,26 @@
+---
+title: "Aimless interest-driven learning"
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+    - [[a purposeless]] [[interest-driven]] learning is a proactive [[intellectual investment]] in an unknown field.
+- An opportunity to discover new concepts and ideas that cannot be obtained from known objectives.
+- Fosters diversity of thinking styles and ideas, and enhances creativity later in life.
+- Beyond mere problem-solving efficiency, it has cultural and spiritual value.
+- Even in the age of AI, intellectual pursuits that are not limited by immediate practicality remain significant.
+
+---
+Learn in an aimless, interest-driven way, then when you see an issue, you realize that you can solve it that way.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- This refers to a situation in which knowledge or techniques learned out of curiosity can be applied spontaneously later when solving a problem, as in "I can use that method. This is an example of where skills acquired as a result of broad, exploratory learning with no set purpose become useful in unexpected situations.<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+When AI can go from describing "what you want to do" to being able to suggest "how to do it", it won't be necessary.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- If AI can automatically derive "how to do it" from "what I want to do," the need to independently learn extensively and store solutions is reduced. Even so, however, the experience of discovering and experimenting with methods on one's own is not necessarily useless, as it may lead to new ideas and a wider range of applications.<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+Avoid ambiguous phrases such as "not necessarily useless" and consider the most likely future pathways.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+- If AI can automatically derive the necessary methodologies and execution procedures from the description of "what we want to do," the need for the human side to store solutions through exploratory learning will be greatly reduced. In this future vision, humans will shift to the role of selecting and evaluating the options presented by AI that meet their objectives and setting the overall policy, rather than spontaneously discovering and learning new methodologies in practice. As a result, "aimless interest-driven learning," which involves broad exploration of areas of interest, will likely become less essential in daily work and will remain primarily in the realm of creative exploration and personal interest.<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
+    - Thinking deeply about aimless interest-driven learning<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - Aimless interest-driven learning can be viewed as essentially a [[prior investment]] in "[[as yet unrecognized problems]]" or "[[undiscovered possibilities]]". It is, in reality, an act driven by pure intellectual curiosity, independent of goal setting and practical application. Even if AI is able to provide a shortest path from "ends" to "means," this learning attitude can still be uniquely valuable in the following ways.
+            - Discovery of new concepts: Exploring new areas that do not fit into known challenges and objectives allows for the preemptive acquisition of ideas and skills that will later prove useful. spontaneously formed in the process of expanding the user's interests.
+            - Diversification of thinking styles: By delegating the process of goal achievement to AI, human "ideas" and "thought processes" become more dependent on existing solution patterns. On the other hand, learning based on aimless curiosity fosters a way of thinking that connects unconnected knowledge, which will be the foundation for future creativity.
+            - Cultural and personal value: The act of humans voluntarily diving into the unknown and enjoying new knowledge has cultural and spiritual value that goes beyond practicality. It is a source of self-formation and intellectual fertility, even in an age of technological efficiency.
+        - In general, even though aimless interest-driven learning is unlikely to lead directly to immediate practical results, it is likely to remain meaningful under an AI-driven problem-solving paradigm in terms of fostering long-term creativity, intellectual diversity, and cultural values.
+---
+This page is auto-translated from [/nishio/無目的的な興味ドリブン学習](https://scrapbox.io/nishio/無目的的な興味ドリブン学習) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
