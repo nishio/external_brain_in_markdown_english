@@ -2,7 +2,7 @@
 title: "o3's idea of democracy in 2030."
 ---
 
-On 2025-04-24, o3 leapfrogged a thought following the "[[o3 no discovery mode for human kind]]" prompt.
+On 2025-04-24, o3 followed the "[[o3 No discovery mode for human kind]]" prompt and leapfrogged the thought sentence
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>[https://chatgpt.com/share/6808fede-b124-8011-bd06-a1b705d42030](https://chatgpt.com/share/6808fede-b124-8011-bd06-a1b705d42030)
 > Summary - Democracy in 2030 in one sentence
 >  "[[Collective decision-making]] moves to a world of "[[differential commitment]]" rather than "[[speech]]" and the state is redesigned as a "governance API."

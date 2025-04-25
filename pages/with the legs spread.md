@@ -15,6 +15,9 @@ TABLE:Spread legs
 - 2024-10-16 167cm(height)
 - 2024-11-13	168cm
 - 2025-04-16 168cm (self-tie)
+- 2025-04-23 171cm 163cm at start of stretch
+
+
 
 ---
 This page is auto-translated from [/nishio/開脚](https://scrapbox.io/nishio/開脚) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

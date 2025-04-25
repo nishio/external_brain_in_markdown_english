@@ -2,6 +2,9 @@
 title: "Polimoney"
 ---
 
+> [takahiroanno](https://x.com/takahiroanno/status/1913543579433402581) [[Newly Announced]] Introducing Polimoney, a Dashboard for Making Politics and Money Visible
+[https://www.youtube.com/watch?v=NNVludelSeo](https://www.youtube.com/watch?v=NNVludelSeo)
+
 > [idei_nakano](https://x.com/idei_nakano/status/1914154292942193053) Transparency of Political Funds. We have participated in the demonstration experiment of the "Digital Democracy 2030" project launched by Takahiro Yasuno, and have released the political fund of Ryosuke Idei as the first phase of "Polimoney", a political fund transparency dashboard developed by the project.
 > [Ryosuke Idei](https://ideiryosuke-nakano.com/activities/3665/)
 >

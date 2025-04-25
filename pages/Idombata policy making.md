@@ -2,8 +2,8 @@
 title: "Idombata policy making"
 ---
 
+- [[IIDOBATA system]]
 2025-04-23
-
 > [takahiroanno](https://x.com/takahiroanno/status/1914986076332343600) [[beta test announcement]]
 >
 >  Beta test site for "Idobata Policy Planning" is now available.
