@@ -2,6 +2,9 @@
 title: "PubCom DDoS attack"
 ---
 
+![image](https://gyazo.com/9093ea0c0ed51ba9464c5de24ed60f26/thumb/1000)
+- [Public comments "an unusual number" one after another, mobilized by social networking sites, and the will of the people hazy - Nihon Keizai Shimbun](https://www.nikkei.com/article/DGXZQOUA128RU0S5A310C2000000/)
+
 2025-02-19
 - [[Massive pubic comment submission with generated AI]]
 > [Sankei_news](https://x.com/Sankei_news/status/1892205026602270766) [4,000 submissions using AI? 46 people, 10% of the total, most of them anti-nuclear, invited for opinions on basic energy plan - Sankei News [https://www.](https://www.) sankei.com/article/20250219-I4WUMKZPUFMO3O5G2BVP7KL7XY/]
@@ -14,7 +17,7 @@ title: "PubCom DDoS attack"
 >  As I have posted on X before, the conspiracy theory community supporting Senator Kazuhiro Haraguchi has been posting a lot of pubic comments.
 >  Some of the pubic comments are given a game-like nature, with a high rating if the pubic comment is "Kiri number" such as 1000 or 2000.
 >  These mass postings of conspiracy theories have made pubic commentary dysfunctional.
->  ![image](https://gyazo.com/c28c7057f364ce5474ff5ce404830436/thumb/1000)![image](https://gyazo.com/96c16a3f0d4e18bf3c8446c8ea964f48/thumb/1000)![image](https://gyazo.com/3de9ec44d3a0cdfb09bfda2777e6316b/thumb/1000)
+>  ![image](https://gyazo.com/96c16a3f0d4e18bf3c8446c8ea964f48/thumb/1000)![image](https://gyazo.com/c28c7057f364ce5474ff5ce404830436/thumb/1000)![image](https://gyazo.com/3de9ec44d3a0cdfb09bfda2777e6316b/thumb/1000)
 Attackers are becoming more organized.
 
 2025-03-24
@@ -38,6 +41,7 @@ Attackers are becoming more organized.
 
 [[DDoS]]
 [[majority attack]].
+- [[cognitive warfare]]
 
 ---
 This page is auto-translated from [/nishio/パブコメDDoS攻撃](https://scrapbox.io/nishio/パブコメDDoS攻撃) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

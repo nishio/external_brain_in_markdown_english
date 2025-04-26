@@ -22,5 +22,7 @@ It reads "Yoron Sen."
 >  Refers to the cultivation of domestic and international opinion with the aim of inspiring a fighting spirit in one's own forces and reducing the enemy's willingness to fight. Media and information resources such as newspapers, books, radio, television, the Internet, and e-mail are used comprehensively. Commonly used tactics include "focused strikes (to influence the decisions of the enemy leadership)" and "information management (to disseminate favorable information while restricting unfavorable information).
 Executive School Research Memorandum 3: China's Definition of Three Wars and Other Examples of Three Wars on Air Power Strategic Studies Group [PDF](https://www.mod.go.jp/asdf/meguro/center/20_stdy/arpw02/113memo3.pdf)
 
+- [[cognitive warfare]]
+
 ---
 This page is auto-translated from [/nishio/輿論戦](https://scrapbox.io/nishio/輿論戦) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

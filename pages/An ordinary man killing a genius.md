@@ -11,7 +11,7 @@ Source: [http://yuiga-k.hatenablog.com/entry/2018/02/23/113000](http://yuiga-k.h
 
 The emphasis on empathy is McClelland's [[desire for affinity]].
 I am not sure what separates genius from brilliance. Both [[desire to achieve]] are strong.
-Ordinary people have [[average-orientation]]. Geniuses have their own axes of values. A genius optimizes on a shared axes of values.
+Ordinary people have [[average-orientation]]. Geniuses have their own [[axes of values]]. A genius [[optimizes on a shared axes of values]].
 
 associative connection
     - [[Psychological Safety and Vein]]
