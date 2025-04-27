@@ -7,12 +7,12 @@ title: "XREAL One"
 
 2025-04-25
 - Used on a daily basis
-    - [[glass strap]].
+        - [[glass strap]].
 - I'm in widescreen mode.
     - [[Rectangle to divide the screen into 4 parts]]
     - I think I'm more likely to split it into three parts now.
     - The crack in the front was subtle.
-- [Magnifier gesture turned on
+    - [[Magnifier gesture]] turned on
 - <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>It is said that it is not good to have a bright screen when the room is dark, and that a dark screen is not good because it increases the percentage of flicker.
     - [Night Shift is also turned on.
 - I heard it's better to take it off every pomodoro and look into the distance.

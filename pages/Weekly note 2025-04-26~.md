@@ -1,0 +1,19 @@
+---
+title: "Weekly note 2025-04-26~"
+---
+
+prev  [[Weekly note 2025-04-15~2025-04-26]]
+For 2 weeks
+- 4/16 [[pNP]]
+- 4/17 [[pBT]]
+- 4/17  [[V-1 Grand Prix]]
+- 4/18 [[pBC]]
+- 4/19 [[Social Hack Day #70]]
+- 4/20 [[pBT]]
+- 4/22 [[Scott Wu YouTube Japan 2025-04-22]]
+- 4/24 [[Takahiro Yasuno considering running for the House of Councillors]] brought a lot of people to [[Digital Democracy 2030]] Slack
+    - I especially appreciate [[tokoroten]] writing a lot of things in [[public information AI]].
+- 4/25 [[pBC]]
+
+---
+This page is auto-translated from [/nishio/週記2025-04-26~](https://scrapbox.io/nishio/週記2025-04-26~) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

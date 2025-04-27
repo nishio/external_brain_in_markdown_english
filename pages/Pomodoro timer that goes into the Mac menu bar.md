@@ -60,6 +60,11 @@ Please let us know if there are any areas that you would like to customize in mo
 
 ---
 It's good business for the makers of the Pomodoro timer.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+![image](https://gyazo.com/0d786b71e67e29b98617ea21f7e630c5/thumb/1000)
+
+
+![image](https://gyazo.com/8fdbfd2ca1d51da51d40492a1f9e82a1/thumb/1000)![image](https://gyazo.com/a5fa08f7857bd40785af6dafda53b56c/thumb/1000)
+
 
 ---
 This page is auto-translated from [/nishio/Macのメニューバーに入るポモドーロタイマー](https://scrapbox.io/nishio/Macのメニューバーに入るポモドーロタイマー) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

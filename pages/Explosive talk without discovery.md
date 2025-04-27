@@ -13,5 +13,15 @@ title: "Explosive talk without discovery"
 relevance
     - [[An ordinary man killing a genius]]
 
+> [gt8_nc2el](https://x.com/gt8_nc2el/status/1916092734731092369) What a fast and difficult story,
+>  If you listen carefully, it's "[[a conversation not an answer]].
+>
+>  Not "what is right" for everyone,
+>  New ideas are being born right before our eyes.
+>
+>  For those who can only speak slowly,
+>  It just looks like they haven't even gotten to the starting line yet.
+
+
 ---
 This page is auto-translated from [/nishio/忖度なし爆速トーク](https://scrapbox.io/nishio/忖度なし爆速トーク) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
