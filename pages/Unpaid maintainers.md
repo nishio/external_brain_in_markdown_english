@@ -3,7 +3,7 @@ title: "Unpaid maintainers"
 ---
 
 - [[Plurality Books]]  p.89
-> Communities form around common interests, freely leverage each other's work, scrutinize contributions through unpaid maintainers, and "fork" projects into parallel versions when there are incompatible differences.
+> Communities form around common interests, freely leverage each other's work, scrutinize contributions through unpaid [[maintainers]], and "fork" projects into parallel versions when there are incompatible differences.
 
 [[Basic income is needed for public goods maintainers.]]
 [[basic income]] is needed so that the "unpaid maintainers" don't die, and

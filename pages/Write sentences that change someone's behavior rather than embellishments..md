@@ -20,7 +20,7 @@ original
         - How you are having an experience that others are not.
         - I know all these words, and it's great, isn't it?"
     - Sentences with lots of medals like that.
-    - [[Kerenmi]].
+        - [[kleptomania]]
 - The densely packed text is compressed and crammed, cutting down on the amount of content that would exceed the limited number of pages.
 - On the other hand, those who have no substance [[padding]] and increase the number of pages.
 - Producing something that does not inherently lead to value is not production.

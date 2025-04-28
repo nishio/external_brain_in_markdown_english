@@ -28,5 +28,8 @@ I haven't written much about Devin lately, not because I don't use it anymore, b
 Devin, you write more code than I do.
 ![image](https://gyazo.com/a77b6893016413e3ca55811d5b3453bb/thumb/1000)
 
+- [[Devin credit used up]]
+
+
 ---
 This page is auto-translated from [/nishio/Devin.aiを試す4/1~](https://scrapbox.io/nishio/Devin.aiを試す4/1~) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
