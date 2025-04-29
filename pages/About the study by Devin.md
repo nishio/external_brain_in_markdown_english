@@ -2,7 +2,7 @@
 title: "About the study by Devin"
 ---
 
-from [[Devin credit used up 4/26]].
+from  [[Devin credit used up 4/26]]
 About the study by Devin
 - We like to keep our experiments as simple as possible.
 - So it's not a good idea to mix multiple stories in monorepo

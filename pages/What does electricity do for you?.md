@@ -9,7 +9,11 @@ title: "What does electricity do for you?"
     - Faraday's response was insightful, showing that scientific inquiry does not always bring immediate practical benefits.
     - In fact, Faraday's work played a decisive role in the later commercialization of electricity and the development of electrical engineering, forming the foundation of modern society.
 
-- [[What good is a newborn baby?]]
+Note: Michael Faraday did not actually say this, but it is believed to be a later creation.
+- [https://machida77.hatenadiary.jp/entry/20111205/p1](https://machida77.hatenadiary.jp/entry/20111205/p1)
+
+Related:.
+    - [[What good is a newborn baby?]]
 
 ---
 This page is auto-translated from [/nishio/電気は何の役に立つんですか？](https://scrapbox.io/nishio/電気は何の役に立つんですか？) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

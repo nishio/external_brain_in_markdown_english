@@ -7,6 +7,8 @@ It is said that Benjamin Franklin, when asked if his research on electricity was
 However, this is of unknown source.
 [https://machida77.hatenadiary.jp/entry/20111205/p1](https://machida77.hatenadiary.jp/entry/20111205/p1)
 
+For example, it's funny as nothing, so let's use it without saying Benjamin Franklin said it.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+
 #Parable
 
 ---

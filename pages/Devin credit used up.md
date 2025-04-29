@@ -49,12 +49,14 @@ title: "Devin credit used up"
     - Thoroughly implement "AI -> Proposal / Human -> Decision" and prepare a checklist for review.
 
 diary
-- [[Devin credit used up 4/21]].
-- [[Devin credit used up 4/22]].
-- [[Devin credit used up 4/23 inventory]].
-- [[Devin credit used up 4/25]].
-- [[Devin credit used up 4/26]].
-- [[Devin credit used up 4/27]].
+    - [[Devin credit used up 4/21]]
+    - [[Devin credit used up 4/22]]
+    - [[Devin credit used up 4/23 Inventory]]
+    - [[Devin credit used up 4/25]]
+    - [[Devin credit used up 4/26]]
+    - [[Devin credit used up 4/27]]
+- [[Devin credit run out look back]].
+    - [[Devin credit used up 4/28]]
 
 ---
 This page is auto-translated from [/nishio/Devinクレジット使い切り](https://scrapbox.io/nishio/Devinクレジット使い切り) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
