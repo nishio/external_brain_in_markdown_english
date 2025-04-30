@@ -61,7 +61,7 @@ from [[Devin credit used up 4/26#680d8c7600000000000000a39ec4]]
 - Embedded vector creation and agglomerative clustering
     - [https://app.devin.ai/sessions/dd26ab0e30dc43fa9ba04856cb21a8c6](https://app.devin.ai/sessions/dd26ab0e30dc43fa9ba04856cb21a8c6)
 
-✅ released [[Experiments in public comment analysis using embedded vectors and agglomerative clustering]].
+✅ released  [[Public comment analysis experiments using embedded vectors and agglomerative clustering]]
 
 
 neologdn

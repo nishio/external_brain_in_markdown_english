@@ -2,6 +2,8 @@
 title: "Members of Congress can request the full text of Babucombe's submission."
 ---
 
+(This text is a ChatGPT o3 claim and is currently being fact-checked)
+
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
 Since the "individual opinion" of a public comment also constitutes an administrative document, the Diet (both the House of Representatives and the House of Councillors) has the constitutional and legal right to request the submission of materials. In practice, it is possible to request the submission of materials in two ways: (1) by resolution of a committee or house [[Article 104 of the National Diet Act]], or (2) by individual members of the Diet [[written questions and answers]]. The following are the basis and examples of the application of the law.
 
@@ -19,9 +21,6 @@ This clause is the basis for the general framework that "all records held by the
 # 3. Means available to individual legislators - Written Questions (Articles 74 and 75 of the Laws of Parliament)
 - If in session may be submitted alone. Cabinet is obliged to respond to the document within 7 days.
 - Although it is difficult to approve a letter of intent "purely for the purpose of requesting data" due to precedent, in practice, there are many examples of data being elicited in the form of attached in bulk as reference material to the written answer.  ([(PDF) Written Statement of Questions - House of Councillors [https://www.sangiin.go.jp/japanese/annai/chousa/rippou_chousa/backnumber/2016pdf/20161201089.pdf?utm_source=](https://www.sangiin.go.jp/japanese/annai/chousa/rippou_chousa/backnumber/2016pdf/20161201089.pdf?utm_source=) chatgpt.com])
-
->  e.g., a case in which a questionnaire was submitted to the Ministry of the Environment asking it to "disclose all original pubic comments" and submitted in full on CD-ROM (House of Representatives Committee on the Environment, 2018, appendix to the minutes).
-- (Note: I did a fact check here, but have not been able to verify that it is true.)
 
 # 4. Practical considerations
 1.### The committee route is more reliable

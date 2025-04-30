@@ -55,7 +55,7 @@ diary
     - [[Devin credit used up 4/25]]
     - [[Devin credit used up 4/26]]
     - [[Devin credit used up 4/27]]
-- [[Devin credit run out look back]].
+    - [[Devin credit use up look back]]
     - [[Devin credit used up 4/28]]
 
 ---
