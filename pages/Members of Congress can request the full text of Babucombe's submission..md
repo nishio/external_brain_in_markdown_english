@@ -3,6 +3,7 @@ title: "Members of Congress can request the full text of Babucombe's submission.
 ---
 
 (This text is a ChatGPT o3 claim and is currently being fact-checked)
+→I have a feeling that it will be very difficult.
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
 Since the "individual opinion" of a public comment also constitutes an administrative document, the Diet (both the House of Representatives and the House of Councillors) has the constitutional and legal right to request the submission of materials. In practice, it is possible to request the submission of materials in two ways: (1) by resolution of a committee or house [[Article 104 of the National Diet Act]], or (2) by individual members of the Diet [[written questions and answers]]. The following are the basis and examples of the application of the law.

@@ -49,6 +49,7 @@ history page
 - Created /history instead of /activity on the website
 - Not urgent enough to remain unreviewed.
 - I've submitted a suggestion for improvement.
+    - ✅2025-05-01
 Glossary of Terms
 - [https://app.devin.ai/sessions/a5f207f4b4b142a1a6fa8f6dee1efb33](https://app.devin.ai/sessions/a5f207f4b4b142a1a6fa8f6dee1efb33)
 - It's made to look like something that might be "not so" when you look at the placement, etc.
