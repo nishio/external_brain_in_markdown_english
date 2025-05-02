@@ -16,6 +16,7 @@ Web page tile display settings
 - Electron+BrowserView has created a tool to display multiple web pages with arbitrary tiling().
 - Not tested.
 - Push to [https://github.com/nishio/webtiling](https://github.com/nishio/webtiling)
+    - [[webtiling]]
 Website README Improvement
 - [https://app.devin.ai/sessions/1ef3286106e74f8a863a92bb6d8d86dc](https://app.devin.ai/sessions/1ef3286106e74f8a863a92bb6d8d86dc)
     - Already created, REVIEW and PR
