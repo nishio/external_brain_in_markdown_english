@@ -31,7 +31,7 @@ title: "Three variables of the game"
 - [[continue to linger]]
         - [[idly]]
     - [[Keep doing it.]]
-- [[Legitimacy through continuity]].
+    - [[Legitimacy through continuity]]
     - [[Gathering is the first step, staying together is progress, working together is success.]]
     - [[Stay.]]
 

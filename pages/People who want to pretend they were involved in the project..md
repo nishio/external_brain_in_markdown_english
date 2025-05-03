@@ -17,10 +17,11 @@ To identify if the project leader was forgetting and terrible or if that person 
 
 I just participated, but I wasn't deeply involved.
 - There is a difference in the time cost paid for simply "participating" and "being deeply involved".
+        - [[Pigs and Chickens]]
 - It is good to "participate first" because without "[[participation]]" you cannot make a decision on whether or not you will be "[[deeply involved]]" in the future.
 - But it is harmful for someone who "just participated" to act like someone who is "deeply involved".
     - It's the act of stealing the fruits of a successful project without "[[using one's own money]]."
-- If you leave these types of people alone, they will think "stolen fruit is good" and stay forever to gain [[legitimacy through continuity]], so it's tricky.
+- It's tricky because if you leave these types of people alone, they will think "stolen fruit is good" and stay forever to gain [[Legitimacy through continuity]].
 - Should be a quick kick.
 
 ---

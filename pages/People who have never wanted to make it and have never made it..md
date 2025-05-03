@@ -11,15 +11,19 @@ Example
 - People who want to be game creators but have never made a game and only play.
 - People who want to be cartoonists but have never drawn cartoons.
 
+- [[Yoichi Ochiai]]
 - [After 8 years of university teaching, you start to distinguish between wannabes and manufacturing enthusiasts -> "Wow, you came to university to do 00, so why haven't you done it before?" (Next week) "Oh, why couldn't you do it this week?" ｜Yoichi Ochiai｜note](https://note.com/ochyai/n/n781fb2209af4) #wannabee [[distinction between "wannabee" and "manufacturing enthusiast"]].
     - > People who have never made a product they wanted to make or never researched a product they wanted to research are [[longing]] for "[[evaluation of results]] and [[self-realization]]," not interested in or fond of the experimental results, the implementation itself, or the process of making the product. They are not interested in or fond of the experimental results, the implementation itself, or the process.
         - [[Why haven't you started?]]
-    - [[I just want to be "the one who makes new things."]]
+        - [[I just want to be "the new thing maker."]]
 
+- [[Yoshifumi Seki]]
 - > [YoshifumiSeki](https://twitter.com/YoshifumiSeki/status/1530950141527851008): [[adoption]] of [[unexplored junior]] is very difficult to detect. It is very difficult to detect [[adoption]] of [[unexplored junior]] in many cases. One of the most important factors that can make a difference is "If you want to do that kikaku, you already have some [[progress]] regardless of the [[unexplored junior]] application, right? is a big factor.
+- [[If they really wanted to do this, some progress would have been made.]]
 
-- from [/villagepump/patterns that want to get to the goal but are not motivated to take Next Action](https://scrapbox.io/villagepump/patterns that want to get to the goal but are not motivated to take Next Action).
-    - > I want to get to the goal, but I don't feel like breaking it down into NEXT ACTION.
+
+from [/villagepump/patterns that want to get to the goal but are not motivated to take Next Action](https://scrapbox.io/villagepump/patterns that want to get to the goal but are not motivated to take Next Action).
+- > I want to get to the goal, but I don't feel like breaking it down into NEXT ACTION.
     - I want to get to the finish line = [[I just adore the results.]].
     - Not interested in breaking it down into next action = [[Not interested in the implementation process.]].
 

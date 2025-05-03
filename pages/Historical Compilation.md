@@ -8,7 +8,7 @@ title: "Historical Compilation"
 > [DaisukeMAN](https://x.com/DaisukeMAN/status/1813558209493291151) When Akita-san, formerly of Cookpad and now of Kufu Company, was asked, "What is the most important thing for a company in its start-up phase?" Akita, formerly of Cookpad and now of Fuu Company, was asked, "What is the most important thing for a company in its start-up period? Take pictures. You can get money and people for whatever you want, but you can't get your memories back. But you can't get memories back." I thought this episode captured the essence of the question very well.
 [[Akita Akita]]
 
-No - I sympathize with that idea, [[legitimacy through continuity]] or [[prehistoricism]].
+No - I sympathize with that idea, [[Legitimacy through continuity]] or [[prehistoricism]].
 However, actual startup founders are fighting on the brink of "life or death," "success or failure," and they do not have the luxury of securing the "resources needed after the organization grows to success.
 And then, after it is lost and can't be recovered, they say, "We needed to secure the memories.
 

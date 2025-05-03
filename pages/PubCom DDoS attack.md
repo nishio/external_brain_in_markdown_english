@@ -39,6 +39,12 @@ Attackers are becoming more organized.
 > Expert: "It is not a system of majority rule."
 >  Public comment is a system for democratic decision-making, but unlike majority rule, the original purpose of public comment is to collect information that has not been collected by the government.
 
+[Call for Babcockian Submissions by the Association Against the Spread of Radiation (PDF) [https://hachisoku.org/blog/wp-content/uploads/2025/01/%E3%83%91%E3%83%96%E3%82%B3%E3%83%A1%E3%82%92%](https://hachisoku.org/blog/wp-content/uploads/2025/01/%E3%83%91%E3%83%96%E3%82%B3%E3%83%A1%E3%82%92%) E6%9B%B8%E3%81%93%E3%81%86%EF%BC%81.pdf]
+- ![image](https://gyazo.com/888c14c0ebde41793d9bee8ff90e09f9/thumb/1000)![image](https://gyazo.com/fbe6f0c451816875d6c5082df94e1dbb/thumb/1000)
+- [Share "Please Stop Reusing Radioactively Contaminated Soil! | Atsuko Masano Sober Reporting Notebook](https://note.com/masanoatsuko/n/nf3175fa8f0e4)
+    - Article about receipt of this on 1/22/22.
+
+
 [[DDoS]]
 [[majority attack]].
 - [[cognitive warfare]]

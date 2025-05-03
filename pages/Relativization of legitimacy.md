@@ -6,7 +6,7 @@ title: "Relativization of legitimacy"
 
 > [nishio](https://twitter.com/nishio/status/1742719035635294653) I feel like this "[[there are]] multiple grounds for legitimacy" is a useful perspective for those who create or transform things anew, so I'll sort it out later.
 >
->  For example, if someone disagrees that "there is no [[precedent]]", then he is standing on "[[legitimacy by continuation]]", so he could conceivably use other legitimacy sources.
+>  For example, if someone disagrees that there is "no [[precedent]]", then they are standing on "[[Legitimacy through continuity]]", so other sources of legitimacy could be considered to be used.
 
 > [nishio](https://twitter.com/nishio/status/1742720729966370831) For example, use "[[Legitimacy through performance]]" after doing it on your own and getting results, ignore the person and use the existing legitimacy legitimacy through process" to make a decision through the decision-making process, "[[legitimacy through fairness]]" to show that the majority agrees with a fair vote, etc.
 

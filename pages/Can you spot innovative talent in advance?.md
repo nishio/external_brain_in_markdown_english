@@ -37,7 +37,7 @@ Type C: [[Uniqueness-oriented]].
 - There is a longing for a "non-average self" and a "one-of-a-kind self."
     - Added 2025-01-06 [[Desire to be special]].
 - Active in "creating something new."
-- [[I just want to be "the one who makes new things."]]
+    - [[I just want to be "the new thing maker."]]
 
 Type D: [[self-centeredness]].
 - All of the types A, B, and C mentioned so far were functions that took "[[Behavior of people around you]]" as input.

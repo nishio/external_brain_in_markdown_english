@@ -16,6 +16,8 @@ Source code and [[developer resources]] need to be distinguished
 
 > [nishio](https://twitter.com/nishio/status/1754657524064862345) The remaining conditions are the existence of a means of dispute resolution and that outside authority does not interfere with autonomy. Condition 8 (hierarchy) is only for large
 
+reverberation
+[https://x.com/ogochan/status/1755419600328761817?s=46&t=gkSZtjGEtUZPO0JCzBxCBw](https://x.com/ogochan/status/1755419600328761817?s=46&t=gkSZtjGEtUZPO0JCzBxCBw)
 
 ---
 This page is auto-translated from [/nishio/ソースコードと開発者リソースは区別が必要](https://scrapbox.io/nishio/ソースコードと開発者リソースは区別が必要) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
