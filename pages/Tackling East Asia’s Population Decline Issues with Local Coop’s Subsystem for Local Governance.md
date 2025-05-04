@@ -70,7 +70,6 @@ In Japan's rural areas facing a declining population, efforts have begun to rede
 [[Local Coop]]@[[FtCTokyo]]
 
 > [forestgtree](https://x.com/forestgtree/status/1816343062874149226) The story of the Nishikigoi NFT project in Yamakoshi Village, working with digital villagers to revitalize the village, is a social issue that I believe will apply to any vanishing city in the future. #FtCTokyo
->  ![image](https://pbs.twimg.com/media/GTTyYy4awAAQmvQ?format=jpg&name=medium#.png)
 - [[Nishikigoi NFT]]
 
 > [nishio](https://x.com/nishio/status/1816343520086802806) #FtCTokyo  @takahiroanno

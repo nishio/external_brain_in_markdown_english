@@ -40,7 +40,7 @@ Interesting perspective on the growth of social capital.
 - Financial capital grows in ways such as owning equity in a growing business
 - Knowledge capital does not grow on its own.
 - Knowledge capital grows by exchanging it with people who have a lot of different knowledge capital from you.
-- Social capital grows on its own.
+    - [[Social capital grows on its own.]]
 - Because we are essentially growing "human beings".
 
 [facebook](https://www.facebook.com/nishiohirokazu/posts/10213753568369978?pnref=story)
@@ -49,6 +49,7 @@ Interesting perspective on the growth of social capital.
 - Not enough understanding in 2017.
     - There is no need to convert knowledge capital or social capital into money in the middle of the cycle with respect to its expansion and reproduction.
         - I'd rather reinvest without converting.
+                - [[Better to reinvest without monetizing.]]
         - There are [[resources that can be procured with money]] and [[resources that are difficult to procure]]: [[resources that cannot be procured with cash]]
             - Money does not change everything: [[Cash is weak capital]].
         - Only resources that can be procured with money can be acquired after converting to money.

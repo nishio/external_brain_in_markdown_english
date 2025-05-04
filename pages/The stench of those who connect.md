@@ -39,7 +39,7 @@ The [[stench]] of [[the person]] who [[connects]].
 >  I would forgive, and if I were you, I would advise.
 
 [[Connectors]]
-[[Extended reproduction of social capital]].
+- [[Expansion and reproduction of social capital]]
 
 > Afterwards I have to take care of myself, too, because if it doesn't work out, I need to follow up even if I go.
 > [nishio](https://twitter.com/nishio/status/1777173267457171811) Many people believe that the intermediary M has a responsibility to ensure the goodness of each of D and S, but there is no clear agreement on how much responsibility he has. However, there is no clear agreement on the level of responsibility, and the amount of connecting activities by "M, who estimates the responsibility low," is relatively higher than that of others.

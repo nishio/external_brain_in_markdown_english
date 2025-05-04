@@ -34,7 +34,7 @@ Legitimacy by prominent foreigners
 - This is [[a difficult resource to procure]], so having it seems to serve as a signal that you "have the power to make it possible to have it."
     - Same as [[peacock feathers]], not beneficial for survival, but serves as a signal of excellence
 - Relationships" that are essentially volatile on the spot are reproduced and converted into a distributable existence through the technology of photography, and new "trust" and other forms of trust are gained through the use of these relationships.
-    - This is [[the expanded reproduction of social capital]].
+    - This is [[expansion and reproduction of social capital]].
 
 
 

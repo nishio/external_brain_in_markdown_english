@@ -2,7 +2,7 @@
 title: "Good ideas solve multiple problems at once."
 ---
 
-[https://www.1101.com/iwata/2007-08-31.html](https://www.1101.com/iwata/2007-08-31.html)
+[Vol. 1 What is an idea? | President Iwata of Nintendo came to visit us and we all had dinner and listened to him. | Almost Daily Itoi Newspaper](https://www.1101.com/iwata/2007-08-31.html)
 > When creating something, there is always the problem of "if one side stands up, the other side cannot stand up.
 > Improving just one thing will not move the whole thing forward.
 

@@ -9,6 +9,8 @@ title: "XREAL One"
 - Used on a daily basis
         - [[glass strap]].
 - I'm in widescreen mode.
+    - 3840 x 1080
+            - [[3840 x 1080 background image]]
     - [[Rectangle to divide the screen into 4 parts]]
     - I think I'm more likely to split it into three parts now.
     - The crack in the front was subtle.

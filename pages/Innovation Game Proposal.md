@@ -139,7 +139,7 @@ Market Exploration Game Proposal
         - [[Schumpeter's definition of innovation]]
 
 - Optimization game and Exploration game
-    - Dominion's optimal strategy depends on how the first 10 cards are chosen.
+        - [[dominion]] the optimal strategy depends on how the first 10 cards are chosen
 
 - I hate feeling like a failure without knowing it.
     - Why did it fail?

@@ -16,7 +16,7 @@ relevance
     - [[Cash is weak capital]]
     - [[Life Strategies]] : A story about people who only measure their rewards in terms of money going into hard mode.
     - [[reproduction on an enlarged or expanded scale]]
-    - [[Extended reproduction of social capital]].
+        - [[Expansion and reproduction of social capital]]
     - [[Knowledge capital is reproduced in an enlarged form.]]
     - These are strategies that do not receive compensation as monetary capital but in other forms
 

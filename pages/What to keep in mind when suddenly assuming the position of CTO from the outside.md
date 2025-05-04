@@ -6,6 +6,8 @@ title: "What to keep in mind when suddenly assuming the position of CTO from the
 [What to keep in mind when suddenly assuming the role of CTO from the outside｜BTO](https://note.com/bto/n/ne15a74ff6afe)
 - First of all, calm down.
 - Respect [[existing systems]] and organizational structures.
+    - [[Respect existing systems]].
+        - [[Existing system]]
 - [[I define my role and what I need to do]].
 - Distinguish whether the results are due to domain knowledge and relationships
 - Not suddenly [[waving the chain of command]].

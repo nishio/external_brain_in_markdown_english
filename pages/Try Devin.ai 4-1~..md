@@ -30,6 +30,10 @@ Devin, you write more code than I do.
 
 - [[Devin credit used up]]
 
+> [hal_sk](https://x.com/hal_sk/status/1917394075877269639) devin budget management, it's difficult. They cost less than humans and are willing to work overtime, but they tend to do more. They can now do nice-to-have parts that they used to give up because of human man-hours, which may increase the cost of the project. Is it correct to set a project budget and spend within that range?
+
+> [hal_sk](https://x.com/hal_sk/status/1917396395998564548) How can we manage the budget for each project? I can still see the APUs per session in the Usage&Limit screen, but I would like to keep track of costs per repository that is tied to it if possible.
+>  I wonder if the Enterprise plan has the concept of terms, so that's where we can find out the cost.
 
 ---
 This page is auto-translated from [/nishio/Devin.aiを試す4/1~](https://scrapbox.io/nishio/Devin.aiを試す4/1~) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -6,7 +6,7 @@ title: "silver and gold"
 - silver and gold
     - [[Nobuyuki Fukumoto]]
 
-Manga by Nobuyuki Fukumoto, famous for Akagi and Kaiji, serialized from 1992 to 1996.
+[Manga by Fukumoto Nobuyuki, famous for Akagi and Kaiji, serialized from 1992 to 1996.
 1992 is the year Akagi began serialization (until 2018)
 1996 is the year Kaiji began serialization (until 1999)
 It seems to me that they are trying a lot of experimental things with this piece. The stories are mixed.

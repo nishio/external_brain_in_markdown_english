@@ -10,7 +10,7 @@ concrete example
 - A: What kind of things are you doing?
 - B: (recently released for Steam and new expansions) Dominion, for example.
 - A: Huh? You're doing something old like Dominion?
-- B: (Oh, let's not invite these people anyway, because it will make the atmosphere of the place worse when they come)
+- B: (Oh, I don't want to invite these people because it will ruin the atmosphere of the place when they come)
 
 - [[alienation]]
 [[Alienation]]
