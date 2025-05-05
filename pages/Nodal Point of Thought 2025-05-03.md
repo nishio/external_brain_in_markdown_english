@@ -3,7 +3,7 @@ title: "Nodal Point of Thought 2025-05-03"
 ---
 
 The connection between these two
-- [[First, build trust by solving muddy problems.]]
+    - [[First, build trust through muddy problem-solving.]]
     - [[What to keep in mind when suddenly assuming the position of CTO from the outside]]
 [[Those who come later need to earn the trust of those who were there before them]].
 
@@ -26,7 +26,7 @@ Why is this so?
         - In organizations that are [[stability-oriented]] and emphasize "[[reproducibility]] and [[consensus building]],
         - The same results have different evaluation points.
         - If the gap is left unaddressed, "[[frictional cost>outcome]]" will result, and it is easy to determine that the optimal solution is to eliminate collaboration.
-- "[[Youth bonus]]" is expendable.
+- "[[Juvenile bonus]]" is expendable.
     - The "[[number of failures]]" and "[[sharp words and deeds]]" that are acceptable for young people are rapidly reversed in evaluation with age.
     - Need to be aware of the amount of bonuses remaining and design to convert "attention" to "[[trust assets]]" before the [[failure tolerance]] is reduced.
     - [[risk-taking]]" is multiplied by "[[solidarity cost]]".
@@ -62,7 +62,7 @@ Why is this so?
                 - [[People who are toxic to the community are not invited into the community.]]
             - There it is, here it is: [[self-inflicted alienation]].
     - [[The world of those who kill is not expanding.]]
-    - You're doing the opposite of [[expanding and reproducing social capital]].
+        - [[Expansion and reproduction of social capital]] you're doing the opposite.
         - [[How to use social capital]]
         - > A requirement that after the D and S transactions occur, the Happiness of both parties must increase.
         - > Because trust in intermediary M will decrease if the transaction does not lead to a positive outcome.

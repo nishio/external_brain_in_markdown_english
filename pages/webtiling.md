@@ -12,6 +12,16 @@ An application that displays web pages in a tiled view
     - Configuration file loading function (ConfigLoader)
 
 - Start with another config file: npm run start:custom test-config.json
+- Save as
+
+![image](https://gyazo.com/9012cfc00fb6de286c64d257d0b3fc44/thumb/1000)
+2025-05-04
+It's starting to take shape.
+- I put Scrapbox and Devin side by side, and there was a gap on the right, so I put YouTube for now.
+- Or put something in the bottom half of YouTube.
+    - After I did it, I thought that YouTube is not tightly coupled with the work content, so there is no need to bundle it with this system...
+- Ability to save browser tab openings at any size
+
 
 
 
