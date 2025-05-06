@@ -2,7 +2,7 @@
 title: "DApps as a migration destination for slow systems"
 ---
 
-> [@nishio](https://twitter.com/nishio/status/1657682493980676097): I had no idea what to use the slow response [[DApps]] for. I finally figured it out. It's more of a [[slow system]] migration destination. And the representative of that "slow system" is "[[Democracy by Paper and Box]]".
+> [@nishio](https://twitter.com/nishio/status/1657682493980676097): I had no idea what to use the slow response [[DApps]] for. Finally figured it out. It's more of a transition point for [[Slow system]]. And the representative of that "slow system" is "[[Democracy by Paper and Box]]".
 [[Democracy needs to evolve into a real-time system]]
 - [[digital democracy]]
 - [[democracy]]

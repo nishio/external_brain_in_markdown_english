@@ -5,7 +5,7 @@ title: "What we know, what we don't know, pretending to understand, trust in hon
 from  [[Diary 2023-08-31]]
 [[what we know]], [[what we don't know]], [[pretending to understand]], [[trust in integrity]].
 ![image](https://gyazo.com/af03392ded25bd88618d56702719ad2d/thumb/1000)
-- [[Sense of "getting it."]]
+    - [[Sense of "getting it"]]
 - [[Sense of "I don't know."]]
     - subjective
     - experience

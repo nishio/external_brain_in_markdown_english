@@ -2,7 +2,8 @@
 title: "I don't expect others to do it."
 ---
 
-The phrase "I don't [[expect]] anything from others," "I don't expect anything from you anymore!" but that is not what is actually being asserted.
+2018-08-16
+The phrase "I don't [[expect]] anything from others" is often confused with negative emotional expressions like "I don't expect anything from you anymore!" but I think it is actually more logical.
 ![image](https://gyazo.com/205e1fcdd4bc39d62127b8a9bfd143d5/thumb/1000)
 When one believes that "the consequences of another's actions will fall within one's expectations" and that "it is the responsibility of others to let them in."
 
@@ -21,5 +22,11 @@ In other words, to lower the mental cost, "Let's abandon the erroneous belief th
 #Self-blame, not others
 #Delegate Technology
 #Disease that's faster if you do it yourself
+- [[Expected Value Adjustment]]
+
+2025-05-06
+- Related: [[The leaky hole of abstraction gets smaller.]]
+    - Although not considered as of 2018, the expectation partner is abstracted from "human" to include "AI agents" as well.
+
 ---
 This page is auto-translated from [/nishio/他人に期待しない](https://scrapbox.io/nishio/他人に期待しない) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

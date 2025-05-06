@@ -12,7 +12,7 @@ This rule is seemingly desirable because it lowers the production cost per unit.
 But there are some negative effects, such as an increase in [[work in progress]] and [[inventory]], and an increase in the time it takes to deliver to the customer.
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>2025-01-06
-[In TOC (Theory of Constraints), "policy constraints" refer to situations in which a company or organization's [[rules]], [[conventions]], [[metrics]], etc. prevent the improvement of the original [[productivity]] or [[throughput]] (end result). The focus is not on [[physical restraints]] or [[market factors]], but on artificial or organizational constraints.
+In [[TOC]] (Theory of Constraints), "policy constraints" refer to situations in which a company or organization's [[rules]], [[conventions]], [[valuation index]], etc. prevent the improvement of the original [[productivity]] or [[throughput]] (end result). The focus is not on [[physical restraints]] or [[market factors]], but on artificial and organizational constraints.
 
 In TOC, it is important to revise and discard rules as necessary to maximize the flow of the entire system when such policy restrictions become bottlenecks. In TOC, when these policy constraints become bottlenecks, it is important to revise or discard the rules as necessary to maximize the flow of the entire system.
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Roughly the same explanation, the comparison makes the keywords richer.

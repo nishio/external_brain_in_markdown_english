@@ -8,18 +8,18 @@ Nora Vincent's [[Self-Made Man]]: One Woman's Year Disguised as a Man was publis
 ## Key Findings
 .
 1. the nature of friendship
-    - The camaraderie among the men was surprisingly warm, and I saw a cooperative effort to laugh and cover each other's mistakes. I realize that behind the superficial joking and competition, there is in fact a deep desire for solidarity. ([NPR](https://www.npr.org/transcripts/5171860?utm_source=chatgpt.com))
+    - The camaraderie among the men was surprisingly warm, and I saw a cooperative effort to cover each other's mistakes while laughing at each other's mistakes. I realize that behind the superficial joking and competition, there is actually a deep [[desire for solidarity]]. ([NPR](https://www.npr.org/transcripts/5171860?utm_source=chatgpt.com))
 2. cage of "masculinity
-    - The pressure to be brave, emotionally restrained, and financially responsible at all times is strong, and the inability to be vulnerable amplifies the mental load. His own experience of depression after the interview illustrates the intensity of the situation. ([BookBrowse.com](https://www.bookbrowse.com/reviews/index.cfm/book_number/1723/selfmade-man?utm_source=chatgpt.com))
+    - [The pressure to be brave, emotionally restrained, and financially responsible is strong, and the inability to be vulnerable amplifies the mental strain. My own experience of depression after the interview illustrates the intensity of the situation. ([BookBrowse.com](https://www.bookbrowse.com/reviews/index.cfm/book_number/1723/selfmade-man?utm_source=chatgpt.com))
 3. dating stress
-    - The role of initiative is a series of "offer, pay, and be evaluated," and the fear of rejection is great. The author temporarily became frustrated with women and realized the power of perspective reversal. ([NPR](https://www.npr.org/transcripts/5171860?utm_source=chatgpt.com))
+    - The role of initiative is a series of "offer, pay, and be evaluated," and the fear of [[being rejected]] is great. The author temporarily became frustrated with women and realized the power of [[perspective reversal]]. ([NPR](https://www.npr.org/transcripts/5171860?utm_source=chatgpt.com))
 4. workplace and hierarchy
-    - A culture where quotas and rankings are constantly visualized and weakness cannot be shown diminishes self-esteem. I experienced the "exhaustion of competition" hidden in success stories. ([Wikipedia](https://en.wikipedia.org/wiki/Self-Made_Man_%28book%29?utm_source=chatgpt.com))
+    - Quotas and rankings are always visible, and [[a culture where]] weakness cannot be shown diminishes [[self-assurance]]. I experienced the "[[exhaustion of competition]]" hidden in success stories. ([Wikipedia](https://en.wikipedia.org/wiki/Self-Made_Man_%28book%29?utm_source=chatgpt.com))
 5. place of sexual approval
-    - We understood that many customers at strip clubs buy more than just excitement, but also the "feeling of acceptance". The nexus of male isolation and the need for approval was apparent. ([eBay](https://www.ebay.com/p/48319684?utm_source=chatgpt.com))
+    - I understood that many customers in strip clubs buy "[[a]] sense of acceptance" more than mere excitement. I saw a nexus between male isolation and the need for approval. ([eBay](https://www.ebay.com/p/48319684?utm_source=chatgpt.com))
 
 ## Consequences and Impacts
-Vincent summarized that "patriarchy hurts men as well as women," and urged that mutual understanding is essential for the liberation of both. The ethics of participatory observation using deception and the bias of the sample became points of criticism, and sparked a lively debate in both men's studies and feminism. As an attempt to "know gender roles" with one's own body, it is still regarded as an important primary source for the study of masculinities. ([Wikipedia](https://en.wikipedia.org/wiki/Self-Made_Man_%28book%29?utm_source=chatgpt.com), [BookBrowse.com [https://www.bookbrowse.](https://www.bookbrowse.) com/reviews/index.cfm/book_number/1723/selfmade-man?utm_source=chatgpt.com])
+Vincent summarized that "[[patriarchal authority]] hurts men as well as women," and urged that mutual understanding is essential for the liberation of both. The ethics of participatory observation using deception and sample bias became a point of criticism and sparked a lively debate in both [[men's studies]] and [[feminism]]. As an attempt to "know gender roles with one's own body," it is still regarded as an important primary source for the study of masculinity. ([Wikipedia](https://en.wikipedia.org/wiki/Self-Made_Man_%28book%29?utm_source=chatgpt.com), [BookBrowse.com [https://www.bookbrowse.](https://www.bookbrowse.) com/reviews/index.cfm/book_number/1723/selfmade-man?utm_source=chatgpt.com])
 
 ---
 Tweet how you found out about it

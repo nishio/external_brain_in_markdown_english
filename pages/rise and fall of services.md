@@ -46,6 +46,9 @@ Geocities (US 15 years, Japan 22 years) [Geocities - Wikipedia](https://ja.wikip
 - October 1, 2018 End of service announcement
 - March 31, 2019 Service to be terminated
 
+Skype (22 years)
+- [Microsoft to end 'Skype' in May 2025, ending 22-year history - Livedoor News](https://news.livedoor.com/article/detail/28251013/)
+
 ---
 
 Evernote (15+ years)

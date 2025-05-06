@@ -118,6 +118,7 @@ METAPHOR
                 - After meaning is created, that "meaning" becomes "the similarity of the two symbols."
                 - After meaning is created, it is verbalized.
         - ![image](https://gyazo.com/5436b596b8d6f782f7c1dd5362568459/thumb/1000)
+        - (Added) [[sense of understanding]] is broken down and delved into in detail.
 
 - Consider the metaphor-maker's side of the story.
     - So far, we've been on the receiving end of metaphors.

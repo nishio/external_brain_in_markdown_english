@@ -2,6 +2,9 @@
 title: "consumer complex"
 ---
 
+Benefiting from the benefits creates a sense of inferiority and lowers the producer in an attempt to resolve it.
+
+
 > [VoQn](https://x.com/VoQn/status/1918141701363036259) There are many examples, such as BL lovers who spread hatred to all men in general, hetero men who are addicted to pornography but can't stop hating women, and free consumers who can only review on Uemesse. There are so many examples.
 >  I think it makes more sense to consider it in the context of a consumer complex rather than the temperament of the industry.
 
