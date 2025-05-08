@@ -81,6 +81,12 @@ context
 
 > [Ren10i10i](https://x.com/Ren10i10i/status/1916700796290502862) A former Indian colleague of mine told me that it is considered good manners to answer if you are asked something even if you don't know it. I heard that it is considered unkind and bad to refuse because you don't know something, so for example, if you are asked for directions even if you don't know the place, it is considered kinder and better to just point and tell you. It was a feeling I could not understand for a moment.
 
+---
+
+> [tokoroten](https://x.com/tokoroten/status/1919444800262086892) Ah, I see, so "low [[tolerance for anxiety]]" is the flip side of "[[promise-oriented culture]]".
+>  >tokoroten: If you build an organization with people with low tolerance for insecurity, [[official announcement by the shogunate (or a daimyo, etc.) that the government will step down from its post to the Emperor]].
+>  So, there are about 60% of people who have a low tolerance for anxiety in their experience, so if you get people together to form an organization in the usual way, you will need a big headquarters.
+>  So we have to pay up-to-date attention to recruitment and organization.
 
 ---
 This page is auto-translated from [/nishio/インド文化と日本文化の違い](https://scrapbox.io/nishio/インド文化と日本文化の違い) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

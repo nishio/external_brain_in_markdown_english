@@ -3,6 +3,8 @@ title: "Plurality2025-02-17"
 ---
 
 from  [[Diary 2025-02-17]]
+- This discussion later led to [A Future of Plurality, not Singularity
+
 Plurality2025-02-17
 > [nishio](https://x.com/nishio/status/1891273986006278283) After much trial and error over the past few days about how to explain the difficult-to-explain concept of "[[Plurality]]", I came up with the following question yesterday: "[[singularity]] is Is it really good? is a very compact explanation.
 

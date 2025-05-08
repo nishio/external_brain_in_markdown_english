@@ -9,7 +9,7 @@ title: "Tokyo Plurality Week 2025"
     - 2025-05-10 [[Plurality Tokyo Namerakaigi #2]]
     - 2025-05-11  [[Talk Event to Commemorate the Publication of PLURALITY at Tsutaya]]
     - 2025-05-12 [[Tokyo College Seminar on ”Plurality: the Future of Collaborative Technology and Democracy”]]
-    - 2025-05-12 [[The Future of Digital Democracy]].
+    - 2025-05-12 [[The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Uenoyama)]]
     - 2025-05-13 [[Towards the realization of "global co-benefits"message]]
 
 ---

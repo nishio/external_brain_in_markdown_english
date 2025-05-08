@@ -58,7 +58,7 @@ It's not good that the Devin order placed the day before yesterday has not been 
     - [https://app.devin.ai/sessions/ecbac97be5224f319573e024ba5051dd](https://app.devin.ai/sessions/ecbac97be5224f319573e024ba5051dd)
 - Transcription transcription
     - [[Scott Wu YouTube Japan 2025-04-22]] cleanup, easily succeeded with NotebookLLM.
-    - The same method should be used for the [[trilogy interview transcription]] that was being done.
+    - I think [[Transcript of trilogy interview]], which was done in a prickly way, should be done the same way.
     - [https://notebooklm.google.com/notebook/02536af8-acd6-4673-9915-dfd37438260f?_gl=1*1554tan*_up*MQ..*_ga*MTU0MzgwMDk5NC4xNzQ1Mzk1OTkw*_ga_W0LDH41ZCB*MTc0NTM5NTk5MC4xLjAuMTc0NTM5NTk5MC4wLjAuMA..](https://notebooklm.google.com/notebook/02536af8-acd6-4673-9915-dfd37438260f?_gl=1*1554tan*_up*MQ..*_ga*MTU0MzgwMDk5NC4xNzQ1Mzk1OTkw*_ga_W0LDH41ZCB*MTc0NTM5NTk5MC4xLjAuMTc0NTM5NTk5MC4wLjAuMA..)
 - Code quality improvement
     - [https://github.com/nishio/oss_weekly_reporter/pull/37](https://github.com/nishio/oss_weekly_reporter/pull/37)
