@@ -6,17 +6,19 @@ This week's pre-weekly report, with the addition of the non-plurality week items
 
 - 2025-05-06  [[20250506Special Lecture by AI Research Group, The University of Tokyo]]
 - 2025-05-07
-    - [[Team Mirai]]
-    - [[Digital Democracy 2030, New Board Structure]]
+        - [[Team Mirai]]
+        - [[Digital Democracy 2030, New Board Structure]]
 - 2025-05-08
         - [[2025-05-08Takahiro Yasuno runoff press conference]]  13:00
+        - [[public opinion map]] OSS public
     - 17:00~ NG
 - 2025-05-09
     - 17:00~ Daikanyama area
 - 2025-05-10 [[Plurality Tokyo Namerakaigi #2]]
 - 2025-05-11 [[Talk Event to Commemorate the Publication of PLURALITY at Tsutaya]] → Cybozu
     - 10:30〜18:00
-- 2025-05-12 [[The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Uenoyama)]]
+    - Colin 17:00〜19:00
+- 2025-05-12  [[The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Uenoyama)]]
     - Online or offline, still undecided.
     - 16:00-19:30 Izumi Garden Tower
 

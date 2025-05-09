@@ -22,6 +22,16 @@ It's starting to take shape.
     - After I did it, I thought that YouTube is not tightly coupled with the work content, so there is no need to bundle it with this system...
 - Ability to save browser tab openings at any size
 
+2025-05-08
+- Put Devin's work-in-progress summary in private Scrapbox
+    - But then you'd want to open Devin's SESSION from the link there.
+- What's wrong with this in the first place is that it's not obvious what the project is.
+    - ![image](https://gyazo.com/4cfc7d622acc4ed8a8c03f14c1b7565b/thumb/1000)
+    - Replacing it with webtiling does not change the situation of not knowing which is which, in fact it makes it worse.
+- Would you rather have the browser placement in microformat in Scrapbox, and with one click, multiple tabs are restored with the placement included?
+    - Is "webtiling" a premature abstraction for a generic term?
+
+
 
 
 

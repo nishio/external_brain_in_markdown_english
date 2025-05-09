@@ -128,7 +128,7 @@ Discussion and Q&A Second half
 - He expressed his belief that the AI should be implemented immediately because it learns very quickly and the AI may finish learning while we are discussing regulations.
 - Mr. Audley distinguished between defensive technologies that enhance society's resilience (e.g., manufacturing advanced masks at home) and offensive technologies that can cause destruction (e.g., manufacturing viruses at home), with defensive technologies needing to be accelerated and offensive technologies needing to be regulated. He stated that which should be prioritized should be determined by whether the technology contributes to the resilience and consensus building of society as a whole.
     - [[Vitalik Buterin]]の[[d/acc]]だね<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-        - [[Audrey and d/acc and differential]].
+            - [[Audrey and d/acc and differential]]
 
 ## AI Regulation
 .
