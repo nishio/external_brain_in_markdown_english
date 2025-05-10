@@ -11,7 +11,8 @@ This week's pre-weekly report, with the addition of the non-plurality week items
 - 2025-05-08
         - [[2025-05-08Takahiro Yasuno runoff press conference]]  13:00
         - [[public opinion map]] OSS public
-    - 17:00~ NG
+    - 17:00~
+        - [[Mystella, "Sleeping Brains and Pulsating Innocence.]]
 - 2025-05-09
     - 17:00~ Daikanyama area
 - 2025-05-10 [[Plurality Tokyo Namerakaigi #2]]
