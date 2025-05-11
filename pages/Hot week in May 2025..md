@@ -6,7 +6,7 @@ This week's pre-weekly report, with the addition of the non-plurality week items
 
 - 2025-05-06  [[20250506Special Lecture by AI Research Group, The University of Tokyo]]
 - 2025-05-07
-        - [[Team Mirai]]
+        - [[Team Mirai]] Nittele Original News
         - [[Digital Democracy 2030, New Board Structure]]
 - 2025-05-08
         - [[2025-05-08Takahiro Yasuno runoff press conference]]  13:00
