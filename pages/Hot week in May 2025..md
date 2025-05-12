@@ -16,12 +16,15 @@ This week's pre-weekly report, with the addition of the non-plurality week items
 - 2025-05-09
     - 17:00~ Daikanyama area
 - 2025-05-10 [[Plurality Tokyo Namerakaigi #2]]
-- 2025-05-11 [[Talk Event to Commemorate the Publication of PLURALITY at Tsutaya]] → Cybozu
-    - 10:30〜18:00
-    - Colin 17:00〜19:00
-- 2025-05-12  [[The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Uenoyama)]]
-    - Online or offline, still undecided.
-    - 16:00-19:30 Izumi Garden Tower
+- 2025-05-11 [[Talk Event to Commemorate the Publication of PLURALITY at Tsutaya]] →[[Cybozu Audrey+Glen+Aono Trilogy]] →[[Meetup with Colin]].
+    - 10:30〜19:00
+- 2025-05-12
+    - [[Tokyo College Seminar on ”Plurality: the Future of Collaborative Technology and Democracy”]]
+    - 3:00 p.m. Fukutake Hall
+        - [[The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Uenoyama)]]
+    - Online after missing the lottery
+    - 16:00-19:30
+        - I think we're covering some time.
 
 
 It says a week, but it could spread to "late" or something...
