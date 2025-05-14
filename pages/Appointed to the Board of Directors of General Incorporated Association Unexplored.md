@@ -1,0 +1,52 @@
+---
+title: "Appointed to the Board of Directors of General Incorporated Association Unexplored"
+---
+
+2015-09-30
+# Appointed to the Board of Directors of General Incorporated Association "Unexplored"
+.
+Yesterday, September 29, at the general meeting of members of Miho Incorporated Association (Miho Shadan Hojin), it was decided that Hidemi Kawai and I would be appointed as directors of the board. I would like to use this blog post as a replacement for my greeting for the inauguration of the new board members.
+
+- What is an unexplored association?
+Visit the official page here: [http://www.mitou.org/](http://www.mitou.org/)
+Briefly, the organization aims to create an environment in which each and every creative individual, especially those involved in unexplored projects, can maximize their creativity.
+
+- About NISHIO Hirokazu
+I was selected as a 2002 Unexplored Youth Program recipient and am currently engaged in research and development at Cybozu Labs, Inc. My main areas of interest are the improvement of intellectual productivity through software and other means, and support for idea creation. The goal of the Unexplored Foundation, "to create an environment where creative people can maximize their creativity," is strongly related to my own interests.
+
+- What do you consider important?
+From here, I would like to introduce myself and share what I personally consider important.
+
+- A place to "stay together
+There is a saying by Ford, "Gathering is the first step, staying together is progress, working together is success." Of course it is important to gather people at events, but it should not be a one-time event that lasts one exciting day. There needs to be a place where the gathered people "stay together". We believe it is important to create such a place both physically and electronically.
+
+- Creating a small, tight-knit group.
+For the exchange and creation of knowledge to occur between people with different perspectives, communication must be active. However, even if you create a Facebook group of, say, 200 people, communication will not be active. This is because the inability to know who the members are is a barrier to speaking up.
+When a group of 10 to at most 30 people interested in a particular topic is formed, this barrier is removed and a deeper conversation can take place.
+The [unexplored research group](https://github.com/mitou/sig-mitou/wiki) that recently kicked off is part of this direction. The slides I presented at the workshop include a lot of my current thinking about the design of places for knowledge creation, so please read them if you are interested.
+
+- Sharing the truth
+Guevara said, "In the long run, truth is the best policy." Rather than hiding inconveniences, it is important to gather and share facts and cultivate trust, and to be able to think creatively about how to resolve inconveniences.
+As part of this effort, we are promoting the release of the minutes of our weekly meetings to our regular members. We also aim to speed up the sharing of information by removing various barriers in the process of information disclosure and communication.
+
+- Unexplored Meikan: Collecting and Visualizing Collaborative Relationships
+There are many examples of alumni/alumnae who met through Unexplored and later collaborated on events and projects. By working together, knowledge is exchanged and created. Through activities, a relationship of trust is built, which leads to more efficient knowledge exchange. Working together is success. ### It is this network of trust that is critical
+.
+
+By the way, MISHOP is a recipient of the Ministry of Economy, Trade and Industry's ["Venture Business Start-up Support Project for Advanced Issues (IT Venture Start-up Promotion Project)"](http://www.meti.go.jp/information/publicoffer/kobo/k150225003.html). As stated in the application guidelines, the following activities are MUST.
+- Conduct a survey to determine what kind of activities the project participants are engaged in and what kind of results they have achieved after the project.
+- To build a network among participants and experienced persons so that participants in each project can interact with each other, leading to the promotion of activities and further human resource development after the completion of the project.
+
+We believe this is an excellent opportunity to visualize a network of trust. Therefore, we are cooperating with this project while focusing on the following three points
+- Collecting data on collaborative relationships rather than focusing solely on individuals
+- To facilitate experimentation with different visualization approaches, the data must be in machine-readable form.
+- The system must be incentivized to update those data to keep them fresh.
+
+- Creating opportunities for contribution
+We tend to use the phrase, "We appreciate your cooperation," without realizing it. However, it is unclear who decides the plan. In the worst case, it is the same as saying, "Please follow the plan we have decided upon and serve us without compensation.
+A person of exceptional ability will self-determine what needs to be done and what is an excellent job. It is very disrespectful to try to take away that decision-making authority and control it, because it is tantamount to saying, "You are not capable of making decisions. It is tantamount to saying, "You are not capable of making decisions.
+The relationship between the association and you is not a boss-subordinate relationship. It is more like a relationship between a community and volunteers. What we need to do is to create opportunities for you to demonstrate your abilities, to create opportunities for you to contribute to the goals of the association, and to create an environment that makes you think, "Sounds interesting, I'll help.
+Please let us know "what would make you happy". Thank you in advance.
+
+---
+This page is auto-translated from [/nishio/一般社団法人未踏の理事に就任しました](https://scrapbox.io/nishio/一般社団法人未踏の理事に就任しました) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -10,10 +10,14 @@ Event Page:.
 - [Plurality Tokyo Namerakaigi #2 "Plurality Book Japanese edition" publication celebration collaboration with Tokyo Plurality Week - Luma](https://lu.ma/ienn4p0k)
 
 
+[https://youtube.com/live/s_e3kMzjF8M?feature=share](https://youtube.com/live/s_e3kMzjF8M?feature=share)
+
+
 [/plurality-japanese/Plurality Tokyo Namerakaigi #2](https://scrapbox.io/plurality-japanese/Plurality Tokyo Namerakaigi #2)
 
 
 
+[https://notebooklm.google.com/notebook/8328a279-3098-43c1-9af9-236a0ab383a4?_gl=1*17j63de*_up*MQ..*_ga*MjEyMDA4OTU0Ni4xNzQ2OTE1MzE1*_ga_W0LDH41ZCB*czE3NDY5MTUzMTQkbzEkZzAkdDE3NDY5MTUzMTQkajAkbDAkaDA.](https://notebooklm.google.com/notebook/8328a279-3098-43c1-9af9-236a0ab383a4?_gl=1*17j63de*_up*MQ..*_ga*MjEyMDA4OTU0Ni4xNzQ2OTE1MzE1*_ga_W0LDH41ZCB*czE3NDY5MTUzMTQkbzEkZzAkdDE3NDY5MTUzMTQkajAkbDAkaDA.)
 
 ## ver.2
 - I feel like the English part of this is through and through.
