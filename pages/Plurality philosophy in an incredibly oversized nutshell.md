@@ -4,6 +4,7 @@ title: "Plurality philosophy in an incredibly oversized nutshell"
 
 [[Vitalik Buterin]] on 2024-08-21
 [Plurality philosophy in an incredibly oversized nutshell](https://vitalik.eth.limo/general/2024/08/21/plurality.html)
+Vitalik's article contains a reference to [[lickspittle]].
 
 > [HiroTHamadaJP](https://x.com/HiroTHamadaJP/status/1826293836223848529) Japanese thought in the 2000s was delivered to the crypt.
 >  One goal of doing FtC Tokyo and my historical mission was accomplished.

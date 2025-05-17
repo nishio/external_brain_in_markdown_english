@@ -12,6 +12,7 @@ This week's pre-weekly report, with the addition of the non-plurality week items
         - [[2025-05-08Takahiro Yasuno runoff press conference]]  13:00
         - [[public opinion map]] OSS public
     - Energy Agency pubic comments arrive
+            - [[PubCom DDoS attack]]
     - 17:00~  [[Mystella, "Sleeping Brains and Pulsating Innocence.]]
 - 2025-05-09
     - 17:00~ [[Open StarTer Village]]
@@ -19,10 +20,9 @@ This week's pre-weekly report, with the addition of the non-plurality week items
 - 2025-05-11  [[Talk Event to Commemorate the Publication of PLURALITY at Tsutaya]] → [[Audrey+Glen+Aono Trilogy @ Cybozu]] →[[Meetup with Colin]]
     - 10:30〜19:00
 - 2025-05-12
-    - [[Tokyo College Seminar on ”Plurality: the Future of Collaborative Technology and Democracy”]]
+        - [[The University of Tokyo Plurality Seminar 2025-05-12]]
         - Fukutake Hall 15:00-16:40
         - [[The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Uenoyama)]]
-        - Online after missing the lottery
 
 It says a week, but it could spread to "late" or something...
 - Related: [[Late May 2024, a turbulent time.]]

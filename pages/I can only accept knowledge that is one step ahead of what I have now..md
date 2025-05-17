@@ -3,6 +3,7 @@ title: "I can only accept knowledge that is one step ahead of what I have now."
 ---
 
 copy from  [[Dialogue with the harmony of your past]]
+2023-12-14
 
 - Dialogue with Human Beings
     - [[After all, you can only go one step further]].

@@ -27,7 +27,7 @@ This conference was held to commemorate the publication of the Japanese edition 
 Program
 - Until about 13:15: Opening
 - 13:15-14:45: Session 1: Intersection of Plurality and Academic Knowledge
-- 15:05-15:45: Session 2: New forms of consensus using collective knowledge
+- 15:05-15:45: Session 2 [[New forms of consensus using collective knowledge]].
 - 15:45 - 16:40: Session 3: Fighting Disinformation What Civil Society Can Do
 - 16:40-17:20: Session 4: Democratic allocation of funds QF/QV discussion and practice
 - 17:20-18:00: Session 5: Will AI Evolve Democracy?
@@ -165,6 +165,425 @@ Conversations and personal stories about the move after the reception were inclu
 Throughout the symposium and subsequent conversations, themes such as democracy as a plurality experiment reappeared.
 
 
+[https://x.com/chekichekimusu1/status/1920301061098688900](https://x.com/chekichekimusu1/status/1920301061098688900)
+
+> [plurality_book](https://x.com/plurality_book/status/1921056223291478517) here today
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj2cehWAAAW2m2?format=jpg&name=small#.png)
+
+> [0xtkgshn](https://x.com/0xtkgshn/status/1921045708779462738) voilà !
+>  Let's go!
+>  ![image](https://pbs.twimg.com/media/Gqjs4u-W8AAOkAv?format=jpg&name=small#.png) ![image](https://pbs.twimg.com/media/Gqjs4uYbcAEPC6f?format=jpg&name=small#.png)
+
+> [takerunakao](https://x.com/takerunakao/status/1921055440110067828) plurality tokyo Namera Conference #2 has started ‼︎
+>  ![image](https://pbs.twimg.com/media/Gqj1uzvXsAA2fg5?format=jpg&name=small#.png) ![image](https://pbs.twimg.com/media/Gqj1uzHbcAEJqEU?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/Gqj1uzyXoAIqd1-?format=jpg&name=360x360#.png)
+
+> [nishio](https://x.com/nishio/status/1921054659327787083) Beginning! #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj1BLcbcAEu8iW?format=jpg&name=small#.png) ![image](https://pbs.twimg.com/media/Gqj1BLQbcAA7OFi?format=jpg&name=small#.png)
+
+[/plurality-japanese/History of Plurality in Japan](https://scrapbox.io/plurality-japanese/History of Plurality in Japan).
+
+> [nishio](https://x.com/nishio/status/1921056281361559693) Talking about how we should all create events as public goods instead of consuming events created by staff as guests #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj2gCiWgAA1sls?format=jpg&name=small#.png)
+
+
+> [mtane0412](https://x.com/mtane0412/status/1921045758268289346) Seat Secured! #PluralityTokyo
+>  Secure your seat! #PluralityTokyo
+>  ![image](https://pbs.twimg.com/media/Gqjs7j9bcAA3oWE?format=jpg&name=small#.png)
+
+> [takahiroanno](https://x.com/takahiroanno/status/1921054251792339396) plurality tokyo Namera Conference #2 is here!
+>
+>  Yasuno's session will be the fifth one, starting at 17:00. It will be online as well!
+>  ![image](https://pbs.twimg.com/media/Gqj0phKbcAA0KQj?format=jpg&name=small#.png)
+
+> [hal_sk](https://x.com/hal_sk/status/1921054467924869160) Plurality Tokyo came!
+>  I sat in a seat at a bad angle.
+>  ![image](https://pbs.twimg.com/media/Gqj01uFWMAAFkzu?format=jpg&name=small#.png)
+> [0xtkgshn](https://x.com/0xtkgshn/status/1921058414160941272) It's right in front of you!
+
+> [hal_sk](https://x.com/hal_sk/status/1921099170917572708) @k_0214
+>  is currently speaking on a panel at Disinfo
+>  ![image](https://pbs.twimg.com/media/Gqkdf7GbcAELoTz?format=jpg&name=small#.png)
+
+
+> [plurality_book](https://x.com/plurality_book/status/1920093514957828520) "PLURALITY Turning Conflict into Creation, Collaborative Technology and the Future of Democracy" is CC0 Public Domain Open Source It is
+>  Quotations of texts in books are also welcome!
+>  I hope many of you will become collaborators and future co-designers of this project!
+>  #plurality
+>  ![image](https://pbs.twimg.com/media/GqWKLWkbEAAdESQ?format=jpg&name=small#.png)
+
+
+> [nishio](https://x.com/nishio/status/1921059124315365786) #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj5E55bcAALKPJ?format=jpg&name=small#.png)
+
+> [nishio](https://x.com/nishio/status/1921059696393261326) #TokyoPluralityWeek 21st Century Ideology
+>  ![image](https://pbs.twimg.com/media/Gqj5T5lbcAI91sF?format=jpg&name=small#.png)
+
+> [mariroom](https://x.com/mariroom/status/1921056902638702865) Huge congratulations to
+>  @0xtkgshn
+>   , co-hosting wonderful conference with plurality community
+>
+>  #TokyoPluralityWeek #PluralityCommunity
+>  Congrats to @0xtkgshn for co-hosting a great conference with multiple communities!
+>
+>  #TokyoPluralityWeek #PluralityCommunity
+>  ![image](https://pbs.twimg.com/media/Gqj3EEZXIAA5o66?format=jpg&name=small#.png)
+
+> [_geeknees](https://x.com/_geeknees/status/1921057910391541761) Plurality Book is one public good
+>  ![image](https://gyazo.com/d4e6fd1f2e7926619cf26ae28d48a7bb/thumb/1000)
+>  [https://github.com/pluralitybook/plurality](https://github.com/pluralitybook/plurality)
+
+
+> [nishio](https://x.com/nishio/status/1921061696979820713) "Japan can be the new leader of the free world" by Glenn #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj7bS9WcAAz2gk?format=jpg&name=small#.png)
+
+[[Shigenori Uno]]
+> [nishio](https://x.com/nishio/status/1921063854466818180) Tocqueville, Dewey, democracy of experiments, the book I'm writing now is Hannah Arendt, democracy is to allow diverse experiments (Dewey).
+>  Fandom is a modern association
+>  The art of plurality, politics as something diverse people can work together on #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj9Y9pbcAIOgVh?format=jpg&name=small#.png)
+> [nishio](https://x.com/nishio/status/1921064000470626667) Tocqueville, Dewey and Hannah Arendt as Thinkers Connecting Asia
+
+
+> [nishio](https://x.com/nishio/status/1921066032694759591) "Representation is a clear conflict of interest" "The Constitution overrides democracy" "Being a politician is a punishment" I'm sitting next to Mr. Anno w # TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqj_XpybcAMDO2W?format=jpg&name=small#.png)
+> [higu_yuu](https://x.com/higu_yuu/status/1921139926764032399) You got it so good!
+> [Shinwa_Defense](https://x.com/Shinwa_Defense/status/1921067352881537255) It's interesting that Mr. Komamura says what he wants to bust out first, w
+> [nishio](https://x.com/nishio/status/1921066032694759591) The story is too funny w the audience is filled with laughter.
+
+
+> [nishio](https://x.com/nishio/status/1921067494229336271) I didn't know that the way to change society is not only through elections but also through civic tech/crowdsourcing lawsuits, interesting #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkAsr4bEAA9f7z?format=jpg&name=small#.png)
+> [Parascorpaena](https://x.com/Parascorpaena/status/1921067434028499076) CALL4
+>  [https://call4.jp](https://call4.jp)
+>  ![image](https://gyazo.com/eea8b024ebdf59a27526298ca284609b/thumb/1000)
+
+> [Parascorpaena](https://x.com/Parascorpaena/status/1921794872777801797) I'll try to put something in writing too!
+
+
+> [cactaceae](https://x.com/cactaceae/status/1921066518047076683) Democracy without some adjective is just unlimited populism #TokyoPluralityWeek
+
+> [nishio](https://x.com/nishio/status/1921069877458084209) "Suzuki Ken and Suzuki Kan" lol
+>
+>  It's amazing that you're doing electronic meeting rooms in 1996.
+>   #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkC3eSXMAAxNRg?format=jpg&name=small#.png)
+> [nishio](https://x.com/nishio/status/1921070835462291890) "Recommendations for Deliberative Discussion"
+>  "Policy Contest": Public Comment from the Younger Generation Leads to Major Reform of Budget Allocation
+>  "Public" will be compulsory from 2020
+
+> [nishio](https://x.com/nishio/status/1921074604493226269) Audrey: "A major advance in technology in the last two years is that LLM has made it easier to aggregate opinions. This improves deliberation. In particular, we are now able to communicate with more diversity across language barriers" #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkHKzUXMAAuU5_?format=jpg&name=small#.png)
+
+
+> [nishio](https://x.com/nishio/status/1921076522808471642) ALONE to Plurality
+>  Market without money -> barter -> double coincidence of desires -> TTC algorithm -> why hasn't it spread, because it only takes one break in the N-person cycle to make it unviable?
+>  Majority Judgement!
+>  Hypothesis that comparability is the key to Plurality
+>  ![image](https://pbs.twimg.com/media/GqkI6HMWoAAkIYc?format=jpg&name=small#.png) ![image](https://pbs.twimg.com/media/GqkI6GtbcAMpJsS?format=jpg&name=small#.png)
+
+
+> [takerunakao](https://x.com/takerunakao/status/1921074231741211011) From democracy and the constitution, AI use in politics, AI Agent to web3 and Deep Funding topics!
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkG0xVXsAAaCTu?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/GqkG0wtbIAAjGDt?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/GqkG0xeWQAAIvLJ?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/GqkG0xOWsAAaJM2?format=jpg&name=360x360#.png)
+
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921072721737253150) I dare to be dry w because everyone is praising everyone else (I personally sympathize deeply).
+>  You say "Plurality" but the words you use are too difficult. I am worried that this will deepen the division of society. With such a wonderful group of talents, it should be possible to express difficult things in an easy-to-understand way.
+>  #TokyoPluralityWeek
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921074326440145206) I think there are too many references to past literature and great people (although I understand the sentiment). This is no different from academic societies (academic societies have their own value, but I don't think it fits with Plrurality because of the (inevitable) exclusive element of academic societies).
+> [0xtkgshn](https://x.com/0xtkgshn/status/1921074913349083626) I know! Please! Please do!
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921266279299596556) I'm not going to ask you to do this, but w I think I saw the discomfort I've been feeling all day today (continued)
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921267386633626076) The May 10 meeting was very interesting but uncomfortable. The point of today's discussion was that the product out-like innocence that "we 'should' all use the tools and ideas we discuss and try out because 'I'm not sure, but I'm sure it will be an improvement over what we have now'" was strongly felt beyond limits (continued).
+>  #TokyoPluralityWeek
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921268581754421321) In other words, it starts with "there is room for improvement in today's society (→I agree)" but does not specify the pain point or what it will look like after the improvement. In other words, it starts with "there is room for improvement in today's society" (→ I agree), but without specifying the pain point or what it will look like after the improvement. In the book, various approaches were listed, so I didn't feel a strong sense of discomfort, but in hindsight, I feel the same way (continued).
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921269723670430155) "Are you in a negative position?" I don't think so. In a sense, what the Ishitaka project is aiming for is the same as Plurality. However, if new opinion aggregation and new resource allocation are realized, which problems will be improved and in what way? The logical structure of the project would be
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921270253155205351) I want to solve these problems in front of me (putting aside what will happen), but I felt it was not issue driven (so I felt uncomfortable) as to what is the best (close to) tool to transcend the obstacles. I felt that the issue was not issue-driven (so I felt uncomfortable) (continued)
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921271137809436931) I also noticed again that the reason why the practical examples in Taiwan are clear is because they show a set of applied methods and the results of improvement after application. I noticed that. The improvement measures using AI discussed today can also be seen as only a discussion of how, since it is not shown what the value measure to be realized by AI will be (continued)
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921272180865720365) I know I laid out a lot of negative things, but I thought it best to accumulate success stories, even if they are small, and not trial examples. The ones that say, "I could do this" if I used this method. Not "I can do this." Of course, I think this discussion is also worthwhile because even in the conception stage, we need to discuss (continued)
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921273403203256513) In fact, I think some of the examples were presented as success stories. However, as soon as we hope to "reach a consensus" and "improve the situation as expected by the consensus" as "building community consensus while allowing diversity", diversity may be lost (consensus may be a different concept from diversity in the first place) (continued)
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921275527395942826), I felt (again) that we have to think from a fairly abstract point of view, but if we don't set it with concrete examples of improvement, it will not be convincing. I have a dilemma....
+>
+>  Uchida wanted to think further about the field of finance & blockchain as a starting point.
+>
+>  It was a good meeting. Thanks to the staff (end)
+> [0xtkgshn](https://x.com/0xtkgshn/status/1921295893187199341)
+>  ![image](https://gyazo.com/ea680ae4b61ad4553dca76d6900f7bc3/thumb/1000)
+> [cactaceae](https://x.com/cactaceae/status/1921073172524179630) I'd like to hold a reading group and other activities to deepen my understanding of this to make the language easier to understand!
+>  >uchida_tomato: ... Plurality, but the words you use are too difficult. I am worried that this will only deepen the division of society. Since you have such a wonderful group of talents, it should be possible to express difficult things in an easy-to-understand way.
+
+
+> [nishio](https://x.com/nishio/status/1921080337246859454) Question! #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkMYCkWcAA3JEm?format=jpg&name=small#.png)
+
+
+> [cactaceae](https://x.com/cactaceae/status/1921079094063603967) "non-binary in all things" I'm that too! #TokyoPluralityWeek
+
+> [mariroom](https://x.com/mariroom/status/1921095225096720791) Be a pollinator for Plurality ⿻
+>
+>  #TokyoPluralityWeek with
+>  @audreyt
+>
+>  Become a multiple pollinator ⿻
+>
+>  @audreyt #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkZ609WMAAsRca?format=jpg&name=small#.png)
+
+> [Parascorpaena](https://x.com/Parascorpaena/status/1921093807153500318) I wonder if these technologies provide glasses to help decision makers.
+>   #TokyoPluralityWeek
+
+> [mariroom](https://x.com/mariroom/status/1921093939936809014) Can you speak and vote with a public mindset?
+>
+>  I think it is important to make decisions with this "public mindset" or not.
+>
+>  #TokyoPluralityWeek
+
+> [mtane0412](https://x.com/mtane0412/status/1921093216998178837) Colin blows up at question about relationship between polis and Eva #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkYF4CXgAEB7Vi?format=jpg&name=small#.png)
+> [0xshj_jp](https://x.com/0xshj_jp/status/1921092900336640438) Colin from Pol.is talking about Eva's MAGI w
+
+> [plurality_book](https://x.com/plurality_book/status/1921089181717057752) Visualize that opinions differ even within the same political party
+>
+>  @nishio
+>  Presentation by Mr. (in part)
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkUbG9XcAAZUfK?format=jpg&name=small#.png)
+
+
+> [kensuzuki](https://x.com/kensuzuki/status/1921088429355418100) [http://Pol.isの開発者のColinが,](http://Pol.isの開発者のColinが,) I am doing session 1 of Plurality Namerakaigi at Keio. Nishio-san's presentation is interesting.
+> [cactaceae](https://x.com/cactaceae/status/1921088726685397403) Nishio's story is a good one for understanding Plurarity.
+
+
+> [mariroom](https://x.com/mariroom/status/1921086709481304229) It was a brilliant session discussing Plurality from political, legal, and economic perspectives. What truly moved me, though, was Audrey’s closing remark about the importance of design and art. I felt a great sense of relief :) #TokyoPluralityWeek
+>  The session talked about Plurality from a political, legal and economic perspective. It was great, but I was very relieved when Audrey talked about the importance of design and art at the end.
+
+> I think the only way to bridge the gap between those who see the potential of Plurality and the rest of the population is to "make it and show it". I thought that the only way to bridge the gap between those who see the potential of Plurality and the rest is to "make and show. I think that this is a concept that should be explored in a variety of ways. I am also hopeful that many of the participants will be people who make things.
+
+> [etokiwa999](https://x.com/etokiwa999/status/1921095798105809013) Misinformation, but it is actually a topic that has attracted so much attention that it is ranked 4th in the World Economic Forum's "Global Risks Report," and in Japan it is being studied in the field of "computational social science In Japan, research is being conducted in the field of "Computational Social Science".
+>  [https://css-japan.com](https://css-japan.com)
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkaDIUW0AA9TZH?format=jpg&name=small#.png)
+
+> [kensuzuki](https://x.com/kensuzuki/status/1921096719049121997) Audrey to attend session on disinformation
+
+> [ktsuyu2525](https://x.com/ktsuyu2525/status/1921094445157490858) Language itself must have a limit to recognize "smoothness". (For example, it is difficult for language to describe smooth changes from moment to moment, such as the shimmering of a river) #TokyoPluralityWeek
+>  Language is an information compression device and is intermittent.
+>  I think a quick thought to overcome this is.
+>  1) Continue to fill language gaps with new languages
+>  ↓
+> [ktsuyu2525](https://x.com/ktsuyu2525/status/1921094448101937245) 2) Use marginal language with metaphors, etc.
+>  3) Develop communication tools that are good at describing a continuum of alternatives to language
+>  was considered.
+>  However, as for 3, people's linguistic cognitive processing is not good at processing continuous things, so a transformation of people's information processing is also required.
+> [ktsuyu2525](https://x.com/ktsuyu2525/status/1921094450865963386) I was wondering if it would be possible to apply the research I presented at the HCI international conference, "Can fluid simulation be used to express and communicate ambiguous emotions in an ambiguous way? I wonder if it could be applied to my research on "Can fluid simulation be used to express and communicate ambiguous emotions in an ambiguous way?
+>  Emotion Overflow: an Interactive System to Represent Emotion with Fluid | Adjunct Proceedings of...
+>  Emotion Overflow: An Interactive System for Expressing Emotions in Fluid Form |Attached Proceedings of the...
+
+
+> [sanjrow](https://x.com/sanjrow/status/1921096794705973580) Nishio: "The enhanced ability of humans to understand others smoothes social boundaries."
+
+> [etokiwa999](https://x.com/etokiwa999/status/1921068801464168555) I'm on site.
+>  I'm wondering if the Plurality technology will help them by mildly picking up the voices of the poor who have been left behind, rather than dividing them.
+
+
+> [Parascorpaena](https://x.com/Parascorpaena/status/1921093807153500318) I wonder if these technologies provide glasses to help decision makers.
+>   #TokyoPluralityWeek
+
+
+> [cactaceae](https://x.com/cactaceae/status/1921072080994344991) "Taiwan has limited ability to transmit information, so we will practice in Japan and transmit it to the world" I think all Asian countries should go for this! #TokyoPluralityWeek
+
+> [higu_yuu](https://x.com/higu_yuu/status/1921099827883995281) Is this what you were just talking about in Utah?
+> [Aki_laid_back](https://x.com/Aki_laid_back/status/1921101809315123484) DCA?
+>  Is it this way?
+- > [pro_jectliberty](https://x.com/pro_jectliberty/status/1908168117970219062) Utah Governor
+- >  @SpencerJCox
+- >   and Project Liberty Founder Frank McCourt co-authored a piece in
+- >  @TIME
+- >    on Utah's groundbreaking new Digital Choice Act giving people agency over their data on social media platforms.
+- >  Governor of Utah
+- >  @SpencerJCox
+- >  and Frank McCourt, founder of Project Liberty,
+- >  @TIME
+- >  In 2006, I co-authored an article on Utah's revolutionary new digital choice method.
+- [Social Media Platforms Shouldn't Own Your Identity | TIME](https://time.com/7274854/social-media-platforms-own-your-identity/)
+> [higu_yuu](https://x.com/higu_yuu/status/1921110006843261302) This is it! Thank you!
+
+
+> [nishio](https://x.com/nishio/status/1921109310408388869) "How many pages does this concept say in the Plurality book?" is compact, this notation is an invention w #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkmuqKbcAE2JU6?format=jpg&name=small#.png)
+
+> [Parascorpaena](https://x.com/Parascorpaena/status/1921112532875350401) Lewis Carroll's career was like this.
+- [Lewis Carroll - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB)
+> [cactaceae](https://x.com/cactaceae/status/1921112239785820289) The only name known in Japan is Lewis Carroll #TokyoPluralityWeek
+
+
+> [takerunakao](https://x.com/takerunakao/status/1921106126449303882) session2: Consensus building using collective knowledge, and session3: Fighting false information. Both thematic sessions discussed the current status of medium- and long-term issues being addressed and positive prospects for the future.
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqkj1XjbcAEgOJN?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/Gqkj1XobcAMpiE8?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/Gqkj1XmbcAAVqUp?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/Gqkj1YOW4AAGsu5?format=jpg&name=360x360#.png)
+
+> [takerunakao](https://x.com/takerunakao/status/1921112962296668187) session4: democratic allocation of funds theme discussion, OSS "[[Toban]]-Toban - as a theoretical and practical example" (
+>  @0xtoban
+>  ) and [[DigDAO Matching Donations]] (
+>  @digdaox
+>  ) was introduced!
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkqDRPbEAA2GyX?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/GqkqDRxXEAA8KpH?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/GqkqDR2WYAAnK_v?format=jpg&name=360x360#.png) ![image](https://pbs.twimg.com/media/GqkqDR0WsAA0i0u?format=jpg&name=360x360#.png)
+    - [[Toban - a tool for recording contributions and distributing rewards]]
+
+> [heat_1nt](https://x.com/heat_1nt/status/1920819010221769022) "Bonsai", a new method for visualizing and analyzing high-dimensional data with almost no distortion using structure.
+>  >[DucheneJohan](https://x.com/DucheneJohan/status/1920819010221769022) Popular methods like UMAP & t-SNE are stochastic and distort data structure.
+>
+>  Bonsai - a novel method - builds trees to relate high-dimensional objects, accounting for measurement noise.
+>
+>  [https://biorxiv.org/content/10.1101/2025.05.08.652944v1…](https://biorxiv.org/content/10.1101/2025.05.08.652944v1…)
+>  Common methods such as UMAP and t-SNE are probabilistic and distort the data structure.
+>
+>  Bonsai is a new way to construct trees that relate objects in higher dimensions and account for measurement noise.
+>
+>  https:// biorxiv.org/content/10.1101/2025.05.08.652944v1...
+>  ![image](https://pbs.twimg.com/media/GqgelgSXoAAV6gj?format=png&name=small#.png)
+> [heat_1nt](https://x.com/heat_1nt/status/1921104960659329283) Bonsai x Broad Listening looks like a great match.
+>  Scalability is good, semantic distance and time-series change are obvious with branch length, and the structure is intuitive.
+> [heat_1nt](https://x.com/heat_1nt/status/1921114814811603165) I can upload the data and try it out.
+>  [https://bonsai.unibas.ch/bonsai/](https://bonsai.unibas.ch/bonsai/)
+>  GitHub is here
+>  [https://github.com/dhdegroot/Bonsai-data-representation](https://github.com/dhdegroot/Bonsai-data-representation)
+> [healthy_sato](https://x.com/healthy_sato/status/1921486666306379783) I put this together in a messy way because I was curious!
+>  [/plurality-japanese/Bonsai-scout](https://scrapbox.io/plurality-japanese/Bonsai-scout)
+
+
+> [uchida_tomato](https://x.com/uchida_tomato/status/1921102795039477787) I agree with the opinion that we need to utilize KYC and have literacy. I agree with the opinion that KYC and literacy are necessary. (Furthermore, I don't feel comfortable discussing correct information and false information based on binary values, as there is the problem of interpretation of the same information.)
+>  #TokyoPluralityWeek
+
+
+> [etokiwa999](https://x.com/etokiwa999/status/1921089015408652523) "Broad listening improves understanding of others," the presentation says, but that's too simplistic.
+>  First of all, we know that people's opinions don't change depending on the media, as we know from the Erie study, the Nazi propaganda study, and the Meta study.
+>  I think it is the politicians and administrative staff that will have a better understanding at 100 steps.
+>  #TokyoPluralityWeek
+> [etokiwa999](https://x.com/etokiwa999/status/1921089631267025031) Here is an article explaining those studies
+>
+>  What is the Erie Survey? Votes are influenced more by friends than media
+>  [https://sunblaze.jp/5276/the-erie-study/…](https://sunblaze.jp/5276/the-erie-study/…)
+>
+>  The Limits of Propaganda: Explaining the Nazis' Use of the Media Thesis
+>  [https://sunblaze.jp/5277/propaganda-and-radio/…](https://sunblaze.jp/5277/propaganda-and-radio/…)
+>
+>  What does social networking have to do with politics? Algorithms don't have the power to change opinions
+- > [nishio](https://x.com/nishio/status/1921114118477455827) Is broad listening a medium?
+- > [cactaceae](https://x.com/cactaceae/status/1921114376725053531) Interesting perspective. I find it media-like, but with some UX ingenuity you might be able to create the illusion of a friend!
+- > [nishio](https://x.com/nishio/status/1921115103002267692) I feel that this is a good opening to dig deeper and find something interesting!
+- > [etokiwa999](https://x.com/etokiwa999/status/1921115215829123408) The result of the broad listening and analysis is the information (content), and the information was mediated (media) is the broad listening? I think.
+- >  At least in prior research, we cannot find verified results that "the results of analysis of other people's opinions" influence people's decision making.
+> [chekichekimusu1](https://x.com/chekichekimusu1/status/1921089624119693719) Sure. I'm going to have trouble visualizing what kind of input is influencing the self-awareness that's needed, if it's not there first.
+
+> [etokiwa999](https://x.com/etokiwa999/status/1921089631267025031) Misinformation, disinformation and conspiracy theories are equally "media"
+>  Again, that the media does not influence opinion formation,
+>  We know this from the Erie study, the Nazi propaganda study, and the Meta study.
+>  Not that the information on the internet is influencing them,
+>  Economic dissatisfaction and friendships have more influence on media choices.
+>  #TokyoPluralityWeek
+> [cactaceae](https://x.com/cactaceae/status/1921102572682649879) Then maybe it means that pre-modern grassroots political activism is effective!
+> [etokiwa999](https://x.com/etokiwa999/status/1921105775583170916) That (grassroots activism = demonstrations, visits, phone calls, etc.?) I'd like to find a paper on that, since it's a different point of discussion.
+
+
+> [nishio](https://x.com/nishio/status/1921120350475014413) "AI engineer, science fiction author, and recently became a party leader" I almost blow coffee when I introduce myself that way w/ #TokyoPluralityWeek
+
+> [nishio](https://x.com/nishio/status/1921121899293048883) "Broadly speaking AI, in a larger sense, the algorithms are the same" means the same in a very broad sense #TokyoPluralityWeek
+
+> [nishio](https://x.com/nishio/status/1921122033359786309) Digital Public Goods www #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/GqkyTX2XQAAHMwF?format=jpg&name=small#.png)
+
+[/ishibashi/Plurarity Tokyo Session1 Slido question](https://scrapbox.io/ishibashi/Plurarity Tokyo Session1 Slido question).
+[/ishibashi/Plurarity Tokyo Session2 Slido Question](https://scrapbox.io/ishibashi/Plurarity Tokyo Session2 Slido Question).
+[/ishibashi/Plurarity Tokyo Session3 Slido question](https://scrapbox.io/ishibashi/Plurarity Tokyo Session3 Slido question).
+[/ishibashi/Plurarity Tokyo Session4 Slido question](https://scrapbox.io/ishibashi/Plurarity Tokyo Session4 Slido question).
+[/ishibashi/Plurarity Tokyo Session5 Slido question](https://scrapbox.io/ishibashi/Plurarity Tokyo Session5 Slido question).
+
+> [annotakahiro24](https://x.com/annotakahiro24/status/1921119970882163148) Anno's speaking session has started! Please take a look!
+>  --
+>  17:20-18:00 Session 5 Will AI Evolve Democracy?  Hijitaro Aoyama (blu3mo), Colin Megill, Audrey Tang, Takahiro Yasuno. Moderator: Akinori Oyama
+>  --
+>  Plurality Tokyo Namerakaigi #2
+>  [https://youtube.com/live/s_e3kMzjF8M?si=3cOwhPNyn66qVNEf…](https://youtube.com/live/s_e3kMzjF8M?si=3cOwhPNyn66qVNEf…)
+>  #TokyoPluralityWeekyoutube.com
+>  Plurality Tokyo Namerakaigi #2 "Plurality Book Japanese edition" publication commemoration collaboration...
+>  Plurality Tokyo Nameraka Igi #2 "Plurality Book Japanese edition" publication commemoration collaboration...
+>  With translations: [https://youtube.com/live/o8IGqBxb3Ho?feature=shareイベント概要台湾のデジタル大臣として活躍したオードリー](https://youtube.com/live/o8IGqBxb3Ho?feature=shareイベント概要台湾のデジタル大臣として活躍したオードリー) and economist Glenn Weil, known for his radical market design Plurality: The Future o...
+
+> [annotakahiro24](https://x.com/annotakahiro24/status/1921121940279873869) *Simultaneous translation version is here youtube.com
+>  [[Translation ver]] Plurality Tokyo Namerakaigi #2 collaboration with...
+>  [[translation ver]] Plurality Tokyo Nameraka Igi #2 Collaboration...
+>  Event SummaryAudrey Tan, Taiwan's former Minister of Digital, and Glenn Weil, an economist known for his radical market design, have co-authored "Plurality: The Future of Collaborative Technology and Democracy", co-authored by Audrey Tan, Taiwan's Minister of Digital Affairs, and Glenn Weil, an economist known for his radical market design, will be held at the "PLURALITY: The Future of Collaborative Technology and...
+
+
+> [nishio](https://x.com/nishio/status/1921127391490969987) I remember "school starts later" type stories showing up in thinTokyo2050. w #TokyoPluralityWeek
+
+> [nishio](https://x.com/nishio/status/1921128217693282607) "You can't show slides, you need to demonstrate a prototype" #TokyoPluralityWeek
+
+> [nishio](https://x.com/nishio/status/1921132071189172715) If you send out information about where you stumbled on something that was difficult or hard to understand, it is a social contribution because it creates an opportunity for those who understand to teach. The people who understand don't know what the people who don't understand don't understand, so it is necessary to teach them first. Of course, the person who teaches them afterwards also contributes to society.
+>   #TokyoPluralityWeek
+
+> [0xtkgshn](https://x.com/0xtkgshn/status/1921737744906441211) It would be more helpful if you blogged about it rather than tweeting about it so I can refute and repurpose it. You tweet and that's it? Is it okay to just throw a low-resolution blur out there with one hand at random and act like you've objected to whatever it is? I'm happy either way, whether I hate it like crazy or love it like crazy, but the middle is evil #TokyoPluralityWeek
+
+
+> [nishio](https://x.com/nishio/status/1921133058616361208) "I think the session was too interesting to tweet, so go home and post pictures and thoughts" #TokyoPluralityWeek
+
+
+> [cactaceae](https://x.com/cactaceae/status/1921133130687115567) I made a Togetter. The name of the service was changed.
+> [Plurality Tokyo - posfie](https://posfie.com/@cactaceae/p/xskYSxU)
+>  #TokyoPluralityWeek
+> [cactaceae](https://x.com/cactaceae/status/1921134680297865297) I've left it open for anyone to edit, so feel free to submit it!
+
+> [moriteppei](https://x.com/moriteppei/status/1921142548669599925) Plurarity is the word for "politics is wack" and "mere democracy is the same as populism", and we all come to Audrey Tan and say "yeah, yeah". The division is progressing between those who are doing the "yes" and those who don't know such things at all.
+- This is a problem that needs to be solved.
+- That's why they publish books and do events.
+
+> [nishio](https://x.com/nishio/status/1921331061839020455) #TokyoPluralityWeek The world has been aware of the disinformation problem since Brexit and Trump's victory in 2016. It was interesting to hear that Japan felt as if it was a fire on the other side of the river, but the same trend can be seen overseas in the spread of summary websites on social networking sites. The same problem occurred, but we realized it too late.
+
+
+> [ninofku](https://x.com/ninofku/status/1921372481513832619) Plurality Tokyo Namerakaigi #2 It was great!
+>
+>  I was greatly inspired not only by the two authors' stories, but also by their ideological backgrounds such as Tocqueville, the history of deliberation in Japan, the current state of social implementation, etc.
+>
+>  I would like to boost the community so that Japan can become a new center of democracy, and I will start doing something hands-on within Chuo Ward.
+>  ![image](https://pbs.twimg.com/media/GqoVmbfbgAAcYFZ?format=jpg&name=small#.png)
+
+> [ninofku](https://x.com/ninofku/status/1921375525311832295) There is also an archive of the stream on Youtube if you're interested. it's over 5 hours long, so take a little bit at a time. youtube.com
+>  Plurality Tokyo Namerakaigi #2 "Plurality Book Japanese edition" publication commemoration collaboration...
+>  Plurality Tokyo Nameraka Igi #2 "Plurality Book Japanese edition" publication commemoration collaboration...
+>  With translations: [https://youtube.com/live/o8IGqBxb3Ho?feature=shareイベント概要台湾のデジタル大臣として活躍したオードリー](https://youtube.com/live/o8IGqBxb3Ho?feature=shareイベント概要台湾のデジタル大臣として活躍したオードリー) and economist Glenn Weil, known for his radical market design Plurality: The Future o...
+
+
+> [toufu_qbota](https://x.com/toufu_qbota/status/1921406529904705979) Institutional design in the political domain is about how to quantify, extract, evaluate, and implement the principles of human behavior (decision making) in an abstracted form. This is why I learned yesterday that even though it is a humanities field, it is compatible with the thinking of engineers.
+>
+>  #TokyoPluralityWeek
+
+> [RomaKumakura](https://x.com/RomaKumakura/status/1921463140581077459) archives.
+>  I was very interested in Shigenori Uno's suggestion that "[[fandom is]] a modern association. I did not have that perspective...
+
+
+> [katsunobu1008](https://x.com/katsunobu1008/status/1921403080874029196) He was blabbering on about Eva's MAGI.
+>  Caspar, Balthazar, Melchior
+>  The story of a computer named after the Three Wise Men of the East in
+>
+>  I had never thought of MAGI in terms of democratic consensus building!
+>
+>  I was more sympathetic to your love of Eva!
+>
+>
+>  @colinmegill
+>
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqow9g8bkAA-I7j?format=jpg&name=small#.png)
+
+
+> [takahiroanno](https://x.com/takahiroanno/status/1921378675410243625) Yesterday, I attended a talk session at Plurality Tokyo on "Will AI Evolve Democracy? I attended a talk session called "Will AI Evolve Democracy?　　I was joined by Audrey Tan from Taiwan, Colin Megill from Polis, Bluemo, and Akinori Oyama!
+> [blu3mo](https://x.com/blu3mo/status/1921378675410243625) Plurality Tokyo Session 5: Will AI Evolve Democracy?
+>  Panelists: Taro Aoyama Hiiragi, Colin Megill, Audrey Tang, Takahiro Yasuno / Moderator: Akinori Oyama
+>
+>  I was on the stage...
+>  I introduced the story of the Digital Democracy 2030 community project, among others!
+>  #TokyoPluralityWeek
+>  ![image](https://pbs.twimg.com/media/Gqoa6rYbQAA4NAL?format=jpg&name=small#.png) ![image](https://pbs.twimg.com/media/GqobLJ0bgAAUcu0?format=jpg&name=small#.png)
 
 ---
 This page is auto-translated from [/nishio/Plurality Tokyo Namerakaigi #2](https://scrapbox.io/nishio/Plurality Tokyo Namerakaigi #2) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

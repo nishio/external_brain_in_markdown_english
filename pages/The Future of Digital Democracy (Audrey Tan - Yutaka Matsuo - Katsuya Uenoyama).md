@@ -3,7 +3,10 @@ title: "The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Ue
 ---
 
 ![image](https://scrapbox.io/files/68157cbdc0b7d0e41d8d6582.png)
-[The Future of Digital Democracy | Toggle Holdings, Inc.](https://toggle.co.jp/event/innovationdialogue004/)
+- [The Future of Digital Democracy | Toggle Holdings, Inc.](https://toggle.co.jp/event/innovationdialogue004/)
+
+![image](https://gyazo.com/d0f31330ea3cd87c3828906db13fe09d/thumb/1000)
+- [How AI will transform democracy - Audrey Tan and others talk about the new relationship between AI and citizen participation - AI Portal Media AIsmiley](https://aismiley.co.jp/ai_news/digital-democracy-ai-report/)
 
 Uenoyama: Could the intersection of AI language models and digital democracy enable "previously impossible large-scale collaboration"? +Self-introduction
 Mr. Tang.
@@ -23,7 +26,7 @@ Mr. Uenoyama:.
 - Generation How can AI break the trade-off?
 
 Mr. Tang.
-- With a good facilitator [[deep dialogue is possible even with 100-150 people]].
+- Even with 100-150 people, deep dialogue is possible.
     - We can see the similarities and differences between them.
 - Not on the scale of 200,000.
     - Elections and representation will be necessary.
@@ -142,7 +145,7 @@ Mr. Tan:
     - We are making a new "difference".
     - Eliminating indifference, creating curiosity
         - If the differences are too great, they become indifferent to each other.
-    - Indifference is the enemy, difference is the friend.
+    - [[If indifference is your enemy, difference is your friend.]]
 
 Matsuo: How do you see the industrial spillover of "Physical AI" such as robotic infrastructure models?
 Mr. Tan:

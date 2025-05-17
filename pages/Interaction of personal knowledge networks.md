@@ -2,6 +2,7 @@
 title: "Interaction of personal knowledge networks"
 ---
 
+2023-05-25
 - [[personal knowledge network]] [[interaction]].
     - ![image](https://gyazo.com/a5ef505eeddef34776a19dc90bd3295e/thumb/1000)
     - A personal project in Scrapbox is that individual's knowledge network
@@ -10,6 +11,7 @@ title: "Interaction of personal knowledge networks"
         - Getting it and merging it does not make it "my knowledge network".
                 - Not [Connected Knowledge
         - It seems to me that you can only own what you extend step by step.
+            - Added 2025-05-15: [[I can only accept knowledge that is one step ahead of what I have now.]]
     - Suppose at some point a connection is discovered between certain pages of two people's projects.
         - [[選択範囲に似ているリンクを入力補完するUserScript]]を使っていると、ほかのprojectのリンクがよくサジェストされるのをよく体験するが、それと似ていそう<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
     - Then the "related page of the other person's page" will become a related page for your page with a high probability.

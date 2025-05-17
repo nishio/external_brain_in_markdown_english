@@ -111,5 +111,18 @@ I thought that being able to SELL as well as BUY YES/NO is a bad design because 
         - ![image](https://gyazo.com/01b7409558bbdfc054107e0e5f3114ec/thumb/1000)
         - Now it's going to be a power struggle to see which way to push this contacting board.
 
+2025-05-15
+- I want to buy it but I don't have the coins because it's too good to waste because the prediction market is not reacting to the people's democratic zeal and people are flowing to Team Mirai.
+- ![image](https://gyazo.com/82d33bac6f3fb0608a6e9331c9a80819/thumb/1000)
+    - You can borrow and bet!
+- ![image](https://gyazo.com/89b354ea0440f3922e0c48a712658221/thumb/1000)
+    - Is there a way to make questions and get bonuses?
+    - ![image](https://gyazo.com/a90a3fd693d5fbbec43d3b1f79d882d7/thumb/1000)
+    - interesting
+    - I tried to make a question and get 100M.
+        - ![image](https://gyazo.com/5af6a447057c67e55b50883582369ae8/thumb/1000)
+        - You need 100M to make it!
+
+
 ---
 This page is auto-translated from [/nishio/チームみらいの予測市場](https://scrapbox.io/nishio/チームみらいの予測市場) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

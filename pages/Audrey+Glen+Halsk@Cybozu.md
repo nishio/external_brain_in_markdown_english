@@ -2,6 +2,26 @@
 title: "Audrey+Glen+Halsk@Cybozu"
 ---
 
+2024-10-04
+> [nishio](https://x.com/nishio/status/1816686792684503145) The article on this matter has been released!
+> [nishio](https://x.com/nishio/status/1816686792684503145) Audrey Tan, Glenn Weil, and Haruyuki Seki visited Cybozu to discuss the current social situation in Japan, where AI and other technologies are rapidly accelerating, while the birthrate is declining, the population is aging, and depopulation is increasing. We discussed what companies and individuals can do to create a "society where no one is left behind" in Japan, where AI and other technologies are rapidly accelerating, and where the birthrate is declining, the population is aging, and depopulation is progressing #Plurality
+>  ![image](https://pbs.twimg.com/media/GTYrAY1aQAA2A5r?format=jpg&name=medium#.png)
+
+> [nishio](https://x.com/nishio/status/1842043680112464112) Feeding on conflicting opinions, we will use digital technology to re-tangle the world's divisions. Unraveling the new concept of "Plurality"──Audrey Tan x Glenn Weil x Haruyuki Seki, Code for Japan | Cybozu Shiki
+- [Feeding on conflicting opinions, we will use digital technology to re-tangle the world's divisions. Unraveling the New Concept of Plurality──Audrey Tan x Glenn Weil x Haruyuki Seki, Code for Japan | Cybozu Style](https://cybozushiki.cybozu.co.jp/articles/m006211.html)
+
+> [nishio](https://x.com/nishio/status/1842045141257007278) Had the pleasure of interviewing Audrey Tang, Glen Weyl, and Hal Seki at our office! We discussed #Plurality and explored how embracing complexity and diverse perspectives can shape a better world for everyone. Help the helpers.
+- [Understanding Plurality: A Unifying Vision for a Diverse Future | Kintopia](https://kintopia.kintone.com/articles/006207.html)
+
+> [hal_sk](https://x.com/hal_sk/status/1841624958566576285) An interview with Audrey Tan and Glenn Weil about their advocacy of "Plurality" is now available. I also talk about the situation in Japan, and the Plurality book will soon be translated and will be the focus of much attention.
+>  Thank you for sharing great insights, @audreyt and @glenweyl!
+
+> [hal_sk](https://x.com/hal_sk/status/1841661545107095980) Thrilled to join @audreyt and @glenweyl in a discussion about how Plurality can reshape our communities and leverage technology for the collective good! Dive into our insights on civic tech, social innovation, and building a diverse future. ⿻   [https://kintopia.kintone.com/articles/006207.html…](https://kintopia.kintone.com/articles/006207.html…) #CivicTech #Plurality
+
+
+
+
+
 2024-07-26 10:00~12:00
 > [nishio](https://x.com/nishio/status/1816686792684503145) [[Audrey Tan]], [[Glenn Weil]], and [[Haruyuki Seki]] visited [[Cybozu]] to discuss the current social situation, i.e., how companies and individuals can create a "society where no one is left behind" in Japan, where AI and other technologies are rapidly accelerating, the population is declining and aging, and depopulation is progressing. We discussed what companies and individuals can do to create a "society where no one is left behind" in Japan, where technologies such as AI are rapidly accelerating, and where the birthrate is declining, the population is aging, and depopulation is progressing #Plurality
 >  ![image](https://gyazo.com/e16c723157f4ddd55679ca4f56c7bc53/thumb/1000)

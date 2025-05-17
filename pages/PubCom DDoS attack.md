@@ -2,6 +2,9 @@
 title: "PubCom DDoS attack"
 ---
 
+I wrote a summary article.
+- [The Pitfalls of Mass-Produced Pubic Commentary: Why AI is Needed to Protect Taxes and Democracy｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/nf9df05119d93)
+
 ![image](https://gyazo.com/9093ea0c0ed51ba9464c5de24ed60f26/thumb/1000)
 - [Public comments "an unusual number" one after another, mobilized by social networking sites, and the will of the people hazy - Nihon Keizai Shimbun](https://www.nikkei.com/article/DGXZQOUA128RU0S5A310C2000000/)
 
@@ -43,6 +46,9 @@ Attackers are becoming more organized.
 - ![image](https://gyazo.com/888c14c0ebde41793d9bee8ff90e09f9/thumb/1000)![image](https://gyazo.com/fbe6f0c451816875d6c5082df94e1dbb/thumb/1000)
 - [Share "Please Stop Reusing Radioactively Contaminated Soil! | Atsuko Masano Sober Reporting Notebook](https://note.com/masanoatsuko/n/nf3175fa8f0e4)
     - Article about receipt of this on 1/22/22.
+
+Deep Research on social networking post calling behavior
+- [https://chatgpt.com/share/681d73a7-924c-8011-95fa-c40335f68867](https://chatgpt.com/share/681d73a7-924c-8011-95fa-c40335f68867)
 
 
 [[DDoS]]
