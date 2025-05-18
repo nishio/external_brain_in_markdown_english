@@ -16,7 +16,7 @@ title: "Tokyo Plurality Week 2025"
     - [[Audrey+Glen+Aono Trilogy @ Cybozu]]
 - [[SusHi Tech Tokyo 2025]]
 - [[TBS CROSS DIG]]
-- [[Miraikan + Audrey]]
+    - [[Miraikan + Audrey]]
     - [[Audrey+Glen+Colin+PMT Study Group]]
     - [[National Democratic Party + Plurality]]
     - [[[Audrey Tan ✖️ Junya Ogawa]] Digital Democracy to Co-Create the Future]

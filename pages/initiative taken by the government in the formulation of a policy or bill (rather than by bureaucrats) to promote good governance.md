@@ -111,5 +111,20 @@ Please wait a moment.
 Updated titles and descriptions of review requests (pull requests).
 Now Nisio's proposed changes are ready for others to review. You can review the proposal at this link: [https://github.com/team-mirai/policy/pull/191](https://github.com/team-mirai/policy/pull/191)
 Is there anything else we can help you with?
+
+----
+
+Hello, Nishio-san. I see your previous suggestion in the README regarding "Promoting Political Participation of Minors through Digital Technology". I understand that you would like to reflect this in "16_Step 1 Digital Democracy.md".
+I think it would be better to add your suggestion as a new item to the current file. Specifically, how about adding a new heading "### 3) Promotion of Political Participation of Minors Using Digital Technology" and under that heading, how about describing your proposal in the form of "Recognition of Current Situation and Analysis of Issues," "Policy Outline," and "Expected Effects"?
+If this editorial policy is acceptable, we will make the changes to the file and prepare it for your review.
+
+---
+> [nishio](https://x.com/nishio/status/1923569208329372133) I think you made a good suggestion.
+>  [https://github.com/team-mirai/policy/pull/378](https://github.com/team-mirai/policy/pull/378)
+
+> [nishio](https://x.com/nishio/status/1923576070609174850) I think this is rather necessary.
+> [https://github.com/team-mirai/policy/pull/378](https://github.com/team-mirai/policy/pull/378)
+> [nishio](https://x.com/nishio/status/1923577387062788310) I think this is a very advanced case in the world where anyone can propose such an idea using the system prepared by Mr. Anno, instead of talking directly to him using personal relationships, and anyone can trace what happened afterwards. I think it is a very advanced case in the world that anyone can propose such an idea using the system prepared by Mr. Anno, and anyone can trace what happened afterwards.
+
 ---
 This page is auto-translated from [/nishio/いどばた政策](https://scrapbox.io/nishio/いどばた政策) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
