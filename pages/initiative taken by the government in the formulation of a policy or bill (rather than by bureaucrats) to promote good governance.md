@@ -23,6 +23,12 @@ I fact-checked the "2~300 cases in 2 weeks" part.
 
 > [nishio](https://x.com/nishio/status/1923941861703750109) "Talkable Manifesto" from Japan is at the forefront of digital democracy, and we would like people to experience the process of shaping the future for everyone by chatting with AI. I would like people to experience the process of shaping everyone's future by chatting with AI. I would also like people to envision a future where this system is used not for a single "public" but for a diverse grouping of local communities, companies, and organizations.
 
-[[Ido Bata Policy Experience]]
+- [[Idobata Policy Experience]]
+
+2025-05-19
+- It's easily 1000+ cases.
+
+
+
 ---
 This page is auto-translated from [/nishio/いどばた政策](https://scrapbox.io/nishio/いどばた政策) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
