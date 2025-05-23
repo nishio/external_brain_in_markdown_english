@@ -2,6 +2,9 @@
 title: "help the helpers"
 ---
 
+![image](https://gyazo.com/305f8cc517b1490d3c264ca4e9ac05bf/thumb/1000)
+
+
 <img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>The following is an excerpt from [[Meetup with Audrey & Glen]] where Audry Tang talked about the concept of "help the helpers," and a commentary on it.
 
 reference
