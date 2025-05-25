@@ -2,6 +2,7 @@
 title: "Example of Talk to the City being used by the opposition in the National Assembly to question the Prime Minister."
 ---
 
+2025-03-07
 > [itotakae0630](https://x.com/itotakae0630/status/1897997107640123671) I proposed the #jobless generation policy to PM Ishiba at the Budget Committee like a machine gun.
 >
 >  All of this is not my own idea, but is based on AI collection and analysis of the feedback we received on Kokumin Phone, YouTube Live, Google Forms, and social networking sites.

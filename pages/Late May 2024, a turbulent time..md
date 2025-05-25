@@ -5,6 +5,9 @@ title: "Late May 2024, a turbulent time."
 [[How I joined the Yasuno team]]
 
 Late May 2024, a turbulent time.
+- I'm [[unexplored junior]] connected with Mr. Yasuno.
+    - In Unexplored Jr. we were talking about Plurality being interesting after 2023-04.
+    - [[Rickshinmi]] was involved in the operation of [[Plurality Tokyo 2023]].
 - I became involved in [[Takahiro Yasuno]]'s campaign when he contacted me (5/13) to say that he had read the Japanese translation of [[Plurality Books]] that Nishio had published and found it helpful.
     - [/plurality-japanese](https://scrapbox.io/plurality-japanese).
 - I introduced Mr. Yasuno to [[Haruyuki Seki]] on 5/13 and we had a meeting on 5/23 and exchanged a lot of information.
