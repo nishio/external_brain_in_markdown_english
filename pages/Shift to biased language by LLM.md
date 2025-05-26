@@ -30,5 +30,9 @@ title: "Shift to biased language by LLM"
 >  He who controls the past controls the future.
 >  He who controls the present controls the past.
 >  [[1984]]
+
+relevance
+    - [[Ask Qarasu-14B a question]]
+
 ---
 This page is auto-translated from [/nishio/LLMによってバイアスの掛かった言語へのシフト](https://scrapbox.io/nishio/LLMによってバイアスの掛かった言語へのシフト) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
