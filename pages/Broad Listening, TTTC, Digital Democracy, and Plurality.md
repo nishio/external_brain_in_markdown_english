@@ -2,6 +2,7 @@
 title: "Broad Listening, TTTC, Digital Democracy, and Plurality"
 ---
 
+2024-06-17
 I recently created [[Talk to the City Study Group]] for a one-hour study group lecture. This was too long, so I made a 10 minute version for an LT.
 
 # What is [Broad Listening

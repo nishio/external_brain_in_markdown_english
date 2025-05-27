@@ -2,8 +2,8 @@
 title: "Nada School Saturday Class 2025"
 ---
 
+2025-05-24
 ![image](https://gyazo.com/43c952a7f0f8fafb60a2a9b4e671a7ae/thumb/1000)
-![image](https://gyazo.com/868751894d73ff4b3e32710b7521c7ce/thumb/1000)
 ![image](https://gyazo.com/2a3c6605e8ecdc90b564dcf8daaea242/thumb/1000)
 
 
@@ -90,7 +90,7 @@ question
     - Social networking sites stand out for their radical opinions.
         - Most people don't want to argue with radicals.
         - The [[pro-social media]] mindset is designed to draw attention to "[[Bridging Opinions]]" that are favored by those in different opinion clusters.
-            - [[Bridging Bonus]]
+                - [[Bridging Bonus]]
 - Influence the international community?
     - Of course, the elimination of language barriers is significant
 - If the generating AI creates a manifesto based on "what opinion will be received by the citizens", won't all parties be the same?
@@ -98,11 +98,10 @@ question
     - When you visualize it, there are clusters that are not represented by a political party even at this point in time.
     - Small clusters
         - With 1% you can become a political party.
-        - Going for the majority.
-        - red ocean
-    - Everyone should be going to the big cluster, not the other way around.
+        - Going for the majority is a red ocean.
+        - Everyone should be going to the big cluster, not the other way around.
     - In the long run, it's unclear whether party politics will continue to feel the same way as it does now in the first place.
-        - compulsory adherence to a party decision
+        - The balance of advantages and disadvantages of the party line is affected by the balance of advantages and disadvantages of the party line.
 - It may not be stable if the support base changes from one place to another.
     - It wouldn't change a colossal amount.
 

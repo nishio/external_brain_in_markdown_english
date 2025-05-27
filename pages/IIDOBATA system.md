@@ -2,7 +2,7 @@
 title: "IIDOBATA system"
 ---
 
-2025-05-18
+2025-05-18 [[wellspring system v2]].
 - At this point in time, the configuration is different from the one as of March
 - The two elements are [[iddobata vision]] + [[initiative taken by the government in the formulation of a policy or bill (rather than by bureaucrats) to promote good governance]]. consisting of
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
@@ -32,9 +32,10 @@ Examples of Introduction and Demonstration
 
 
 
-2025-03-15
+2025-03-15 Idobata System
 ![image](https://gyazo.com/46f3b5e4bfc5c3a21a00ebd01f22176e/thumb/1000)
 - [[AI-mediated communication]]
+- [[Discourse]]
 
 [/villagepump/2025/03/13#67d28cd979e11300007ca29e](https://scrapbox.io/villagepump/2025/03/13#67d28cd979e11300007ca29e)
 

@@ -2,6 +2,7 @@
 title: "Devin's use in improving Team Mirai policy"
 ---
 
+2025-05-22
 - [[Team Mirai]] Using Devin in Policy Improvement
 I'll summarize it in bullet points as it might make an interesting case study for a Note article later.
 - There are 1400+ PRs for the policy

@@ -10,6 +10,7 @@ title: "initiative taken by the government in the formulation of a policy or bil
 >  Opinions will be discussed with the AI, and will be turned into a change proposal (Pull Request), which will actually be submitted to Team Mirai. These proposals will be assigned URLs so that it will be possible to track how the proposals were reviewed. We would also like to learn from the AI chat by analyzing what kind of questions and suggestions were frequently asked in the AI chat.
 >  Please try to chat with the policy AI!　We look forward to your valuable input and wisdom.
 - [https://x.com/takahiroanno/status/1923253426747736186](https://x.com/takahiroanno/status/1923253426747736186)
+- [[Team Mirai Manifesto v0.1 released]].
 
 [[Manifesto to speak]]."
 
