@@ -2,7 +2,7 @@
 title: "Weekly note 2025-05-26~"
 ---
 
-prev [[Weekly journal 2025-05-13~2025-05-26]].
+prev  [[Weekly journal 2025-05-13~2025-05-26]]
 
 What did you do in the previous iteration?
 For 2 weeks

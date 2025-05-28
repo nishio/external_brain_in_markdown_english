@@ -3,12 +3,14 @@ title: "Nada School Saturday Class 2025"
 ---
 
 2025-05-24
+- [Slide](https://docs.google.com/presentation/d/1xEiw6PX6M4X_OjqRF9dhySVeVCdDLCLf-E_LEGqDykw/edit?usp=sharing)
+
 ![image](https://gyazo.com/43c952a7f0f8fafb60a2a9b4e671a7ae/thumb/1000)
 ![image](https://gyazo.com/2a3c6605e8ecdc90b564dcf8daaea242/thumb/1000)
 
 
-
 I'll just reprint my part.
+
 ![image](https://gyazo.com/5ca2f96d27bcc44530548a7baf8a55c7/thumb/1000)
     - [[unexplored junior]]
 
@@ -47,6 +49,7 @@ I'll just reprint my part.
 ![image](https://gyazo.com/e696d2da41bca9d63dadccf31e508bda/thumb/1000)
     - [[Example of Talk to the City being used by the opposition in the National Assembly to question the Prime Minister.]]
     - [[Constitutional AI Well-Being Conference]]
+    - [[The Road to Renewal Broad Listening]]
 
 ![image](https://gyazo.com/2138949daacfd7b08383daecce2b1656/thumb/1000)
 ![image](https://gyazo.com/802b6ebe62f16fa089bc6f92002eec9a/thumb/1000)
@@ -80,30 +83,33 @@ question
     - But is there no bias if it is put together by a human being? Of course, humans have biases.
     - So this is not an "AI or human" issue.
     - Issues that should be resolved by creating mechanisms such as making the process open and verifiable by a third party
+        - Related question: will AI be a black box?
+                - [[Reasoning model]] works by verbalizing and outputting the thinking process, and is less of a black box than a person who thinks silently.
+            - Research is also underway to examine the internal firing of the model during task execution. This is like sticking electrodes into the brain if you were to use a human analogy.
+            - Stabbing electrodes into public officials is ethically difficult, but disclosing the internal state of AI in public service will be possible in the future.
+            - If you think being a black box is a problem, you'd rather use AI instead of humans.
 - Not all people can think and speak out about politics, what do we do with those who don't?
     - Some radical views like [[unconscious data democracy]] are not in favor of it.
     - The current lack of opportunities for people to have their opinions heard and to feel good about expressing them is the reason why the ability to think and express opinions is not developed.
-        - Minors in particular do not have the right to vote, and when they come of age, they are suddenly told they should vote, which is absurd.
-        - Taiwan has created opportunities for students to voice their opinions from the student stage through systems such as JOIN.
-            - Taiwan case study to be written later
-                - [[Shin Tokyo 2050 Broad Listening]]
-    - Social networking sites stand out for their radical opinions.
+        - Especially [[minors do not have the right to vote]], and when they come of age, they are suddenly told they should vote, which is absurd.
+        - In Taiwan, systems such as JOIN created opportunities for students to voice their opinions from the student stage.
+                - [[High School Students' Suggestions Led to Institutional Improvements at JOIN in Taiwan]]
+                - Similar clusters were seen in [Shin Tokyo 2050 Broad Listening
+    - Today's major social networking sites are marked by people with radical opinions.
         - Most people don't want to argue with radicals.
         - The [[pro-social media]] mindset is designed to draw attention to "[[Bridging Opinions]]" that are favored by those in different opinion clusters.
                 - [[Bridging Bonus]]
 - Influence the international community?
     - Of course, the elimination of language barriers is significant
-- If the generating AI creates a manifesto based on "what opinion will be received by the citizens", won't all parties be the same?
-    - When they gather in large clusters, the differences disappear.
+- Q: If the generated AI creates a manifesto based on "what opinion will be received by citizens", won't all parties be the same?
+    - When they gather in large clusters, differences disappear and supporters are more likely to be in flux, which the existing parties do not like.
     - When you visualize it, there are clusters that are not represented by a political party even at this point in time.
-    - Small clusters
-        - With 1% you can become a political party.
-        - Going for the majority is a red ocean.
-        - Everyone should be going to the big cluster, not the other way around.
+        - Even a small cluster can become a political party with 1%.
+        - The assumption that all parties should go to large clusters is incorrect because it is a red ocean to go for a majority.
     - In the long run, it's unclear whether party politics will continue to feel the same way as it does now in the first place.
         - The balance of advantages and disadvantages of the party line is affected by the balance of advantages and disadvantages of the party line.
-- It may not be stable if the support base changes from one place to another.
-    - It wouldn't change a colossal amount.
+    - It may not be stable if the support base changes from one place to another.
+        - I'm not sure where you're coming from with the assumption that it won't change, that it will change from one thing to another.
 
 - [[Nada School Saturday Class]]
 

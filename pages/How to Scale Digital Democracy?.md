@@ -56,7 +56,7 @@ I don't think of democracy as something vaguely good.
 
 - The [[one vote per person]] principle?
 - They talk about the "one man, one vote" principle, but that hasn't been accomplished even at this point in time.
-    - Minors do not have the right to vote.
+    - [[Minors do not have the right to vote]].
 - Isn't it against the principle of one person, one vote to limit it to adults?"
 - "Minors do not have the capacity to make rational political decisions because they do not have the judgmental capacity to make rational political decisions."
 - What about seniors with dementia who have the right to vote?
