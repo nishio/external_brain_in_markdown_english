@@ -8,6 +8,9 @@ title: "The Future of Digital Democracy (Audrey Tan / Yutaka Matsuo / Katsuya Ue
 ![image](https://gyazo.com/d0f31330ea3cd87c3828906db13fe09d/thumb/1000)
 - [How AI will transform democracy - Audrey Tan and others talk about the new relationship between AI and citizen participation - AI Portal Media AIsmiley](https://aismiley.co.jp/ai_news/digital-democracy-ai-report/)
 
+[https://www.youtube.com/watch?v=pI9eXpWi2Bs](https://www.youtube.com/watch?v=pI9eXpWi2Bs)
+
+
 Uenoyama: Could the intersection of AI language models and digital democracy enable "previously impossible large-scale collaboration"? +Self-introduction
 Mr. Tang.
 - 數位" has both digital and multiple meanings.

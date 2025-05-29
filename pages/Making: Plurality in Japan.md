@@ -11,7 +11,7 @@ title: "Making: Plurality in Japan"
 
     - [[Plurality in Japan(Japanese)]]
     - Pages that were in the process of being created
-            - [[Plurality and Cybozu]] and how to situate it in the current context
+            - [[Plurality and Cybozu (2023)]] and how to situate it in the current context.
     - [[Plurality in Japan]]
     - [[Nodal Point of Thought 2024-07-20]]
 

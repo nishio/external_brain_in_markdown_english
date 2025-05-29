@@ -4,7 +4,8 @@ title: "team-mirai-volunteer"
 
 [https://github.com/orgs/team-mirai-volunteer/repositories](https://github.com/orgs/team-mirai-volunteer/repositories)
 - GitHub Organization for Team Mirai Volunteers
-- Team Plan
+    - Team Plan
+    - It is sometimes called tmv because it is long
 - Q: Why was it created separately from [[team-mirai repo]]?
 - A: I found out that I couldn't connect Devin, who is in the volunteer slack, to team-mirai.
         - [[Multiple DevinOrgs cannot be connected to a single GitHubOrg.]]

@@ -46,7 +46,7 @@ Additional information will be available on 1/31, so I'll finish it up after tha
 - Broad Listening Concepts
     - important
     - transmission
-- 2023-12-12  [[Plurality and Cybozu]]
+- 2023-12-12  [[Plurality and Cybozu (2023)]]
     - Figure at this time
 - Someone utilized this concept in 2024.
     - Yasuno.

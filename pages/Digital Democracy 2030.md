@@ -2,6 +2,13 @@
 title: "Digital Democracy 2030"
 ---
 
+> What is Digital Democracy 2030?
+>  "Digital Democracy 2030" is a project that aims to evolve politics for the better by harnessing the voice of citizens through the power of technology. With an emphasis on transparency and trust, we aim for a future in which many people can participate in policy making.
+- [Digital Democracy 2030](https://dd2030.org/)
+
+
+
+- [[digital democracy]]
 
 - [[public information AI]]
 - [[Large-scale deliberation support system "Idobata]]
