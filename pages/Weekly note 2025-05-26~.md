@@ -16,7 +16,7 @@ For 2 weeks
         - It was 6/1.
         - I forgot to put it on the calendar.
 - 5/19 Meeting with policy team
-- 5/22 Digital Democracy Pode Member Meeting
+- 5/22 Digital Democracy Board Member Meeting
     - They say the next one will be in three months.
 - 5/22  [[Devin's use in improving Team Mirai policy]]
 - 5/23  [[Organize PRs by category]]

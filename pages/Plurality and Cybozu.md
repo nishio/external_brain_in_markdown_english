@@ -6,7 +6,7 @@ title: "Plurality and Cybozu"
 11:00 - 12:00
 
 Cybozu has been doing and is trying to do a lot of things that overlap with Plurality.
-[[Plurality and Cybozu (2023)]]
+- [[Plurality and Cybozu (2023)]]
 
 [[Diary 2025-07-16]].
 
