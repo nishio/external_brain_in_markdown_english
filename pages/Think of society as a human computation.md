@@ -6,7 +6,7 @@ title: "Think of society as a human computation"
 - [[Diary 2025-05-26]]
 - [[Diary 2025-05-27]]
 - [[Diary 2025-05-29]]
-[[Diary 2025-05-31]].
+- [[Diary 2025-05-31]]
 [[Diary 2025-06-04]].
 [[Diary 2025-06-12]].
 [[Diary 2025-06-20]].
