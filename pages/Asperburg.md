@@ -13,6 +13,9 @@ title: "Asperburg"
 
 - [In the land of the blind, the one-eyed man will be king.
 
+
+Maybe it's viable because of the small scale.
+
 relevance
     - [[psychological safety]]
 

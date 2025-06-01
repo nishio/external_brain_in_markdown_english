@@ -32,6 +32,10 @@ Why?
 - [[self-condemnation]]
 - [[I take it as criticism of myself.]]
 [[attack on self]].
+[[Feeling that criticisms of others are directed at you]].
+    - [[criticism]]
+    - [[I am the target of the backbiting.]]
+        - [[backbiting]]
 
 ---
 This page is auto-translated from [/nishio/他人に対する無条件批判を自分への批判と受け止める傾向](https://scrapbox.io/nishio/他人に対する無条件批判を自分への批判と受け止める傾向) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
