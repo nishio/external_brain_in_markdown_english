@@ -52,6 +52,7 @@ I'll just reprint my part.
     - [[The Road to Renewal Broad Listening]]
 
 ![image](https://gyazo.com/2138949daacfd7b08383daecce2b1656/thumb/1000)
+    - [[Broad Listening becomes the standard strategy in one year.]]
 ![image](https://gyazo.com/802b6ebe62f16fa089bc6f92002eec9a/thumb/1000)
 ![image](https://gyazo.com/a6980af8ca3a75b9fec33e67b16a4f4e/thumb/1000)
     - [[Plurality Books]]

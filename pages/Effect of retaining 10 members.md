@@ -4,7 +4,7 @@ title: "Effect of retaining 10 members"
 
 I wasn't sure myself, so I asked ChatGPT (I was not a good question, but ChatGPT o3 pumped me and kindly told me w)
 
-<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Explain how having 10 members in Japan will affect [[party subsidies]].
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Explain how having 10 members in Japan will affect [[party subsidy]].
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
 ## Rough Conclusion

@@ -2,7 +2,7 @@
 title: "When others look like they've changed, maybe you've changed."
 ---
 
-When others look like they've changed, maybe you've changed.
+When others seem [[to have changed]], maybe I have changed.
 
 - [[Symmetry of Communication]]
 

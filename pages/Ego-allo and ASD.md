@@ -2,7 +2,7 @@
 title: "Ego/allo and ASD"
 ---
 
-<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>[[egocentric and allocentric]] in the context of communication between typical developers and ASD.
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/> [[Egocentric and allocentric]] in the context of communication between typical developers and ASD.
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
 - Ego-centeredness (ego) and environment-centeredness (allo) of space appear directly in "conversational viewpoints" as well.
