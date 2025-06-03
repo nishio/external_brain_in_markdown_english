@@ -12,7 +12,7 @@ title: "Multiple DevinOrgs cannot be connected to a single GitHubOrg."
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
 - Well, a form of development that has a permissionless volunteer organization outside the main organization is not "normal team development."
 - policy
-    - Create a new org like team-mirai-volunteers (tmv below because it's long)
+    - Create a new org like [[team-mirai-volunteer]] (tmv below)
     - Even if Devin created a PR on tmv, he can merge it into team-mirai
     - I think tmv should include a Github Action that pulls when team-mirai is updated.
 

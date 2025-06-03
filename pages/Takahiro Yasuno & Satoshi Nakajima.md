@@ -38,7 +38,7 @@ title: "Takahiro Yasuno & Satoshi Nakajima"
 - Political structure closed to vested interests ≈ "local optimums".
 - A breakthrough: "outsiders" change the game with startup logic.
 - Example: "Broad listening" advocated in the Tokyo gubernatorial election spread to major political parties within a year.
-    - [[Broad Listening Becomes Standard Strategy in One Year]].
+        - [[Broad Listening becomes the standard strategy in one year.]]
 
 Tools published (all OSS)
 - Manifesto that can talk (AI assisted PR)
