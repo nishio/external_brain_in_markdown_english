@@ -49,7 +49,6 @@ Created a separate "Clear and Easy-to-understand Room." The name of the chat was
 - This triggered the voluntary closure of the operation.
 
 6. summary - lessons learned
-Painful experience Examples of future measures
 - Separate "discussion" from "practice
     - Discord / GitHub Issue / Drive Sheet and other role-based tool selection
 - Chats with over 100 people are preceded by guidelines
@@ -79,6 +78,17 @@ May 22, around 20:25
 - Mr. I: "All of them. I'm afraid I'm being sold a fight."
 
 This exchange has taken the form of Mr. I clearly stating his stance that "you don't understand."
+
+<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Who made the declaration of reporting? What did you report?
+<img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
+- Statement by Mr. M (around 19:13)
+    - I think it's a pretty miserable person not to have a background in the humanities, though, in my opinion."
+- Mr. I's response (19:14)
+    - First, post "It's harassment.
+    - Continue to delete the message (LINE will display "Unsend").
+    - Immediately after, he declares, "I'm calling the police."
+
+In other words, Ms. I took Ms. M's expression, "People without a background in the humanities = misery," as a discriminatory and derogatory harassment remark, and expressed her intention to report the incident.
 
 ---
 This page is auto-translated from [/nishio/閉鎖されたオープンチャットの事例](https://scrapbox.io/nishio/閉鎖されたオープンチャットの事例) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

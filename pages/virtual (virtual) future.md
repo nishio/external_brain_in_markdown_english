@@ -3,10 +3,10 @@ title: "virtual (virtual) future"
 ---
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
-- Virtual Futures" is a method developed by the "Future Design" movement in Japan, in which participants take on the role of "residents in 2050," etc., in order to alleviate the "myopic bias" of the current generation and promote sustainable and innovative consensus building. This is a system that promotes sustainable and innovative consensus building. While institutionalization at the municipal and national levels is progressing, issues such as representativeness and cost have also been pointed out.
+- Virtual Futures is a method developed by the Japanese "[[future design]]" movement, in which participants take on the role of "residents in 2050," etc., in order to alleviate the myopic bias of the current generation and promote sustainable and innovative consensus building. This is a mechanism. While institutionalization at the municipal and national levels is progressing, issues such as representativeness and cost have also been pointed out.
 
 1. origin and definition
-    - In "Future Design" proposed by economist Tatsuyoshi Saijo around 2012, "virtual future persons" are introduced as a mechanism to allow future generations to participate in current decision-making as imaginary personalities.
+    - In "Future Design" proposed by economist [[Tatsuyoshi Saijo]] around 2012, "virtual future persons" are introduced as a mechanism to allow future generations to participate in current decision-making as imaginary personalities.
     - Participants will be asked to "travel back in time" and take on the role of themselves in 30 years' time, representing the interests of future generations in the discussions.
 
 2. theoretical background

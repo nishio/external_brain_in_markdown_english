@@ -4,9 +4,9 @@ title: "Masako Wakamiya"
 
 [https://ja.m.wikipedia.org/wiki/若宮正子](https://ja.m.wikipedia.org/wiki/若宮正子)
 
-[[Senior Programming Network]]
+- [[Senior Programming Network]]
 
-[[Old age is AI.]]
+- [[Old age is AI]]
 
 [Masako Wakamiya, the world's oldest app developer, studies in her 80s - Nikkei](https://www.nikkei.com/article/DGXMZO37707280T11C18A1000000/)
 
