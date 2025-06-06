@@ -8,10 +8,10 @@ Relax under a big tree
 Consciously relax the mind
 - Sit facing the opposite direction on a bench under a big tree, with a huge tree in front of you.
     - This kind of thing gives me a skin feeling that replenishes my energy.
-    - green manna
+        - [[green manna]]
 - Scientifically speaking, the biggest factor is low carbon dioxide concentration.
     - Ventilating the room doesn't make it as bad as outdoors.
-- I smell grass.
+- [I smell grass.
     - Could some kind of aromatic component or [[phytoncide]] have something to do with it?
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>

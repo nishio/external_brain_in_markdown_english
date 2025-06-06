@@ -6,21 +6,48 @@ title: "Talk Event to Commemorate the Publication of PLURALITY at Tsutaya"
 - I'll be there, like a staffer, and I'll be there and I'll be there and I'll be there and I'll be posting all over X with pictures and stuff like that.
 - Event space in SHARE LOUNGE, 2F, Tsutaya, Roppongi
 - Sunday, May 11, 2025, starting at 11:00 a.m. (doors open at 10:40 a.m.)/end at 1:00 p.m.
+- Then moved to Nihonbashi Cybozu
 
-Then moved to Nihonbashi Cybozu
-
-Videos will be sold as online viewing content on the ivy side
-- Post a link when you start.
+Videos were sold as online viewing content on the ivy side.
 
 [[Ryuichiro Takeshita]]
 > [ryuichirot](https://x.com/ryuichirot/status/1922632744984605054) Audrey Tan,
->
 >  Mr. Glenn Weil and
->
 >  Discussing Digital Democracy
 >  ![image](https://pbs.twimg.com/media/Gq6QSfmWAAA1gWP?format=jpg&name=small#.png)
 
 [/plurality-japanese/[[Audrey Tan x E. Glenn Weil talk about the next generation of democracy and the future of Japan]] "PLURALITY" Cybozu Shiki Books Publication Memorial Talk Event (Moderator: Ryuichiro Takeshita)]
+
+Takeshita-san:.
+- I have read the English and Japanese versions of this book, and I think it will be one of the most important books of the 21st century.
+- This book is actually called [[Cybozu Style Books]], a publishing company, [[Cybozu]], which is also very interesting. So, first of all, I would like to invite Mr. Takabe, who was in charge of editing this book, to talk about his thoughts on this book and how it was created.
+Mr. Takabe:.
+- Best regards. Nice to meet you, my name is Takabe. Please give me a chance to meet you.
+Takeshita:.
+- I see that Cybozu has a publishing company.
+Takabe:.
+- That's right. Normally, we are a company that sells groupware such as [[kintone]], but we have a mission of "[[Creating a society full of teamwork]]," and we are making a book to convey our culture and way of thinking alongside our tools.
+Takeshita:.
+- What kind of book is this? First of all, what is plurality?
+Takabe:.
+- In a nutshell, this book is about how to turn people's differences into power. It is a book about how we can use technology to make positive and creative changes in the midst of division and difference.
+Takeshita:.
+- Cybozu, you often do commercials for [[no code]]. I hear that even people with a liberal arts background can write code. [[Technology transcends differences in ability.]] It transcends differences in ability, and people who were previously excluded come in and become a source of power.
+Takabe:.
+- Yes, I think AI will develop and become more accessible.
+Takeshita:.
+- After this, you will hear that the epicenter may be Taiwan, Japan, or East Asia!
+
+
+Takeshita: What do you think of this book?
+- Audrey: Great book, great cover!
+- Glen: Last week was my 40th birthday. The first half of my life has been wonderful thanks to everyone in Japan.
+
+
+
+
+
+
 
 > [nishio](https://x.com/nishio/status/1921384301108568532) Tsutaya arrives!　#TokyoPluralityWeek
 >  Ivy arrives! #TokyoPluralityWeek

@@ -24,7 +24,7 @@ Manager's output = output of his/her own organization + output of neighboring or
 Every day in our business, we have to connect people with knowledge power with people with position power."
 p.8
 
-
+[[High Output Management]]
 
 ---
 This page is auto-translated from [/nishio/ハイアウトプットマネジメント](https://scrapbox.io/nishio/ハイアウトプットマネジメント) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
