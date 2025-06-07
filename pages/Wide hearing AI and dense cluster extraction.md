@@ -2,9 +2,10 @@
 title: "Wide hearing AI and dense cluster extraction"
 ---
 
+2025-04-23
 Note what I wrote in Slack.
 - I will share the documents from when "dense cluster extraction" was first created and proposed to GovTech Tokyo.
-        - [[Deep Cluster Extraction]]
+    - → [[Deep Cluster Extraction]]
 - The current "subdivision k-means and then filtering by density" is an approximate method created after trying HDBSCAN.
 - On the other hand, if HDBSCAN is done separately from the current "hierarchical clustering after k-means subdivision," it would take about 10 minutes for an additional 10,000 entries, and whether this is acceptable or not was discussed when [[public information AI]] was created. This was discussed when [[public information AI]] was created.
 - We decided to start with this policy because we believed that the approximate method would allow us to standardize most of the processes and achieve "dense cluster extraction" without additional cost.
