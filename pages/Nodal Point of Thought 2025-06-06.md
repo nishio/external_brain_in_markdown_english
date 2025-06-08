@@ -4,6 +4,7 @@ title: "Nodal Point of Thought 2025-06-06"
 
     - [[Wide hearing AI and dense cluster extraction]]
     - [[Talk to the City clustering]]
+- [SNS Researcher's Perspective on the Tokyo Gubernatorial Election - Here's What's Great About TTTC - #Takahiro Yasuno｜M](https://note.com/m_datasci/n/n3a5f4b9cdee5?magazine_key=m768f1f8d68ef)
 
 [dd2030 slack](https://dd2030.slack.com/archives/C08F7JZPD63/p1749041733485549) 2025-06-04
 Shinta Nakayama (tokoroten)

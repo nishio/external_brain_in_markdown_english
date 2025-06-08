@@ -14,7 +14,7 @@ title: "Accumulate data with GitHub Actions"
     - I did this configuration with [[OSS Weekly Reporter]] and had a lot of trouble getting it to stabilize.
         - While code modification is a cancer, you have to do the above work properly, without leaking when you want to do something with the latest implementation for the latest data.
         - The data branch is updated by GitHub Actions, so further recovery is needed if you accidentally forget to push it.
-- Method 3: Create a dedicated repository for date
+- Method 3: Create a repository dedicated to date ([[data repo]])
     - I'm thinking as of 2025-06-05 that this is a good idea.
         - Better to be loosely coupled.
             - Code can be made public but data can be made open, and vice versa.

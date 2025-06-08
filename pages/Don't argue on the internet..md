@@ -19,6 +19,7 @@ Don't discuss anything on the internet [[kaityo256]].
 > [shamy0525](https://x.com/shamy0525/status/1808008378951913727) I really think that's it..,
 >  That energy should be directed to other positive things,..,
 
+- [[Life is short.]]
 
 ---
 This page is auto-translated from [/nishio/ネットで議論なんてしちゃダメ](https://scrapbox.io/nishio/ネットで議論なんてしちゃダメ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
