@@ -3,7 +3,7 @@ title: "Governance of the Commons"
 ---
 
 ![image](https://gyazo.com/d4fe68a4c8f106e80d681ac059f19f6c/thumb/1000)
-    - [[Governance]] of [[commons]] - people's [[cooperation]] and institutional evolution
+    - [[governance]] of [[commons]] - [[cooperation]] of people and evolution of institutions
 - Elinor [[ostrom]].
 - > This immortal work challenged the conventional wisdom that the only stable management of resources (commons) shared by people is either government intervention or privatization, and was the first to focus on "self-governance by people.
 - >  2009 Nobel Prize in Economics

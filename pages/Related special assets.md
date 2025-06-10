@@ -14,15 +14,15 @@ Such relationship-specific assets have value as long as the business relationshi
 
 This leaves the party that invested in the related special asset vulnerable to [[Opportunistic Behavior]] ([[hold-up problem]]) from the counterparty. To deal with this problem, companies may use measures such as [[vertical integration]] or [[long-term contracts]].
 
-The concept of relational special assets plays a central role in [[Transaction Cost Theory]]. It is recognized as the source of [[transaction costs]] and is an important concept in analyzing [[corporate boundary determination]] and [[governance structure]] choices.
+The concept of relational special assets plays a central role in [[Transaction Cost Theory]]. It is recognized as a source of [[transaction costs]] and is an important concept in analyzing [[corporate boundary determination]] and [[governance structure]] choices.
 
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
 relevance
     - [[Organizational Boundaries]]
-- [[Governance]]
+    - [[governance]]
 
 The deal could be interpreted as a small community between the parties.
-- Then we can expand to say that related special assets are community assets.
+- Then we can expand it to say that the related special assets are [[community assets]].
 - A situation in which assets for the benefit of community members are financed by the expenditures of some community members.
         - Issues similar to [Governance of the Commons
 - It might be better if organizational boundaries and ownership were smoother.

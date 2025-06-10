@@ -3,7 +3,7 @@ title: "Life is short."
 ---
 
 [Life is Short](http://paulgraham.com/vb.html)
-
+[Life is short｜Jack](https://note.com/tokyojack/n/ne4c25e990634)
 
 - Life is actually short."
 - have children

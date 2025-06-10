@@ -5,6 +5,7 @@ title: "The parable of the lumberjack"
 - A woodcutter busily cutting wood in a rusty [axe
 - Teaches [[traveler]], "You can cut more easily if you remove the rust from the axe."
 - The woodcutter replies, "I'm too busy cutting down trees to do that.
+    - I don't have time to sharpen my axe."
 
     - [Seven Habits
     - Seventh habit: "[[sharpen a blade]]"

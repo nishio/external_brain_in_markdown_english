@@ -8,7 +8,7 @@ The main points are as follows
 - ERP is primarily intended to [[increase productivity of high wage earners]], and ease of use in the field is not a priority. The time-consuming data entry process is a side effect of this.
 - Rather than integrating dispersed data, it is better to have mass input into a centralized master data, which facilitates analysis and decision making. [[Difficulty of use varies by position]].
 - The same problem exists in Salesforce, where thorough [[KPI]] management leads to results, but [[the more people who can't do it]] complain about the tool.
-- The idea of [[governance]] in Western companies is similar to [[colonial rule]], with an emphasis on [[getting work done at a certain quality using standardized management methods]].
+- The idea of [[governance]] in Western companies is similar to [[colonial rule]], with an emphasis on [[having employees do work of a certain quality using standardized management methods]].
 - ERP has anti-fraud mechanisms, making the process more reliable. Easier to audit than local systems.
 - In the end, the emphasis is more on improving white-collar productivity, standardization, and fraud prevention than on ease of use for workers.
 

@@ -9,7 +9,7 @@ concrete example
 - I got into this lab, and I'm awesome."
 - I got into this company, and I'm awesome."
 
-[People who make community affiliation their identity are usually "pretending to be great when they're not," which is not cool.
+- [People who make community affiliation their identity.
 - Why.
         - [[It's embarrassing to be on brand.]]
         - > I don't think it's my Keio background that makes me a better person. My existence enhances the value of my Keio background.]

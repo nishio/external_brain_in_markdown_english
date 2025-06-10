@@ -30,5 +30,7 @@ I personally am not a [[nomad]] physically, but I am [[settled]] in Tokyo all th
 
 next  [[Community as a bundle of projects]]
 
+[[Affinity and Achievement Needs]]
+
 ---
 This page is auto-translated from [/nishio/親和欲求と達成欲求とコミュニティ](https://scrapbox.io/nishio/親和欲求と達成欲求とコミュニティ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
