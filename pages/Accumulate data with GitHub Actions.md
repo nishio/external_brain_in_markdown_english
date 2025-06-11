@@ -28,7 +28,7 @@ title: "Accumulate data with GitHub Actions"
 
 - Method y: Upload to Gist
     - Can be used when you want to deliver "latest data" that is not large in size in the form of a GET API that can be fetched from the front end.
-
+    - [[Gist as GET API]]
 
 ---
 This page is auto-translated from [/nishio/GitHub Actionsでデータを溜め込む](https://scrapbox.io/nishio/GitHub Actionsでデータを溜め込む) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
