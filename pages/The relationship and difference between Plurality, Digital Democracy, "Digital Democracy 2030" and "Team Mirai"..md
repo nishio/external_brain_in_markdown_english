@@ -2,7 +2,13 @@
 title: 'The relationship and difference between Plurality, Digital Democracy, "Digital Democracy 2030" and "Team Mirai".'
 ---
 
+2025-06-11
+![image](https://gyazo.com/352c95d6d5586b656ab1ec76d20d4704/thumb/1000)
+I asked AI to make slides on the relationship between Plurality, Digital Democracy 2030, and Team Mirai, and they turned out better than I expected.
+[https://gamma.app/docs/Plurality2030-hi3xp4td72qr0wv](https://gamma.app/docs/Plurality2030-hi3xp4td72qr0wv)
 
+
+---
 [https://chatgpt.com/share/68258ebf-6d14-8011-a1cb-dfd3f777f115](https://chatgpt.com/share/68258ebf-6d14-8011-a1cb-dfd3f777f115)
 I've been too busy trying to clean up the paperwork to do it.
 
