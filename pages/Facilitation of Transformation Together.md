@@ -21,7 +21,7 @@ This is a book by a leading expert who has been working on the side of human [[f
 - Respect the individual [[horizontal facilitation]].
         - [[bottom-up]] democratic consensus system
             - [[consensus building]]
-- → Argues that we need [[transformational facilitation]], not just any facilitation.
+- → Argues that a "transformational facilitation" is needed.
     - Sticking to one side or the other can cause stalemate and division.
     - Need to cycle between the two poles depending on the situation
 - relevance
