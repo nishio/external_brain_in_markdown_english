@@ -10,6 +10,7 @@ title: "PLAUD NotePin"
 - Is the [PLAUD API available? - Help [https://support.plaud.ai/hc/ja/articles/11053264041743-PLAUD%E3%81%AEAPI%E3%81%AF%E5%88%A9%E7%94%A8%E3%81%A7%E3%81](https://support.plaud.ai/hc/ja/articles/11053264041743-PLAUD%E3%81%AEAPI%E3%81%AF%E5%88%A9%E7%94%A8%E3%81%A7%E3%81) %8D%E3%81%BE%E3%81%99%E3%81%8B]
     - They don't have one yet, but they're planning one.
     - I'd love to be able to have a one-touch conversation where what I say goes into Scrapbox and the AI agent can read it and converse with me.
+    - It [[Limitless AI Pendant]] is going to happen!
 - [PLAUD NotePin + Gemini to transcribe life (with summaries)](https://zenn.dev/sotaro_dev/articles/23116f6ee01c1b)
 
 
@@ -33,13 +34,17 @@ Pin becomes a Wifi access point and by connecting your phone to it, you can down
 Q: Are you subscribing?
 A: No, I didn't.
 
-Cutting-edge AI at all times
-The PLAUD AI app was developed based on the GPT-4o and Claude 3.5 Sonnet models and will always offer the best LLM options, even if even better models are available.
-
+> Always on the cutting edge of AI
+> The PLAUD AI app was developed based on the GPT-4o and Claude 3.5 Sonnet models and will always offer the best LLM options, even if even better models are available.
 What is cutting edge?
+- Wouldn't it be better to throw the audio file into [[NotebookLM]]?
 
-
-
+Q: Do you recommend it?
+A: Well, I guess it depends on each individual's situation.
+- I bought it for the purpose of recording all the conversations with Audrey, Glen and Colin who came to Japan for [[Tokyo Plurality Week 2025]].
+- When that's over and we get into a normal routine, we don't usually have that many physical voice conversations!
+- The app's features and such seem to be designed for people who have a job where they do a number of sales talks a day and text and share reports internally on what conversations they've had with potential customers.
+    - For people who have physical conversations because the other person's voice is not included when videoconferencing with a headset.
 
 ---
 This page is auto-translated from [/nishio/PLAUD NotePin](https://scrapbox.io/nishio/PLAUD NotePin) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
