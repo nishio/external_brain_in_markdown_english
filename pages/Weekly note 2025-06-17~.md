@@ -2,7 +2,7 @@
 title: "Weekly note 2025-06-17~"
 ---
 
-prev [[Weekly journal 2025-06-03~2025-06-17]].
+prev  [[Weekly journal 2025-06-03~2025-06-17]]
 - It's easily been two weeks, and if you want, I even forgot to pin my weekly journal.
 - I wonder if he even started writing his "to-do" list from last time.
 
