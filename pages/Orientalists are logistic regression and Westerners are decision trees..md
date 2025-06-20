@@ -86,7 +86,8 @@ Out[7]: array([[0., 1.]])
 
 The reason is simple: the learning process looks for "which of the axes is the most neatly divisible" and naturally leads to the conclusion that "d is the best way to make a decision". In the identification phase, no axis other than d is looked at.
 
-This story seems to be related to Plurality
+2025-06-17
+- This story seems to have something to do with [[Plurality]].
 
 
 ---

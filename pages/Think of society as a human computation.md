@@ -9,7 +9,7 @@ title: "Think of society as a human computation"
 - [[Diary 2025-05-31]]
 - [[Diary 2025-06-04]]
 - [[Diary 2025-06-12]]
-[[Diary 2025-06-20]].
+- [[Diary 2025-06-20]]
 [[Diary 2025-06-28]].
 
 Deadline: July 31, 2025
