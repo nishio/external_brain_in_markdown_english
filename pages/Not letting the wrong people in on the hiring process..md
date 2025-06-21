@@ -9,6 +9,7 @@ title: "Not letting the wrong people in on the hiring process."
 >  ![image](https://gyazo.com/6c42f937e429417aa4835ee437781804/thumb/1000)
     - [[brilliant jerk]]
 >  ![image](https://gyazo.com/832f8a1d9fd36188c663be2e3bbaae93/thumb/1000)
+    - [[whiny loudhailer]]
 >  ![image](https://gyazo.com/f23154af1a9deffe31a338b8f74bc2e1/thumb/1000)
 
 

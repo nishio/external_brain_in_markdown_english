@@ -8,6 +8,9 @@ title: "Better to do it."
 [[Better than nothing.]]
 - [[better than none at all]]
 [[Better than nothing.]]
+[[Better to do]]
+- [[You should do it.]]
+- [[Good to do]].
 
 - [[Better to learn than not to learn.]]
 - [[Better to slack off than to do nothing.]]

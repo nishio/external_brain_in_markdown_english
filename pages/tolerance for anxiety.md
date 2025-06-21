@@ -36,5 +36,9 @@ I found the term "### anxiety tolerance
 > My view is that the [[just world hypothesis]] was acquired by mankind in the course of evolution to alleviate to some extent the problem of "human beings are usually weak-willed and have low anxiety tolerance," and that mankind has not yet reached the point where it can discard this.
 
 old title  [[Anxiety Tolerance 20180813]]
+
+- [[management at the top level]]
+[Negative Capability
+
 ---
 This page is auto-translated from [/nishio/不安耐性](https://scrapbox.io/nishio/不安耐性) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
