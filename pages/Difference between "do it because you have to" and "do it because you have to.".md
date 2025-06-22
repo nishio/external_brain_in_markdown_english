@@ -10,7 +10,7 @@ Some people only say the first half without specifying the second half.
     - Cases where there are psychological hurdles to making demands explicit
 
 Others take it literally.
-- A "I need it," B "Yes, [[it's]] better to have it."
+- A "I need it," B "Yes, [[better to have]]."
 - This is not to say that B will do it.
     - Among the many and varied "[[good things to do]]," when a person's priority among individuals is at the top of the list, he or she will do it.
     - If it is not a priority, it will not be initiated.
