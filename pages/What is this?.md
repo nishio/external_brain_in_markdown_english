@@ -42,6 +42,7 @@ title: "What is this?"
 - Web services we started using in 2017
     - Provided by [[Nota]] (now [[Helpfeel]])
     - Name changed to [[Cosense]] in 2024.
+    - When we changed the name, we considered whether we should call it "Yasukazu Nishio's Scrapbox" or "Yasukazu Nishio's Cosense" and decided to change it to "[[Yasukazu Nishio's External Brain]]".
 - Well-thought-out specifications significantly facilitated the development of Yasukazu Nishio's external brain
 
 

@@ -18,6 +18,7 @@ title: "Countries with more female math Olympians"
 > [ryomakom](https://twitter.com/ryomakom/status/1679715268657049606) Source.
 >  [https://imo-official.org/results_country.aspx…](https://imo-official.org/results_country.aspx…)
 
+[[Math Olympiad]]
 - [[mathematics]]
 
 ---

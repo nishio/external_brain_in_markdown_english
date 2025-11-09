@@ -3,7 +3,7 @@ title: "Changes in competitive conditions due to tools"
 ---
 
 from  [[Diary 2025-03-26]]
-Changes in competitive conditions due to tools
+Change in [[competitive conditions]] due to tools
 
 Capability enhancement X provided by a tool T, and capability Y independent of it.
 If the two are constrained by a common resource (e.g., drop time), a [[trade-off]] relationship occurs
@@ -21,6 +21,8 @@ Whoever was getting X at the expense of Y.
 
 I saw the jealousy towards those who write and release code in AI even though they don't have great programming skills, and I was thinking what that is.
 
+
+- [[Trade-off frontiers]]
 
 ---
 This page is auto-translated from [/nishio/ツールによる競争条件の変化](https://scrapbox.io/nishio/ツールによる競争条件の変化) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

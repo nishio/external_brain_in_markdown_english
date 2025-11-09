@@ -65,9 +65,16 @@ pKeicho Reflection
 2021-08-20
 - I had multiple pProjects pinned to the top, but they were less beneficial for the area they occupied.
 - So I made a design change to create [[pProjectIndex]] and pin this one, and the others can be skipped from here.
+    - 2025-09-22 The blandness to maintain pProjectIndex did not exist.
 
 Examples of others
 - [/blu3mo-public/pKineto](https://scrapbox.io/blu3mo-public/pKineto)
+
+from  [[Diary 2025-09-22]]
+pProject
+I tend to create a pProject2025-xx-xx system, pProject2025-xx-xx, and write it there, but maybe it's right to write it in pProject and then cut it out in the appropriate units.
+- If there's a chunk of meaning you can give a clear title, you should give it a good title, and if you can't, but you wrote a lot in one day and you want to divide it up, it's a date title.
+
 
 ---
 This page is auto-translated from [/nishio/pProject](https://scrapbox.io/nishio/pProject) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

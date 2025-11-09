@@ -6,7 +6,7 @@ title: "Design thinking is a depth-first search?"
 [https://twitter.com/kur/status/1259335314721525760](https://twitter.com/kur/status/1259335314721525760)
 
 > I was reminded that this is the opposite of vertical and horizontal, and I thought that it could be taken that way, depending on what is placed as a node. Metaphors are difficult.
-> For example, if the focus is on synthesizing, it can be said that depth is the priority, and if the focus is on the ideation (brainstorming) process, it can be said that breadth is the priority.
+> For example, if we focus on [[synthesizing]], we can say that it is depth-first, and if we focus on the [[idea]] ([[brainstorming]]) process, we can say that it is breadth-first search.
 [https://twitter.com/kur/status/1259476931365371905](https://twitter.com/kur/status/1259476931365371905)
 
 On the contrary, I was more convinced that [[design thinking]] is [[depth first search (search algorithm in AI)]].

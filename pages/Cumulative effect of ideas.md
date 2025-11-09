@@ -2,16 +2,17 @@
 title: "Cumulative effect of ideas"
 ---
 
+2023-01-19
 I think the concept expressed by the [[Interference Effects of Ideas]] diagram in Jiro Kawakita's "Idea Method" is a very good one, but the diagram itself is not easy to understand.
 
 So I drew a new diagram.
 ![image](https://gyazo.com/54f823c392e8344612a22ac575b88b83/thumb/1000)
 
-First, look at concrete data, and then ideas will come from there.
+First, we look at [[concrete data]], and from there [[ideas]] emerge.
 - ![image](https://gyazo.com/72c80aeed579bd6b0df5c9f1df17e7aa/thumb/1000)
-- Some people tend to take the words "idea" and "conception" too seriously. but "ideas" also includes things like "this is what I mean.
+- Some people tend to take the words "idea" and "idea" too seriously, but "idea" also includes [[hypothesis]], such as "Is this what you mean?" but [[hypothesis]] like "I wonder if this is what it means..." is also included in this "idea.
 - In this article, once you've read it, you'll think, "Is this what I mean?" and read on as if it were a hypothesis that "this is what I mean.
-- That this remains the case <img src='https://scrapbox.io/api/pages/nishio-en/Jiro Kawakita/icon' alt='Jiro Kawakita.icon' height="19.5"/> calls it "underdeveloped.
+- That this hypothesis remains hypothetical <img src='https://scrapbox.io/api/pages/nishio-en/Jiro Kawakita/icon' alt='Jiro Kawakita.icon' height="19.5"/> calls it "underdeveloped".
     - ![image](https://gyazo.com/b6155b0809ab6919f9d983390331c0b4/thumb/1000)
 
 
@@ -22,7 +23,7 @@ Another time, another set of data, and the same old "is this what I think it mea
     - ![image](https://gyazo.com/abc059657c953d18e0e8df5e3a6b402a/thumb/1000)
 
 
-On the other hand, some seemingly contradictory previous hypotheses may emerge.
+Conversely, some hypotheses may appear to have apparent [[inconsistency]] with previous hypotheses.
 - ![image](https://gyazo.com/db0c62c7f9aed4d843b2ec788c3bb6d0/thumb/1000)
 - At this point, if you think about it for a while and can't resolve the discrepancy, you'll say, "Well, neither hypothesis was correct.
 - This <img src='https://scrapbox.io/api/pages/nishio-en/Jiro Kawakita/icon' alt='Jiro Kawakita.icon' height="19.5"/> calls the "downfall"

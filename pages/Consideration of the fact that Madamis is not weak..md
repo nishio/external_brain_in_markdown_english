@@ -26,7 +26,7 @@ However, in an environment where "[[ordinary person]]" is in the majority, and p
     - The reason why people tend to be executed on the first day or early in the game, regardless of the game situation, is a problem with aura control before the game starts.
 
 I've come to understand this and take control of my aura.
-- For example, this time he introduced himself by saying, "I played werewolf only twice a few years ago, and both times I was executed on the first day, so it wasn't any fun.
+- For example, at one werewolf meeting, he introduced himself by saying, "I only played werewolf a couple of years ago, and both times I was executed on the first day, so it wasn't any fun.
 - I won't mention that I've played Madamis dozens of times since then because there's no merit in mentioning it.
 - In retrospect, this self-introduction also has the effect of making it harder to be a target in the early "let's randomly execute someone because we don't all have a clue" situation (I didn't think that far ahead).
 
@@ -84,7 +84,7 @@ There are various types of madamis: the "logic-confirmed culprit type," in which
     - The pattern of this not working out has become obvious.
         - I couldn't win because of the obvious contradictions and the conditions that increased the other party's credibility.
     - The pattern that worked was that the lies I told were ultimately predictive of other people's disclosures, and I could attack them by saying, "Isn't it funny that you said the same thing after I told you?
-        - But instead of attacking the other party as the culprit and creating a confrontational structure, he put the other party on board with the idea that "this is not a clue to identify the culprit, but a misleading one".
+        - But instead of attacking the other party as the culprit and creating a confrontation between the two, he put the other party on board with the idea that "this is not a clue to identify the culprit, but a misleading one".
         - As a result, I was able to discard the author's prepared line of reasoning as "this is misleading".
 - The latter "culpability type" is relatively easy
     - It is very difficult to make a "logic-criminal type" game that does not break down no matter how the player plays, so most games are "criminal-like" games.

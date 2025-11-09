@@ -2,7 +2,7 @@
 title: "Color Space by Gamma"
 ---
 
-- I saw a description that it is recommended to set [[Color Space]] to [[Linear]] in Unity, so I set it to that, but as a result, the screen is dark.
+- I saw a description that it is recommended to set [[Color Space]] to [[Linear(Unity)]] in Unity, so I set it, but as a result, the screen is dark.
     - [[color space]] should be [[Gamma]].
 - Should not have been changed as it is Gamma by default
 

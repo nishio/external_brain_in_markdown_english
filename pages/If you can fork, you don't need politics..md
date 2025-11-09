@@ -5,6 +5,7 @@ title: "If you can fork, you don't need politics."
 old title:  [[It's politics that moves what can't be forked.]]
 OTHER TITLE: [[No need to play politics with what you can fork]].
 - shorten:  [[If you can fork, you don't need politics.]]
+    - [[forkability]]
 
 [[politics]] is to move what can't be [[forked]].
 - Paraphrasing: [[folk]] No need to play politics with what you can

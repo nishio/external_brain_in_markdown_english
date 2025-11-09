@@ -2,6 +2,60 @@
 title: "cutting"
 ---
 
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT5/icon' alt='GPT5.icon' height="19.5"/>
+The "cutout" in Scrapbox is--
+
+rough definition
+- Refactoring is the process of separating specific topics from a "chain" of chronological chats, diaries, memos, etc., as new pages, and reconnecting them with the original pages by interlinking them. Refactoring is the process of giving a title (handle) to an unnamed concept to make it reusable.
+
+Why do it?
+- It can be converted into a time series → [[topic-oriented]] for easy reference later.
+- [[Name an unnamed concept]] (titling) makes it easier to handle from other pages.
+        - [[Concept Handles]]
+    - [[convergent move]] (aggregation of backlinks from related pages) occurs, and discussions tend to coalesce and develop.
+- Comment elicitation: "If you are cut out, you will want to comment" effect.
+
+When to cut it out? (Criteria)
+- When the need is clear: The moment you want to take it out/share it with other projects is the best time to do so.
+    - The appropriate way to carve out a need is determined after the need has been identified.
+- When the search hits "in the middle": If the vector search hits the "thick part" of a long sequence, we take the opportunity to page it.
+- From the grown-up page: summarize the areas where the topic has grown and make them independent.
+
+Tip: Glue the glue allowance.
+- A 2-3 line summary of the "flow leading up to it" at the beginning of the new page = glue.
+    - → A "step elimination/deburring" technique to prevent confusion due to contextual disconnections.
+- The from link (link to the original page) is the minimum glue.
+- The title should be created from the core (A), and the glue space (B) should be added as an introduction.
+
+Granularity Pitfalls and Avoidance
+- Too detailed division increases the load on the reader. It is safe to let the AI handle the title and one-line summary first, and then let the humans merge/format them.
+- Materials that are worth reading through (lecture slides, etc.) should not be cut unnecessarily, but should be read "through" to retain their value.
+
+Roles and Team Operations
+- There are roles for readers, writers, and editors. When there are multiple people in the role of "cut-outs," the circulation of "growth through editing," such as the addition of glue space, is activated.
+
+Where to use AI
+- Vector search and red link extension to find "cut out" opportunities.
+- Automatic paging by leaving it alone" like Pioneer Mode -> finished by a human to eliminate steps.
+- However, we do not index rounded copies of search results (because the correspondence between title ↔ content is broken).
+
+Working Template (5 minutes)
+1. select the area to be cut
+2. glue at the beginning (2-3 line summary of flow + from link)
+3. give a title (name for an unnamed concept)
+4. cut out in New Page, and link to each other
+5. elimination of steps: addition of related links / tagging / one-line summary
+6. create convergent moves with backlinks on the related page side as well
+
+anti-pattern
+- Naked fragments without glue
+- Mechanical division for unknown purpose
+- Too much contextual restraints hinder development (glue moderation in the middle).
+If necessary, make a rough draft of the example pages together with a "glue line".
+
+
+
+
 __BELOW_IS_AI_GENERATED__
 # 切り出し
  2023-10-05 20:35 <img src='https://scrapbox.io/api/pages/nishio-en/omni/icon' alt='omni.icon' height="19.5"/>

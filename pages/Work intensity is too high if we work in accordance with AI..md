@@ -42,7 +42,7 @@ reverberation
 - > If you work from home, it might be better if you [[do more housework]] for the shorter hours, so you don't feel like [[you did your best]] less. It works. [https://x.com/TV00364181/status/1897145457421508954](https://x.com/TV00364181/status/1897145457421508954)
     - Certainly washing dishes is soothing.
     - It's like putting a rag on the floor as part of your training at a temple.
-- > The response time is so fast and the sense of progress is so great that people who are predisposed to [[workaholism]] may easily lose sight of [[the time to quit]].
+- > The response time is so fast and the sense of progress is so great that people with a [[workaholic]] background can easily lose sight of [[when to quit]].
 - >  The fact that it's so close to being self-contained, there's no outside urging to quit. [https://x.com/opkp_/status/1897082602911359475](https://x.com/opkp_/status/1897082602911359475)
 - > If we do our best to work with the machines, here's the short version. I personally think it's zama amiro that the problems in manufacturing are spreading to white-collar workers, but I have a strong sense of what this is going to add to society... [https://x.com/YukiKanmuri/status/1896773529124929647](https://x.com/YukiKanmuri/status/1896773529124929647)
 - > Just a little while ago, I wrote a NOTE about a similar problem.

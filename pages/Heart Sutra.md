@@ -46,7 +46,7 @@ My wife didn't know anything about sutra and wanted to know at least one thing a
 - The world of the unaided eye, or the world of the conscious mind
     - There is no world that can be felt with the eyes, no world that can be felt with consciousness.
 - There is no light, and there is no light, and there is no light, and there is no light, and there is no light, and there is no light
-    - The state of not being in the light of wisdom is called "no-mind," but that "no-mind" itself does not exist. Since it does not exist, it will never cease to exist.
+    - The state of being unilluminated by the light of wisdom is called "no-mind," but that "no-mind" itself does not exist. Since it does not exist, it will never cease to exist.
 - Or, no aging, no death, no aging, no death, no exhaustion.
     - Nor do old age and death exist. And since they do not exist, they will never cease to exist.
 - Suffering, Gathering, Perishing, and the Way of the Universe

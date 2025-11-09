@@ -8,5 +8,9 @@ title: "Conflict and Circulation"
 - If we normalize the two vectors so that their lengths are equal to 1, we can interpret that as [Unit: Yen
     - The rotation of this circle can be represented by a simple matrix product: the idea of [Positional Encoding
 
+- [[Parable of the Breath]]
+
+- [[Blind Card Candidate]]
+
 ---
 This page is auto-translated from [/nishio/対立と循環](https://scrapbox.io/nishio/対立と循環) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

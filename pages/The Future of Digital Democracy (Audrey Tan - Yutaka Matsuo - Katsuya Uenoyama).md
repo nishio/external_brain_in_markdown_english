@@ -62,7 +62,7 @@ Mr. Tan:
     - Kentucky Case Studies
     - Bowling Green?
         - <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
-            - [Bowling Green is a rural community of approximately 70,000 people in Warren County in southern Kentucky, USA. Home to the Chevrolet Corvette assembly plant and Western Kentucky University, it is a fast-growing community with rapidly expanding housing and industry on the northern edge of the Nashville metropolitan area.
+                - [[Bowling Green]] is a rural community with a population of approximately 70,000 in Warren County in the southern part of the U.S. state of Kentucky. Home to the Chevrolet Corvette assembly plant and Western Kentucky University, it is a fast-growing community with rapidly expanding housing and industry on the northern edge of the Nashville metropolitan area.
             - Why did Mr. Tan mention it?
                 - The "What Could BG Be?" project [About What Could BG Be? | Bowling Green's Future Planning Initiative [https://www.whatcouldbgbe.com/about-the-project?](https://www.whatcouldbgbe.com/about-the-project?) utm_source=chatgpt.com]
                     - The city and county conducted a participatory online dialogue with residents to develop a long-term vision through 2050 (BG 2050).
@@ -98,7 +98,7 @@ Mr. Tan:
 Mr. Uenoyama: Any hints on how to go beyond ideology and implement this as real software?
 Mr. Tan:
 - In 2015, Taiwan experimented with a new social media, and it's [[Polis]].
-- Polis is a system that allows upvote/downvote but not reply
+- Polis can upvote/downvote [[non-replicable mechanism]].
 - There is a scoreboard, a bridge bonus, a mechanism that draws attention to "bridging opinions" that are favored by different opinion goups.
 - This is the opposite of a polarization algorithm
 - The opinion that took first place in the three-week discussion was confirmed by the cab union and Uber jointly, and became legislation.

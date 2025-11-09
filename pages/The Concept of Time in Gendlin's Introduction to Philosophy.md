@@ -19,5 +19,7 @@ It's interesting that you have a philosophy background but also do clinical psyc
 
 - [[time of -]]
 
+- [[Difference in Observation Scale]]
+
 ---
 This page is auto-translated from [/nishio/ジェンドリン哲学入門の時間の概念](https://scrapbox.io/nishio/ジェンドリン哲学入門の時間の概念) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

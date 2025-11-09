@@ -51,5 +51,8 @@ Expressions in a different order
             - I'm not talking about "for informational purposes."
             - Abstract concepts are easily communicated or misunderstood, but they have no choice [[Books are already a product of abstraction]], because readers are not used to having the process shared.
 
+relevance
+    - [[knowledge network]]
+
 ---
 This page is auto-translated from [/nishio/ネットワーク表示の読み取り](https://scrapbox.io/nishio/ネットワーク表示の読み取り) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

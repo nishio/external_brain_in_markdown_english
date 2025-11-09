@@ -14,7 +14,7 @@ In Pareto's theory, what he calls derivation is the ostensibly logical justifica
 - derivation consistent with general sentiment and principles.
 - Verbal proof derivation
 
-The first of these is a statement of a dogmatic or aphoristic nature, e.g., the maxim, "Honesty is the best policy." The second type of authority is an appeal to people or concepts that are held in high regard by tradition. Quoting the opinion of one of America's founding fathers on a topic of current interest is a Class II derivation. Third is to appeal to "universal judgment," "popular will," "the best interests of the majority," or similar sentiments. And finally, the fourth relies on various verbal gymnastics, metaphors, allegories, etc.
+The first of these is a statement of a dogmatic or aphoristic nature, e.g., the maxim, "Honesty is the best policy." The second type of authority is an appeal to people or concepts that are held in high regard by tradition. Quoting the opinion of one of America's founding fathers on a topic of current interest is a Class II derivation. The third is to appeal to "universal judgment," "[[popular will]]," "the best interests of the majority," or similar sentiments. And finally, the fourth relies on various verbal gymnastics, metaphors, allegories, etc.
 
 Thus, derivation is merely the content and form of [[ideology]] itself. But it is that residue that is the real underlying problem, the special cause of the squabbling that leads to "[[the elite's]] circulation." That underlying residue, he believed, was the only proper object of sociological inquiry.
 
@@ -37,7 +37,7 @@ A whole composed of interdependent parts. The "material points or molecules" of 
 One of the most interesting Pareto theories is that there are two types of elites in society: the [[ruling elite]] and the [[nonruling elite]]. Moreover, the people who make up these elite groups have two distinct mentalities: the "[[speculator]]" ([[speculator]]) and the "[[renter]]" ([[renter]]). The speculator is a progressive, class I residue-filled type, while the renter is a conservative, class II residue type. In a healthy society, there is a natural tendency for these two types to alternate in power.
 - → [[There are speculators and renters among the elite.]]
 
-For example, if speculators devastate the government and enrage a large portion of the population with corruption and scandal, conservative forces will come to the fore and replace them in one form or another. This process is cyclical and more or less inevitable.
+For example, if speculators devastate the government and enrage a large part of the population with corruption and scandal, conservative forces will come to the fore and replace them in some way. This process is [[cyclical]] and more or less inevitable.
 
 Even Pareto admitted that [[humanitarianism]], [[liberalism]], [[socialism]], [[communism]], [[fascism]], etc., are all the same in the end. All [[ideology]] is really just a "smokescreen" imposed by "leaders" eager only to enjoy the privileges and power of the [[ruling elite]] (Alexander 1994).
 

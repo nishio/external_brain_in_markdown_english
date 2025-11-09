@@ -29,16 +29,16 @@ Previous Review
     - As a result of this "work" the "experience" is SPECIFIED
     - Its SPECIFICATION is "Aspects of Experience."
         - [[Let's look up "aspect" in the dictionary.]]
-- non-numerical
+- [[non-numerical]]
     - It has not been determined what part of the bewildering experience will be cut out as "one unit of experience".
         - ![image](https://gyazo.com/b0bb5a2510888f0eb30e6205c100e7e4/thumb/1000)
         - This diagram is difficult to draw. Last time [Make the gradient in three steps. This is the way to express what I want to say in the above figure.
             - ![image](https://gyazo.com/8124439cb1200fb802f666fba5c946dc/thumb/1000)
         - For these things, the question is, "Is this one? Two?" It is futile to ask, "Is this one or two? It depends on where the boundary is.
-- relationship is meaning and vice versa.
+- [[relationship is meaning and vice versa]]
     - Think of a relationship as a circle in and of itself, not as a line between circles.
         - ![image](https://gyazo.com/7fff49bf695a1c202a7a5f66bf7c2876/thumb/1000)
-- "in the midst of" and "between" are the same.
+- [["in the midst of" and "between" are the same]]
     - ![image](https://gyazo.com/8e2058e7a050627d0e311194bd4e1054/thumb/1000)
     - It's possible to have both "between A and B" and "in AB."
     - Difference in which range is recognized as a lump
@@ -47,7 +47,7 @@ Previous Review
     - If both are taken to a smaller extent, it becomes an "in-between" relationship.
     - If you take one side at large, you get "sides made".
 
-Review and additional commentary on "The Scheme."
+Review and additional explanation of "[[scheme]]".
 - What is the scheme?" I felt it necessary to answer the question, "What is the scheme?<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
 - I was wondering how to explain this, but this might be a question similar to "What is an object in object-oriented programming?" This question may be similar to "What is an object in object-oriented design?<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
     - An object is a thing." That's not a good enough explanation.
@@ -160,7 +160,6 @@ Review and additional commentary on "The Scheme."
                 - Related "Linux Kernel Development is Pragmatic"
                     - ["Tuning pressure" won't dig anything deeper──Kernel Hacker, Kozaki, Tomohiro (6) | Cybozu-style](https://cybozushiki.cybozu.co.jp/articles/m000321.html)
     - I'm talking about an era in which each individual has a different scheme, rather than being given a single "correct scheme" by society in this descending fashion.
-        - Christian forces.
     - [[Cross-checking of scheme concepts]]
 
 Previous Continued
@@ -379,7 +378,7 @@ Q&A
         - After a lot of talking, I'm again making direct comparisons with "what I wanted to say".
         - Seemingly backward, this is a pretty creative outcome.
     - This direct reference to "what was meant" is called "creative regress
-        - Creative regression, creative retreat, creative regression. The Japanese book chooses "regression". Personally, I don't feel comfortable with it.
+        - [[creative regression]], [[creative retreat]], [[creative regression]]. The Japanese book chooses [[regression]]. Personally, I don't feel comfortable with it.
     - The word "regress" means to leave the specified meaning and return to the felt meaning.
         - Back to mumbo jumbo, away from language.
     - With "creative," this progress indicates that it is for creating (create, specify, discover) new aspects.

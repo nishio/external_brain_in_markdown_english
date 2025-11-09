@@ -4,14 +4,16 @@ title: "Funding the Commons Tokyo 2024"
 
 [[Funding the Commons]] / [[Funding the Commons Tokyo]] / [[FtCTokyo]]
 
-2024-07-24~25 [Tokyo 2024](https://fundingthecommons.io/tokyo-2024)
+International conference on [[distribution of funds]] to [[public goods (i.e. goods or services such as parks or highways)]] held on 2024-07-24~25
+- Official website: [Tokyo 2024](https://fundingthecommons.io/tokyo-2024)
+
 Registration: [https://lu.ma/ftc-tokyo-2024](https://lu.ma/ftc-tokyo-2024)
 - ![image](https://gyazo.com/11b29d6c5abcc79e64b069e74bfc803f/thumb/1000)![image](https://gyazo.com/46ffae3be2b75ee58810877b99b7e38a/thumb/1000)
 - summary
     - [[FtCTokyo Day1]]
     - [[FtCTokyo Day2]]
 - > [hal_sk](https://x.com/hal_sk/status/1821712657482969399) I wrote a recap article on Funding the Commons at the end of last month! What are digital public goods? Please read it if you are wondering "What is Digital Public Goods? [Funding the Commons Tokyo 2024: Digital Public Goods Open the Way to a New Society｜Hal Seki](https://note.com/hal_sk/n/n612ee1ace100?sub_rt=share_pb)
-- [Playlist](https://www.youtube.com/watch?v=hilCKQAtD-U&list=PL3C6eF-zu5AYohNL1ZgOBqlwwJ29x-lTO)
+- Video [Playlist](https://www.youtube.com/watch?v=hilCKQAtD-U&list=PL3C6eF-zu5AYohNL1ZgOBqlwwJ29x-lTO)
 
 # 運営グループからの日本語記事
 <img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>
@@ -21,7 +23,7 @@ This article is written by [[Taiyo Hamada]], a member of our management team. Th
 - The event "DeSci Tokyo 2024 x Funding the Commons 2024" will be held in Tokyo on July 24 and 25, 2024. This is an international conference on [[distributed science]] ([[DeSci]]) and [[digital public goods]].
 - DeSci is a new movement to democratize scientific research through the use of [[decentralized technologies]] such as blockchain.
 - Funding the Commons, on the other hand, is an initiative to support the development of digital public goods such as [[open source software]].
-- This event will discuss the future of research and digital public goods, including [[open science]], [[research automation]], and [[mechanism design]], under the theme of addressing social issues such as population decline.
+- This event will discuss the future of research and digital public goods, including [[open science]], [[research automation]], and [[mechanism design]], under the theme of responding to social issues such as population decline.
 - DeSci Tokyo's mission is to "[[explore]] the future of research.
     - In the Japanese research field, issues such as a lack of human resources and delays in technology transfer have been pointed out.
     - DeSci Tokyo aims to solve these issues by automating research, utilizing data, and introducing new R&D processes while connecting with the world.

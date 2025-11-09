@@ -16,7 +16,8 @@ TABLE:Spread legs
 - 2024-11-13	168cm
 - 2025-04-16 168cm (self-tie)
 - 2025-04-23 171cm 163cm at start of stretch
-
+- 2025-09-10	169cm
+- 2025-09-17	171cm
 
 
 ---

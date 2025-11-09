@@ -211,7 +211,7 @@ Dig deeper in the remaining time
 
 
 Diagram to be used for questions
-- ![image](https://scrapbox.io/files/6663143a6be53c0022f524ce.png)
+- ![image](https://scrapbox.io/files/68abf3f915304bc63b3d46cf.png)
     - [/plurality-japanese/ spectrum of collaboration across diversity](https://scrapbox.io/plurality-japanese/ spectrum of collaboration across diversity).
 - ![image](https://scrapbox.io/files/67c806c183e2991b9209621b.png)
     - [/plurality-japanese/3-0-⿻ What is it? #660a2224aff09e0000857770](https://scrapbox.io/plurality-japanese/3-0-⿻ What is it? #660a2224aff09e0000857770)

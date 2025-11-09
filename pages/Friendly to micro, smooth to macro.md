@@ -21,5 +21,13 @@ This is an interesting point.
         - Example: [[A cylinder looks like a circle or a square, but it is neither a circle nor a square]].
         - [[Difference in Observation Scale]]
 
+2025-09-09
+- I want to avoid "friendlessness.
+    - Make every person a friend.
+        - All vertexes have a rank greater than or equal to 1
+    - Not all people are without enemies.
+- In this state, there are cases in which the connected components of the graph are either scattered or greatly connected to each other.
+    - We prefer the latter.
+
 ---
 This page is auto-translated from [/nishio/ミクロには友敵、マクロにはなめらか](https://scrapbox.io/nishio/ミクロには友敵、マクロにはなめらか) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

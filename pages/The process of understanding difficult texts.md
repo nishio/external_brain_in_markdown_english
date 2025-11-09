@@ -17,14 +17,14 @@ title: "The process of understanding difficult texts"
 
 The process from 2 to 3 is strongly related to [[Gaining Stability]] in [Interference Effects of Ideas
 
-Scrapbox facilitates the identification of the felt sense an author has for a non-parallel symbol by presenting a summary of "where the non-parallel symbol is used" for that symbol.
+Scrapbox facilitates the identification of the felt sense an author has for a [[non-parallel symbol]] by presenting a summary of "where that non-parallel symbol is used"
 - So don't [Auto Bracketing
     - Mixture of parallel symbols in a set of pages with links is detrimental
     - It's not about whether it's a string match, but whether it's consistent with the author's felt sense.
     - If it's a string match but you don't feel comfortable linking to it, the string side should change.
             - [[There are three patterns in the results of direct matching]]
 
-The "integrity network" being created in 3 is related to the "author's emulator" spoken of in [[The weight of "read."]].
+The "[[integrity network]]" being created in 3 is related to the "[[author's emulator]]" spoken of in [[The weight of "read."]].
 
 Thinking about this process from a digital perspective
 - If the felt sense is a word2vec-like n-dimensional vector.

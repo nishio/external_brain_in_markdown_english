@@ -3,11 +3,15 @@ title: "plurality.net"
 ---
 
 [Plurality: Technology for Collaborative Diversity and Democracy](https://www.plurality.net/)
+- Official Site
 
 [https://github.com/alexrandaccio/plurality.net](https://github.com/alexrandaccio/plurality.net)
+- Is this the latest repo?
+    - As of 2025-09-11, yes.
 
 [https://github.com/audreyt/plurality.net](https://github.com/audreyt/plurality.net)
 - This was FOLK, misunderstood.
+
 
 [[plurality]]
 

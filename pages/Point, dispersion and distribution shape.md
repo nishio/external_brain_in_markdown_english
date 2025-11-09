@@ -8,7 +8,7 @@ When you have choices A and B and you're trying to figure out which is better.
     - [[Point Recognition]] recognizes each option as if it were a point on a number line.
     - If [[Recognition of dispersion]] is done, it looks like this figure.
     - ![image](https://gyazo.com/9324898fb86b09c25e28197c25d8a5ab/thumb/1000)
-            - [[a common diagram]]
+            - [[Two probability distributions with different variances]]
     - Comparing A and B in terms of expected value returns to point recognition.
     - Comparison by expectation is not the only truth.
     - When you try to compare the two with 95% certainty, you get a reversal of the relationship between the big and the small.
@@ -30,6 +30,8 @@ On top of this recognition of dispersion [Recognition of distribution shapes
         - ![image](https://gyazo.com/cf0f69711542660f6ae0c83616429921/thumb/1000)
 
 
+2025-08-13
+- Several things are going to be [[Blind Card Candidate]], including this one
 
 ---
 This page is auto-translated from [/nishio/点と分散と分布形状](https://scrapbox.io/nishio/点と分散と分布形状) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

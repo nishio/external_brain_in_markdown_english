@@ -3,7 +3,7 @@ title: "Lentie"
 ---
 
 <img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>
-The English equivalent of "[[renter]]" in Pareto theory is "[[rentier]]." The term is of French origin and refers to people who live off their asset income. In Japanese katakana spelling, the term "rentier" is commonly used. This is closer to the French pronunciation and conforms to the transliteration from the English "rentier. Therefore, "rentier" is the appropriate katakana rendering of "lessee" in Pareto's theory.
+- The English equivalent of "[[renter]]" in the [[Pareto]] theory is "[[rentier]]." The term is of French origin and refers to people who live off their property income. In Japanese katakana spelling, the term "rentier" is commonly used. This is closer to the French pronunciation and conforms to the transliteration from the English "rentier. Therefore, "rentier" is the appropriate katakana rendering of "lessee" in Pareto's theory.
 
 
 [[Lantier]]

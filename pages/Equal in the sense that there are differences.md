@@ -1,0 +1,10 @@
+---
+title: "Equal in the sense that there are differences"
+---
+
+- [[Hannah Arendt.]]
+
+- [[People have individual differences.]]
+
+---
+This page is auto-translated from [/nishio/差異があるという意味において平等](https://scrapbox.io/nishio/差異があるという意味において平等) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

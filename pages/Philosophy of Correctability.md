@@ -5,7 +5,7 @@ title: "Philosophy of Correctability"
 ![image](https://gyazo.com/0651f0da7ed12cbfc16c15db6997fe20/thumb/1000)
 [Amazon](https://amzn.to/3VCnRHK)
 
-[[Correctability]]
+- [[correctability]]
 [[Hiroki Azuma]]
 
 ---

@@ -2,7 +2,7 @@
 title: "Broad listening in practice"
 ---
 
-[[Funding the Commons Tokyo 2024]]
+Discussion between [[Takahiro Yasuno]] and [[Audrey Tang]] at [Funding the Commons Tokyo 2024
 - [[FtCTokyo Day2]]
 
 [https://youtu.be/k6bZ2qayBQA](https://youtu.be/k6bZ2qayBQA)

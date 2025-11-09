@@ -2,7 +2,7 @@
 title: "through power"
 ---
 
-> Through power is the ability to go through things, a concept proposed by [[Tetsu Takabayashi]].
+> Through ability is the ability to do things [[through]], a concept proposed by [[Tetsu Takabayashi]].
 >  The definition of through in this concept is to let things pass by or pretend that you did not see them.
 [https://d.hatena.ne.jp/keyword/スルー力](https://d.hatena.ne.jp/keyword/スルー力)
 

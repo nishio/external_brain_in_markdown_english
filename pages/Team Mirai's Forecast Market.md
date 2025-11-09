@@ -2,7 +2,8 @@
 title: "Team Mirai's Forecast Market"
 ---
 
-> [nishio](https://x.com/nishio/status/1921564030650462416) Interesting to see a predictive market for a topic of interest.
+[[Manifold]]
+> [nishio](https://x.com/nishio/status/1921564030650462416) Interesting [[prediction market]] for a topic of interest.
 >  ![image](https://gyazo.com/c232d0ce22c9fccac2a9433b5bfe98d7/thumb/1000)
 [https://manifold.markets/taka/2025831?r=dGFrYQ](https://manifold.markets/taka/2025831?r=dGFrYQ)
 
@@ -123,6 +124,83 @@ I thought that being able to SELL as well as BUY YES/NO is a bad design because 
         - ![image](https://gyazo.com/5af6a447057c67e55b50883582369ae8/thumb/1000)
         - You need 100M to make it!
 
+-----
+2025-07-23
+[The story of how I opened a prediction market asking "Will Team Mirai win the election?" and how the market result brilliantly hit reality｜Shunsuke Takagi Shunsuke Takagi](https://note.com/tkgshn/n/n113175039f3e)
+> [nishio](https://x.com/nishio/status/1947918768111554870) It was a social experiment with interesting results.
+
+from [[dd2030 slack]]
+taka: I wrote this article because I have learned a lot as a result of making a market forecast on my own regarding Team Mirai's bid for a seat in the House. As a result, I thought that the market forecast is a good predictor of reality and can be used as a source of information. I wrote about the future of information finance, so if you are getting tired of "Web 3," please take a look!
+- Jun Ito (Eddie): ↑Great. It was very interesting.
+- taka:I think I heard something about not being able to mention it in a big way, like it might hit some kind of popularity contest, but I'm not sure lol.
+Shinta Nakayama (tokoroten): I wonder why the forecasting market was hot for a while, then went downhill, and now is blooming once again.
+    - [[A new strategy called "prediction market" that turns ordinary people into prophets]] After this came out, a few projects happened, and then they were wiped out.
+- In-house tools -> Unless you are smart guys like Google or a very large company like Wal-Mart, you can't get enough people to participate and the cost of operation is too high and it will kill you.
+- I think it's a situation of revival once again combined with cryptocurrencies.
+    - nishio: 2015: Birth of Ethereum
+    - taka: I feel that Oracle and Google are doing the in-house forecasting market, aren't they?
+        - But I think that with the actual release of Ethereum & the much lower gas prices (this has been a few years), the decentralized prediction market is finally starting to turn around.
+        - In fact, in the U.S. presidential election, the trump vs. harris polymarket has circulated about 500 billion yen equivalent in USDC (stable coins corresponding to the U.S. dollar).
+        - [Polymarket users have wagered $3.2 billion on the outcome of the election—and the majority of bets are on Trump winning | Fortune](https://fortune.com/2024/11/05/polymarket-bets-odds-election-day-trump-harris/)
+            - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+                - Implementation costs for the external forecasting market were too high.
+                - Internal forecasting market lacks diversity of people OR does not reach a sufficient number of people (in terms of volume, diversity)
+                - No matter how successful the internal forecasting market is, that know-how is not distributed.
+    - Shinta Nakayama (tokoroten)
+        - Thanks to the connection to real money, is it correct to go for [[arbitrage]] against the distortion of probability, and thus [[liquidity]] was created, and as a result, the fun was born?
+        - The money-makers guarantee liquidity, the price movements create interest, and the market size snowballs.
+        - I felt narratives like this.
+    - taka:
+        - That is exactly how I feel. I personally believe that hedge funds and others are getting into the prediction market, especially in the sense that you can expect a lot of expectation if you are convinced that you hold the EDGE.
+        - I wrote this article with the image that it would be interesting if we could reverse that and use [https://note.com/tkgshn/n/n6a587934701a](https://note.com/tkgshn/n/n6a587934701a) more and more various intelligence for things that have positive externalities, such as policy making (information finance).
+        - However, I wrote this article slightly before, so I would think it could be written a little more nicely now.
+                - [[A memorandum on the Kardashev Scale for Democracy and Futarchy (Futurism), choosing policies based on the wisdom of the crowd.]]
+- Incidentally, I was frustrated when I tried to put in an all-out bid when the election was assured (when the party requirements were still unclear), but the market was closed.
+    - nishio: this is a weakness in the prediction market that Taka misunderstood the party requirement (vulnerability of the individual judging the end result).
+    - taka: Since you wrote it here, I'll answer in my own way.
+        - I wonder if there is a way to make the oracle (delivering the results to the market) something we can manage with a high degree of freedom.
+        - With Polymarket, there's an on-chain oracle called UMA.
+        - There are several other oracles, but fundamentally, they're designed to feel like poker, where you're buying and selling more and more.
+            - [https://scrapbox.io/tkgshn/realityeth](https://scrapbox.io/tkgshn/realityeth)
+        - And then there are some places that implement challenges (objections) in a sort of decentralized court.
+            - [https://scrapbox.io/tkgshn/kleros](https://scrapbox.io/tkgshn/kleros)
+        - With manifold, it seems that "market maker = resolver", not assuming objection. In this experiment, I would have laughed it off, but I think it is necessary to discuss the design of the mechanism in this area.
+        - In the meantime, the crypto people have already pioneered it, so I guess it's like which one to choose + how easy to make it.
+- nishio:
+    - I thought one aspect that wasn't written down was the layer of gaining attention to the market itself.
+    - I had a meta-incentive to spread it early on because I had a meta-incentive to get attention if the number was higher than 50%, but I stopped spreading it in the middle and just forgot about it. w
+        - [[attention]] is [[limited resources]] and affects [liquidity
+    - taka
+        - How about this?
+        - More liquidity means more suckers (from those who are convinced of the outcome), so maybe it's better to spread the word in a way?
+        - Consider a situation where there is an incentive not to spread the word.
+        - I don't think so?
+    - nishio Winning in the real world is more beneficial than winning in the market, when the intermediate state of the market affects the real world.
+        - PS: If it had been, say, 80% on, say, the day of the announcement, I would definitely have tweeted, "The prediction market is also predicting the formation of a national political party!" I would have tweeted
+    - taka Ah, so that's what you mean by attention.
+- tokoroten:
+    - I don't care what you say, but there's only one forecasting market book for 2013, and there's no follow-up.
+    - I am beginning to feel that the lack of a coherent Japanese-language resource on the contemporary forecasting market is rather problematic.
+    - I agree, but I'm stuck with knowledge that is over 10 years old.
+    - Manifold, I'd like to play some more.
+- TakateTomoki
+    - It was really interesting to actually participate.
+    - Thank you, Taka.
+    - It was the type of concept that you don't understand until you try it.
+    - It was especially funny when I said to myself, "I'm betting on it, so I'm going to do my best to develop it.
+        - PS<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+            - This is interesting, the action is prompted by having a buy position
+                - Reverse pattern of [People who take an anti-position when they see something they don't understand.
+            - [[SOC]] is being gained by actions motivated by a buy position.
+- tokoroten
+    - Even on the last day, I couldn't make the decision to buy at an amount greater than 50%, only to place a limit order below 50%.
+    - The prediction market was interesting, including this own value judgment.
+    - taka: I think this all depends on whether you end up looking at charts or reality. If you are sure, it's cheap no matter how much you buy.
+    - tokoroten: I'm taking a position of support by being in DD2030, so I'm intentionally not a supporter to maintain a neutral position, so I didn't know the ins and outs!
+        - PS: I don't think you can be a supporter and not know enough about the inner workings of the W to be sure.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - taka:
+        - Insiders will do best to think, "You guys don't get it," and just buy.
+        - And if you lose, it just means you didn't have enough EDGE.
 
 ---
 This page is auto-translated from [/nishio/チームみらいの予測市場](https://scrapbox.io/nishio/チームみらいの予測市場) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

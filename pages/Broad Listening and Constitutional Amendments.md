@@ -3,7 +3,7 @@ title: "Broad Listening and Constitutional Amendments"
 ---
 
 - [[broad listening]] and [[constitutional amendment]]
-> [nishio](https://x.com/nishio/status/1823602682957062564) Want to revise the constitution -> [[referendum]] is necessary -> want to know what kind of amendment proposal can obtain [[public opinion]] by low-cost means before holding an expensive referendum -> [my number authentication Let's [[vote digitally]] with [my number authentication
+> [nishio](https://x.com/nishio/status/1823602682957062564) Want to revise the constitution -> [[referendum]] is necessary -> want to know what kind of amendment proposal can get [[public opinion]] by low-cost means before holding high-cost referendum -> [[My Number Authentication]] and [[Digital Vote]]!
 >  Oh, the perfect application for #broadlistening! #DigitalDemocracy
 >  >nikkei: [Post Kishida's Summer
 >  Shinjiro Koizumi, LDP Presidential Election Running Decision: "I Will Decide for Myself" Willingness to Reform the Constitution

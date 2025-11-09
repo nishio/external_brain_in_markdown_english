@@ -6,5 +6,8 @@ title: "tax payment at home"
 
 
 
+The interpretation is that it was a social experiment that confirmed that "if you give citizens the right to decide where their money is redistributed, most people will use that right to line their pockets, not the public good."
+
+
 ---
 This page is auto-translated from [/nishio/ふるさと納税](https://scrapbox.io/nishio/ふるさと納税) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

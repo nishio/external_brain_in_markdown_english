@@ -50,6 +50,8 @@ At the [[CUMOT2018]] reception, the question was asked, "You seem to be in a hur
         - > Creating an archive Working to historicize art Making history by documenting Making history by documenting Making history by documenting Making history by documenting Making history by documenting history Practicing Historicism Consciously
         - After 9 years of consciously practicing "[[Making History by Recording]]", I am where I am today.
 
+    - [[2025 is a rush.]]
+
 relevance
     - [[Live as if you will die tomorrow, learn as if you will live forever.]]
 

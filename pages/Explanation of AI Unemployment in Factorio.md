@@ -26,7 +26,7 @@ relevance
 > [nishio](https://twitter.com/nishio/status/1724232072368390250/quick_promote_web/intro) I'm not sure if yesterday's "people who are thinking 0/1 like "AI will take our jobs away" should do Factorio to improve their understanding of the system. I'm not sure if you got my point about "I think we should do Factorio to (abruptly)", I was talking about the need to divert upstream resources to other purposes if there's not enough demand downstream. ......
 
 > [nishio](https://twitter.com/nishio/status/1724233172198830243) This leads me to this
->  >nishio: White-collar workers who have been underutilized, have the option of agility in the form of picking up overflowing balls, taking on voluntary dual roles, creating new departments, etc., and I feel that strongly tying them down with job descriptions will hinder this, and that allowing individual workers to move within the company [[company-wide information Sharing information across the company]] that allows individuals to move within the company may be important for agility in the age of AI.
+>  >nishio: White-collar workers who have been underutilized have the option of agility in the form of going to [[pick up the ball]], [[voluntarily taking a concurrent position]], [[creating a new department]], etc., and I feel that if they are strongly bound by [[job description]], it will be a hindrance to this agility. Company-wide information sharing] that allows individual employees to move around the company may be important for agility in the age of AI.
 
 
 

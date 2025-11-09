@@ -2,7 +2,7 @@
 title: "Idombata policy making"
 ---
 
-- [[IIDOBATA system]]
+- [[IIDOBATA system]]  /  [[initiative taken by the government in the formulation of a policy or bill (rather than by bureaucrats) to promote good governance]]
 2025-04-23
 > [takahiroanno](https://x.com/takahiroanno/status/1914986076332343600) [[beta test announcement]]
 >

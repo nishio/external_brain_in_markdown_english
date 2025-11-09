@@ -13,5 +13,8 @@ title: 'Can do anything" is a dangerous sign.'
 
 <img src='https://scrapbox.io/api/pages/nishio-en/mitoujr2021/icon' alt='mitoujr2021.icon' height="19.5"/>
 
+relevance
+    - [[Conceptual ability is the ability to limit problems]]
+
 ---
 This page is auto-translated from [/nishio/「なんでもできる」は危険なサイン](https://scrapbox.io/nishio/「なんでもできる」は危険なサイン) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -18,5 +18,8 @@ from [/villagepump/2024/02/25](https://scrapbox.io/villagepump/2024/02/25)
 relevance
     - [[It's as if there's nothing you can't take out when you need it.]]
 
+- [[Box]]
+- [[Discrepancy in recognition of the Nishio family]].
+
 ---
 This page is auto-translated from [/nishio/物を動かしたとき](https://scrapbox.io/nishio/物を動かしたとき) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

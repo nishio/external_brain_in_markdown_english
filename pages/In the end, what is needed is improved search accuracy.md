@@ -13,7 +13,7 @@ title: "In the end, what is needed is improved search accuracy"
 
 > [nishio](https://twitter.com/nishio/status/1704379950743339227) Generation AI is effective when used properly for generation, but what do customers want to generate in the first place? When I think about it, most customers' needs are "to find the important parts among a lot of things that are hard to read", and even if they finally generate, there is "to find materials for generation" before the generation, so search is necessary after all.
 
-> [nishio](https://twitter.com/nishio/status/1704380927970009522) The story is slightly different and I don't think "conventional technology is better" at all. I already use neither conventional search nor my own vector search almost exclusively [[RAG]]. I think that the domain of competition is to combine and re-rank sparse and dens search when increasing the usefulness of it.
+> [nishio](https://twitter.com/nishio/status/1704380927970009522) The story is slightly different and I don't think "conventional technology is better" at all. I already use [[RAG]] all the time, with little use of conventional search or my own vector search. But when I increase the usefulness of the conventional search, I feel that the domain of competition is to combine or re-rank [[sparse search]] and [[dense search]].
 
 ---
 This page is auto-translated from [/nishio/結局必要なのは検索の精度向上](https://scrapbox.io/nishio/結局必要なのは検索の精度向上) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

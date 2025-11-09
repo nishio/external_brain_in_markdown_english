@@ -4,7 +4,8 @@ title: "Significant differences, gains/losses and variance"
 
 - The C figure in [[Significant Difference and Break-even Point]] was suspicious because it had a rather skewed distribution.
 I just noticed that [[decentralization]] is the only difference that can be expressed.
-A and B are naturally not significantly different, but B is higher in profitability.
+A and B have no [[significant difference]], but B is higher in profitability.
+- [[Even if there is no difference in the mean, there may be a difference in the variance]].
 ![image](https://gyazo.com/277dc870eeb49cc1d88a7be3c40b6994/thumb/1000)
 
 This is the same composition as that of [[The value of quality variation depends on the level of demand.]] explained in [[How to come up with good ideas]].

@@ -8,7 +8,7 @@ title: "Discover and Link"
 - 2: [[Writing in the past]] can be found
 - 3: [[link]] to it and write a new "[[not written yet]]".
 
-Without [[discovery assistance]] of [[related articles written in the past]] in 2, [[I forget what I wrote in the past and write the same thing over and over again]].
+Without [[discovery aid]] in 2, "[[related articles written in the past]]," [[I forget what I wrote in the past and write the same thing over and over again]].
     - [[vector search]] has been enhanced to [find related articles written in the past
         - [[detection]]
 

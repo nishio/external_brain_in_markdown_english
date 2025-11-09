@@ -16,14 +16,17 @@ AI can help humans find common ground in democratic deliberation
 > A new study published in Science shows that #AI tools can help people with different opinions find common ground by summarizing collective views more effectively than humans.
 ![image](https://gyazo.com/240bfd4b510766e38fb7be1077f91fe2/thumb/1000)
 
-[[Caucus Mediation]]
+- [[Caucus Mediation]]
 <img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>Caucus Mediation" is a technique in the mediation process in which the conflicting parties do not directly interact, but rather the mediator provides a forum for individual discussion with each party. This method often takes place in separate rooms so that both parties can calmly express their opinions, and the mediator moves back and forth between them to reconcile their positions.
 - I see.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
         - [[Direct human communication without trust is likely to produce unproductive results and should be improved by AI moderators]]
+    - In Japanese, the major expression seems to be "separate mediation.
 
 ![image](https://gyazo.com/b92b98615eabe4d887d7dac0e6f12ff1/thumb/1000)
 
 ![image](https://gyazo.com/a20ae24b26268ba5d4e1bfd9b8817aae/thumb/1000)
+
+[[Habermas Machine]]
 
 ---
 This page is auto-translated from [/nishio/ハーバーマス・マシン](https://scrapbox.io/nishio/ハーバーマス・マシン) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

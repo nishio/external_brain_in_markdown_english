@@ -32,5 +32,9 @@ That's not quite right, is it?" How to develop after
     - Very useful but expensive, as there is progress in the perspective of observing things itself.
     - ![image](https://gyazo.com/f3a1a483db47347b7539b6432812e0e2/thumb/1000)
 
+relevance
+    - [[Cumulative effect of ideas]]
+    - [[Hopefully the knowledge in the book will connect with your own experience.]]
+
 ---
 This page is auto-translated from [/nishio/違和感の発展](https://scrapbox.io/nishio/違和感の発展) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

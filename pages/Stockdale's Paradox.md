@@ -29,6 +29,8 @@ When you can't get approval from others.
 
 orthographical variants
     - [[optimistic]] 　 [[optimistic]] 　 [[Stockdale's paradox]]
+    - [[optimism]]
+    - [[optimism]]
 
 relevance
     - [[Faith in Fortune]]

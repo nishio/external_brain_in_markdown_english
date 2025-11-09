@@ -15,5 +15,7 @@ relevance
 - Location oriented ⇔ [[content oriented]].
     - It's [[Winny]]-like.
 
+[IPFS looks good - windymelt](https://mirror.xyz/windymelt.eth/ANy4hYVMEZu6XUEBCSPbZvJ4mjvYmYaNEIueBJTUddk)
+
 ---
 This page is auto-translated from [/nishio/IPFS](https://scrapbox.io/nishio/IPFS) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

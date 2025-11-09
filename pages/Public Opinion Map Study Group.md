@@ -139,7 +139,7 @@ The Invisible Side of the Story
             - I don't think it's going to fall that far since it's just a small record INSERT into PostgreSQL.
             - but the spike when introduced on TV is a concern
             - made to fail silently without compromising the user experience.
-- How AI Cluster Explanation Works
+    - How [[AI Cluster Description]] works
     - The front end formats the data Polis spits out.
 :
 

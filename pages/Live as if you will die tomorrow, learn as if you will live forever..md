@@ -23,4 +23,11 @@ Mathematically, if the probability of dying in 5 years is 1/2, it would be just 
 It may be better not to fix a term. Thinking about what we would do if the time period were fixed is a way to change our perspective. Maybe it is better to switch from time to time, thinking that you will die tomorrow, in a week, in 49 days, in a year, in 7 years, and so on.
 
 ---
+2025-08-20
+- [[Live as if you'll die tomorrow]]
+- [[Learn as if you will live forever]].
+        - The [[physical body]] does not live forever, but the [[totality of open-access information]] survives after one's physical body ceases to function.
+        - If [[study]] becomes [[open access]], aren't we learning to live forever?
+
+---
 This page is auto-translated from [/nishio/明日死ぬかのように生き、永遠に生きるかのように学べ](https://scrapbox.io/nishio/明日死ぬかのように生き、永遠に生きるかのように学べ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

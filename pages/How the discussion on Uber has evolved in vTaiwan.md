@@ -2,6 +2,8 @@
 title: "How the discussion on Uber has evolved in vTaiwan"
 ---
 
+Original data: [[Uber discussion in Pol.is]].
+
 from [[vTaiwan]]
 How has the discussion on [[Uber]] evolved in [[vTaiwan]]?
 - ([[Audrey Tan]] article at DeepL and excerpted by Nishio)
@@ -27,7 +29,7 @@ How has the discussion on [[Uber]] evolved in [[vTaiwan]]?
 (DeepL)
 - > This tool is one of the best ways to rid ourselves of the "mind virus" of ideology that is hacking away at our political debate and diminishing our ability to work together as a society.
 - > Discussing politics on the internet almost never works because the conversation can turn ugly within minutes with personal accusations and anonymous misbehavior. the secret sauce that pol.is used to avoid this was so simple that it eliminated replies.
-    - [[Polis lost reply]].
+    - [[Polis has eliminated replies]] / [[Mechanisms that do not allow replies]].
 - >  Engaging citizens online is very different from actually translating their voices into legislation. Most open government initiatives fall into the former category and only gather public opinion for editorial purposes. The appeal of the vTaiwan program, however, is that it utilizes pol.is in a binding manner. The government agreed either to reflect the consensus in the National Assembly or to provide a point-by-point explanation of why the consensus point is not (yet) feasible.
     - Here's the thing, the government's side has promised to pay upfront, which creates an incentive for participants to cooperate.
 - > Taiwan is quite unique among developed countries in that "the Internet and democracy have evolved together, spread together, and integrated together," as Audrey Tan, the country's current Minister of Digital Affairs, has described it. Freedom of the press and the spread of personal computers were realized in the same year, 1986. Similarly, dot-com sites and elections came into existence at about the same time in Taiwan in 1996.

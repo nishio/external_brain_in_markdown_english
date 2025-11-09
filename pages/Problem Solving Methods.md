@@ -2,6 +2,10 @@
 title: "Problem Solving Methods"
 ---
 
+[What is the "Problem Solving Method"? ─ ─ A framework for discussion to solve company problems | Cybozu Teamwork Research Institute](https://teamwork.cybozu.co.jp/blog/problem-solving-method.html)
+
+
+2019-04-15
 ![image](https://gyazo.com/5d78a66b3a3115494c2b429310051195/thumb/1000)
 - [[I thought only of the team.]]  P.106
 

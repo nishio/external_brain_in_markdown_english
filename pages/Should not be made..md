@@ -2,8 +2,9 @@
 title: "Should not be made."
 ---
 
+2024-09-29
 I saw the description of the situation in the question, "[[How should I make it]]?" and thought, "You shouldn't make it," but since it doesn't seem like that's the kind of answer I'm looking for, I'll just shut up.
-- [[I don't need to stand in my way.]]
+    - [[You don't have to stand in your own way.]]
     - [[Let the market do the criticizing.]]
 
 [[You want to make it, so make it.]]

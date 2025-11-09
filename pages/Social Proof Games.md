@@ -10,7 +10,7 @@ title: "Social Proof Games"
     - It's easy for those who like [[metaboard game]].
 - If only we realize that the game is there.
 - We need to be careful to remember that [[in-game points]] are only a false image. #False Indicators
-    - [[desire for approval]], [[addictive]] is high because it is directly related to the desire to be perceived as a big person.
+    - [[desire for approval]], [[addictive]] is high because it is directly related to [[desire to be perceived as a big person]].
 - It's one thing to have a high game score, it's another thing to have a high game score, and whether it's worth dealing with behind it.
     - You could say that I have the ability to headline games and have a higher game score, but there's also the [[fortune]] factor.
 

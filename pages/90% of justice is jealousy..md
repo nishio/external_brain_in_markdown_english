@@ -1,0 +1,18 @@
+---
+title: "90% of justice is jealousy."
+---
+
+<img src='https://scrapbox.io/api/pages/nishio-en/GPT5/icon' alt='GPT5.icon' height="19.5"/>Conclusion: Unsubstantiated (almost an urban legend). No primary information or academic research was found to support the quantitative expression "90% of justice is jealousy."
+- Source: original post spread on social networking sites around 8/26/2025 as "the words of a professor of tax law at a university". Primary sources (lecture transcripts, books, lecture transcripts) not identified. ([X (formerly Twitter)](https://x.com/NEWS_0/status/1960447337035088244?utm_source=chatgpt.com), [Hatena Bookmark [https://b.hatena.ne.jp/entry](https://b.hatena.ne.jp/entry) /s/posfie.com/%40Count_Down_000/p/ys5hvJO?utm_source=chatgpt.com])
+    - > [Nier_FF](https://x.com/Nier_FF/status/1960179650770194610) Whenever I want to hit something with a [[sense of justice]], I often think of my tax law professor who said, "90% of a sense of justice is [[envy]]," and I stop myself.
+    - >  "People around you know you are jealous more than you think," he continues.
+    - >  I've forgotten everything about the tax code, but I remember these things.
+- A close famous phrase: "[[Jealousy comes]] under the mask of justice" by the essayist Natsuhiko Yamamoto is often quoted, but it is not accompanied by a numerical value ("90%"). ([Agora Discourse Platform](https://agora-web.jp/archives/230721212937.html?utm_source=chatgpt.com), [some hint [https://hint.hateblo.jp/entry/2014/](https://hint.hateblo.jp/entry/2014/) 09/04/130127?utm_source=chatgpt.com])
+- Research Findings:
+    - In social networking sites, "liking/sharing" amplifies the expression of moral outrage in a learned way (i.e., diffusion factors are present). ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/?utm_source=chatgpt.com), [Yale News [https://news.yale.edu/2021/08/13/likes-and](https://news.yale.edu/2021/08/13/likes-and) -shares-teach-people-express-more-outrage-online?utm_source=chatgpt.com])
+    - Moral grandstanding" (self-expression through morality) is associated with the desire to acquire status. However, it cannot be said that "jealousy is the main cause of 90%. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6795490/?utm_source=chatgpt.com))
+    - The relationship between jealousy and moral judgments cannot be simplified, as there have been reports of situations in which jealousy has rather weakened "moral hypocrisy" ([[SAGE Journals, ]]). ([SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/0146167211422365?utm_source=chatgpt.com))
+- Summary: The quantity claim (90%) is unverifiable due to an internet distribution meme that exaggerates Natsuhiko Yamamoto's warning. As a concept, "jealousy in the name of justice" is possible, but there is no evidence to empirically assert the percentage. ([note (note)](https://note.com/en_hoshi/n/n509296a74f50), [Agora Discourse Platform [https://agora-web.jp/archives/230721212937.html?utm_source=](https://agora-web.jp/archives/230721212937.html?utm_source=) chatgpt.com])
+
+---
+This page is auto-translated from [/nishio/正義感の9割は嫉妬](https://scrapbox.io/nishio/正義感の9割は嫉妬) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

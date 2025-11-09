@@ -2,6 +2,7 @@
 title: "Proposal to add comment function to Scrapbox"
 ---
 
+2018-05-29
 - Bookmarklet to add comments
 - Press `[/comments]` or something like that.
     - Link to the page that was opened `[/nishio/title]`.

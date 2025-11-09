@@ -4,7 +4,7 @@ title: "Trade-off between depth and breadth of cooperation"
 
 [/plurality-japanese/ spectrum of collaboration across diversity](https://scrapbox.io/plurality-japanese/ spectrum of collaboration across diversity).
 ![image](https://gyazo.com/2023cb08538c06434d3ac53d4991d24d/thumb/1000)
-
+![image](https://scrapbox.io/files/68abf3f915304bc63b3d46cf.png)
 
 [[depth and breadth of cooperation]].
 - [[Depth vs. space tradeoff]]

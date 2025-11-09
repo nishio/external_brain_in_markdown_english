@@ -75,6 +75,7 @@ Presentation materials + transcription of talk
         - The "career-track job system" and the "general job system" are often adopted by large companies, but they are often thought of as systems for men and systems for women. These systems should be made parallel so that employees can freely choose between them regardless of gender or type of job. Which one is chosen is solely up to the individual.
 
     - [Cybozu's "Choice-Based Personnel System" has reduced the turnover rate from 28% to 4%. Cybozu, Inc. | Latest Articles](http://www.building.co.jp/news/1915/)
+    - June 20, 2018 [too free ......!　We asked about Cybozu's new "work system" that they recently started | Cybozu Style](https://cybozushiki.cybozu.co.jp/articles/m001471.html)
 
 - 2008-2009
     - > What we did in 2008-2009 was to sell acquired companies and reorganize our business. In parallel, we enhanced our systems to diversify work styles, allowing more people to work longer and grow. ([Nakane](https://www.hrpro.co.jp/hrsummit/2016/stage1/sp_rpt02.php))
@@ -126,6 +127,8 @@ Presentation materials + transcription of talk
     - 2013 ["Middleman" talks about the reality of ultra-work](http://www.itmedia.co.jp/enterprise/articles/1302/26/news008.html)
         - > Nearly half of Cybozu employees, including myself, are on discretionary work. Still, before the trial of Ultra Work, I felt a little bad about sleeping during daytime travel. What has changed with Ultra Work is that the company no longer cares about this aspect of my working hours because of the freedom it offers. (Nomizu)
     - Pilot introduction of Ultrawork from 2012/08 Full introduction from 2013/07 ([src](http://www.building.co.jp/news/1915/))
+    - May 13, 2013 [Why did Cybozu eliminate "time" and "place" constraints to work? (Part 1) | Cybozu Style](https://cybozushiki.cybozu.co.jp/?p=8328)
+
 
 - 2012- Self leave system for childcare
     - Up to six years of "parental leave"
@@ -167,6 +170,10 @@ Presentation materials + transcription of talk
 - Aug. 2014 ["Are deficits really a bad thing?" Tokyo Itoi Shigesato Office CFO Shinoda vs. Cybozu Vice President Yamada | Cybozu Style](https://cybozushiki.cybozu.co.jp/articles/m000323.html)
 
 - 10/2014 [Working for two companies, a way of working called "duplication of work"](http://mydeskteam.com/casefile/1295/)
+
+- 2014
+    - Ministry of Economy, Trade and Industry [100 Diversity Management Companies](https://www.meti.go.jp/policy/economy/jinzai/diversity/kigyo100sen/index.html)
+    - [Best Practices Collection 2014 Cybozu](https://www.meti.go.jp/policy/economy/jinzai/diversity/kigyo100sen/practice/pdf/77cybozu.pdf)
 
 - 2015 If you attend an event on your day off that is useful to your business, you may attend it as part of your duties and treat it as working on your day off.
     - [Cybozu Inside Out - Cybozu Inside Out - Cybozu Cybozu Engineer Blog - Cybozu Inside Out | Cybozu Engineer's Blog](https://blog.cybozu.io/entry/2018/09/13/113000)
@@ -259,6 +266,7 @@ Presentation materials + transcription of talk
 
 - 2018/6/27
     - [Cybozu's too free way of working was managed in this way! Cybozu's too free way of working was managed in this way｜Cybozu Work Style Encyclopedia](https://cybozu.co.jp/sp/workstyle/workstyle22.html)
+        - [[Cybozu's too free way of working was managed in this way.]]
     - A story about the use of information systems for human resource management
     - Cybozu's personnel system is sometimes commented as "too burdensome without [[salary table]]," but we are creating a system that rotates without a salary table.
     - In 2007, there were 3 classifications to choose from, then increased to 9 classifications, and since 2018, each person is individual, so almost 10 years of accumulation of "management of different states of work for different people".

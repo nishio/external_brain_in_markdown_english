@@ -29,5 +29,13 @@ Other games discussed
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>[[Dyson Sphere Program]] is more like [[Satisfactory]] than [ONI
 - ONI doesn't have a character of its own.
 
+
+Notation shaking: [[factory game]].
+- You often [[automate]] [[factories]].
+    - Games like [[Autonauts]] or [[? a game that looks like a Pokemon parody]]] automate agents that move around instead of automating fixed factory facilities.
+        - Fixed equipment and agents that move around between them.
+    - Factorio has no agents to move around (until there are transport drones).
+    - [[Oxygen Not Included]] and [[Ratopia]] are both present.
+
 ---
 This page is auto-translated from [/nishio/自動化ゲーム](https://scrapbox.io/nishio/自動化ゲーム) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

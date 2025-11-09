@@ -2,11 +2,11 @@
 title: "unaware taker"
 ---
 
-> [zunzun428](https://x.com/zunzun428/status/1825906603339690022) People who are not doing well in life are often subtle takers without realizing it.
->  The point here is that he is a subtle taker without realizing it, so he doesn't realize he is a taker, but rather thinks he is a giver...
+> [zunzun428](https://x.com/zunzun428/status/1825906603339690022) People who are not doing well in life are subtle [[takers]] without realizing it.
+>  The point here is that he is a subtle taker without being aware of it, so he doesn't realize he is a taker, but rather thinks he is a [[giver]]...
 
 > [zunzun428](https://x.com/zunzun428/status/1825906682947580291) He thinks he is a giver, but he doesn't return it by exploiting those around him without realizing it, so they think "I don't like something about him" and he is slowly being hacked away from the community Holy shit... really slowly.
->
+- [[Self-inflicted alienation]]
 >  People who are subtle takers without realizing it, think that "giving is losing money."
     - [[People who think that giving is a loss.]]
 
@@ -17,7 +17,7 @@ title: "unaware taker"
 
 > [zunzun428](https://x.com/zunzun428/status/1825906941648056425) When a child is told this, he or she will feel guilty that he or she has not repaid his or her mother's sacrifice enough. As a result, the child will feel compelled to do what the parents want in order to reward them >>.
 
-> [zunzun428](https://x.com/zunzun428/status/1825907044572082232) But even when these mommas try to meet expectations, they are never satisfied......and the child feels more and more that he or she is not rewarded for what he or she gives. This is the reason for the sense of exhaustion and exhaustion. This leads to a sense of exhaustion and futility, and the child begins to vaguely believe that "giving involves a one-sided sacrifice.
+> [zunzun428](https://x.com/zunzun428/status/1825907044572082232) But even when these mommas try to meet expectations, they are never satisfied......and the child feels more and more that he or she is not rewarded for what he or she gives. This is the [[sense of]] frustration. This leads to a sense of exhaustion, and the child begins to vaguely think that "giving involves one-sided sacrifice.
 
 > [zunzun428](https://x.com/zunzun428/status/1825907201384525879) Then you become very stingy about giving someone something....
 >

@@ -16,6 +16,7 @@ Kyo large cards are B6 size (182mm x 128mm)
 
 ![image](https://gyazo.com/cce145cffaef02e3354d870c339b29ea/thumb/1000)
 The Art of Intellectual Production, p.56 # Granularity of information
+- This sample also shares the same thought as "[Evergreen notes should be atomic.
 
 In addition to these information cards, Umesao uses a B8 size paper called "[[small stature]]". This one is not stocked, but used and discarded.
 > When the work is done, the kozane is no longer needed. Just roll it up and throw it away. (p.205)

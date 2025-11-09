@@ -16,11 +16,12 @@ title: "Cybozu Culture"
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
 - > It is important to share and sympathize with the objectives because it is very costly to create and operate a strict system.
 - I think some people might interpret this expression as "Since it costs a great deal to create and operate a rigorous system, the objectives should be shared and sympathized with, and each individual should bear the great cost of operating such a rigorous system".
-- But I think what he means is, "It is important to share and sympathize with the objectives and flexibly allow deviations from the rules or change the rules as long as they are in line with the objectives, rather than trying to create strict rules because it is very costly to create and implement a strict system.
+- However, I think it means "Since it costs a lot to create and operate a strict system, it is important to share and sympathize with the objectives and allow [[deviations from the rules]] or change the rules [[flexibly]] as long as they meet the objectives, instead of trying to create a strict set of rules.
 - The title says "purpose over rules."
 - For those accustomed to the Cybozu culture, it is easy to take the latter interpretation for granted, but there are those in the world who would interpret the former
 
 [[Diverse personalities]].
+[[Institutionalize]]
 
 ---
 This page is auto-translated from [/nishio/サイボウズの文化](https://scrapbox.io/nishio/サイボウズの文化) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

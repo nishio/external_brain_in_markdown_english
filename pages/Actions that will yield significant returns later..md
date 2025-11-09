@@ -30,7 +30,7 @@ Relevance to content:.
 - If the connector fails to follow up, the connector could be held responsible for any problems that occur among the people connected.
 - In other words, it is not only the act of connecting, but also the maintenance and development of the relationship that leads to [[long-term value creation]].
     - [[Relationship maintenance and development]]
-        - [[Building Human Networks]]
+            - [[Building a human network]]
 
 # Context 2: [[3 variables of the game]]
 

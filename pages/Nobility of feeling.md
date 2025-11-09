@@ -2,6 +2,9 @@
 title: "Nobility of feeling"
 ---
 
+[[Behave well against the enemy]].
+[[unexpected generosity]].
+
 from [[The Art of Worldly Wisdom]]
 Nobility of feeling
 cxxxi

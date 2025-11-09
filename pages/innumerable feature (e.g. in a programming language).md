@@ -3,7 +3,8 @@ title: "innumerable feature (e.g. in a programming language)"
 ---
 
 see [[non-numerical]]
-    - [The Japanese translation of "non-numerical character" [[Experiential Processes and the Creation of Meaning]] in [[Eugene Gendlin. Experiential Processes and the Creation of Meaning]].
+    - Japanese translation of "non-numerical character" in [[Eugene Gendlin.]]'s assertion that "experienced meaning has [[non-numerical character]]".
+        - [translation in Experiential Processes and the Creation of Meaning
 
 - [[innumerable]]
 

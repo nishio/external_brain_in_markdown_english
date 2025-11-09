@@ -11,5 +11,8 @@ Now, if we return this analogy to writing, we get "First the text is written to 
 relevance
     - [[You may read it, but you don't have to.]]
 
+orthographical variants
+- [[May be used]]
+
 ---
 This page is auto-translated from [/nishio/読んでもいいと使ってもいい](https://scrapbox.io/nishio/読んでもいいと使ってもいい) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

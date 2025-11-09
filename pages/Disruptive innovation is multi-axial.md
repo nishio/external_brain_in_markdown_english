@@ -21,7 +21,9 @@ gelidium jelly strips (made from agar-agar)
 >  It is hard to explain the difference between rational behavior on a macro level, where [[Fog of War]] does not exist, and behavior when only rationality on a micro level is known, due to the existence of fog of war.
 nishio
 > I wonder, is it really due to the fog of war? For example, if everything is observable and Option A has a 100% chance of 1.1 return and Option B has a 50% chance of 3 return 50% chance of 0 return, it would be reasonable "for that individual" for one employee of a large company to choose Option A, saying "I don't want to play the role of dying"
-    - [[a common diagram]].
+    - [Two probability distributions with different variances
+- [[Rationality as an individual]].
+        - [[principal-agent problem]]?
 gelidium jelly strips (made from agar-agar)
 > Yes, that's what happens when you do a "Reasonable performance evaluation".
 

@@ -20,6 +20,7 @@ title: "Natural and artificial nets"
     - Stay for a while before drifting away
 - While the far things stay, the near things come [[Bridging and Connecting]].
     - Related: [[associative connection]].
+    - 2025-09-10 "while distant things remain" is related to [rhetorical afterimage
 - It varies from person to person.
     - ![image](https://gyazo.com/a382e21cf7a848542f7d9107af03ce6c/thumb/1000)
 

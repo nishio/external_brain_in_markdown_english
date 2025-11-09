@@ -5,7 +5,7 @@ title: "The process of understanding Azure for the Azure layman"
 
 - First, let the raw experience sink in.
     - Sometimes we don't have time to think about anything else at this time.
-    - Over time, the [[repeated patterns]] and overlaps [[with past experiences]] in the experience [[become]] clauses and [[parts of thoughts]].
+    - Over time, the [[repeated patterns]] and overlaps [[with past experiences]] in the experience become [[segmentation]] and [[parts of thoughts]].
         - see  [[Story intersections become atoms.]]
     - Whether it's [[AI-generated procedures]] or [[tutorial]], it's the same there.
 - AI-generated procedures were too complex to complete.

@@ -21,5 +21,8 @@ title: "Significant Difference and Break-even Point"
 sequel
     - [[Significant differences, gains/losses and variance]]
 
+relevance
+    - [[Who pays the maintenance costs?]]
+
 ---
 This page is auto-translated from [/nishio/有意差と損益分岐点](https://scrapbox.io/nishio/有意差と損益分岐点) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

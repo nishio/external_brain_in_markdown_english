@@ -2,6 +2,7 @@
 title: "folding umbrella"
 ---
 
+2024-11-23
 My folding umbrella broke.
 View Amazon History
 
@@ -27,6 +28,10 @@ View Amazon History
 
 I opened the umbrella I was going to throw away to take this picture, and it worked normally, what do you mean?
 - The line is not broken, just disconnected?
+
+2025-10-01
+totally hopeless
+
 
 #What we use
 

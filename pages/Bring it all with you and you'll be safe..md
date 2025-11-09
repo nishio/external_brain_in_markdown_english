@@ -12,6 +12,7 @@ I'll try to list what exactly I brought later.
 relevance
     - [[Examples of Cognitive Resolution]]
         - [[Cognitive Resolution]]
+- [[Discrepancy in recognition of the Nishio family]].
 
 ---
 This page is auto-translated from [/nishio/全部持っていけば安心](https://scrapbox.io/nishio/全部持っていけば安心) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

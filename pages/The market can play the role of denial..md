@@ -11,10 +11,11 @@ This is one of the most harmful [[Pessimistic Misconceptions]] of misconceptions
     - [[Clark's first law]]
 
 A common thought among older people is, "He doesn't understand [[harshness of the world]], so I have to teach him."
-- But it is strange that an individual who is not a part of the "world" should take on the role of teaching the harshness of the "world" in the first place.
+- But it is strange that an individual who is not "the world" should play the role of teaching the harshness of "[[the world]]" in the first place.
         - [[No one is equal to the market.]]
 
-2021-07-05
+2021-07-05 First published.
+2023-01-01 Increase bracket
 
 ---
 This page is auto-translated from [/nishio/否定する役割は市場がすればよい](https://scrapbox.io/nishio/否定する役割は市場がすればよい) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

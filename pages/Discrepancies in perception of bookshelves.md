@@ -23,5 +23,9 @@ from [/villagepump/2024/02/25](https://scrapbox.io/villagepump/2024/02/25)
 
 next:  [[When you move things]]
 
+[[bookshelf]].
+[[out of sight]]
+[[Discrepancy in recognition of the Nishio family]].
+
 ---
 This page is auto-translated from [/nishio/本棚の認識の食い違い](https://scrapbox.io/nishio/本棚の認識の食い違い) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

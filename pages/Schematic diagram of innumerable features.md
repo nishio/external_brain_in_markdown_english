@@ -5,7 +5,7 @@ title: "Schematic diagram of innumerable features"
 - [[innumerable features (e.g. in a programming language)]] ([[non-numerical]]) are too hard to draw.
 - [[Make the gradient in three steps.]] This makes it relatively easy to draw.
 > ![image](https://gyazo.com/8124439cb1200fb802f666fba5c946dc/thumb/1000)
-> "Is this one or two?" about these things. Two?" It is futile to ask, "Is this one or two? It depends on where you define the boundary.
+> "Is this one or two?" about these things. Two?" It is futile to ask, "Is this one? It changes with [Where is the boundary?
     - [[Invention in "Experiential Processes and the Creation of Meaning" Study Session 4]].
 
 2024-08-29

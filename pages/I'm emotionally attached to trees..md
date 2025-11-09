@@ -8,7 +8,7 @@ derived from  [[Tree metaphor]]
     - Would you rather "have some empathy for non-homo sapiens"?
     - [[weak in comparison]]" because "the vast majority of Homo sapiens have strong empathy for their homologue, Homo sapiens"?
     - ![image](https://gyazo.com/330125a80fbe06a28463399946004f47/thumb/1000)
-- "Thinking from the computer's point of view" is [[the ability to empathize with the computer]].
+- Thinking with [[computer feelings]]" is [[the ability to empathize with computers]].
     - I wonder if the type of people who say "empathy for Homo sapiens" is short for "empathy for non-homo sapiens" are simply unaware of its existence because they have low "empathy for non-homo sapiens.
             - [[Fog of Literacy]]
 

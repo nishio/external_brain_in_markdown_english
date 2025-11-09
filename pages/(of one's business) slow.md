@@ -11,5 +11,7 @@ title: "(of one's business) slow"
 >
 >  It is easy to think that "people with bad character are slandering you" or "people who don't like you are slandering you," but in reality, it may be "people who have time on their hands. If you can just see it as "it's not my fault, I was just chosen as a target to kill time," you may feel a little lighter.
 
+- [[waste of time]]
+
 ---
 This page is auto-translated from [/nishio/暇](https://scrapbox.io/nishio/暇) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

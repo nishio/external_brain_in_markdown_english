@@ -2,6 +2,7 @@
 title: "Keichobot on GPT-3.5-Turbo"
 ---
 
+2023-03-02
 - I realized Keichobot on ChatGPT and thought that the next step would be to experiment with GPT3 ([[Keichobot on ChatGPT]]).
 - 2023-03-01 OpenAI released ChatGPT API ([[GPT-3.5-Turbo]])
 - And at 1/10 the price.

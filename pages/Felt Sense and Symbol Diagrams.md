@@ -8,7 +8,7 @@ title: "Felt Sense and Symbol Diagrams"
 - ![image](https://gyazo.com/3c8fea0c44a3ffa5d1f835f820e9d01d/thumb/1000)
 - Arrows coincide with time series
     - At first I used dotted arrows to represent relationships unrelated to the time line, but I didn't really need to use them.
-    - A curved arrow indicates a creative use of the word differently from its original meaning, for example, as a metaphor ([[non-parallel symbol]]).
+    - A curved arrow indicates a creative use of the word that is different from its original meaning, for example [[metaphor]] ([[non-parallel symbol]])
 
     - [[There are three patterns in the results of direct matching]]
         - [[Direct Match → Partial Match → Segmentation]]

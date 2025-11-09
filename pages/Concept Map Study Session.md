@@ -1,0 +1,135 @@
+---
+title: "Concept Map Study Session"
+---
+
+- [[conceptual map]] Study group
+    - [[Cybozu Labs Study Session]]  2025-09-19
+- The story of the creation of the [[conceptual map of the Plurality book]].
+    - Visualize relationships between concepts with data from a book
+    - [https://nishio.github.io/plurality-concept-map/](https://nishio.github.io/plurality-concept-map/)
+    - I'll explain in more detail later, but I think it's easier to visualize if you look at specific examples first.
+
+[[GraphRAG]]
+- Paper: [[From Local to Global: A Graph RAG Approach to Query-Focused Summarization]].
+- Survey Paper: [[Graph Retrieval-Augmented Generation: A Survey]].
+    - This paper is highly abstract because it explains the various configurations together.
+        - You know, "Sometimes the input is text, sometimes it's graphs."
+        - This study session will focus on the main focus of our use case.
+    - Both conventional RAG and GraphRAG are concepts that are grouped together by familial similarity, so the description of properties is not a requirement, but only a tendency.
+        - GraphRAG has X characteristics" does not mean that all GraphRAGs have X characteristics, there are often exceptions.
+- Problems with conventional RAGs
+    - Conventional: For example, chop into short fragments, embed them in a vector, and search by vector similarity.
+    - Not good at dealing with relationships
+        - Easy to fail to pick up on the relationship, I'll explain later in the diagram.
+    - "Search by vector similarity"
+        - "Vector similarity" is a general semantic similarity
+            - I don't know about embedding models, like Gr is "Group" in general, but in the Cybozu context it's "Garoon".
+            - I want to give them knowledge of "Gr=Garoon=Garoon" or "Gavkin=GovTech Kintone" and use it, but I'm struggling with how to give them that knowledge and how to get them to use it.
+    - Context is repetitive and lengthy
+        - Training the model training on your own is expensive, so loading into context tends to be done
+        - Search and find something similar and load it into the context, so the context becomes a series of similar sentence fragments.
+        - Such "documents listing vector search results" did not exist before LLM, so it is an "unfamiliar format" for LLM, and they are not very good at dealing with it.
+        - Approach to train relancers is effective.
+- The GraphRAG Approach
+    - Chunks in conventional RAGs are cut from raw text
+    - GraphRAG extracts concepts and relationships
+    - ![image](https://gyazo.com/43aa53e2a4ea5d217fc3f5c4ff0a5ec4/thumb/1000)
+    - Being a graph allows width-first search and routing.
+        - What is the relationship between Concept A and Concept D?"
+        - ![image](https://gyazo.com/f72de3b271c5ed327491ce5e4ce4eae2/thumb/1000)
+        - Suppose that the original text contains "A→B", "B→C", and "C→D".
+        - Conventional RAG search does not pick up "B to C" chunks
+            - That chunk doesn't contain any A's or D's.
+        - GraphRAG finds nodes A and D in the graph, and then performs a path search on the graph to find information from B to C.
+    - [[multiple symbols referring to ambiguous concepts]].
+        - ![image](https://gyazo.com/1e08ee504135c94d046c2c44f3a3b776/thumb/1000)
+        - Concepts used in general conversation do not have clear boundaries, unlike mathematics, etc.
+        - Boundary blurred meaning M expressed by symbol A or B
+            - The two are not synonymous, but there are nuanced differences that have yet to be verbalized.
+            - The two symbols are associated with different "aspects" of M (related: [[Aspects of Experience]]).
+        - It happens that some symbol C1 is exclusively connected to A, some symbol C2 is exclusively connected to B, some symbol C3 is connected to both A and B, and so on.
+        - (See [[Experiential Processes and the Creation of Meaning" Study Session 4]] for diagrams and terminology used in this area.)
+
+
+- [[conceptual map]]
+- Paper presented at the meeting: [[A Framework for Constructing Concept Maps from E-Books Using Large Language Models: Challenges and Future Directions]].
+    - Extracting concepts and relationships from e-books for Python classes
+    - 80% agreement with the list of key concepts developed by experts in the GPT-4o experiment
+- The structure is similar to the indexing part of GraphRAG, where concepts and their relationships are extracted.
+- I just made the manuscript data available for the Plurality book, so I made it the subject of an experiment.
+    - GPT5 Pro read the paper and made a prototype implementation, progress.
+    - ![image](https://gyazo.com/a1cfde62ef95370929bd2455fe1c9d07/thumb/1000)
+- Specific implementation
+    - I've read the original document 3-4 times.
+        - 1: Extract concepts by chapter
+        - 2: Extract relationships between concepts by chapter
+        - 3: Minimal concepts and relationships are newly extracted so that the graphs created for each chapter are connected.
+        - 4: Extract relationships across chapters
+    - Recognizing that this is an "important" tweak
+        - The one judged to be "important" based on the text alone is (1)
+        - The concept of bridging the gap between what is written in one chapter and what is written in another is important" (3)
+        - The relationship that bridges multiple chapter descriptions within a single book is important."(4)
+    - The original paper used GPT-4o, but GPT-5-mini had better data.
+        - 1USD for 1 book
+    - I visualized the resulting graph.
+        - Deepen the image of GraphRAG, which is difficult to imagine.
+        - I tried to do so, but it was not consolidated, so I did a separate consolidation (3).
+            - I'm having ChatGPT GPT5 Thinking copy and paste it after generating the prompt here.
+            - Thinking will give you a consolidated graph in one shot, gpt-5-mini or something like that won't.
+    - Concepts and relations to be extracted are accompanied by quotations from the original text as "evidence".
+        - ![image](https://gyazo.com/1acd76185195045530b452c077f23f7f/thumb/1000)
+        - I used this to be able to jump to the corresponding part of the original text.
+        - This allows me to look at the graph and when I feel uncomfortable, I can look at the citation or the original text and decide, "Well, it sure says so," or "No, this extraction is not appropriate.
+        - I'm giving the current concept map web service statically in JSON, but I hope in the future the graph will be improved with questions and tweaks.
+    - In the original paper the relationship is categorical
+        - I'm limiting myself to a few options like `is_a` or `part_of`.
+        - This is not my personal favorite, so I tried to express the relationship in a sentence
+            - Categorical may have the advantage of programmatic decision making without LLM, but if that is necessary, it is better to let LLM do it afterwards, `is_a`, `part_of`, .... If you need to do that, you can make a decision to let LLM do the classification into `is_a`, `part_of`, ..., `other`, ....
+
+limitation/future work
+- This concept mapping session focused on graph creation and visualization.
+    - Only one of the three levels of GraphRAG, Graph-Based Indexing
+        - Graph-Based Indexing
+        - Graph-Guided Retrieval
+        - Graph-Enhanced Generation
+    - I'd like to try the other two at some point.
+- After processing the main body of the Plurality book in Markdown format, we merged the authors' preface for the Japanese version at Cybozu Shiki and Ken Suzuki's commentary at WIRED as additional content.
+    - It would be interesting to add additional contents like this and connect them with inter-content links.
+    - It would be especially interesting to bridge the gap between written text and subtitles for videos of lectures, etc.
+        - Not technically difficult.
+        - I'd like the source link to be a timestamp link to the video, so using SRT would be a good idea.
+    - What I thought after adding three additional contents
+        - As you add more and more, more and more external links will be added to the main graph.
+        - ![image](https://gyazo.com/1ee6df9ae95fb0bc9154fe3c3b4a83dd/thumb/1000)
+        - Well, that's right, what can I do?
+        - The number of nodes and relationships should be incremental.
+            - First, "only in this chapter."
+            - Then, "only in this book."
+            - And after that's done, "with other content."
+        - Given that, is "each chapter" a good place to start? which begs the question.
+            - Maybe we need a digest version of the "whole book."
+        - Right now I have the links across chapters in a bidirectional view, but maybe it would be better to have no links from the main story to EXTRA?
+- groupware-like context
+    - Instead of trying to cover all data, it would be better to start with onboarding materials for newcomers.
+        - It seems like a good idea to run the process several times, trying it on small data sets, observing, and improving.
+    - Internal glossary-like data seems to have a high affinity.
+        - Almost "human-chosen key concepts."
+        - Extracting the relationships between those concepts would be immediate.
+        - However, unlike a book, it is not written as a connected story, so even if you visualize the graphs, they will be scattered.
+        - Promising as a quality data source when it comes to doing even GraphRAG in-house.
+- Keichobot-like context
+        - [[Keichobot, a chatbot that brings out your ideas]]
+    - Keyword extraction while conversing with users
+    - Frequent keywords are regarded as important keywords and asked in-depth questions
+    - When you find keywords that are important enough, ask questions about the relationships between them.
+    - This is the same flow of "concept extraction" followed by "relationship extraction"!
+    - Wouldn't it be interesting to have a concept map on the side while chatting?
+    - To begin with, we have been doing "chatting from scratch," but if you put in a written text, etc., they will ask you questions and improve the text based on what you have talked about, or some other structure, it becomes a form of "conversing with a concept map.
+        - The direction of whether the concept is outside the user and you're trying to get it in, or whether you're trying to get it out by encouraging the verbalization of what's inside the user, is the opposite.
+    - I think that after another year or so, the system that encourages verbalization through chatting will be easily available with a service that allows smooth conversation through voice.
+- Context for organizing information
+    - [[bottom-up tagging]].
+- [[creating links and meaning]].
+
+---
+This page is auto-translated from [/nishio/概念マップ勉強会](https://scrapbox.io/nishio/概念マップ勉強会) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

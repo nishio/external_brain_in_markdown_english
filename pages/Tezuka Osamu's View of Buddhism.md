@@ -2,7 +2,7 @@
 title: "Tezuka Osamu's View of Buddhism"
 ---
 
-Osamu Tezuka "[[Buddha]]" Chapter 9, Sujata
+[[Osamu Tezuka]] "[[Buddha]]" Chapter 9, Sujata
 [[Brahman]]
 ![image](https://gyazo.com/0efa95c5ad0c38c9f1d3443e8fdd5b27/thumb/1000)
 

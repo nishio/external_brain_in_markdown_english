@@ -26,7 +26,7 @@ Both are connected in that "conventional communication among homo sapiens is hig
 2. asynchronous autonomous AI agents to jump-start [individual productivity
 - Key point: Enter a purpose, and the agent autonomously searches, summarizes, and tries things out, while humans only check and modify policies.
 - Consequence: The
-    - The process that makes me a "[[cognitive resource bottleneck]]" will quietly disappear.
+    - The process of becoming "[[Cognitive resource bottlenecks]]" disappears quietly.
     - A realistic output density of 2 to 10 times is required for research, drafting of manuscripts, code implementation, etc.
     - Because they move at different times, "24-hour lines" are possible at the individual level, allowing projects to move forward even while workers are sleeping.
 

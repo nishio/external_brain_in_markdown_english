@@ -10,8 +10,12 @@ title: "intersecting group"
 - > World made of diverse, intersecting groups; not indivisual and Society
         - [[Hannah Arendt's Plurality]]
 
+- [[Techno Tyranny and the Road to Common]]  p.38
+- ![image](https://gyazo.com/77e655dd5e9121803343101e89748960/thumb/1000)
+
 relevance
     - [[A collection of organizations connected by people belonging to multiple organizations]]
+    - [[Allow every person to have multiple affiliations]]
 
 ---
 This page is auto-translated from [/nishio/intersecting group](https://scrapbox.io/nishio/intersecting group) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

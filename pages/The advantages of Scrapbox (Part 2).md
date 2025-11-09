@@ -116,7 +116,7 @@ What if I wrote it now without reading [[The advantages of Scrapbox]] written on
         - Google has been successful in aligning by PageRank
         - Services without a good ranking method tend to be "sorted by update time", etc.
         - Sorting by access order is a rule of thumb that "things that have been used recently are used more often again".
-    - Information Organization 3.0:.
+        - [[Information Organization 3.0]] :
         - Networked organization, connected by links
         - Place it [[in a frequently used location]]" is often used to organize physical objects
             - Dishes and knives are usually kept near the kitchen.

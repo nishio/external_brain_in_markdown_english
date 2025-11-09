@@ -2,7 +2,7 @@
 title: "Postponing a decision is like throwing trash into the future."
 ---
 
-[Postponing a decision is like throwing garbage into the future.
+[[Postponing a decision]] is like [Dumping Trash into the Future
     - [[postpone]] of [[decision]]
 
 from [[Hatena2009-03-15#6090ec22aff09e00003cf51c]]

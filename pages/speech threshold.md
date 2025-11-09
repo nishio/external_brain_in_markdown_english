@@ -2,6 +2,7 @@
 title: "speech threshold"
 ---
 
+2023-05-13
 ![image](https://gyazo.com/bbab6c3794b73d72f2ec7d8209625bbb/thumb/1000)
 
 A story about a park being closed down because people living near the park complained about the noise of children's voices.
@@ -20,6 +21,10 @@ It could be said to lower [[opinion distribution costs]].
 - [[Static friction]]
 
 [[bell tolling]]
+
+2025-08-31
+    - The [[silent majority]] voice could result in a bad future in the long run because all decisions are biased toward maintaining the status quo because there is a minority of people who will change the world.
+        - [[Science fiction about aliens interfering to prevent humans from expanding into space.]]
 
 ---
 This page is auto-translated from [/nishio/発言閾値](https://scrapbox.io/nishio/発言閾値) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

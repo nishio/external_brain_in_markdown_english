@@ -4,7 +4,7 @@ title: "Polis"
 
 > Polis is a real-time system that uses advanced statistics and machine learning to collect, analyze, and understand what large numbers of people are thinking in their own words. (DeepL)
 - [Polis | The Computational Democracy Project](https://compdemocracy.org/Polis/)
-- Pol.is] is also often written as [[Pol.is]], but I did so because the original owner calls himself Polis.
+- [[Pol.is]] is also often used, but the title was chosen because the original owner refers to himself as Polis.
 - [[Visualization of opinion distribution]]
 
 <img src='https://scrapbox.io/api/pages/nishio-en/nihia/icon' alt='nihia.icon' height="19.5"/>Polis is a system that collects and analyzes the opinions and sentiments of large numbers of people in real time. The system uses advanced statistics and machine learning to make the collected opinions easier to understand.

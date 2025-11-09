@@ -18,6 +18,7 @@ Business Administration
         - [[Type of competition]]
     - [[agency theory]]
     - [[transaction cost theory]]
+        - [[Transaction costs]]
     - [[theory of games]]
     - [[real option]] Theory
 

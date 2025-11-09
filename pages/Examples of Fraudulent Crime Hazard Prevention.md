@@ -3,6 +3,14 @@ title: "Examples of Fraudulent Crime Hazard Prevention"
 ---
 
 <img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
+In the ongoing development of the Fraud Prevention and Control Act in Taiwan, the Ministry of Digital Development (MODA) and vTaiwan jointly conducted an online debate - the largest "[[ mini-public]]" directly reflected the consensus opinions of the public in the draft articles (Articles 30-32). The CommonWealth Magazine article detailing the process in English is the most comprehensive and primary source of information.
+[Using AI to Strengthen Democracy: Audrey Tang on Taiwan's Global Role｜Culture｜2024-10-21｜web only](https://english.cw.com.tw/article/article.action?id=3795&utm_source=chatgpt.com)
+- More than 200,000 people expressed their opinions on pol.is and discussed them in mixed online/offline workshops.
+- The generated consensus text is adopted in Articles 30-32 of the draft "Prevention of Fraud and Crime Harm.
+- Positioned as "the largest online mini-public in history" in the deliberative democracy that Taiwan has promoted since 2002.
+
+
+<img src='https://scrapbox.io/api/pages/nishio-en/o3/icon' alt='o3.icon' height="19.5"/>
 Taiwan's Fraud Crime Hazard Prevention Act ("Fraud Prevention Act"), promulgated on July 31, 2024, imposes heavy KYC obligations and prompt removal responsibilities on large advertising platforms that are the source of online fraudulent advertising, By imposing heavy KYC obligations and prompt removal liability on large advertising platforms that are the source of online fraudulent advertisements, the Act has nearly eliminated fake ads impersonating celebrities that were rampant on Facebook and YouTube. This law was passed by the Legislative Yuan the following year as one of the "Four Laws on Batting Fraud" after the Executive Yuan adopted a proposal compiled in an online debate facilitated by AI, which divided 450 citizens recruited from 200 k random SMSs into 45 chambers at the end of 2023.
 - [Audrey Tang on “Misinformation” - by Yascha Mounk](https://www.persuasion.community/p/audrey-tang-on-misinformation)
 

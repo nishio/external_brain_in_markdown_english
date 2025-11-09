@@ -9,9 +9,10 @@ Some people see [[an open door]] and think, "Oh, that's a nice door, let's go in
 concrete example
 - Someone said "I'm not sure yet this year, so I'll apply next year" for an event that used to be held annually that involved a selection of applicants.
     - But next year, the event itself will no longer take place.
-    - I've seen this happen many times.
+    - I've seen this happen many times in my life.
         - It could be a change in budget, the spread of infectious diseases, or many other changes.
-- I'm thinking of attending an idol event next time someone breaks up with me.
+        - Sometimes middle and high school students don't yet know that "doors close" themselves.
+- Someone's idol group broke up when they were planning to attend an upcoming idol event.
 
 metaphor
     - [[door]]

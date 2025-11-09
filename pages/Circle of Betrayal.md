@@ -1,0 +1,11 @@
+---
+title: "Circle of Betrayal"
+---
+
+![image](https://gyazo.com/c00d0c20d450d780b00c332e00685bd5/thumb/1000)
+
+[[Ginza Madamisukai]]
+friend only [https://www.facebook.com/photo/?fbid=10233055499198742&set=pcb.10233055529399497](https://www.facebook.com/photo/?fbid=10233055499198742&set=pcb.10233055529399497)
+
+---
+This page is auto-translated from [/nishio/裏切りの輪舞曲](https://scrapbox.io/nishio/裏切りの輪舞曲) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -36,7 +36,7 @@ title: "Coordination Mechanisms with Griff Green"
         - Reward donors to encourage giving
     - Budget Box ([[Budget Box]]):.
         - Evaluate proposals [[pairwise]] and determine budget allocation
-    - Futurism ([[Futurarchy]]):.
+    - Futurism ([[Futarchy]]):.
         - Vote and be rewarded based on the impact of your proposal
     - Stigmergy ([[Stigmergy]]):.
         - Indirect coordination mechanism. Can be applied to quadratic financing, etc.

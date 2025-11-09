@@ -5,7 +5,7 @@ title: "The feeling of needing time off"
 from  [[Diary 2024-09-24]]
 The feeling of needing time off
     - [[Three variables of the game]]
-    - > [[Hurry up when you should hurry up]].
+    - >  [[Hurry when you have to hurry]]
 - [[busy]]
 - Many people are concerned that they are so [[busy]] with [[immediate busyness]] that they are not able to think about [[non-urgent but important things]] from a [[long-term perspective]].
     - I think that people who feel this kind of anxiety are already able to think from a [[long-term perspective]], not from a [[lack of vision]] of [[what is]] in front of them.

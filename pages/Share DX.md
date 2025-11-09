@@ -22,7 +22,10 @@ title: "Share DX"
 - > For example, Kakogawa City shared a template for a web-based lottery application system for the Corona vaccine with Gifu City. Beppu City has made its template for a system to support the operation of evacuation centers available on the city's open data site. In addition, Osaka Prefecture's template for a coronavirus infection patient information management system has been shared with Hyogo and Saitama prefectures, and Kobe City's daily driving report system for official vehicles is being used by Kawaguchi, Chiryu, Amami, and other cities.
     - [[It is irrational to have separate systems.]]
 
-> The Public Exclusive Group was created in 2020. In addition, he established the "[[Govtech kintone community]] (Gavkin)," a community open to any municipal employee. Currently, 200 municipalities/500 municipal employees participate in the community, which publishes business know-how and templates, provides materials and videos, and holds events.
+> The Public Exclusive Group was created in 2020. In addition, he established the "[[Govtech kintone community]] ([[gabkin (Gabby gummy bear)]])," a community open to all municipal employees. Currently, 200 municipalities/500 municipal employees are participating in the community, which provides business know-how and templates, materials and videos, and holds events.
+
+
+- [[share]] to [[DX]].
 
 ---
 This page is auto-translated from [/nishio/シェアするDX](https://scrapbox.io/nishio/シェアするDX) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

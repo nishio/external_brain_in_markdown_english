@@ -5,8 +5,8 @@ title: "Fractal Summaries to Seed the Deliberations"
 2025-01-19
 from  [[Applying TalkToTheCity to Books]]
 - [[Fractal Summary]] to [Seed for deliberation
-This might be a bit related to fractal summarization, or in the context of digital democracy, the theme of how to efficiently input knowledge from where it's needed in a situation where a lot of knowledge is needed.
-The fractal summarization was especially good in that it allowed me to summarize what was said in the conversation later, in a hierarchical manner, while grounding it in the original speech.
+It's a little bit related to fractal summarization, and in the context of [[digital democracy]], it's also about how to efficiently input knowledge from where it's needed in a situation where a lot of knowledge is needed.
+In particular, the fractal summarization was very good in that it allowed me to summarize what was said in a conversation in a hierarchical manner while grounding it in the original speech.
 So I think it would be useful to put the results of the fractal reservation of the conversation into TalkToTheCity, or some other digital democratic tool.
 
 ---

@@ -3,7 +3,8 @@ title: "The parable of the greenhouse-grown seedling"
 ---
 
 - [[Seedlings]] grown in [[greenhouses]] that [[be known]] often wither in [[cold wintry winds]] that [I don't know.
-[https://www.facebook.com/1129148772/posts/10217254556772500?d=n&sfns=mo](https://www.facebook.com/1129148772/posts/10217254556772500?d=n&sfns=mo)
+
+First published [January 9, 2019 on Facebook](https://www.facebook.com/1129148772/posts/10217254556772500?d=n&sfns=mo)
 
 - [[even if]]
 

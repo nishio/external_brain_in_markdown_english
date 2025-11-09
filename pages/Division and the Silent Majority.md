@@ -14,6 +14,7 @@ I tried to visualize some kind of skin feeling.
 
 ![image](https://gyazo.com/205c48f9bbcd60d00b7bc62a991d9e70/thumb/1000)
 - So which is the majority can be arbitrarily controlled by how the boundaries are drawn.
+    - [[The way the clusters are cut changes what is the majority.]]
 
 impetus
 - [62% in favor of "selective married couple surname", 27% opposed NHK Poll | NHK](https://www3.nhk.or.jp/news/html/20240501/k10014437371000.html)

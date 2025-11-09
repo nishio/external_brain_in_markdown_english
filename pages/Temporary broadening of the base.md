@@ -7,8 +7,8 @@ title: "Temporary broadening of the base"
 [[Susono]]
 [[Bottom]]
 
-Demand is high, so they try to hire more people.
-- On the other hand, efficiency gains can be made in parallel.
+- [[demand]] is high, so they want more people.
+- On the other hand, [[making efficient]] can also proceed in parallel
 - People are slow in the process and go too far once they get there.
 - Then [[shrink]] it.
 

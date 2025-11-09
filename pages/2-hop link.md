@@ -2,6 +2,20 @@
 title: "2-hop link"
 ---
 
+2025-09-17
+- I think the following diagram is misleading.
+    - [[2-hop link]] should be referenced
+
+2018-09-25
+![image](https://gyazo.com/970bab8d5d0f9687ad99c918e399284b/thumb/1000)
+
+- [[Scrapbox]] functionality to follow [[cooccurrence relation]] of [[link]] and display two pages ahead.
+- [[Connecting by Link]] is a [[cooccurrence relation]] of [[key phrase]].
+- [[bracketing]] is the markup for [[key phrase]].
+---
+This page is auto-translated from [/nishio/2-hop link](https://scrapbox.io/nishio/2-hop link) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
+2-hop link
+2022-06-17
 It is a useful concept, but the notation is shaky. The person who invented it uses "two-hop link," so the title of this page has been adapted.
 - Consideration of [/masui/2-hop link](https://scrapbox.io/masui/2-hop link).
 
@@ -29,11 +43,3 @@ Brief description from [[Obsidian 2022-06-17]].
 
 ---
 This page is auto-translated from [/nishio/2ホップリンク](https://scrapbox.io/nishio/2ホップリンク) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
-2-hop link
-![image](https://gyazo.com/970bab8d5d0f9687ad99c918e399284b/thumb/1000)
-
-- [[Scrapbox]] functionality to follow [[cooccurrence relation]] of [[link]] and display two pages ahead.
-- [[Connecting by Link]] is a [[cooccurrence relation]] of [[key phrase]].
-- [[bracketing]] is the markup for [[key phrase]].
----
-This page is auto-translated from [/nishio/2-hop link](https://scrapbox.io/nishio/2-hop link) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

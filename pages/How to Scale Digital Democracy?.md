@@ -376,7 +376,7 @@ How to achieve [large-scale collaboration
 
 About Polis and Community Notes, technologies for scaling democracy
 
-Replies do not scale.
+- [[Replies do not scale.]]
 - 1000 replies to one person's post
     - There's no way you can read.
     - And there's a high percentage of verbal abuse.
@@ -400,7 +400,7 @@ TTTC
 
 Polis
 - Some kind of novel UI
-    - I won't let you reply.
+        - [[I won't let you reply.]]
     - Order is shuffled (information-maximizing algorithm, must be checked)
 - Not yet rooted in Japan.
     - The "Public Opinion Map" is a mobile-first UI redesigned for the Japanese environment.

@@ -15,13 +15,17 @@ Creating closed informal organizations that straddle the walls of formal organiz
 
 
 relevance
-- [[Building Human Networks]]
+    - [[Building a human network]]
     - [[A collection of organizations connected by people belonging to multiple organizations]]
 
 [[There are two types of closed organizations.]]
 - [[Difficult to observe]]
 - [[bias to think of things that are easy to observe]].
     - [[Easy to observe]]
+
+The term [[closed]] was used when I wrote this, now I might use [[gated]].
+- You can see what's going on inside, the way to get in is clearly indicated (but there is a selection process), and so on.
+- Related [[Hides the gate, but shows the brilliance inside the fence.]]
 
 ---
 This page is auto-translated from [/nishio/フォーマルな組織とインフォーマルな組織](https://scrapbox.io/nishio/フォーマルな組織とインフォーマルな組織) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

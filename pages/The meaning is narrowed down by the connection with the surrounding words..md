@@ -18,5 +18,9 @@ concrete example
 
 - [[Connection to the surrounding vocabulary]] :  [[context]]
 
+This is a side finding.
+    - [[Creating Links and Meaning]], from 3 to 4 of this.
+    - ![image](https://gyazo.com/6908a56f5b2239425b1af84f8c0ba761/thumb/1000)
+
 ---
 This page is auto-translated from [/nishio/周囲の単語との繋がりで意味が絞られる](https://scrapbox.io/nishio/周囲の単語との繋がりで意味が絞られる) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

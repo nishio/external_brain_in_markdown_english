@@ -37,6 +37,7 @@ Situation 3: Average production is below 1
         - Those who are unfulfilled at this time, of course, do not have the luxury of space.
         - Even those who are currently satisfied cannot be reassured that their sufficiency may be taken away
 
-- When I heard [[great river]] stressing the importance of giving people more leeway, I thought he was right on the spot, but when I thought about it again, I couldn't figure out what leeway was, so I sorted it out, but in the end the word "leeway" didn't come up until the end, Maybe it's something different.
+- I heard Mr. [[great river]] stressing the importance of giving people leeway, and I thought he was right on the spot, but when I thought about it again, I couldn't figure out what leeway was, so I sorted it out.
+In the end, the word "relaxed" was not mentioned until the end, so maybe it is something different.
 ---
 This page is auto-translated from [/nishio/ゆとり](https://scrapbox.io/nishio/ゆとり) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

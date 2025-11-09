@@ -7,8 +7,8 @@ from  [[Kumano Kodo 2023]]
 - ![image](https://gyazo.com/1fc8b14b8ced010900054f18dab6ea5c/thumb/1000)
     - It looks like you can get an [[electronic gift certificate]] for 30% of the amount of your [[tax payment at home]] donation on the spot.
 - [Nanki Shirahama Travel Tax / Shirahama Town Website](http://www.town.shirahama.wakayama.jp/soshiki/somu/kikaku/gyomu/furusato/1667102926501.html)
-- Is it a local currency? No?
-    - Interesting as a way to channel taxes from existing residential tax collections into "non legal tender" currency.
+    - Is it [[local currency]]`? No?`
+    - Interesting as a way to channel existing [[tax collections]] into "non [[legal tender]] currency".
 
 
 ---

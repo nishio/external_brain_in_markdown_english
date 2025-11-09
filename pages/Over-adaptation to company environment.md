@@ -2,6 +2,7 @@
 title: "Over-adaptation to company environment"
 ---
 
+[[Overadaptation]] to [[company environment]].
 <img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>
 The [[company employee]] way of working is a very new system if we look at history in the long run. It has only been a few hundred years at most since the establishment of modern business organizations and the spread of factory-based production that the socially accepted way of working as "[[being]] employed" became commonplace. Before that time, many people earned their living as self-employed, artisans, farmers, or in guilds and cottage industries, which are different from today's "company employees.
 

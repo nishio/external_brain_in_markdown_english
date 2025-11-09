@@ -16,7 +16,7 @@ title: "Discover new and unexpected connections."
 - [[Innovation Game Design and Satisfactory Space Design]]
 - [[AI Ideas Using Humans as Stationery and Minecraft Industrialization Mod Culture]]
 impressions<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-- It's not "very nice" at the moment, but I have a feeling that [[unexpected connections]] might happen in the future if I accumulate these things.
+- It's not "very good" at the moment, but I have a feeling that [[Unexpected connection]] might happen in the future if I keep accumulating these things.
 - Related: [[Stock of associations]].
 
 ---

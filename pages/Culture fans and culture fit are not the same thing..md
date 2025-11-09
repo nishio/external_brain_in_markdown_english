@@ -2,13 +2,13 @@
 title: "Culture fans and culture fit are not the same thing."
 ---
 
-> Sympathizing with culture and being culture fit are similar but different.
-- > People who simply sympathize with the culture are fans, while people who are culture fit are those who sympathize with the culture and have the desire to "create a new culture together".
+> Being [[sympathetic to the culture]] and being culturally fit are similar but different.
+- > People who are simply [[empathy]] for the culture are [[fans]], while people who fit the culture are those who empathize with the culture and have a desire to "create a new culture together".
 - > The origin of the word "Culture" is "Cultivate" (= cultivate).
 - > Whether or not there is a desire to "create a new culture together" as if plowing a field from scratch.
 [https://job.newspicks.com/articles/199](https://job.newspicks.com/articles/199)
 
-People who are fans of a culture and are trying to convert themselves to that culture are not culture fit.
+People who are [[fans]] of a culture and are trying to change themselves into that culture are not culture fit.
 - [[independence]] I guess.
 
 - [[in one's own way]] [[fit]] when he lived.

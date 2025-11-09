@@ -2,18 +2,19 @@
 title: "Ideology in the 21st Century"
 ---
 
+
+> [nishio](https://x.com/nishio/status/1921059696393261326) #TokyoPluralityWeek 21st Century Ideology
+>  ![image](https://pbs.twimg.com/media/Gqj5T5lbcAI91sF?format=jpg&name=medium#.png)
+
+
 from [/plurality-japanese/Glen in Japan Keynote Japanese subtitles#65aaa7faff09e0000559732](https://scrapbox.io/plurality-japanese/Glen in Japan Keynote Japanese subtitles#65aaa7faff09e0000559732)
-![image](https://scrapbox.io/files/6595ff54a8350a00234a029f.jpg)
-
-
-
-from  [[Diary 2023-10-14]]
-old title  [[Three Ideologies]]
+![image](https://scrapbox.io/files/68ab595268a35c1d8d1470c2.jpg)
 
 > [HiroTHamadaJP](https://twitter.com/HiroTHamadaJP/status/1708173018122551390/photo/1) I translated the three ideologies into Japanese.
 >  [Political Ideologies for the 21st Century - RadicalxChange](https://www.radicalxchange.org/media/blog/political-ideologies-for-the-21st-century/)
 >  ![image](https://gyazo.com/6099f2955db45a1a85ff1498988800f3/thumb/1000)
-Three ideologies
+Article by [[RadicalxChange]] [[Political Ideologies for the 21st Century]].
+- [[Three ideologies]]
     - [[corporate libertarianism]]
     - [[Corporate Libertarianism]]
     - Entrepreneurial entities that seek to use technology to free individuals from bureaucracy, group organization, and oppression
@@ -55,5 +56,9 @@ Discussion in Japan
 relevance
     - [[RadicalxChange x]]
 
+- [[ideology]]
+
+from  [[Diary 2023-10-14]]
+old title  [[Three Ideologies]]
 ---
 This page is auto-translated from [/nishio/21世紀のイデオロギー](https://scrapbox.io/nishio/21世紀のイデオロギー) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

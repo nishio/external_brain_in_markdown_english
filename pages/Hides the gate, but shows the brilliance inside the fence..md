@@ -22,6 +22,7 @@ The resolution of "Splendor in the Fence" is low.
 relevance
     - [[Gates should be hidden.]]
     - [[gate]]
+    - [[A squeal of "I'm sad I didn't make it into the festivities."]]
 
 ---
 This page is auto-translated from [/nishio/ゲートは隠すが柵の中の輝きは見せる](https://scrapbox.io/nishio/ゲートは隠すが柵の中の輝きは見せる) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

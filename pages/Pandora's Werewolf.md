@@ -11,6 +11,9 @@ title: "Pandora's Werewolf"
 
 It was so much fun.
 
+[[wargame]]
+- [[multiplayer game]].
+
 from  [[Diary 2025-01-20]]
 
 ---

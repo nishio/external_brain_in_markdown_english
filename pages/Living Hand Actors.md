@@ -18,6 +18,7 @@ I ended up super amused and would recommend it.
 >  ![image](https://pbs.twimg.com/media/GNIQ4KRb0AAmDlQ?format=jpg&name=large#.png)
 
 - [[Murder Mysteries]]
+[[Ginza Madamisukai]]
 
 ---
 This page is auto-translated from [/nishio/リヴィングハンドアクターズ](https://scrapbox.io/nishio/リヴィングハンドアクターズ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

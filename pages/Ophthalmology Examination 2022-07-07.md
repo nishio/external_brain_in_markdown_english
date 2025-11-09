@@ -7,7 +7,7 @@ from  [[Diary 2022-07-07]]
 Taking a day off to go to the ophthalmologist for a routine checkup for [[glaucoma]].
 - It's been three months.
 - He said the progress is so slow that the next one should be in six months.
-- And while I was at it, I got a prescription for glasses.
+- In addition, I got a [[prescription for eyeglasses]].
 - I made [[glasses with power]] for the first time.
 
 

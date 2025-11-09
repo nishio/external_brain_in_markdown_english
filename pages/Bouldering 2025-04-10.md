@@ -19,7 +19,7 @@ title: "Bouldering 2025-04-10"
     - I'm going to buy a [[body sheet]] (deciding that if I'm going to meet someone after [[bouldering]], I might as well wipe my sweat off).
 - After eating lunch, it is 14:00. More time has passed than expected.
 - I've arrived at Shibuya, but I don't have as much time as I thought I did.
-    - [Lost in front of Shibuya Stream
+        - [[Shibuya Stream]] Lost in front of
         - I get lost in Shibuya no matter how many times I go there.<img src='https://scrapbox.io/api/pages/villagepump/カイト/icon' alt='/villagepump/カイト.icon' height="19.5"/>
     - ![image](https://gyazo.com/8daf66ec37df5550f048df1d55b54bc3/thumb/1000)![image](https://gyazo.com/9d4f72bd6fc8cd0ea84db51d21a83354/thumb/1000)
         - Oh, no!

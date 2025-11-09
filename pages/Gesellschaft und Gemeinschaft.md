@@ -5,16 +5,16 @@ title: "Gesellschaft und Gemeinschaft"
 - [[Ferdinand Tennys.]] (1855-1936) said that there are two kinds [[of organizations]], right?
 
     - [[gemeinschaft]] (German: [[Gemeinschaft]])
-        - [[community]] Organization, community society
-    - Social groups linked by human relationships such as geographical, blood, and friendship
-    - Members' relationships and comfort come first.
+        - [[community]] organization, [[community society]].
+    - Social groups connected by [[human relations]] such as [[geographical]], [[blood]], [friendship
+    - Member relationships and [[member comfort]] are a priority.
     - [[society]] (German: [[Gesellschaft]])
-        - [[functional unit]] organization, interest society
-    - A social group united to achieve a common purpose or benefit
-    - Priority is given to achieving profits and objectives.
+        - [[functional unit]] organization, [[profit society]].
+    - A social group united for [[common purpose]], [[achievement]] of [common good
+    - Profit and [[achieving objectives]] come first.
 
 - [[Tennys.]] himself considered the whole social change in the process of [[modernize]], but the idea of this dichotomy was so useful that it was frequently cited by subsequent [[organization theory]].
-Nowadays, organizations are not clearly classified into one of these two types. Corporate organizations are usually considered Gesellschafts, but there are investments made in [[Employee Satisfaction]] and in creating a good working environment. [[False dichotomy.]]
+Nowadays, organizations are not clearly categorized into one of these two types. The [[corporate organization]] is usually thought of as a Gesellschaft, but there are investments in [[Employee Satisfaction]], [[creating a good work environment]], [[Employee Club Activities]], and so on. [[False dichotomy]].
     - [[Large corporate families]]
 
     - [[teal organization]] classification, the Gesellschaft is an orange-type organization.

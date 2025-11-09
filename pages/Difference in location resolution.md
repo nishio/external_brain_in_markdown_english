@@ -10,6 +10,7 @@ I think I'm "[[Put it back in its original place.]]" because I'm "taking the nai
 relevance
     - [[Examples of Cognitive Resolution]]
         - [[Cognitive Resolution]]
+- [[Discrepancy in recognition of the Nishio family]].
 
 ---
 This page is auto-translated from [/nishio/場所の解像度の違い](https://scrapbox.io/nishio/場所の解像度の違い) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

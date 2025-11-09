@@ -5,6 +5,7 @@ title: "How do you choose which tasks to do now?"
 - [[Intellectual Production of Engineers Table of Contents Digest]]
 A portion of the table of contents is cut out and given a new title (front cover).
 ![image](https://gyazo.com/ebb05938cf524597551c2422239edc32/thumb/1000)
+- This figure is from [(2.2.3) What are the major and minor relationships when there is uncertainty?
 
 - Chapter 2: How to motivate 49
     - 65% of unmotivated people are not able to focus on one task 50
@@ -20,9 +21,9 @@ A portion of the table of contents is cut out and given a new title (front cover
                 - Column: Urgency Decomposition Theory 55
         - Cannot compare large and small without one dimension 56
         - What is the magnitude of the uncertainty? 57
-            - Tradeoffs between search and use 59
-            - When in doubt, be optimistic 59
-            - Risks, Values and Priorities 61
+                - [[Trade-off between exploration and exploitation]] 	59
+                - [[When in doubt, be optimistic.]] 	59
+                - [[Risk, value and priorities]] 	61
         - Prioritize important matters 62
             - Notified" is not "urgent. "64
             - Values are verbalized bottom-up 64

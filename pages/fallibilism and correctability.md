@@ -4,7 +4,7 @@ title: "fallibilism and correctability"
 
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>What is the difference between fallibilism and the correctability of Hiroki Azuma?
 
-<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>Fallibilism" is a position in epistemology that acknowledges the possibility that all knowledge is fallible and that there is no absolutely certain basis. On the other hand, "[[correctability]]" emphasized by [[Hiroki Azuma]] emphasizes the active maintenance of a state in which information and arguments can be constantly updated and revised, while taking into account the "fallible" premise.
+<img src='https://scrapbox.io/api/pages/nishio-en/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>Fallibilism" is a position in epistemology that acknowledges the possibility that all knowledge is fallible and that there is no absolutely certain basis. On the other hand, "[[correctability]]" emphasized by [[Hiroki Azuma]] emphasizes the active maintenance of a state in which information and arguments can be constantly updated and revised, while taking into account the "fallible" assumption.
 
 In other words, fallibilism indicates the attitude that "absolutely correct knowledge does not exist," while correctability refers to "maintaining a system and attitude that can be flexibly revised at any time and continue to evolve based on this premise. Although the two concepts are close, Hiroki Azuma's emphasis is on "awareness of the process and system of revision and updating.
 

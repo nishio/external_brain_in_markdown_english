@@ -14,7 +14,7 @@ title: "Guerrilla warfare between superiors and bottoms up"
 
 - History
     - My understanding of the history of Cybozu is that the early versions of Cybozu Office had the ability to add comments to the "bulletin board". This was a [[bulletin board system]] usage as a place for bottom-up [[communication]]. Later, however, at the request of a client, an option was added to "prohibit comments on the bulletin board. This is a supercilious usage.
-    - There was a time when "[[BBS]](electronic bulletin board system)" was used for communication on the Internet, though young people today may not know it.
+    - There was a time when "[[BBS]]([[electronic bulletin board system]])" was used for communication on the Internet, although young people today may not know this.
         - > In the early 1990s, electronic bulletin boards were one of the major services of personal computer communications, which were in full swing before the Internet became popular.
             - [Electronic bulletin board - Wikipedia](https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E6%8E%B2%E7%A4%BA%E6%9D%BF)
         - Cybozu [https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA) was founded in 1997. It was a natural idea to use BBS, which was already widely used on the Internet at that time, for internal communication.

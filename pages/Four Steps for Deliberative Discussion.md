@@ -54,5 +54,11 @@ Keynote for LibreCon 2016 from [[Audrey Tang]]
 - [[deliberation]]
     - [[careful deliberation]]
 
+2025-09-20
+- With this in mind, my impression of the actual opinions of many in several projects since the 2024 gubernatorial election is that most people are not trained to separate fact from interpretation and therefore cannot gather facts without emotion in the first step.
+    - If you're targeting untrained people, you start with the second step.
+    - The first step could be done by a trained staff member and presented as a reference, etc.
+        - Like Team Mirai, "experts create manifestos" and "people react to them" had this form
+
 ---
 This page is auto-translated from [/nishio/熟議のための4つのステップ](https://scrapbox.io/nishio/熟議のための4つのステップ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

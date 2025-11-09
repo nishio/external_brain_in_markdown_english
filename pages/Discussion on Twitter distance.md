@@ -2,7 +2,9 @@
 title: "Discussion on Twitter distance"
 ---
 
+2023-09-20
 > [kouta_hikichi](https://twitter.com/kouta_hikichi/status/1704319635569705433/history) X (Twitter) seems to be a place full of "human distance bug" uncles, according to Generation Z. This is so true. This is so true, and I think that the sense of people who can spit out rude words to people they have never met by quoting and retweeting is really buggy.
+- [[distance bug]]
 
 > [kouta_hikichi](https://twitter.com/kouta_hikichi/status/1704322408956805469) For some reason, only people who bug those people are quoted retweets, not replies. Or an obvious air rip.
 >  The type of person who has no courtesy, does not dare to have a direct dialogue, and spits out words. If he were a normal member of society, he would be a dangerous person.
@@ -38,6 +40,26 @@ title: "Discussion on Twitter distance"
 
 
 > [nishio](https://twitter.com/nishio/status/1704416262343069980/quick_promote_web/intro) As soon as different cultures come into contact, there is a struggle ~.
+
+
+---
+2025-09-10
+> [somichi](https://x.com/somichi/status/1965443958051570082) Since the system of [[quote comment]] [[quote comment]] was established, obviously [[distance bug]] bad people have increased or become visible or Twitter has become less secure. Because it is based on the premise of "being seen by those around you" instead of one-on-one replies, it doesn't stop people from making [[front man]] objections and counter-arguments [[big joke]] [[uke-aim]] to other people's posts.
+    - [[use as a pretext]]
+- [[citation retweeted]]
+- [[Distance]].
+        - [[Discussion on Twitter distance]]
+> [somichi](https://x.com/somichi/status/1965457138014371942) Quoted comments have a high rate of treating the originator as content rather than a person in a messy way.
+- [[Treat the source as content, not a person]].
+- [[Treat as content]]
+- The interesting part of this
+    - When you see a "Twitter post," this person is focusing on a "person," a "sender."
+        - So there is a negative nuance riding on "treat as content".
+    - Some consider "Twitter posts" to be "content."
+        - Those people naturally treat content as content and don't feel there's anything wrong with it.
+
+relevance
+    - [[Existing social networking sites focus on the individual, but Polis focuses on the group, not the individual.]]
 
 ---
 This page is auto-translated from [/nishio/Twitterの距離感についての議論](https://scrapbox.io/nishio/Twitterの距離感についての議論) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

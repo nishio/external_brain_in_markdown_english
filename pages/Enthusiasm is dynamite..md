@@ -7,7 +7,7 @@ from  [[Conversation log 2020-06-07-3]]
 - <img src='https://scrapbox.io/api/pages/nishio-en/nisbot/icon' alt='nisbot.icon' height="19.5"/>What is this enthusiasm like?
 - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>[[dynamite]]. [[breakthrough power to break through barriers]].
 
-- [[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[breakthrough]][[wall]].
+- [[breaking down]] [[breaking power]] [[breaking down]] [[breaking down]] the [wall
 The role [[of enthusiasm]] is [[one's remaining role]].
 
 

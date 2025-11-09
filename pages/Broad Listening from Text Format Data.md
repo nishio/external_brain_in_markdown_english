@@ -12,12 +12,13 @@ title: "Broad Listening from Text Format Data"
     - How about just having AI provide commentary?
         - Someone will say, "I don't know if this explanation is correct."
             - I think that [[visualization (data, results, etc.)]] is just a stage direction to increase the [[persuasive power]] of [[AI Summary]].
+            - 2025-09-09 [[summary]] felt [[landing]] on raw data
     - What value would an AI provide in explaining this?
         - To be able to understand what you didn't understand?
 
 
-- As an aside, the expression "[[broad listening for the masses]]" is misleading, there are various forms of users, such as "people who use it for analysis" and "people who look at the results"
-    - In the case of Nittele, the customer is the TV station, not the viewer, because it is the TV station that makes the decision to introduce the product and pays for it.
+- As an aside, the phrase "[[Broad listening for the masses]]" is misleading, and there are various forms of users, such as "those who use it for analysis" and "those who look at the results"
+        - [[Nittele NEWS x 2024 House of Representatives Election x Broad Listening]] cases, the customer is the TV station, not the viewer, because the TV station is the one making the decision to introduce it and paying for it.
     - This is a complicated composition.
         - Customers paying TV stations are also advertisers, not viewers
         - The composition of the investment is such that if the topic and popularity of the new trial increases, the value of the medium will increase.

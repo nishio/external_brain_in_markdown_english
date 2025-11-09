@@ -16,6 +16,7 @@ title: "You only see what you are trying to see."
 But when you're tired, you become [[distracted]], and as a result of not being able to [[filter out information that's not relevant to the task]], you start noticing things that aren't relevant. w
 
 [[Attention control]]
+[[Discrepancy in recognition of the Nishio family]].
 
 ---
 This page is auto-translated from [/nishio/見ようとしているものしか見えない](https://scrapbox.io/nishio/見ようとしているものしか見えない) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

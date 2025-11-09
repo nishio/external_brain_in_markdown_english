@@ -12,6 +12,7 @@ Are the boundaries clear?
     - [[There is no boundary.]]
     - [[Boundaries are ambiguous.]]
 
+- [[There are no clear boundaries to the organization.]]
 
 ---
 This page is auto-translated from [/nishio/境界は明確か？](https://scrapbox.io/nishio/境界は明確か？) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

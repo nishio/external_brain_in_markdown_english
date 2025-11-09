@@ -4,6 +4,7 @@ title: "Fractal Summary"
 
 Systems that summarize long documents, transcriptions of event conversations, etc., with varying compression ratios for the summary.
 - by <img src='https://scrapbox.io/api/pages/nishio-en/blu3mo/icon' alt='blu3mo.icon' height="19.5"/>
+- see [[FractalReader]]
 
 Example of "Running Meros
 [https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/6ce6bafe0d4842489cd1466d1cb1ce5e](https://fractal-summarizer-fe6eaa294c58.herokuapp.com/view/6ce6bafe0d4842489cd1466d1cb1ce5e)

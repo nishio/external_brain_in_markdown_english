@@ -30,7 +30,7 @@ title: "Thinking about adult developmental disabilities"
         - Shinshu University Hospital, Department of Children's Mental Health Care
         - [[AS]] Main, [[ADHD]], [[athletic]].
 
-- If you don't know your own characteristics, you can easily become maladjusted by trying to live in a way that doesn't suit you.
+- If you don't know your own characteristics, it's easy to become [[maladjusted]], trying to live in a way that doesn't suit you.
 - Parents say, "I'm out of college, but I can't get a job."
     - If you are visually dominant and have a good memory, you can study.
     - A high school education does not lead to a job, and people who have a relatively good work history are actually not very well educated.
@@ -63,9 +63,15 @@ title: "Thinking about adult developmental disabilities"
     - Here is the figure on the topic
         - Figure often used by Dr. Honda in his lectures
         - ![image](https://gyazo.com/30787ea712efa401369c22ecf492964d/thumb/1000)
-        - I teach people with developmental disabilities, both adults and children, to make their personal lives a priority.
+        - I teach people with developmental disabilities, both adults and children, to [[make their personal lives a priority]].
             - Think about whether you need it for your life and discard what you don't seem to need.
             - I'll only do a few quotas that I really need to do.
+            - I can sympathize with your tendency to inadvertently sacrifice your personal life.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+                - We need to consider whether the sacrifice is really a MUST.
+                - People who think they MUST make sacrifices they don't MUST make, and then get frustrated and grumpy, which is annoying to those around them.
+                - It's not good to be physically debuffed by neglecting your immediate surroundings.
+                    - I don't feel well because I haven't slept, I don't feel well because I haven't eaten right.
+                    - They say, "[[Taking care of one's health]] is part of the job."
     - It would be good if we could openly say, "I am good at this, I am not good at that," and combine the two in society as a whole.
     - If you don't have a job that is enough to make money to play with, you will be crushed.
 

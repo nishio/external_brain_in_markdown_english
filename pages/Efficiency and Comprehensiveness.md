@@ -5,6 +5,8 @@ title: "Efficiency and Comprehensiveness"
 > [nishio](https://x.com/nishio/status/1821206822960939508) There is a [[trade-off]] between [[efficiency]] and [[inclusiveness]], and [[time]] is needed for society to be [[inclusive]] and to produce affordability efficiency is necessary.
 
 > [nishio](https://x.com/nishio/status/1821210644013879464) I know I'm using highly abstract expressions, but it would be too much of a burden for me to do the review work I'm doing now on Cosense in a way that everyone can see, so I've decided to do it alone in a notebook (and then some of it [[trickles]] into Cosense). I've decided to proceed by writing it down in a notebook by myself (and then some of it [[trickles]] into Cosense).
+    - [[Do it alone or together?]]
+    - [[trickle down]]
 
 > [nishio](https://x.com/nishio/status/1821212884090892508) For the atlas to support the celestial sphere, the atlas must first have [[the strength to support the celestial sphere]], and if [[the celestial sphere becomes too heavy]], the atlas can only shrug its shoulders and [[throw the celestial sphere out]]. If [[the celestial sphere becomes too heavy]], Atlas has no choice but to shrug his shoulders and [[throw the celestial sphere out]].
     - [[Atlas shrugs]]

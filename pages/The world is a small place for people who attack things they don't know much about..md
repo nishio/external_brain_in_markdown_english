@@ -25,6 +25,7 @@ On the case of attacking something unfamiliar without looking at it properly
         - Mr. C builds a wall to protect Mr. B.
         - The metaphor of "[[building]] a wall."
             - Do not create [[opportunities for contact]].
+            - 2025-08-10  [[gated community]]
         - For example, let's say that Mr. D, who is unaware of this exchange, thinks that it might be a good idea to invite Mr. A to a certain community.
             - Let's say Mr. B belongs to this community, and Mr. C advises him, "No, Mr. A shouldn't do this because this is what happened.
             - Then Mr. D would say, "Oh, well, I'll stop then!" and "Oh, well, I'm not going to do that!

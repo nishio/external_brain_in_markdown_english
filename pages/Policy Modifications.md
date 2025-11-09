@@ -8,7 +8,7 @@ Assume that those who support the policy A are a minority compared to those who 
 - The idea of trying to turn a NOT A person into an A person at this time tends to arise
 
 However, is it appropriate for A to be fixed in the first place?
-- [[Correctability]]
+    - [[correctability]]
 - Consider A1, A2, A3 with a slight modification of A
 - As for A1, all A's support it and more support it.
     - No reason not to change A to A1.

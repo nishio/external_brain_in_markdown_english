@@ -8,7 +8,7 @@ There are low difficulty tasks in programming.
 Programming is like this
 - Small black circle: Do light work that you know how to do (git clone, npm install, etc.)
 - Green medium circle: with the expressive activity of "implementation".
-- Big red circle: solving a riddle called "debugging" twice as difficult as that one.
+- Big red circle: do [[solution of a riddle]] called "debugging" of twice that difficulty
         - [[Debugging is twice as hard as writing the code in the first place.]]
 
 Until now, programmers have been doing this process all by themselves, so there was not so much frequency of solving the riddles.

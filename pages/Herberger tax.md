@@ -3,7 +3,7 @@ title: "Herberger tax"
 ---
 
 <img src='https://scrapbox.io/api/pages/nishio-en/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>
-The Harberger Tax, an innovative tax on land and property, was proposed by American economist Arnold Harberger. This tax system aims to promote the efficient use and liquidity of land and assets.
+The Harberger Tax ([[Harberger Tax]]) is an innovative tax on land and property, proposed by the American economist Arnold Harberger ([[Arnold Harberger]]). This tax system aims to promote the efficient use and liquidity of land and assets.
 
 The basic concept of the Herberger tax is as follows
 

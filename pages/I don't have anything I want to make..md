@@ -39,5 +39,9 @@ Maybe rewriting and modifying the existing UserScript myself was a good way to i
         - So it feels like everything [["requires a certain level of skill"]].
         - ["You can't do it out of the blue without making something crappy.
 
+relevance
+    - [[Make what you want to make.]]
+    - [[Make what you want.]]
+
 ---
 This page is auto-translated from [/nishio/作りたいものが無い](https://scrapbox.io/nishio/作りたいものが無い) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -19,7 +19,7 @@ p.25-27
     - We must also address experience before it can be logically arranged.
         - Meaning.
         - logical order
-            - logical order<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
+                - [[logical order]] <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
         - The function of experience in forming
         - Pre-logical and pre-conceptual experience must be studied when it is working with logical symbols
         - Never replace "pre-logical experience" with "logical symbols."

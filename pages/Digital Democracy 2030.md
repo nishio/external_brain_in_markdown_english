@@ -13,7 +13,8 @@ title: "Digital Democracy 2030"
 - [[public information AI]]
 - [[Large-scale deliberation support system "Idobata]]
 
-
+2025-05-07 Management structure changed with the launch of [[Takahiro Yasuno]]'s new party "[[Team Mirai]]".
+- [Digital Democracy 2030, New Board Structure｜Digital Democracy 2030](https://note.com/dd2030/n/n27f77452ef49)
 
 [https://www.youtube.com/live/hlfQBK5dcUU](https://www.youtube.com/live/hlfQBK5dcUU)
 Press conference held by [[Takahiro Yasuno]] on 2025-01-16

@@ -2,9 +2,10 @@
 title: "the masses"
 ---
 
+2024-03-02
 - It is easily foreseeable that the [[energetic young person]] will run into [[the wall of the masses]].
-but a third party does not need to apply the brakes in advance.
-- Because that's the act of destroying a scarce resource.
+but [[a third party does not have to apply the brakes beforehand]].
+- Because it's the act of breaking [[Rare resources]].
 - [[Let the market do the criticizing.]]
         - [[The market can play the role of denial.]]
 

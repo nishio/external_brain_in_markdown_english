@@ -12,6 +12,8 @@ title: "Three variables of the game"
 - [[hurry when you must hurry]]
 - [[continue what needs to be continued]]
 - [[do exactly what needs to be done]].
+    - My cognitive bias was riding on this summary itself.
+    - [[Don't miss what you shouldn't miss]].
 
 > [suika__penguin](https://twitter.com/suika__penguin/status/1642439076749127681) All of this is independent and never mixed.
 >
@@ -49,6 +51,17 @@ title: "Three variables of the game"
     - A few mistakes have been made, but that's not important.
         - [[When everything seems under control, you're just not going as fast as you should.]]
 - Switch gears to "[[continue]]" mode.
+
+
+Often want to refer to it, but keywords are hard to connect.
+- [[What to do now]]
+- [[urgent]].
+    - [[We should hurry.]]
+        - [[hurry]]
+
+orthographical variants
+- [[3 variables of victory]].
+- [[3 variables of success]].
 
 ---
 This page is auto-translated from [/nishio/勝負の3つの変数](https://scrapbox.io/nishio/勝負の3つの変数) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

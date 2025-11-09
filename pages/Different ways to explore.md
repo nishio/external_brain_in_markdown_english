@@ -24,6 +24,8 @@ title: "Different ways to explore"
 src [https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e)
 
 - [[search]]
+    - [[depth first search (search algorithm in AI)]]
+        - [[Design thinking is a depth-first search?]]
 
 ---
 This page is auto-translated from [/nishio/探索の仕方の違い](https://scrapbox.io/nishio/探索の仕方の違い) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

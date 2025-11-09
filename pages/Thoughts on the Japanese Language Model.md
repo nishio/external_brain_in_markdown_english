@@ -34,7 +34,7 @@ Write down your thoughts on the question, "Can creating a language model specifi
     - ![image](https://gyazo.com/f8b1dc87ff8d2921d8d83262d5e2e755/thumb/1000)
     - For example, in Japanese, the subject is naturally omitted, making it easy to discard the subject.
         - This, in turn, means that it is easy to overlook the subject distinction.
-        - This means that there is a cultural difference in what is chopped up into small pieces and what is chopped up into large pieces in articulating the world.
+        - This means that there is a cultural difference in what is chopped into small pieces and what is chopped into large pieces when [[segmenting]] the world.
         - It is not that one language is superior to the other.
         - ![image](https://gyazo.com/63d82ae9818edd32db83088b8b32a447/thumb/1000)
 

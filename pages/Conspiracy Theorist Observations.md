@@ -1,0 +1,50 @@
+---
+title: "Conspiracy Theorist Observations"
+---
+
+from  [[Diary 2024-07-18]]
+Conspiracy Theorist Observations
+Some people interpret the mere fact that one person in one organization has a connection with another person in another organization as an "organizational connection" between the organizations.
+- I don't think so.
+- How do you get through to someone who doesn't think it's a good idea?
+    - [[Don't persuade people you don't need to persuade.]] Through according to principle.
+
+![image](https://gyazo.com/ca21ae8f327cb874385c3164a241214a/thumb/1000)
+
+- [[Good decisions are supported by many facts.]]
+- You overestimate a single thin connection as if it were a reliable thick connection.
+- Only when several strands are joined together can a thick and reliable rope be made.
+- Ah, but I think the part of a scientist's work where they formulate a hypothesis is essentially an overestimation of feelers and thin threads.
+    - It is then critically validated by experimentation.
+
+A and B are connected, and B and C are connected, so A and C are connected! Argument that "A and C are connected!
+- That's how shallow the connection is, there are dozens and hundreds of people, so two hops away there are tens to hundreds of thousands of people.
+- I don't have a grasp on it, I can't do it.
+- Some people might be bad, that's true.
+- ![image](https://gyazo.com/042fefe953d84802ce7ce54c071acc32/thumb/1000)
+
+If you look into why person X, who is treated like "it's bad without any need for explanation," is considered bad, it could be as simple as "I used to work with person Y who didn't answer the allegations."
+- Even if you say that X and Y are "in on it" with that level of evidence, it's too thin.
+- For someone who doesn't do much of that kind of activity, it must seem like a very intense relationship to work together.
+    - For those who do it often, it's just one of many opponents.
+- To use an analogy, let's say person Y, whom you had played with in elementary school, robbed a bank as an adult, and the police suddenly came to your place and said, "You're in on it, too! Where did you hide the money? I don't know and I can't answer that question.
+    - By not answering, he's saying things like "I didn't answer" and "my suspicions have deepened" to deepen his conviction.
+- ![image](https://gyazo.com/e229a56cb6f60a5e212df3e9859e6e6a/thumb/1000)
+
+Interesting to see how some people have these thought patterns.
+- And I've never been around people like that before, I thought, I guess there must be social clusters in thought patterns.
+
+The expression "[[neighborhood]]"
+- It's a bug that makes us think we're all of the same ideological group, even though it's normal for any number of people to think differently.
+- I think it's easy to see from the outside that it's people with distinctive claims, often radical, so if you think everyone else is like that, you're wrong.
+    - [[Assume a homogeneous group of people]]
+        - [[The bug that sees multiple people as one person]]
+
+- [[conspiracy theory]]
+- [[You find a relationship that doesn't exist.]]
+
+Articles that were written in the same day's diary but not relevant enough to be on the same page
+    - [[What is a high priority for you is not necessarily a high priority for the other party.]]
+
+---
+This page is auto-translated from [/nishio/陰謀論者の観察](https://scrapbox.io/nishio/陰謀論者の観察) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

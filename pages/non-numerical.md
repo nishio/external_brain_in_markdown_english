@@ -12,6 +12,14 @@ non-numerical= [[innumerable]]
     - > When seen dimly, it appears to be two strokes; at a distance, it appears to be a single doughnut-like shape; when seen clearly, it appears to be a series of strokes.
 
 [[explained in "Experiential Processes and the Creation of Meaning" Study Group 2#61fb7718aff09e00004a7667]].
+- [Study Session 3 on "Experiential Processes and the Creation of Meaning" invented the expression "Make the gradient in three steps.
+- In [[Experiential Processes and the Creation of Meaning" Study Session 4]], it was expressed as follows ([[Schematic diagram of innumerable features]])
+- It has not been determined what part of the bewildering experience will be cut out as "one unit of experience".
+    - ![image](https://gyazo.com/b0bb5a2510888f0eb30e6205c100e7e4/thumb/1000)
+    - This diagram is difficult to draw. Last time [Make the gradient in three steps. This is the way to express what I want to say in the above figure.
+        - ![image](https://gyazo.com/8124439cb1200fb802f666fba5c946dc/thumb/1000)
+    - For these things, the question is, "Is this one? Two?" It is futile to ask, "Is this one or two? It depends on where the boundary is.
+
 
 __BELOW_IS_AI_GENERATED__
 # non-numerical

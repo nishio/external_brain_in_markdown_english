@@ -11,7 +11,7 @@ title: "layman's question"
 > [ode4phys](https://twitter.com/ode4phys/status/1757012950429347951) That is certainly an important prerequisite.
 >  The matter I posted this time was meant to talk about the fact that in a Q&A session for a thesis or master's thesis, a professor [[with a different field of expertise]] may ask questions because he/she [[misunderstands the terminology]] or doesn't know the fundamentals....
 
-[[terms]]
+- [[terminology]]
 - [[misunderstanding]]
 
 ---

@@ -96,8 +96,8 @@ WIP
 
 # May-August (focus period)
 -   Weekly Journal 2024-05-12~2024-05-22 [https://scrapbox.io/nishio/週記2024-05-12~2024-05-22](https://scrapbox.io/nishio/週記2024-05-12~2024-05-22)
-- [[x]] Weekly Journal 2024-05-22~2024-05-27 [https://scrapbox.io/nishio/週記2024-05-22~2024-05-27](https://scrapbox.io/nishio/週記2024-05-22~2024-05-27)
-- [[x]] Weekly Journal 2024-05-27~2024-06-03 [https://scrapbox.io/nishio/週記2024-05-27~2024-06-03](https://scrapbox.io/nishio/週記2024-05-27~2024-06-03)
+- Weekly journal 2024-05-22~2024-05-27 [https://scrapbox.io/nishio/週記2024-05-22~2024-05-27](https://scrapbox.io/nishio/週記2024-05-22~2024-05-27)
+- Weekly Journal 2024-05-27~2024-06-03 [https://scrapbox.io/nishio/週記2024-05-27~2024-06-03](https://scrapbox.io/nishio/週記2024-05-27~2024-06-03)
 -   Weekly Journal 2024-06-03~2024-06-08 [https://scrapbox.io/nishio/週記2024-06-03~2024-06-08](https://scrapbox.io/nishio/週記2024-06-03~2024-06-08)
 -   Weekly Journal 2024-06-09~2024-06-17 [https://scrapbox.io/nishio/週記2024-06-09~2024-06-17](https://scrapbox.io/nishio/週記2024-06-09~2024-06-17)
 -   Weekly Journal 2024-06-17~2024-06-24 [https://scrapbox.io/nishio/週記2024-06-17~2024-06-24](https://scrapbox.io/nishio/週記2024-06-17~2024-06-24)
@@ -121,9 +121,9 @@ WIP
 -   Weekly Journal 2024-11-23~2024-12-01 [https://scrapbox.io/nishio/週記2024-11-23~2024-12-01](https://scrapbox.io/nishio/週記2024-11-23~2024-12-01)
 -   Weekly Journal 2024-12-01~2024-12-07 [https://scrapbox.io/nishio/週記2024-12-01~2024-12-07](https://scrapbox.io/nishio/週記2024-12-01~2024-12-07)
 -   Weekly Journal 2024-12-07~2024-12-15 [https://scrapbox.io/nishio/週記2024-12-07~2024-12-15](https://scrapbox.io/nishio/週記2024-12-07~2024-12-15)
-- [[x]] Weekly Journal 2024-12-15~2024-12-22 [https://scrapbox.io/nishio/週記2024-12-15~2024-12-22](https://scrapbox.io/nishio/週記2024-12-15~2024-12-22)
-- [[x]] Weekly Journal 2024-12-22~2024-12-29 [https://scrapbox.io/nishio/週記2024-12-22~2024-12-29](https://scrapbox.io/nishio/週記2024-12-22~2024-12-29)
-- [[x]] Weekly Journal 2024-12-29~ [https://scrapbox.io/nishio/週記2024-12-29~](https://scrapbox.io/nishio/週記2024-12-29~)
+- Weekly Journal 2024-12-15~2024-12-22 [https://scrapbox.io/nishio/週記2024-12-15~2024-12-22](https://scrapbox.io/nishio/週記2024-12-15~2024-12-22)
+- Weekly Journal 2024-12-22~2024-12-29 [https://scrapbox.io/nishio/週記2024-12-22~2024-12-29](https://scrapbox.io/nishio/週記2024-12-22~2024-12-29)
+- Weekly Journal 2024-12-29~ [https://scrapbox.io/nishio/週記2024-12-29~](https://scrapbox.io/nishio/週記2024-12-29~)
 
 
 List of pages referenced in the 2024 weekly journal analysis

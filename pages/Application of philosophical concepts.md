@@ -19,13 +19,13 @@ Similarly, concepts such as "reality" and "asymmetry" need to be reexamined from
 
 Of course, it is not enough to simply use classical concepts. It is also important to create new concepts that are specific to new situations brought about by information technology. While keeping in mind traditional philosophical terminology, we need to create new concepts that can penetrate contemporary problem systems. This is the originality required for philosophical research.
 
-In short, [[the application of philosophical concepts]] is an activity that involves two aspects: [[critical inheritance]] and [[creative transformation]]. We question the semantic content of concepts and reinterpret them by drawing them into our own context. And then, if necessary, we formulate a new concept. Through such a steady quest, philosophical speculation on the asymmetry of reality will deepen.
+In short, [[the application of philosophical concepts]] is an activity that involves two aspects: [[critical succession]] and [[creative transformation]]. We question the semantic content of concepts and reinterpret them by drawing them into our own context. And then, if necessary, we formulate a new concept. Through such a steady quest, philosophical speculation on the asymmetry of reality will deepen.
 
 Not mere borrowing of concepts, but critical reinterpretation and creative construction of concepts. This, I believe, is the true significance of philosophical research. I would like to think further about how to embody this work in the context of my own research. I would like to further explore ways of doing so. I would like to continue to focus my wisdom toward the development of constructive discussions.
 
 Impressions:.[[Claude 3 Opus]]賢い、常に賢いわけではないが高頻度にいいことをいう、有益<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
     - [[application]] means [[conversion to fit your situation]].
-- [Copying answers is futile because [[one's situation]] is always [[individual]] [[constraints]] different from [[past cases]].
+- [[Copying answers is futile.]] since [[my situation]] is always [[individual]] [[constraints]] different from [[Past Case Studies]].
 
 ---
 This page is auto-translated from [/nishio/哲学概念の応用](https://scrapbox.io/nishio/哲学概念の応用) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

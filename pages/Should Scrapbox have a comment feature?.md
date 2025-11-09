@@ -2,6 +2,7 @@
 title: "Should Scrapbox have a comment feature?"
 ---
 
+2021-06-30
 - In considering [Comment Function
 - A: An unspecified number of people can comment.
 - B: Only certain people can comment

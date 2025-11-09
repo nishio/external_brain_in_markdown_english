@@ -15,7 +15,7 @@ Last Wednesday and Thursday were the first time in a long time that I was in a p
 - Time spent thinking about it.
 - I'm pondering if this was the right thing to do.
 - You think you've done the "thinking," but is that true?
-    - [I think that "thinking" without a clear concrete next action is just "pretending to think".
+        - Isn't [[thinking]] without a clear concrete next action just "pretending to think."?
 - On the other hand, if you implement the task in front of you without thinking about what really needs to be created, you'll end up "[[efficiently doing the task will efficiently create a shitty app]]".
     - Here it is: [[Efficiently handling tasks would implement a fast fucking application.]]
     - It's hard to find the balance between thinking and acting, and I'm always struggling with that.<img src='https://scrapbox.io/api/pages/villagepump/sta/icon' alt='/villagepump/sta.icon' height="19.5"/>

@@ -2,6 +2,7 @@
 title: "Part of it disappears, part of it remains, and a new one is born."
 ---
 
+2023-05-12
 ![image](https://gyazo.com/78a6a9aa82f0d0f623829f63637a7c73/thumb/1000)
 - Example: AI will make jobs disappear
 - The assertion that "X disappears" is often made in the context of X's [[Low resolution]].
@@ -14,6 +15,14 @@ title: "Part of it disappears, part of it remains, and a new one is born."
         - [[Observation coverage issues]] but also
     - [[Objects moved out of the observation range become invisible]].
     - For those whose observation range stays in the old X range, X appears to disappear.
+
+It's important that it's X and X'.
+- There is no clear switching epoch, and both concepts are referred to by the same term because they move smoothly
+
+
+next:  [[Conceptual Shift]]
+
+- [[Blind Card Candidate]]
 
 ---
 This page is auto-translated from [/nishio/一部が消えて一部残り新しく生まれる](https://scrapbox.io/nishio/一部が消えて一部残り新しく生まれる) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

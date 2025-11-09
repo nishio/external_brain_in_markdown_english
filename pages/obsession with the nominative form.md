@@ -24,5 +24,11 @@ Including verbs, etc. rather than restricting to noun forms increases the likeli
 It is important to remove the limitations that the mind sets for itself.
 
 Related: [[Wiki is not a dictionary]] Thinking of it as a dictionary also reinforces nominalization bias
+
+Associated 2025-09-18: [[scheme of things]].
+
+Related: [[Soft Essence Making]].
+- > When creating the essence of meaning, there is one very important thing to remember. It is very important when creating the essence of meaning not to be overly abstract. Rather, it is better to use the softest possible language to capture the essence of the speaker's main point. For example, let's say there is a favorable comment about drinking alcohol. To compress it into a one-line headline, it would be better to write, "You should drink alcohol," rather than to write, "A statement endorsing the effects of drinking.
+
 ---
 This page is auto-translated from [/nishio/名詞形へのとらわれ](https://scrapbox.io/nishio/名詞形へのとらわれ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

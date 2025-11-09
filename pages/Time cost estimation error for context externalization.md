@@ -2,14 +2,15 @@
 title: "Time cost estimation error for context externalization"
 ---
 
+
 from[/villagepump/2025/04/03](https://scrapbox.io/villagepump/2025/04/03)
-- The problem of overdoing programming with AI agents is too much of a burden and makes me sick.
+    - [[The problem of overdoing programming with AI agents is too much of a burden and makes me sick.]]
     - What I've noticed is that when I'm doing it as an inside job for "meetings and lectures that don't require such a close look," it doesn't get hard, and if anything, it's rather comfortable.
     - Consider why this is.
     - Maybe I'm usually too focused.
         - It's in programming mode.
         - Then you can't wait patiently for the AI to start something else.
-            - →Multi-tasking confusion 😵‍💫 painful
+            - → [[multitasking confusion]] 😵‍💫 painful
     - When I work in-house, my instructions to the AI are done in the gap in the first place.
         - When the AI waits, it just goes back to the original meeting.
     - Different modes of mind
@@ -26,7 +27,7 @@ from[/villagepump/2025/04/03](https://scrapbox.io/villagepump/2025/04/03)
         - Nuance that 8-14 is greater than 10 on average, but sometimes less than 10.
         - Work in 40% of real time and the remaining 60% is waiting for the AI to react.
     - 3: At this point, you can't stand the presence of the wait and wonder, "Couldn't I do another one during this wait?" I would think to myself.
-        - There is a point to be made that the mentality that makes people think this way is "workaholic" in the first place.
+        - It's a [[workaholic]] mentality to think this way in the first place," he points out.
         - The desire to maximize the value you produce biases you toward putting all of your disposable time into the project
     - 4: However, "Couldn't we do one more?" will fail.
         - Two projects running in parallel make it impossible for the brain to retain contextual information alone.
@@ -54,7 +55,7 @@ from[/villagepump/2025/04/03](https://scrapbox.io/villagepump/2025/04/03)
             - It takes time and energy for the human brain to reload an externalized context, and if the context switches quickly in a short period of time, the brain would be incredibly tired.
 
 relevance
-    - [[Diary 2025-03-26]]
+    - [[Using lots of Devin in parallel efficiently punctures the head.]]
 
 ---
 This page is auto-translated from [/nishio/コンテキスト外部化の時間コスト見積もりミス](https://scrapbox.io/nishio/コンテキスト外部化の時間コスト見積もりミス) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

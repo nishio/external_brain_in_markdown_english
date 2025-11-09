@@ -161,7 +161,7 @@ Struggle with high-dimensional mud dumplings
 
 
 
-New projects (to be announced 11/22)
+New project (to be announced on 11/22 → [[Shin Tokyo 2050 Broad Listening]])
 - This is an analysis for embedded vectors of natural language
 - I found the characteristics of the data distribution to be important, so I examined them with similar data.
         - [[distribution of text-embedded vectors]]

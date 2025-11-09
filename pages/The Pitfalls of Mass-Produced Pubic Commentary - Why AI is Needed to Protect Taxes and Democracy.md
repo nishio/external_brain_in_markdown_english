@@ -3,6 +3,7 @@ title: "The Pitfalls of Mass-Produced Pubic Commentary - Why AI is Needed to Pro
 ---
 
 [The Pitfalls of Mass-Produced Pubic Commentary: Why AI is Needed to Protect Taxes and Democracy｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/nf9df05119d93)
+- [[pub-comment mass-posting problem]]
 
 
 The following manuscript

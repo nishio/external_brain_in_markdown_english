@@ -2,6 +2,7 @@
 title: "community"
 ---
 
+2021-06-15
 Community Considerations
 I've been putting it off, thinking I should organize it.
 Is this [[Deepen mutual understanding with Scrapbox]] or something related?

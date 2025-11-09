@@ -15,10 +15,8 @@ from  [[Diary 2024-06-25]]
 >
 >  ・ Verification of possible treatment for neurodegeneration of the brain after chemotherapy
 >  Non-invasive 40 Hz audiovisual stimulation (gamma waves) can ameliorate cognitive deficits and brain pathology in mice after chemotherapy.
->
->  [https://science.org/doi/10.1126/scitranslmed.adf4601…](https://science.org/doi/10.1126/scitranslmed.adf4601…)
 >  ![image](https://pbs.twimg.com/media/GIY3MDIbcAAhAr0?format=jpg&name=medium#.png)
-
+- [[Gamma entrainment using audiovisual stimuli alleviates chemobrain pathology and cognitive impairment induced by chemotherapy in mice]]
 
 
 ---

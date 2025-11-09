@@ -31,8 +31,9 @@ $M \equiv (M_i)_{i\in I}$
 Mechanism (indirect mechanism): $(M, g)$ #Definition of mechanism
 Direct mechanism: $M_i = \mathscr{D}_i, g = f$
 Game $(\succsim, M, q)] for true preference pair [$ \succsim \in \mathscr{D}_I$
-Mechanisms are generators that give games to each true preference.
-mechanism
+- [[mechanism]] is a generator that gives a game to each true preference
+
+- [[Mechanism Definition]]
 Think of the corresponding S that is as [[open concept]] of the game
 - $S(\cdot, M,g) : \mathscr{D}_I \twoheadrightarrow M_I$
 

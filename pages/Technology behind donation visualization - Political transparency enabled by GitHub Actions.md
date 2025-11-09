@@ -7,7 +7,7 @@ title: "Technology behind donation visualization - Political transparency enable
 2025-06-21 Written by.
 - [Technology behind donation visualization - Political transparency enabled by GitHub Actions - Qiita](https://qiita.com/nishio/items/ec3098f60ca3e71c8f9c)
 
-[[Donation Visualization]]
+- [[Donation Visualization]]
 [[GitHub Actions]]
 [[Stripe]]
 [[Gist as GET API]]

@@ -59,7 +59,9 @@ The train ride is systematically only one person in the locomotive, so they phys
 And then it hits the conveyor belt that was running on the tracks and falls off.
 This is where we're fixing the interference with the wall and testing the operation.
 There's a [[Death Landing]] feel to it in the way that it makes it easier for other people to get through.
-- It's like providing a thinly veiled "desire to contribute to others" that is satisfied by multiplayer, without the multiplayer.
+- Death Stranding is a thinly veiled attempt to provide the "desire to contribute to others" that is satisfied by multiplayer without multiplayer.
+
+next:  [[Satisfactory Multiplayer 2025]]
 
 ---
 This page is auto-translated from [/nishio/Satisfactoryマルチプレイ](https://scrapbox.io/nishio/Satisfactoryマルチプレイ) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -45,7 +45,7 @@ near
                     - [[Aspects of Experience]]
 
         - ![image](https://gyazo.com/739cec4bc3a4839b04cd2a38c144d16f/thumb/1000)
-            - [["the relationship between A and B" and "aspects of A created by B" are the same]].
+                - [[The "relationship between A and B" and "aspects of A created by B" are the same]]
     - Combination of seemingly different things
         - ![image](https://gyazo.com/3bfa39940bba5674372c85c302ff29e8/thumb/1000)
 

@@ -18,7 +18,7 @@ title: 'There are two kinds of "communicative."'
 >  >kawahiii: I think this is similar to the idea that "[[the]] resolution of conflicts is what forms a community. As long as human relations are dynamic, we are always dissolving some [[complex inter-relationship (as in the struggle between two types of vine over one piece of land)]]. If we speak of it in terms of a [[gemeinschaft]] will, is that an understanding?
 
 It can be said that [[creating a trigger]] is [[0 to 1]].
-- [[Breakthrough]]
+    - [[breaking power]]
     - [[impetus]]
 What is the traffic to be reduced to 90 when it should be 100, and then reduced back to 100?
 - Maybe the axes are different to begin with.

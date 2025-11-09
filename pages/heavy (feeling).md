@@ -2,7 +2,7 @@
 title: "heavy (feeling)"
 ---
 
-[[Heavy]]
+- [[heavy]]
 - [[thought]] /[[thought]].
 
 ---

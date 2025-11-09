@@ -2,7 +2,7 @@
 title: "Accessism"
 ---
 
-Religions that believe it is important to increase the total body of open access information.
+Religions that believe it is important to increase [[the total amount of open access information]].
 
 - The totality of open access information is [[permanent transcendent X]].
 - One has a limited lifespan, but the body of flesh is only a temporary perch. Your body is information.

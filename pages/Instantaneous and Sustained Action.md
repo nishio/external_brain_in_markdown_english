@@ -7,7 +7,7 @@ The story about "people who thought they had [[energy]], but upon closer inspect
 
 The "instantaneous large output" on the left can make a large move in an environment where that output can overcome a barrier by "overcoming the barrier -> rolling with the flow".
 However, this movement pattern would result in a "move a little → cheat back" in an environment such as the one on the right.
-The arrow on the right shows the opposite pattern: "keep pushing in one direction without being discouraged, even when going uphill or into a headwind.
+The arrow on the right shows the opposite pattern: "Keep [[pushing]] in one direction without being discouraged even if you are going uphill or into a headwind.
 
 Should be thought of as "how strong is the strength of action" not "how strong is/is not the strength of action." ref. [[False dichotomy]].
 Both patterns of activity can be overcome if they are strong enough.
@@ -15,10 +15,12 @@ Both patterns of activity can be overcome if they are strong enough.
     - Those with "sustained energy who can attend an English conversation school on their way home" can make the choice to attend without any problems, especially if they want to go.
     - People with spontaneous action tend to apply first without thinking about whether or not they can attend, and then they try to do something about it.
 
-In short, there are two ways to [[how to achieve results]] (how to get far), "keep pushing to [[undaunted by headwinds]]" and "eh no! and [[leave to take its own course]]", and [[fickle]] people can only do the latter.
+In short, there are two ways to [[how to achieve results]] ([[how to go far]]), "keep pushing to [[undaunted by headwinds]]" and "[[eh no]]! and [[leave to take its own course]]", and [[fickle]] people can only do the latter.
 
 <img src='https://scrapbox.io/api/pages/nishio-en/kuboon/icon' alt='kuboon.icon' height="19.5"/> Action [[instantaneous force]] and action [[sustained force]]?
 - It's a good name, so I adopted it for the page title.
+- [Instantaneous and Sustained Action
+- Is it [[ability to act quickly]] or [[ability to sustain action]]?
 
 original plan
 - ![image](https://gyazo.com/17921cac6f74d947bca326eef278c5d1/thumb/1000)
@@ -33,7 +35,7 @@ original plan
 
 It is highly likely that people differ in whether they perceive the environment to the left as "common" or "rare".
 
-Mr. Tachikawa said, "Even in the right environment, don't you need to be able to act instantaneously at first?" So I thought about it, and the result is that the ball that's stopped feels like it's dizzying.
+Mr. Tachikawa said, "Even in the right environment, don't you need to be able to act instantaneously at first?" I thought about it, and the result was a feeling of [[the ball being stuck is dizzying]].
 - ![image](https://gyazo.com/15f04d822b64e2f82feeb8512a90af48/thumb/1000)
 - Oh, I think I might have figured it out. If you think about going to a particular place you want to go, the odds that you can get there just by accidentally rolling are low and of the right type.
 - If you want to move anywhere, just pop out of the hollow and you will roll somewhere, so it will be on the left.
@@ -54,6 +56,9 @@ relevance
         - [[continuity]]
             - [[continuation]]
     - [[Energy Transition Diagram]]
+    - [[Keep pushing the rock.]]
+    - [[ability to accomplish]]
+    - [[activation energy]]
 
 ---
 This page is auto-translated from [/nishio/瞬発行動力と持続行動力](https://scrapbox.io/nishio/瞬発行動力と持続行動力) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

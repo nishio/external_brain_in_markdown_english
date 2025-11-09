@@ -112,16 +112,17 @@ Previous Review
             - There's Animal L, for example, or Cat A, and then Dog B."
                 - Cats and dogs are "similar" in the sense that they are both animals.
             - This is a logically tractable and understandable expression, but it's just forcing a familiar Venn diagrammatic interpretation.
-                - 'felt meaning' is 'myriad' = 'something spread out in shades of gray without clear boundaries.'
+                - The "felt meaning" is "myriad" = "[[spread out in shades of gray without clear boundaries]]."
                 - So no "inclusion relationship" is defined between the two "felt meanings".
-    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>This has to do with the concept of Scrapbox links
+    - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>This has to do with the concept of [Scrapbox Link
         - The word "link" is what most people think of when they think of Story1: "There is page A, then there is page B, and then there can be a link L that connects them.
         - The Scrapbox link does not.
             - A and L are often used to express the following
             - If, after some time has passed, we say to another B, "We don't have a destination yet, but let's just express L," the system will provide information that A and B are connected via L.
+                - [[2-hop link]]
     - [[Meanings are likenesses and vice versa(v1)]]
 
-(4B4) Relation or relata
+(4B4) [[Relation or relata]]
 - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>(4B3) said, "Similarity is meaning, and meaning is similarity."
     - This "similarity" is one of relationship
     - In this section, "It's not just about similarity, it's about all relationships."
@@ -146,6 +147,7 @@ Previous Review
                     - [[Dark Thin Circle Diagram]]
                 - When "L is formed between A and B," A and B are narrowly captured.
                 - When it is expressed that "a new aspect was created in A by B," A is taken in a broad sense and B is taken in a narrow sense.
+            - Cut out this diagram: [[The "relationship between A and B" and "aspects of A created by B" are the same]].
     - That the "image of Nishio" I wrote about before was expressed in more detail and divided into three different ways.
         - ![image](https://gyazo.com/5436b596b8d6f782f7c1dd5362568459/thumb/1000)
 - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Specific examples (pretty crude, so if I can think of something better, I'll replace it)
@@ -175,7 +177,8 @@ Previous Review
     - Associated with: Ikujiro Nonaka's [[collaboration]].
         - The act of trying to create a shared F by mobilizing not only linguistic symbols but also silence, austere faces, and other symbols.
     - Associated with: [[temporal context]]2024-05-01
-- Q: It is interesting to see so many expressions of "aspects being found". Is finding aspects one of the major elements of understanding?
+    - Associated with: [[differs]]2025-09-17
+- Q: It is interesting to see so many expressions "[[aspects are found]]". Is finding aspects one of the main elements of understanding?
     - A: I think Eugene Gendlin thinks it's an important concept because he went to the trouble of defining it and using it so many times.
     - Maybe it's a metaphor that the meaning is a blur and without boundaries, so we need to find a "side" to it.
     - PS: "aspect" is "aspect" in the original, so I'll look this up in the dictionary
@@ -185,7 +188,7 @@ Previous Review
         - Convincing. When you look at A from a certain point of view B, you see a specific part, that is aspect.
 
 (4B5) Multiplicity
-- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>In the Japanese translation, it is translated as "diversity," but it doesn't feel right to me personally. Is it because the word "diversity" is used in a variety of ways, and I am drawn to the image of the various ways it is used? Since we are talking about the nature of "being multiple," I feel that "plurality" is more appropriate. For now, I will call it "multiplicity" without translating it here.
+- <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>In the Japanese translation, it is translated as "diversity," but it doesn't feel right to me personally. Is it because the word "diversity" is used in a variety of ways, and I am drawn to the image of some of the ways it is used? I feel that "[[plurality]]" is more appropriate since we are talking about the nature of "being multiple. For now, I will call it "multiplicity" without translating it here.
 - [[Multiplicity]] / [[Multiplicity(v1)]]
 - This section is divided into four parts, a-d.
     - (a) An experience is multiple
@@ -253,7 +256,7 @@ Previous Review
             - This is an illustration so I can represent the two in parallel, but when I output it in audio, I'm trying to choose one or the other.
             - <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>If both come out at the same time and there's a choice between the two, then obviously "both are equally important."
                 - Crazy to pick one and throw the other away.
-                - It is better to separate the "verbalizing" phase from the "writing into one-dimensional sentences" phase.
+                    - [[It is better to separate the "verbalizing" phase from the "writing into one-dimensional sentences" phase.]]
                 - With audio output, this phase cannot be separated.
             - It creates a bias of thinking, "I have to choose one or the other, one relationship."
             - I'm saying that the prescription for this kind of thinking bias is that you don't have to choose one because relationships are multiple, not just one, and that what has yet to be verbalized in the first place is multiple, not just one.
@@ -297,7 +300,7 @@ Previous Review
             - By viewing it this way, counselors are better able to take in what their clients say
             - Eugene Gendlin wrote this book as a philosophy book, not a how-to book for psychotherapists, so it doesn't explicitly say "this will improve your psychotherapy."
         - F is called "several experiences" because (4B5d) The as yet unspecified is multiple
-- Referring to this, he quotes [[I. A. Richards]] as saying "all specified meanings are metaphorical"
+- Referring to this, he quotes [[I. A. Richards]] as saying "[[all specified meanings are metaphorical]]."
     - This is also related to [(6.3.5) Build a time machine.
         - > The client had something he wanted to express, but did not know the right word to use to describe it. He happened to choose "time machine," which he thought came closest among the words he knew. This "time machine" is a metaphor.
         - The words that people twist to say "what they have not yet said well" are not used in a "dictionary sense" but are "metaphors" associated with personal meanings, and we cannot know the "felt meaning" in a person from the symbol alone, so we need to encourage symbolization of more aspects of the Therefore, it is necessary to encourage the symbolization of more aspects.
@@ -306,9 +309,10 @@ Previous Review
         - He explained that he sees the term "time machine" not in the sense that he evokes from the term, but rather that "there is an F in the customer that has not yet been verbalized, and one aspect of that F is coming out in the term 'time machine,'" and that he will ask questions to identify that F.
 
 impression
-- It was abstract when I traced the logical side of the structure, but when I thought about it in light of what happens in the concrete process of verbalization, it felt like "pattern language of verbalization"!
-    - Maybe it's like design patterns in programming, if you learn only the pattern in isolation from the "concrete source code", it doesn't make sense.
+- It was abstract when I traced the logical side of the structure, but when I thought about it in relation to what happens in the concrete process of verbalization, it felt like "[[the pattern language of verbalization]]."
+    - Maybe it's like [[design pattern]] in programming: if you learn only the pattern in isolation from the "concrete source code", it doesn't make sense.
     - When you set it up with specific source code, it's like, "Oh, you're talking about this common pattern.
+    - (Added 2025-09-18) Since [[Eugene Gendlin.]] studied with [[Carl Rogers]] during his career and wrote about experiential processes and symbolization in his doctoral dissertation, I think it is straightforward to interpret the theory of experiential processes and symbolization as the pattern language of verbalization observed in psychotherapeutic processes. I think it is straightforward to interpret the theory of experiential processes and symbolization as the pattern language of verbalization observed in the psychotherapeutic process.
 
 Q&A
 - Q: I felt it was important to understand that the words the other person said are an aspect of the larger F. I think the argument, like the agitated one on Twitter, is intentionally trying to interpret F=Fa.
@@ -337,6 +341,7 @@ Q&A
         - Another metaphor: a tall tower built on a foundation of sand that has not been properly solidified will lean. [[house built on sand]]
     - If you want to do it right, you need to create a common "felt meaning" at a reasonable cost.
         - That is the state of "concept" being "held".
+        - (Added 2025-09-18) [[collaboration]] by [[gather for discussion]] to create a common "felt meaning" at a corresponding cost.
     - I have a feeling that the cursing on Twitter is not worth the cost.
 - Q: I guess when you try to understand what they are saying, you get a lot of symbols and then you understand what they are trying to say
     - A: Yes
@@ -372,12 +377,12 @@ Q&A
     - A: The fighting is... they're fighting on Twitter too, I don't know.
         - PS: If everyone could have a "Eugene Gendlin way of interpreting" regardless of whether it's text or audio, there would be less conflict!
 - Q: When converting voice to text, if we need the skill to put modality information such as emotion on the text, then good stagnant information will disappear when we are communicating on an email basis. It sounds like something needs to be done, whether the software supports the texting or creates a medium that can convey those pieces of information.
-    - A: Actually, as the saying goes, "good stagnation makes sense."
+    - A: Actually, as the saying goes, "[[good stagnation makes sense]]."
     - The symbols that come out as a result of being unable to say something well are important, and the symbols that are being blabbed about are superficial and not that important.
     - When asked a question or something, you need to focus on the words that popped out after a while, after you've said, "Well...".
     - With text communication, that's not clear at all.
         - I wonder if there is a service that can make use of the information in the sayings.
-        - PS: That's what I thought, and I tried to add a function to Keichobot to measure the time to answer, but it doesn't work very well. With in-person voice communication, there is an implicit constraint to focus 100% on the person in front of you, and not look at your phone, whereas with chat, you can look away.
+        - PS: I thought about that and tried to add a function to Keichobot to measure the time to answer, but it doesn't work very well. With [[interpersonal voice communication]], there is an implicit constraint to focus 100% on the person in front of you, and not look at your phone, whereas with chat, you can look away.
 - Q: I think it's one thing to have a good stutter when verbalizing and another to have a hmmm when polishing a written text to share with others.
     - A: Yes
     - PS: Personally, I think that the languagization faltering occurs in "the process of verbalizing what has not yet been verbalized" and the polishing troubles occur in "the process of expressing what has already been verbalized in a private language in a common language that others can understand".

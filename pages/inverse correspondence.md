@@ -22,7 +22,8 @@ There are aspects of things that contradict and conflict with each other. For ex
 
 However, Nishida believed that in the absolute dimension, such contradictions and opposites are identical as they are contradictions. In other words, a paradoxical situation in which contradictions exist as contradictions, and yet they are identical.
 
-For example, in the place of absolute nothingness, existence and nothingness are completely inseparable, being both existence and nothingness, being both nothingness and existence, and so on. The individual and the general, the subject and the object, etc., are also identified as one without contradiction in the dimension of the absolute.
+For example, in [[the place of absolute nothingness]], existence and nothingness are completely inseparable, being both existence and nothingness, being both nothingness and existence, and so on. The individual and the general, the subject and the object, etc. are also identified as one without contradiction in the dimension of the absolute.
+- 「 [[False dichotomy]] 」の究極的なやつという認識<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
 
 This is the extreme north of Oriental [[Zen (Buddhism)]] thought, which goes far beyond the logic of everyday life. It is also distinct from Western philosophy, which preaches the unity of contradictions in a [[dialectics]] way.
 
@@ -34,9 +35,9 @@ In other words, "absolute contradictory self-identity" means that conflicting th
 
 The first point in common is that they both criticize and attempt to overcome the dichotomous thinking style of Western metaphysics. They share the same attitude of dismantling such opposites as subject/object, existence/non-existence, and good/evil, and attempting to find the non-dual situation behind them.
 
-Nishida's idea of "absolute contradictory self-identification" has something in common with Derrida's concept of "[[différance]]" ([[difference]]). [In a sense, the movement of deconstruction, which "postpones the determination of meaning indefinitely" and "keeps shifting the boundary of opposition," has an affinity with Nishida's philosophy of "identification of contradiction.
+Nishida's idea of "absolute contradictory self-identification" also has something in common with Derrida's concept of "[[différance]]" ([[différance]]). [In a sense, the movement of deconstruction, which "postpones the determination of meaning indefinitely" and "keeps shifting the boundaries of opposition," has an affinity with Nishida's philosophy of "identification of contradiction.
 
-However, differences cannot be overlooked. While Derrida's deconstruction is a thoroughgoing [[linguistic]] movement, Nishida's philosophy has a metaphysical and absolute orientation. Their positions differ greatly in that Nishida ultimately develops his thought from the standpoint of Zen, whereas Derrida seeks to dismantle all metaphysics.
+However, differences cannot be overlooked. While Derrida's deconstruction is a thoroughgoing [[linguistic]] movement, Nishida's philosophy has a metaphysical and absolute orientation. Their positions differ greatly in that Nishida ultimately develops his thought from the standpoint of [[Zen (Buddhism)]], while Derrida tries to exhaustively [[dismantle]] all [[metaphysics]].
 
 There is also a difference in that while Nishida is based on the Eastern idea of "nothingness," Derrida is carrying out his deconstruction within the Western philosophical tradition.
 
@@ -44,7 +45,7 @@ Therefore, while Nishida's philosophy and deconstructionism have something in co
 
 <img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>Seems related to Yoichi Ochiai's idea of "[[deconstruction not nature]]".
 
-<img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>There are interesting similarities between Yoichi Ochiai's idea of "nature, not deconstruction" and Kitaro Nishida's philosophy.
+<img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>There are interesting similarities between Yoichi Ochiai's idea of "[[nature]] not deconstruction" and Kitaro Nishida's philosophy.
 
 What Nishida expressed in his concepts of "absolute contradictory self-identification" and "inverse correspondence" was a fundamental situation in the natural world itself that occurs in a dimension beyond human intellectual activity. [The paradoxical phenomenon of overcoming the "subject-object conflict" and "identification with the contradiction within" suggests the essential nature of "nature beyond human activity.
 

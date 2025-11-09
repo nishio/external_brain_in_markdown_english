@@ -48,7 +48,7 @@ Whether to play the video on the same day
     - Impressions of Nishio
         - I took the strong style approach of watching all the videos in advance and commenting on them.
         - I thought the second one would be boring, but it wasn't.
-        - Excess cognitive resources can be allocated to communication on Scrapbox.
+        - Excess [[cognitive resources]] can be allocated to communication on Scrapbox.
             - Example: The
                 - Teaching people who don't realize that icon notation can be produced with Ctrl+i.
                 - Point out when the management stops the video without realizing that there is more to the video.

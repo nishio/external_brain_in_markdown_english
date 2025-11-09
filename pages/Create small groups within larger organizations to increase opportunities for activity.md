@@ -3,7 +3,7 @@ title: "Create small groups within larger organizations to increase opportunitie
 ---
 
 from  [[Community design to encourage forking]]
-Create small groups within larger organizations to increase opportunities for activity
+[[Create small groups within a larger organization]] to increase opportunities for activity.
 > [realNuun](https://x.com/realNuun/status/1833760823468327401) In "Cult Marketing You Should Know Because It's Dangerous," there was also a story in "Cult Marketing You Should Know Because It's Dangerous" about how "relationships become more intense when you create various groups within a large organization.
 >  >realNuun: I've been working hard to develop a community for our service, and it's going well, but I'm wondering if it's too much to ask for a single community when we want to scale it infinitely, given the limitations of the number of dummies. It seems that we need a structure that allows users to create multiple communities on their own.
 > ![image](https://gyazo.com/4d34471b1f2b792d6c6977d0ba6736b5/thumb/1000)![image](https://gyazo.com/c12f60394387ff7d89847be3f3b7b171/thumb/1000)

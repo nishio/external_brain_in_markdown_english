@@ -1,0 +1,19 @@
+---
+title: "Weekly note 2025-08-30~"
+---
+
+prev  [[Weekly journal 2025-08-20~2025-08-30]]
+For 10 days
+
+What did you do last time?
+- Aug. 23-24 [[Interim Training Camp for Junior Students 2025]].
+- Aug 26-28 Cybozu Lab Youth 2025 Summer Camp
+    - [[pKozaneba2025-08-26~27]]
+- 8/26  [[The easiest way to explain plurality, including company case studies | The Cybozu Method]]
+- 8/27 Idobata in-house experiment
+    - I inadvertently double-booked the above two, so I had to come to the Nihonbashi office from Miura Beach w
+
+
+
+---
+This page is auto-translated from [/nishio/週記2025-08-30~](https://scrapbox.io/nishio/週記2025-08-30~) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.

@@ -16,7 +16,7 @@ I don't have time to deal with people who "wish people ill."
 - Best to put all your energy into your project and succeed!
 - > Those who wish others misfortune are annoyed when they are successful. The most ingenious punishment is to make one's success a poison for one's partner.
 
-Time in life is finite.
+- [[Time in life is finite.]]
 - > Do not fight what you have nothing to lose. Even if you defeat your opponent, you cannot get back what you have lost.
 
 - [paul graham: life is short](https://nahareport.blogspot.com/2016/01/paul-graham.html)

@@ -18,6 +18,7 @@ from [/villagepump/knowledge-output-and-intellectual-production-flow](https://sc
     - Requested to do research on infographics -> summarize back to information design
         - This is not publicly available...
         - You're talking about going into the business strategy of a particular company, which is why it's not easy to disclose.
+            - [[Infographics Survey]]
     - I'm going to be an interviewer for an on-demand media project -> I'm going to read a bunch of books named Interviews.
             - [[How to Learn to be an Engineer]]
 

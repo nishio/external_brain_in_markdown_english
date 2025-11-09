@@ -4,8 +4,8 @@ title: "Let AI speak first"
 
 ![image](https://gyazo.com/74344051f7c220b015078625fd4b9aef/thumb/1000)
 
-- When you are trying to talk about the relationship between A and B, but B is not yet solidified, or the distance between concepts is long and the cost of verbalization is high, first throw A, which is already verbalized, to the AI and let it speak, visualize the surrounding information network, and then use it to say B that you want to say.
-    - [[connection of distant object]].
+- When you are trying to talk about the relation between A and B, but B is [[not yet]] solidified, or the [[verbalizing]] cost is high due to long [[concept distance]], first throw A, which is already verbalized, to the AI and let it talk, visualize the surrounding [[information network]], and then use it to say B that you want to say.
+        - [[Connection of Distant Objects]]
 
 concrete example
     - [[During the continuation of the precise change production]]

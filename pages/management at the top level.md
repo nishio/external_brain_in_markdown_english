@@ -20,6 +20,9 @@ Keyword Summary
 - basic structure
     - The HQ (headquarters) subdivides abstract issues and distributes numerical targets to each department. The field follows the numbers, and HQ maintains morale with positive announcements throughout.
     - [The "big headlines" and "big announcements" for governing "ordinary people who are frightened by anxiety"](https://zenn.dev/shin_semiya/articles/d22d1c6f76f4d6)
+    - relevance
+            - [[Incorrect KPI setting]] (but the person setting it intended to do so)
+            - [[Vanity Indicators]]
 
 Why do we fall into it?
 1. an organization with many people with low anxiety tolerance

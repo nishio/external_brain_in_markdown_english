@@ -22,6 +22,8 @@ title: "Ignore the smears and move on to success."
 - [[Don't fight what you have nothing to lose]].
     - Even if you defeat your opponent, you cannot get back what you have lost.
 
+    - [[Do not fight.]]
+
 [Leverage Memo: Balthasar Gracián's Philosophy of Success - Eternal Wisdom to Improve Your Life - NISHIO Hirokazu's Hatena Diary](http://d.hatena.ne.jp/nishiohirokazu/20100518/1274203895)
 
 ---

@@ -5,9 +5,9 @@ title: "Gutsy Motivation Person"
 <img src='https://scrapbox.io/api/pages/nishio-en/claude/icon' alt='claude.icon' height="19.5"/>These tweets agree that the presence of a "Gutsy and Motivated Person ([[GYP]])" is very important in cutting-edge development projects.
 
 The main points are as follows: 1.
-- GYP will be the [[driving force]] that generates [[breakthrough]] ideas and findings.
+- GYP will be the [[driving force]] that generates ideas and findings with [[breaking power]].
 - More than the size of the organization or its financial strength, [[GYP's will]] is [[the key to opening up the future]].
-- On the other hand, as organizations grow larger, GYP tends to be marginalized. In the U.S., there is a culture of rewarding GYP with stock options.
+- On the other hand, there is a tendency for GYP to be marginalized as organizations grow larger. In the U.S., there is a culture of rewarding GYP with [[stock options]].
 - GYPs [[have already found what they want to do]], so [[it is difficult to call on them from the outside to join them]] in some aspects.
 - With the GYP at the core, it is important to surround him or her with people who can complete the assigned missions, and to push those who only talk the talk to the fringes.
 - An organization with GYP and his friends is strong, but if it is all GYP and [[flight attendants]], it will be corrupt.

@@ -2,7 +2,7 @@
 title: "Correctability heals divisions."
 ---
 
-> [hal_sk](https://x.com/hal_sk/status/1813148158022852645) I see. I wonder if the "[[correctability]] of the claim [[could]] prevent [[dividing into parts]]."
+> [hal_sk](https://x.com/hal_sk/status/1813148158022852645) I see. I wonder if the claim's "[[correctability]] of the claim" could prevent "dividing into parts."
 > [Why an unknown engineer was able to win 150,000 votes in the Tokyo gubernatorial election [[Thanks and Reflection]]｜Takahiro Yasuno []](https://note.com/takahiroanno/n/n3fce136f9003)
 
 [[Governor's Race 2024]].

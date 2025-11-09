@@ -2,6 +2,7 @@
 title: "A mass of raw data and meaning"
 ---
 
+2018-06-01
 ![image](https://gyazo.com/fa8b22f43b2e239ee8fedd15a0cc721a/thumb/1000)
 
 - Discussion on how to [[liquidate]] [[information]] in Scrapbox #Information organization

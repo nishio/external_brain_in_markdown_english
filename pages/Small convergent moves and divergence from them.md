@@ -13,6 +13,8 @@ I thought you looked familiar.
     - from  [[Interference Effects of Ideas]]
         - ![image](https://gyazo.com/c49e67265b1af15a9684e8ce8778ea6f/thumb/1000)
                 - [[way of thinking]]  p.107
+- [[BAD(Basic Abstract Data)]]
+
 2023-09-03
 
 ---

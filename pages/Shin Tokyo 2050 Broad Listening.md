@@ -2,7 +2,7 @@
 title: "Shin Tokyo 2050 Broad Listening"
 ---
 
-Mr. Yasuno became an advisor to [[GovTech Tokyo]] and used [[broad listening]] to develop a long-term strategy for the Tokyo Metropolitan Government in collaboration with the Tokyo Metropolitan Government.
+- [[Takahiro Yasuno]] became an advisor to [[GovTech Tokyo]] and talked about how [[broad listening]] was used to develop a long-term strategy for the Tokyo Metropolitan Government in collaboration with the Tokyo Metropolitan Government.
 
 
 ![image](https://gyazo.com/89de210f2923628eb8016d72f50a8aaa/thumb/1000)

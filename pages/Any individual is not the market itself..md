@@ -2,6 +2,7 @@
 title: "Any individual is not the market itself."
 ---
 
+2021-05-13
 Just because any competent person feels that "I don't want this product" does not mean that everyone in the marketplace feels that "I don't want this product".
 
 No matter how competent they are, as long as they are "[[individuals]]," they will react differently from "[(the) market (as a concept)," which is an aggregate of people with diverse [[values]]. The market's judgment can only be known by asking the market.
