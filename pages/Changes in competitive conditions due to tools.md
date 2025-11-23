@@ -1,28 +1,24 @@
 ---
-title: "Changes in competitive conditions due to tools"
+title: "Changes in Competitive Conditions Due to Tools"
 ---
 
-from  [[Diary 2025-03-26]]
-Change in [[competitive conditions]] due to tools
+from [[Diary 2025-03-26]]  
+Changes in [[Competitive Conditions]] Due to Tools
 
-Capability enhancement X provided by a tool T, and capability Y independent of it.
-If the two are constrained by a common resource (e.g., drop time), a [[trade-off]] relationship occurs
-However, if in that situation another resource, for example, a tool that can be bought with money, enhances capability X, the competitive conditions change.
-![image](https://gyazo.com/f90e1417d5c7811abad23884a82034f9/thumb/1000)
-People who gave up X to get Y get angry at those who got X without giving up.
-Whoever was getting X at the expense of Y.
-- Disgusted by people who get X without sacrificing Y?
-    - There's a case for that.
-        - A career woman who has given up on having a family and chosen a career snubs a junior woman who wants to balance family and work.
+When a tool T enhances capability X, which is independent of capability Y, and both are constrained by a common resource (such as time investment), a [[trade-off]] relationship arises. However, if a tool that can be purchased with another resource, such as money, enhances capability X, the competitive conditions change.  
+![image](https://gyazo.com/f90e1417d5c7811abad23884a82034f9/thumb/1000)  
+People who gave up X to pursue Y may become frustrated with those who acquire X without giving it up. Those who sacrificed Y to obtain X might:
+
+- Feel annoyed with people who obtain X without sacrificing Y?
+    - This can happen in some cases.
+        - For example, a career woman who gave up having a family to pursue her career might harass junior women who want to balance both.
     - Whether there is a limit to X
-        - Those who are aiming higher, regardless of others, will say, "I can make more X's with this tool T!" and they'll be happy about it.
-        - Cartoonists who are happy to use generative AI, etc.
+        - People aiming higher might not care about others and instead be happy, thinking, "I can achieve even more X with this tool T!"
+        - Like manga artists who are happy to use generative AI.
 
+Observing jealousy towards people who release code written by AI despite not having high programming skills made me ponder what that really is.
 
-I saw the jealousy towards those who write and release code in AI even though they don't have great programming skills, and I was thinking what that is.
-
-
-- [[Trade-off frontiers]]
+[[Trade-off Frontier]]
 
 ---
-This page is auto-translated from [/nishio/ツールによる競争条件の変化](https://scrapbox.io/nishio/ツールによる競争条件の変化) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
+This page is a high-quality translation from [/nishio/ツールによる競争条件の変化](https://scrapbox.io/nishio/ツールによる競争条件の変化). The original content is maintained by NISHIO Hirokazu.
