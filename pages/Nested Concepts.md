@@ -1,34 +1,34 @@
 ---
 title: "Nested Concepts"
+
 ---
 
-The title is too abstract for what I'm writing, so I'll change it when I come up with a better title.
+The current title is too abstract for the content, so it will be changed if a better one is thought of.
 
 ![image](https://gyazo.com/48f20d6230d96ed0bcefa418fda4afb5/thumb/1000)
 
-It is associated with several concepts
-    - [[What you thought was one concept is two nested concepts]]
-    - [[Both "is X" and "is not X" are compatible.]]
-    - [[Liskov Replacement Principle]]
+This concept is related to several others:
+- [[What Was Thought to Be One Concept Is Two Nested Concepts]]
+- [["Being X" and "Not Being X" Can Coexist]]
+- [[Liskov Substitution Principle]]
 
-There are additional stories not mentioned in those.
-- When person 1, who is thinking of X in the narrow sense, is speaking on the assumption that "the elements of X are A", person 2, who is thinking of X in the broad sense, thinks "1 is speaking on the assumption that 'the elements of X are A', which is wrong, let me tell you".
-    - [[righteous violence]] occurs because I think I'm trying to do the right thing.
-- When person 2, who is thinking of X in the broad sense, asserts that there are elements of X that are not A, person 1, who is thinking of X in the narrow sense, thinks, "There is obviously no such thing, person 2 is wrong, let me tell you."
-    - Or "because [[Cognitive Resolution]] is low."
-    - [[think the other is inferior to them.]]
+There are additional discussions not covered in those:
+- When Person 1, who is considering the narrow definition of X, talks with the premise that "the elements of X are A," Person 2, who is considering the broad definition of X, thinks, "Person 1 is assuming 'the elements of X are A,' but that is incorrect, let me correct them."
+    - This leads to [[Violence of Justice]] because they believe they are doing the right thing.
+- When Person 2, considering the broad definition of X, asserts that "there are elements of X that are not A," Person 1, considering the narrow definition of X, thinks, "Such things obviously do not exist, Person 2 is wrong, let me correct them."
+    - Or they might think it's because of [[Low Cognitive Resolution]].
+- [[Each Thinks the Other Is Inferior]]
 
+[[Series of Pictures Where Two People Say Different Things]]
+- The statements are complex.
+- Although there has been an attempt to express this without using natural language, this time it results in:
+    - $\forall x\in X, x\in A$ vs. $\exists x\in X, x\notin A$
+- This is the structure it takes.
+- Hmm, well, maybe with the diagrams, even those who struggle with math can understand? (Can they??)
 
-- [[A series of pictures of two people saying different things]]
-- what is said is complex
-- I've been trying to express myself without using natural language as much as possible, but when I do it this time
-    - $\forall x\in X, x\in A$ v.s. $\exists x\in X, x\notin A$
-- be composed as follows
-- Hmmm, well, but if you put it together with the diagram, can you figure it out even if you're not good at math? (Understand?)
-
-relevance
-    - [[nested set]]
-    - [[nesting]]
+Related:
+- [[Nested Sets]]
+- [[Nesting]]
 
 ---
-This page is auto-translated from [/nishio/入れ子の概念](https://scrapbox.io/nishio/入れ子の概念) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
+This page is a high-quality translation from [/nishio/入れ子の概念](https://scrapbox.io/nishio/入れ子の概念). The original content is maintained by NISHIO Hirokazu.
