@@ -1,117 +1,115 @@
 ---
-title: "What is logical thinking?"
+title: "What Is Logical Thinking?"
 ---
 
 ![image](https://gyazo.com/9946033de02ab324b047af34124d5607/thumb/1000)
-    - What is [[logical thinking]]?
+- What is [[Logical Thinking]]?
 - [[Masako Watanabe]]
 - [Amazon](https://amzn.to/4iC3ght)
-    - Same author as [Cultural Foundations of "Logical Thinking"
+- Same author as [[The Cultural Basis of "Logical Thinking"]]
 
-<img src='https://scrapbox.io/api/pages/nishio-en/GPT/icon' alt='GPT.icon' height="19.5"/>
-- This book explains that logical thinking methods are not universal and that it is necessary to choose the appropriate method according to the purpose of thinking. Specifically, the book organizes the types of reasoning and their purposes in logic, rhetoric, science, and philosophy, and advocates "pluralistic thinking," which uses different methods of thinking tied to the four domains of economics, politics, law and technology, and society.
-- The author, Masako Watanabe, received her Ph.D. in Sociology from Columbia University and is currently a professor at the Graduate School of Education and Developmental Sciences, Nagoya University. She specializes in sociology of knowledge, comparative education, and comparative culture, and analyzes cultural aspects of logical thinking from these perspectives.
-- The book has been an exceptional hit, with a series of reprints before its release, exceeding 38,000 copies in five printings in about a month. This is due to the fact that the book has attracted the interest of many readers by offering a new perspective on logical thinking.
+<img src='https://scrapbox.io/api/pages/nishio/GPT/icon' alt='GPT.icon' height="19.5"/>
+- This book argues that logical thinking methods are not universal and emphasizes the need to choose appropriate methods according to the purpose of thinking. Specifically, it organizes the types of reasoning and their purposes in logic, rhetoric, science, and philosophy, and advocates for "pluralistic thinking" that uses different methods linked to the four areas of economics, politics, legal technology, and society.
+- The author, Masako Watanabe, earned a Ph.D. in Sociology from Columbia University and is currently a professor at Nagoya University's Graduate School of Education and Human Development. Her expertise lies in the sociology of knowledge, comparative education, and comparative culture, from which she analyzes the cultural aspects of logical thinking.
+- The book has been an exceptional hit, going through multiple reprints even before its release, surpassing 38,000 copies in just about a month. This success is attributed to providing a new perspective on logical thinking that has captured the interest of many readers.
 
+Contents
+Logical thinking methods are not universal. It is necessary to first clarify the purpose of thinking and then choose a method that suits that purpose. The book covers the types of reasoning and their purposes in logic, rhetoric, science, and philosophy, and advocates for pluralistic thinking that uses four thinking methods (economics, politics, legal technology, society) linked to values. A book for thinking independently in this uncertain world.
 
+Contents
 
-Table of Contents
-Logical thinking methods are not universal. It requires the skill to first clarify the purpose of thinking and then select the thinking method that best suits that purpose. This book teaches multidimensional thinking, in which the types of reasoning and their purposes in logic, rhetoric, science, and philosophy are grasped, and the four methods of thinking (economic, political, legal, technological, and social) linked to values are used in different ways. This is a book for thinking independently in this uncertain world.
+- Introduction: Is There Only One Type of Logical Thinking?
 
-order of precedence
-
-- Introduction: Is Logical Thinking One?
-
-Introduction: Western Patterns of Thought: Four Logics
-- 1 Comparative Table of Logic and Thinking Methods in Logic, Rhetoric, Science, and Philosophy
-        - [[Four ways of thinking]]
+Chapter 1: Patterns of Western Thought—Four Types of Logic
+- 1 Comparison Table of Logic and Thinking Methods in Logic, Rhetoric, Science, and Philosophy
+    - [[Four Types of Thinking Methods]]
 - 2 Logic of Logic
-    - Purpose[[Four ways of thinking]] のうち数学などで使われる演繹的な論理学スタイルと科学のスタイルは違うよねという話は拙著「エンジニアの知的生産術」でも書いた( [[(7.1.2) The difference between scientific and mathematical correctness]] )<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-        - In my book, I mentioned "[[Correctness of decision-making]]" as the third correctness and said that it is different from either of those two correctnesses.
-    - Logic writes that it "habituates us to think rigorously," but it habituates us to make it clear whether something is True or False, and a side effect of this is that it makes it difficult to ignore and see "the possibility that something is not divisible by True/False."
-        - Of course, it is often useful to think in terms of "How far can we say with certainty that something is True?
-        - However, it can also cause you to feel powerless to deal with issues that are neither True nor False, or to go through the motions because you don't know how to deal with them
-        - <img src='https://scrapbox.io/api/pages/nishio-en/GPT/icon' alt='GPT.icon' height="19.5"/>
-            - Disambiguation: It is difficult to be aware of ambiguous areas that cannot be divided by true/false and the possibility of multiple truths coexisting.
-            - Simplification of complex realities: it is difficult to see the multi-layered elements of reality and may rely too much on divisible logic alone.
-            - In social and cultural issues, "diverse perspectives" and values are important, not authenticity.
-            - Judgments based solely on a logistical approach may lack flexibility and comprehensive thinking.
+    - Among the [[Four Types of Thinking Methods]], the deductive logic style used in mathematics and the style of science differ, as discussed in my book "Intellectual Production Techniques for Engineers" ([[(7.1.2) Differences in Correctness Between Science and Mathematics]])<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - In my book, I also mentioned a third type of correctness, "[[Correctness in Decision Making]]," which is different from the other two types of correctness.
+    - Logic is said to "habitually encourage precise thinking," but it actually habituates clarifying whether something is True or False, which as a side effect makes it harder to see the "possibility that cannot be clearly divided into True/False."
+        - Of course, the thinking method of determining "how far something can be said to be definitely True" is often useful.
+        - However, it can also lead to feelings of helplessness or ignoring problems that cannot be clearly said to be either True or False.
+        - <img src='https://scrapbox.io/api/pages/nishio/GPT/icon' alt='GPT.icon' height="19.5"/>
+            - Elimination of Ambiguity: It becomes difficult to be aware of ambiguous areas that cannot be clearly divided into True/False or the possibility of multiple truths coexisting.
+            - Simplification of Complex Realities: The multilayered elements of reality become harder to see, and there is a risk of relying too much on logic that can be clearly divided.
+            - In social or cultural issues, "diverse perspectives" and "values" are important rather than truth or falsehood.
+            - Relying solely on a logical approach can sometimes lack flexibility and comprehensive thinking.
 
-- 3 Logic of persuasion ([[rhetoric]])
-    - It is very interesting to note that Aristotle not only systematized logic (the study of rigorous reasoning), but at the same time emphasized the need for rhetoric (the art of persuasion)<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-    - Rhetoric is not true or false, but a value judgment,[[pragmatism]] 的<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-        - goal-oriented<img src='https://scrapbox.io/api/pages/nishio-en/GPT/icon' alt='GPT.icon' height="19.5"/>
-            - Rhetoric focuses not on "what is right" but on "how to move the audience.
-            - The goal is to elicit concrete action and agreement, not abstract criteria of truth or falsehood.
-    - Omit the basic premise because in rhetoric, shorter is more useful, interesting.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-    - Talk about choosing an appropriate one from the "argumentation types" that have been accumulated over the years, it would be interesting if the AI explicitly uses it.
-    - So this is a profit-maximizing technique, and it's beneficial to be perceived as using it for the public good, not for personal gain.
+- 3 Logic of Persuasion ([[Rhetoric]])
+    - It is fascinating that Aristotle not only systematized logic (the science of rigorous reasoning) but also emphasized the necessity of rhetoric (the art of persuasion).<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - Rhetoric is not about truth or falsehood but about value judgment, [[Pragmatism]]-oriented<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - Purpose-Oriented<img src='https://scrapbox.io/api/pages/nishio/GPT/icon' alt='GPT.icon' height="19.5"/>
+            - Rhetoric focuses on "how to move the audience" rather than "what is right."
+            - It aims to elicit concrete actions or agreement rather than abstract standards of truth or falsehood.
+    - In rhetoric, it is interesting that omitting major premises is beneficial because brevity is advantageous.<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - The idea of choosing and using appropriate "proof patterns" accumulated over years is intriguing, and it would be interesting if AI explicitly used them.
+    - It is beneficial to be recognized as using this technique to maximize public benefit rather than personal gain.
 
 - 4 Logic of Scientific Discovery
-    - [[アブダクション]]においては[[拡張性]]が評価軸、面白い<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/> [[Yonemori(2009:9)]].
-    - Rhetoric draws favorable conclusions based on common sense, whereas science creates new models based on observed facts that defy common sense.
-        - There's some extensional thinking going on in user testing.
-            - Based on the observed fact that some users behave contrary to their own assumptions, consider the reasons why this behavior has emerged.
-    - [[可謬主義]]<img src='https://scrapbox.io/api/pages/nishio-en/gpt/icon' alt='gpt.icon' height="19.5"/>
-        - The philosophical position is that human knowledge and beliefs are always fallible and cannot be held with complete certainty].
-        - Fallibilism also influenced Karl Popper's philosophy of science, which is closely tied to the concept of "[[falsifiability]]."
-- 5 Logic of philosophical inquiry
-    - Philosophy questions the premise.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-        - One of the means is the Socratic question and answer, Hegel's dialectic
-        - He said that in French high schools, students are forced to practice Hegel's dialectic.
-- It's a pattern of science to let users use the software and discover unexpected ways to use it and improve it, and it's a pattern of rhetoric to let the software be used by a wide range of users.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-    - The objective of "creating a tool acceptable to the masses" is broken down
-        - What features are needed to be accepted by the masses?
-        - How do we get the masses to accept the tools we've created?" is rhetoric.
-    - Maybe I never thought about this in a clear, separate way.
+    - In [[Abduction]], [[Extensibility]] is an evaluation criterion, which is interesting.<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> [[Yonemori (2009:9)]]
+    - While rhetoric derives favorable conclusions based on common sense, science creates new models based on observations that contradict common sense.
+        - In user testing, extensive thinking is also conducted.
+            - From the observation that there are users who behave contrary to one's assumptions, one considers the reasons for such behavior.
+    - [[Fallibilism]]<img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
+        - This is a philosophical position that human knowledge and beliefs are always fallible and can never be completely certain.
+        - Fallibilism has influenced Karl Popper's philosophy of science and is closely tied to the concept of "[[Falsifiability]]."
+- 5 Logic of Philosophical Inquiry
+    - Philosophy questions assumptions<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - One method is Socratic questioning and Hegel's dialectic.
+        - It is said that in French high schools, students practice Hegelian dialectics.
+- Allowing users to use software to discover unexpected uses and improve it follows the scientific pattern, while making the software widely used follows the rhetorical pattern.<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - The goal of "creating a tool accepted by the masses" is broken down.
+        - "What functions are necessary for mass acceptance" is science.
+        - "How to make the created tool accepted by the masses" is rhetoric.
+    - I might not have clearly separated these considerations before.
 
 Chapter 1: Cultural Aspects of Logical Thinking
-- 1 What makes us feel "logical"?
+- 1 What Makes Something Seem "Logical"?
     - [[Cultural Thought Patterns in Inter-Cultural Education]]([[Kaplan 1966]])
-        - [[logical]] とは「読み手にとって必要な要素が読み手の期待する順に並んでいることから生まれる感覚」面白い、主観的<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-    - Diverse cultural groups by hierarchy, region, and language make up the country, but the culture of the ruler is taught because a culture of integration is needed ([[Bourdieu 2012]]).
-            - [[National Aristocracy--Elite Education and the Reproduction of the Ruling Class]]
-- 2 Logic and Culture: Value Selection and Priority
-    - Values are expressed in the prioritization of objectives, which selects the "logic", interesting!
-- 3 Logic and rationality
-        - [[Max Weber, Economy and Society.]]
-- 4 The respective logics of economy, politics, legal technology, and society
-- I was talking to AI about this four-quadrant matrix being subtle, and it occurred to me to let AI discuss it in reference to that log.<img src='https://scrapbox.io/api/pages/nishio-en/nishio/icon' alt='nishio.icon' height="19.5"/>
-        - [[Discuss the four-quadrant matrix]]
+    - [[Logical]] is an "impression that arises when the elements necessary for the reader are arranged in the order expected by the reader," which is interesting and subjective.<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - Although diverse cultural groups form a nation through hierarchy, region, and language, a unifying culture is necessary, so the culture of the rulers is taught ([[Bourdieu 2012]])
+        - [[State Nobility—Elite Education and the Reproduction of the Ruling Class]]
+- 2 Logic and Culture—Value Choices and Prioritization
+    - Values are reflected in the prioritization of objectives, which determines the choice of "logic," which is interesting.
+- 3 Logic and Rationality
+    - [[Max Weber's "Economy and Society"]]
+- 4 Logic of Economics, Politics, Legal Technology, and Society
+- I was discussing with AI how this four-quadrant matrix is subtle, and I had a sudden idea to let AI discuss it based on that log.<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - [[Discussing the Four-Quadrant Matrix]]
 
-Chapter 2: Implicit Norms Determining "Types of Composition" and "Types of Logic": Four Domains and Four Logics
-- 1 Know the type of composition required
+Chapter 2: Implicit Norms That Determine "Writing Styles" and "Logic Styles"—Four Areas and Four Logics
+- 1 Knowing the Required Writing Style
 - [[Teaching the Universe of Discourse]]([[Moffett 1968]])
-- 2 Economic Logic──[[American Essay]] and Efficiency and Certainty of Purpose
-- 3 Political Logic: [[Dissertations in France]] and the Resolution of Contradictions and Public Welfare
-    - [[Ethics of Responsibility]]
-        - The question is, "Have you thought this through?"
-            - [[economic rationality]], in contrast to the question of "speed" in
-    - It's interesting that the format of the discertacion ends with a Hegelian ortho-antagonism, then a summary, then posing the next question.
-        - Maybe a multi-person discussion platform would be better to continue the discussion that way.
-    - The essay makes the conclusion explicit at the outset, whereas the discertacion finds value in expanding its perspective through the process of positive and negative congruence.
-    - It seems that in the discertacion, you justify it with a quote from the classics instead of "what I think," but in our day and age, you could pick a headline of conflict or a quote from the "popular sayings."
-            - [[Justification by mass statement]]
-    - I've been collecting patterns of Aristotle's arguments without realizing it, but my collection of [[False dichotomy]] and [[A series of pictures of two people saying different things]] might be one of them.
-- 4 The Logic of Legal Technology──[[Iranian Ensher]] and the Preservation of Truth
-    - It is interesting to point out that in Ensher, first principles are given from the outside and are not subject to criticism, which is spoken of as a commonality between law and theology.
-    - Interesting value of conveying a message without drawing conclusions.
-    - In Iran, people are trained to recall concepts that proverbs refer to without thinking about them, interesting.
-- 5 Social Logic ── [[Japanese Impressions]] and Empathy
-    - The argument that Japanese composition is intended to be [[empathy]] to the members of society, interesting
-    - Interesting distinction between opinion essays and opinion pieces and essays.
-        - Interesting story about [[(way of) literary composition]] being regarded as Japanese pragmatism.
-        - I feel a connection with the story of [[process of experience]] becoming [story intersections become atoms.
-    - In the Japanese method, the experience is told first, and then the elements come out, which is different from an essay where the conclusion comes out of nowhere.
-    - Ichitaro Kokubun's "[[conceptualization]]"
+- 2 Logic of Economics—[[American Essays]] and Efficiency, Achieving Certain Objectives
+- 3 Logic of Politics—[[French Dissertations]] and Resolving Contradictions, Public Welfare
+    - [[Duty Ethics]]
+        - "Have you thought enough?" is questioned.
+        - Contrasts with the "speed" questioned in [[Economic Rationality]].
+    - It is interesting that the dissertation format concludes with a summary after a Hegelian thesis-antithesis-synthesis process and then raises the next question.
+        - It might be better for multi-person discussion platforms to continue discussions in this format.
+    - Essays explicitly state conclusions at the beginning, while dissertations find value in broadening perspectives through the thesis-antithesis-synthesis process.
+    - In dissertations, instead of "What do I think," justification is done through classical quotations, but in modern times, it might be possible to pick headlines of opposition or quotations from "public statements."
+        - [[Justification by Public Statements]]
+    - Collecting Aristotle's proof patterns, which I did unconsciously, might be similar to my collection of [[False Dichotomies]] and [[Series of Pictures Where Two People Say Different Things]].
+- 4 Logic of Legal Technology—[[Iranian Ensha]] and Maintaining Truth
+    - The observation that in Ensha, first principles are given externally and are not subject to criticism is interesting, discussed as a commonality between law and theology.
+    - The value of conveying a message without reaching a conclusion is interesting.
+    - In Iran, training is done to recall proverbs without considering the concepts they point to, which is intriguing.
+- 5 Logic of Society—[[Japanese Essays]] and Empathy
+    - The argument that Japanese essays aim to be [[empathized]] with by members of society is interesting.
+    - The distinction between essays, opinion pieces, and short essays is intriguing.
+    - The discussion of [[Tsuzurikata]] being evaluated as Japanese pragmatism is interesting.
+    - The connection to the story of [[Intersection of Experience Processes Becoming Atoms]] is felt.
+    - In the Japanese method, experiences are first narrated, and elements emerge from there, differing from essays where conclusions are presented immediately.
+    - Ichitaro Kokubu's "[[Concept Crushing]]"
 
-Chapter 3: Why do we find the thoughts of others illogical?
-- 1 Logic incompatible with the linear argumentation (economy) of "self-assertion"
-- 2 Logic incompatible with dialectical "procedure" (politics)
-- 3 Logic incompatible with "one definite conclusion" (legal technology)
-- 4 Logic incompatible with empathy for others (society)
+Chapter 3: Why Do We Feel Others' Thinking Is Illogical?
+- 1 Logic Incompatible with the Linear Proof of "Self-Assertion" (Economics)
+- 2 Logic Incompatible with the "Procedure" of Dialectics (Politics)
+- 3 Logic Incompatible with a "Single Determined Conclusion" (Legal Technology)
+- 4 Logic Incompatible with Empathy for Others (Society)
 
-End of Chapter [[Pluralistic Thinking]]──A way of thinking to choose values and live a rich life.
+Conclusion: [[Pluralistic Thinking]]—A Thought Method for Choosing Values and Living Richly
 
 ---
-This page is auto-translated from [/nishio/論理的思考とは何か](https://scrapbox.io/nishio/論理的思考とは何か) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
+This page is a high-quality translation from [/nishio/論理的思考とは何か](https://scrapbox.io/nishio/論理的思考とは何か). The original content is maintained by NISHIO Hirokazu.
