@@ -1,29 +1,29 @@
 ---
-title: "What is the intersection of meaning?"
+title: "What Is the Intersection of Meaning?"
 ---
 
-from [/unnamedcamp/what is the intersection of concepts?](https://scrapbox.io/unnamedcamp/what is the intersection of concepts?)
-> I wonder if the intersection of concepts is a concept, a meta-concept, or something other than a concept.
-「 [[Intersection of concepts]] 」というメタファーの指すものが僕の持っているものと同じかどうかはわからないが、同じだとするなら「概念の交差点は概念」<img src='https://scrapbox.io/api/pages/unnamedcamp/nishio/icon' alt='/unnamedcamp/nishio.icon' height="19.5"/>
-- I'm using a different definition of the word "concept" in my Scrapbox than it is used here, so for the sake of distinction, I'll say "intersection of meanings is meaning".
-- First, meanings can seem separate and unrelated, or overlapping and related, depending on your point of view.
+from [/unnamedcamp/What Is the Intersection of Concepts?](https://scrapbox.io/unnamedcamp/概念の交差点とは何か？)
+> It is intriguing whether the intersection of concepts is a concept, a meta-concept, or something else entirely.
+I am unsure if the metaphor of the "[[Intersection of Concepts]]" refers to the same thing I have in mind, but if it does, then "the intersection of concepts is a concept" <img src='https://scrapbox.io/api/pages/unnamedcamp/nishio/icon' alt='/unnamedcamp/nishio.icon' height="19.5"/>
+- Regarding the word "concept," I use a different definition in my Scrapbox, so for distinction, I rephrase it as "the intersection of meaning is meaning."
+- First, meaning can appear unrelated or overlapping and related depending on the perspective.
 - ![image](https://gyazo.com/6c2d7be5e47635516bdf4021f4ec504b/thumb/1000)
-- The term "intersection of concepts" on this page seems to be a metaphor used to refer to a phenomenon that occurs after "observing from a different perspective, there appears to be a relationship between meanings that were previously thought to be unrelated.
-- At this time, "meaning" is a "blurry circle" that does not yet have clearly defined boundaries
+- The term "intersection of concepts" on this page seems to be a metaphor used to refer to the phenomenon where, upon observing from a different perspective, relationships appear between "meanings" previously thought unrelated.
+- At this point, "meaning" is still a "blurred circle" without clearly defined boundaries.
     - ![image](https://gyazo.com/23a2844a878062ad4f0b486b815ae6f8/thumb/1000)
-            - [[blurred circle]]
-    - It's hard to tell if you draw with these blurry circles, so we'll draw with two "dark zones and light zones".
+        - [[Blurred Circle]]
+    - Since drawing with this blurred circle is unclear, I will depict it using "dense zones and sparse zones."
         - ![image](https://gyazo.com/aa8305c21851e8396403025a5e567deb/thumb/1000)
-                - [[Dark Thin Circle Diagram]]
-        - Unlike "concepts" used in mathematics, which have clearly defined boundaries, the "meanings" we usually deal with have both thick and thin parts like this.
-- So far, we have all the tools we need to describe the "intersection of meanings."
-- What is meant by "intersection of meanings?"
+            - [[Dense and Sparse Circle Diagram]]
+        - Unlike "concepts" used in mathematics with clearly defined boundaries, the "meaning" we usually deal with has both dense and sparse areas like this.
+- So far, we have gathered the tools to describe the "intersection of meaning."
+- As for what the "intersection of meaning" is:
     - ![image](https://gyazo.com/1efed47963335f68e176a3bdaad60022/thumb/1000)
-        - [["Experiential Processes and the Creation of Meaning" Study Group 3#6233f244aff09e00009fa2ae]]
-    - The thin areas of the edges of the two "meanings" A and B overlap, creating a new "dense area" L. This L
-    - This is also a "blurry circle" like A and B, so "intersection of meanings is also a meaning"
-- Side note: I use the term "concept" to refer to something whose boundaries have been clarified by careful definition.
-        - [[A "concept" is logically uniquely identified and symbolized]]
+        - [[Study Group on "Experiential Process and Creation of Meaning" #6233f244aff09e00009fa2ae]]
+    - It refers to the new "dense region" L that emerges when the peripheral sparse parts of two "meanings" A and B overlap.
+    - Like A and B, this L is also a "blurred circle," so "the intersection of meaning is also meaning."
+- Aside: The term "concept" is used to refer to something with clearly defined boundaries through careful definition.
+    - [[A "Concept" Is Logically Uniquely Identified and Symbolized]]
 
 ---
-This page is auto-translated from [/nishio/意味の交差点とは何か？](https://scrapbox.io/nishio/意味の交差点とは何か？) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
+This page is a high-quality translation from [/nishio/意味の交差点とは何か？](https://scrapbox.io/nishio/意味の交差点とは何か？). The original content is maintained by NISHIO Hirokazu.
