@@ -3,13 +3,11 @@ title: "The Place of Nothingness"
 ---
 
 ![image](https://gyazo.com/be7065060716a0099e7831cc90402f00/thumb/1000)
+Geitaro Nishida's [[Nishida]] idea that the [[limit]] of the particular is [[individual (in philosophy)]] and the limit of the general is "the place of nothingness" when considering the particular and the general [[both extremes]]. What "is" X entails a place Y in the form of "X is in Y." If Y is, it entails a place Z. If Y is, it entails a place Z. If Y is, it entails a place Z. If X is, it entails a place Y. If there is a limit in the direction of this generalization, it can only be nothing, because if it is something, then there is something beyond it.
 
-When considering the [[extremes]] of the particular and the general, the limit of the particular is the [[individual]], while the limit of the general is the "Place of Nothingness," according to the philosophy of [[Nishida Kitaro]]. An entity X that "exists" is accompanied by a place Y in the form "X exists in Y." If Y exists, it is accompanied by a place Z. If there is a limit in this direction of generalization, and if it were something that exists, then there would be something beyond it, thus it can only be nothingness.
+In the mathematical metaphor of the number line, this is "The small extreme of the natural number line is zero. Then what is the extreme on the large side? For any natural number X, there is a natural number X+1 that is larger than X+1. For any natural number X, there is a larger natural number X+1, so the "larger extreme" cannot be a natural number. In order to deal with such a concept, mathematics introduced the concept "[[infinity]] ∞" to describe something larger than any number.
+- see  [[Infinite physical sensation]]
 
-In terms of a metaphor from mathematics, this is similar to the question, "The extreme on the smaller side of the natural number sequence is 0. So, what is the extreme on the larger side?" For any natural number X, there exists a natural number X+1 that is larger, so the "extreme on the larger side" cannot be a natural number. To handle such concepts, mathematics introduced the concept of "[[Infinity]] ∞," which represents something larger than any number.
-- see [[Embodied Sense of Infinity]]
-
-[[Blind Spot Card]] 9
-
+- [[blind spot card]]  9
 ---
-This page is a high-quality translation from [/nishio/無の場所](https://scrapbox.io/nishio/無の場所). The original content is maintained by NISHIO Hirokazu.
+This page is auto-translated from [/nishio/無の場所](https://scrapbox.io/nishio/無の場所) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
