@@ -1,11 +1,11 @@
 ---
-title: "Specialists and generalists"
+title: "Specialists and Generalists"
 ---
 
-from  [[The Parable of the Sharpest Talent]]
-Sharp people are "[[specialists]]" and round people are "[[generalists]]".
-Converting the polar coordinates to Cartesian coordinates gives me the [[Knowledge Distribution Chart]] that I often use.
+From [[Example of Sharp Talent]]  
+Sharp talent refers to a "[[Specialist]]", while rounded talent refers to a "[[Generalist]]".  
+When converting polar coordinates to Cartesian coordinates, it becomes a [[Knowledge Distribution Diagram]] that I often use.  
 ![image](https://gyazo.com/aaadadcd37943e5dc6bd6c0b832e6fd9/thumb/1000)
 
 ---
-This page is auto-translated from [/nishio/スペシャリストとジェネラリスト](https://scrapbox.io/nishio/スペシャリストとジェネラリスト) using DeepL. If you looks something interesting but the auto-translated English is not good enough to understand it, feel free to let me know at [@nishio_en](https://twitter.com/nishio_en). I'm very happy to spread my thought to non-Japanese readers.
+This page is a high-quality translation from [/nishio/スペシャリストとジェネラリスト](https://scrapbox.io/nishio/スペシャリストとジェネラリスト). The original content is maintained by NISHIO Hirokazu.
