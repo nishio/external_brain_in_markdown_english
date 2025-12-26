@@ -1,0 +1,394 @@
+---
+title: "Study Group on 'The Process of Experiencing and the Creation of Meaning' 3"
+---
+
+Study Group Reading "[[The Process of Experiencing and the Creation of Meaning]]"
+- 2022-03-18
+- In the previous session [[Study Group on 'The Process of Experiencing and the Creation of Meaning' 2]], we covered up to Chapter 4, Section B2.
+- This time, we will continue from B3 to B6.
+
+Objective (Reiterated from Last Time)
+- It is necessary to put the "vague feelings not yet verbalized" into words.
+    - This is necessary for individual intellectual production.
+        - Because putting thoughts into words is essential for improving thinking and making it practical.
+    - It is also necessary for teamwork.
+        - Because if not verbalized, it is difficult to convey to other team members.
+- We only had a vague understanding of "putting vague feelings into words."
+    - [[Eugene T. Gendlin]] deeply explored the relationship between vague feelings and words and wrote "The Process of Experiencing and the Creation of Meaning."
+- By reading "The Process of Experiencing and the Creation of Meaning," we can acquire vocabulary and perspectives on "putting vague feelings into words" and think with higher resolution.
+- This will help us consider how future groupware should evolve and how methods of intellectual production should be developed.
+
+Review of the Previous Session
+- Important Terms
+    - Felt Meaning: The vague feeling, also called [[Felt Sense]] by some.
+    - Symbol: In this context, it refers to words. Strictly speaking, it includes non-verbal elements, but we won't discuss that here.
+- Chapter 3: "The Functioning of Felt Meaning"
+    - Explained seven ways in which "felt meaning" and "symbol" work together (interact).
+- Chapter 4: "Characteristics of Experienced Meaning as Functioning in New Symbolization"
+    - Discusses what characteristics of vague feelings affect verbalization when putting them into words.
+    - A: Experienced Meaning Is Not Determined by Logical Relationship, But Does Not Function Arbitrarily
+        - "Felt meaning" exists before logic.
+        - It is not determined by logical relationships.
+        - Nor does "felt meaning" function arbitrarily.
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> Although translated as "arbitrary," would it be clearer to translate it as "not determined by a single logical meaning, nor can it be made into any arbitrary meaning"?
+        - When a "felt meaning" is symbolized (specified, explained) in multiple ways, those symbols are not necessarily equivalent.
+            - ![image](https://gyazo.com/62295857a91ac11f6ba4a18d9216d0aa/thumb/1000)[[Diagram of Symbol and Meaning Correspondence]]
+            - Each symbolization creates a new "aspect" of the "felt meaning."
+            - Even if the vague feeling F is put into words, the feeling and the words are not equal. If F is expressed as S1 and also as S2, it does not mean S1=S2.
+- [[Concepts Are Logically Uniquely Specified and Symbolized]]
+    - When we say we "have a concept," it means it is connected to a "felt meaning."
+        - Example: [Understanding the Definition Takes Time—Engineer Shigeo Mitsunari (3) | Cybozu Style](https://cybozushiki.cybozu.co.jp/articles/m000353.html)
+        - The symbol "open set" is uniquely specified by other symbols.
+            - A clearly defined "concept."
+            - > ![image](https://gyazo.com/2046171093c0f9fca5c853b6fcc1c0e6/thumb/1000)
+        - Seeing this definition does not immediately make one able to use the "concept of an open set."
+            - > ![image](https://gyazo.com/d574d0151f30434fef4185c46586038c/thumb/1000)
+        - What happens in the process of "thinking" about this is Nishio's image.
+            - ![image](https://gyazo.com/6d791b2f087b4504b783745d99ba5bb7/thumb/1000)
+                - Related: [[Intersections of Stories Become Atoms]]
+            - As multiple paths of thought and experiential processes overlap, a "dense part" ([[intersection]]) forms, leading to the realization, "Ah, this is the meaning of 'open set.'"
+            - This is called "having a concept" when the symbol and the "felt meaning" are connected.
+        - This is not limited to philosophy or mathematics. For example, one might not understand the concept of a class even after reading a book, but by writing several programs using classes by trial and error, one might come to understand.
+    - Concepts are not "felt meanings" within individuals but "symbols" outside individuals.
+        - We want this "symbol" to refer to the same meaning among multiple people.
+            - This is useful for discussions among multiple people.
+        - However, it is not possible to directly observe the "felt meaning" within others and say, "Yes, it means the same as mine."
+            - Humans cannot directly observe the "felt meaning" within others' minds.
+        - Therefore, we try to explain by combining multiple symbols and strive to make it a consistent meaning.
+            - What is thus created with effort is called a "concept."
+            - Despite the effort, whether the felt meanings within individuals become a consistent meaning is another matter, and a significant percentage of first-year university students get marked wrong on math tests every year.
+- Review of 4B
+    - To connect with this session's topic, we will review in a different order than last time.
+- About Aspects (4B2)
+    - Nishio's Image
+        - ![image](https://gyazo.com/5436b596b8d6f782f7c1dd5362568459/thumb/1000)
+            - The gray part in this diagram
+    - > Definition of "aspect of experience."
+    - > The term "aspect of experience" will be employed to name the specification of experience that results from its functioning in creative symbolization.
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> The "specification" of a vague "experience" without clear boundaries is the "aspect of experience."
+        - "Experience" works in the process of creative "symbolization."
+        - As a result of this "functioning," "aspects of experience" are created.
+        - ver.2
+        - A vague "experience" without clear boundaries works in the process of creative "symbolization."
+        - As a result of this "functioning," the "experience" is specified. That specification is the "aspect of experience."
+- (4B2) Experience Is [[Multischematic]]
+        - We plan to organize "what is a scheme" next time.
+    - > The "[[multischematic]]" character of experience
+    - To explain faithfully to the original text: When symbolizing experience, there is not just one scheme; it is multischematic.
+        - For now, we will call scheme "structure."
+        - For example, experience can be described in a temporal structure.
+            - "B happened after A."
+        - It can be expressed in multiple structures, not just one.
+- (4A1) Experience Is [[Non-Numerical]]
+    - > The [[non-numerical]] character of experience
+    - Nishio's Image
+        - ![image](https://gyazo.com/790949bae8daf0c83ae56ece1a3a5237/thumb/1000)
+    - "Experience" has no clear boundaries or units.
+    - Where to cut out "one unit of experience" is not determined.
+        - ![image](https://gyazo.com/ab2fe4c33c5019c0458050916e49dfe7/thumb/1000)
+    - The same "non-numerical experience" can be symbolized as "one experience AB" or as "two experiences A and B."
+        - ![image](https://gyazo.com/8f8e4779d6da26c676f6df50fb8a4247/thumb/1000)
+        - Therefore, there is no essential difference between being "between A and B" and being "within AB."
+    - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>Q: When there are similar events A and B that are temporally separated, isn't it impossible to group them into one event because there are dissimilar events between A and B?
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>A: That implicitly assumes a temporal scheme (focusing only on the structure in the time axis direction).
+            - It is not only things that are continuous in the time axis direction that can be grouped together. For example, saying "we can't group 'New Year' as a concept because there is June between each New Year" would be strange, right?
+        - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>Indeed
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Feeling that they don't connect or are separated is implicitly assuming a temporal scheme. There are multiple possible schemes, not just one. The grouping of New Year is one example, and for instance, someone who frequently visits Disneyland can group their experiences as "experiences of visiting Disneyland."
+(4B3) [[Meanings Are Likenesses and Vice Versa]]
+- Meanings are likenesses, and vice versa.
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> I had an easy interpretation from the title, but after reading, it was quite different, so you might want to forget this title for now.
+- Delving into this topic from (4B1)
+    - ![image](https://gyazo.com/8f8e4779d6da26c676f6df50fb8a4247/thumb/1000)
+- When considering two things as similar, we tend to imagine "similarity" as a "line between two circles," but is this correct?
+    - ![image](https://gyazo.com/ebef918273ef72afee57f6c16e14cea0/thumb/1000)
+    - Of course, since there is no essential difference between "being between" and "being within," imagining similarity as only "between" is narrow-minded.
+    - Ultimately, there are at least two ways to create a structure that is expressed as "A and B are similar."
+        - ![image](https://gyazo.com/a590599361b580430cae025307003e8e/thumb/1000)
+        - Story1: Symbol A is born, symbol B is born, and then the story is expressed as "there is a similarity L between these two."
+        - Story2: A symbol L is born, and A and B are expressed as things related to L. As a result, it is understood that A and B are similar in the sense that they are related to L.
+        - Story2 might be easier to understand if exaggeratedly depicted like this:
+            - ![image](https://gyazo.com/c2ea2ceed44df5742af3e32019d25081/thumb/1000)
+            - "There is an animal L, for example, a cat A, or a dog B."
+                - Cats and dogs are "similar" in the sense that they are both animals.
+            - This is a logically easy-to-handle expression, but it is merely being forced into a familiar Venn diagram interpretation.
+                - "Felt meaning" is "non-numerical" = "something that spreads with density without clear boundaries."
+                - Therefore, "inclusion relationships" are not defined between two "felt meanings."
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> This relates to the concept of [[Scrapbox Links]].
+        - What many people imagine with the word "link" is Story1: "Page A exists, page B exists, and then a link L connecting them is created."
+        - Scrapbox links are not like that.
+            - "Although B is not yet there, let's express A and L" is often used.
+            - Over time, when L is expressed for another B, the system provides information that A and B are connected through L.
+                - [[2-hop link]]
+    - [[Meanings Are Likenesses and Vice Versa(v1)]]
+
+(4B4) [[Relation or Relata]]
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> In (4B3), it was said that "similarity is meaning, and meaning is similarity."
+    - This "similarity" is one type of relationship.
+    - This section states, "Not just similarity, but all relationships are like that."
+- A creative process is possible in two directions.
+    - There are two directions in the creative process.
+    - ![image](https://gyazo.com/134d1606a99798d02b5ce36452ed94ef/thumb/1000)
+    - (a) A relationship is found between a given meaning and another meaning.
+    - (b) Another meaning related to the given meaning is found.
+        - As a result, the given meaning becomes a "relationship" post hoc.
+    - [[There Are Two Directions in the Creative Process(v1)]]
+- Here, we can delve deeper into "aspects."
+    - [[When a "New Aspect" Is Created, There Are Three Ways It Can Be Expressed as a Symbol]]
+    - ![image](https://gyazo.com/7f28a9923c4f1b97dc449f9b51aa1ce3/thumb/1000)
+        - It can be expressed as a relationship between one meaning and another.
+        - It can be expressed as a new aspect of one meaning.
+        - It can be expressed as a new aspect of another meaning.
+        - (To make it easy to distinguish in the diagram, it is drawn as "gray circles with clear boundaries that do not overlap," but of course, the boundaries are blurred and spread out.)
+            - ![image](https://gyazo.com/82a77368f4bfb0988956fb1424dfa42f/thumb/1000)
+            - I drew it, but I am not very satisfied with the result.
+            - As a schematic diagram, would it be better to use a two-tone gradient?
+            - ![image](https://gyazo.com/9fc4a4ac6d77870b8be463b22926dbf6/thumb/1000)
+                - [[Diagram of Dark and Light Circles]]
+                - When it is expressed as "L was created between A and B," A and B are captured in a narrow range.
+                - When it is expressed as "A new aspect of A was created by B," A is captured in a wide range, and B is captured in a narrow range.
+            - Cropping of this diagram: [["Relationship Between A and B" and "Aspect of A Created by B" Are the Same]]
+    - The "Nishio's Image" written before has been expressed in more detail and divided into three ways.
+        - ![image](https://gyazo.com/5436b596b8d6f782f7c1dd5362568459/thumb/1000)
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> Specific Example (It's quite rough, so if I think of a better one, I'll replace it)
+    - Cats and the sun have the similarity of being warm.
+    - Cats are warm (like the sun).
+    - The sun is warm (like a cat).
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> Since similarity is a symmetrical relationship, should I use an asymmetric example?
+    - Hydrogen and oxygen combine.
+    - Hydrogen is oxidized.
+    - Oxygen is reduced.
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> From this perspective, it has become easier to express what is happening in [[CIRCUMLOCUTION]].
+    - ![image](https://gyazo.com/ef170d8995de18e8200e241f5af101ed/thumb/1000)
+    - Previously, I tried to express "relationship" as a "line between two circles."
+        - ![image](https://gyazo.com/80f89d8a6e3db89528ec9f663654e02d/thumb/1000)
+        - Expressed as FG being determined by the relationship between FG and FH.
+    - Expressing this with "aspects."
+        - ![image](https://gyazo.com/eb441842b0d9b532d4994d55ca0e6641/thumb/1000)
+        - In this diagram, F is deliberately called a symbol "what was talked about today," and it is newly created by the symbols A, B, C uttered by the speaker.
+            - The aspect of F (=FG) is specified by FA (FH).
+        - A relationship is found between Fa and F.
+        - A new aspect is found in F.
+        - A new aspect is found in Fa.
+            - For example, in the previous session, the meaning evoked by the symbol "concept" was post hoc segmented by the conversation in the Q&A.
+                - Segmentation: "A concept is a symbol outside a person, not a 'felt meaning' within a person."
+            - Before this was done, the meaning evoked by the symbol "concept" was a broad, undivided one.
+            - This phenomenon is that the "felt meaning" Fa evoked by the symbol "concept" A acquired a new aspect through interaction with F.
+    - Association: [[Ikujiro Nonaka's]] [[Socialization]]
+        - An act of trying to create a shared F by mobilizing not only linguistic symbols but also silence and grimaces as symbols.
+    - Association: [[Temporal Context]] 2024-05-01
+    - Association: [[Difference]] 2025-09-17
+- Q: The expression "an aspect is found" appears frequently and is intriguing. Is finding an aspect a major element of understanding?
+    - A: Since it is defined and used repeatedly, Eugene Gendlin probably considers it an important concept.
+    - Since meaning is vague and without boundaries, it may be a metaphor for the need to find "aspects" in it.
+    - Additional note: In the original text, "aspect" is used, so I looked it up in the dictionary.
+        - > Any specific feature, part, or element of something.
+        - > The way something appears when viewed from a certain direction or perspective.
+        - > The way something appears when considered from a certain point of view.
+        - Agreed. When viewed from a certain perspective B, a specific part of A is visible, and that is the aspect.
+
+(4B5) Multiplicity
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> In the Japanese translation, it is translated as "diversity," but personally, it doesn't quite fit. The word "diversity" is used in various meanings, and I might be influenced by some of those usages. Since it is about the property of being "multiple," "multiplicity" feels more fitting. For now, I will call it "Multiplicity" without translating it.
+- [[Multiplicity]] / [[Multiplicity(v1)]]
+- This section is divided into four parts a-d.
+    - (a) An experience is multiple
+        - Due to the characteristic of being "non-numerical," many experiences are "within" one experience.
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> For us, speakers of Japanese, which does not distinguish between singular and plural, the psychological barrier to this claim is low, but this is a claim that "one X is multiple," so speakers of languages sensitive to numbers need to work hard to break the bias implicitly brought by language.
+    - (b) Experiences have multiple interactive relationships
+        - Translated in the Japanese book as "experiences have diverse interactive relationships," which might be why it was translated as "diversity."
+        - In other words, the interaction between experience A and another experience B is not just one-way; it is multiple.
+        - There is a story about advancing thought by repeating RECOGNITION and EXPLICATION, which will be explained in detail later.
+    - (c) The equivalence of (a) and (b)
+        - This uses the equivalence of "being within" and "being between" explained in (4B1).
+    - (d) The as yet unspecified is multiple
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> Translated in the Japanese book as "the yet unspecified is diversity," but it doesn't quite fit as it doesn't say "is multiplicity."
+            - It states that "what is not yet verbalized," "that 'thing' called 'that' which is not yet well expressed," is not a single thing but multiple things.
+    - Q: "Multiple" is said, but since it is like density, isn't it uncountable in the first place?
+        - A: That recognition is more accurate.
+            - When cutting out something vague like density, we tend to think of it as "one thing."
+            - Against this, it is said, "It is not one, it can be multiple."
+            - This is a bias from language. In English, it is expressed as "an experience," which strongly biases the assumption of singularity.
+            - As speakers of Japanese, which does not distinguish between singular and plural, and by explaining with "vague diagrams" instead of text alone, it has become easier to understand the non-numerical characteristic.
+            - A simple recognition picture
+                - ![image](https://gyazo.com/ebef918273ef72afee57f6c16e14cea0/thumb/1000)
+                - For someone with this recognition, saying "that one line you think is a vague density and non-numerical" is hard to understand, so it is interpreted as saying, "What you think is one is actually multiple."
+- Explaining in this order is abstract, so I will diagram the specific story explained by the author in (b) and (d) in my own way.
+    - A story of "trying to put something vague into words, and unexpectedly, words came out one after another like a chain reaction."
+    - ![image](https://gyazo.com/3780e7162a21c3905255616442259f10/thumb/1000)
+    - 1: A person has something vague and unspeakable F.
+    - 2: They try to put the "easiest part to say" Fx into words as A.
+    - 3: This A evokes a larger meaning Fa than initially expected.
+    - 4: The interaction between Fa and F gives rise to new words B and C.
+    - 5: And B and C evoke more than expected Fb and Fc.
+    - Detailed explanation
+        - > 4: The interaction between Fa and F gives rise to new words...
+            - This interaction can be interpreted in either of the following ways:
+                - An interaction relationship "between" F and Fa is found.
+                - Fa "within" F specifies an "already existing" "aspect of experience."
+            - Which interpretation to choose is merely a difference in how to consider the range as a whole.
+        - > 2: Try to put the "easiest part to say" within F into words as A.
+        - > 4: New words B and C are born...
+            - When trying to delve into and observe in detail the process of "verbalization," we shouldn't use the same words "verbalization" or "putting into words" in the explanation.
+            - Eugene Gendlin repeatedly uses the word "select" with quotation marks.
+                - ![image](https://gyazo.com/0793f40143748ffc41b8782501ed5f03/thumb/1000)
+                - First, select a symbol.
+                - Notice that the selected symbol evokes more.
+                - Select a symbol for the additional part.
+            - What happens here is:
+                - First, there is a "felt meaning."
+                - Think of words that might be used to express it.
+                - From the words that come to mind, choose the one that feels right.
+            - For example, when a programmer tries to explain the design of their program, even if the word "mediator pattern" perfectly fits what they want to explain, if they don't know or think of that word, it won't be used.
+                - People express with the words they think of, as written in the engineer's intellectual production techniques [[(6.3.5) Build a Time Machine]].
+                - > The customer has something they want to express, but they don't know the right words to express it. So, they happened to choose "time machine," which they thought was the closest among the words they knew. This "time machine" is a metaphor.
+            - Using Nishio's familiar words, the verbalization of A facilitated the verbalization of B and C because it stimulated the A part of the pre-existing [[association network]] within the person, making surrounding words easier to recall.
+        - Recap: How does this connect to the title "Relationships Are Multiple"?
+            - This time, Nishio explained with a two-dimensional diagram, making it easy to recognize the style of "A and B and C are within F."
+            - Not everyone always recognizes things with a two-dimensional diagram.
+                - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> I feel that recognizing with a two-dimensional diagram might be a minority.
+        - In the field of psychotherapy, one-dimensional communication using voice is the main method.
+            - In voice communication, it is easy to recognize "what was said as small grains, and the relationships between them."
+            - Due to the constraints of the medium, when A gives rise to B and C simultaneously, one must choose which to say first.
+            - People who try to write sentences from the beginning face the same constraint.
+            - A strong constraint of having to output in one dimension.
+        - "How is A related to what I want to talk about now, F... oh, is it B? Or C?"
+            - ![image](https://gyazo.com/3780e7162a21c3905255616442259f10/thumb/1000)
+            - This is a diagram, so it can express that there are two things in parallel, but when outputting in voice, one tends to choose one.
+            - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> If both come out at the same time and there is hesitation in choosing, it is clearly "both are equally important."
+                - Choosing one and discarding the other is crazy.
+                - [[It Is Better to Separate the Phase of "Verbalizing" and the Phase of "Writing in One-Dimensional Text"]]
+                - In voice output, this separation of phases cannot be done.
+            - The bias of thought that "one must choose one relationship" is born.
+            - As a prescription for this thought bias, it is said, "Relationships are not just one; they are multiple, so you don't have to choose just one," and "What is not yet verbalized is not one; it is multiple."
+            - ![image](https://gyazo.com/a686018d234f266045cad78cbc44ae2f/thumb/1000)
+            - This connects to the following:
+                - > (b) Experiences have multiple interactive relationships
+                - A and F have multiple relationships B and C.
+                - > (d) The as yet unspecified is multiple
+                - What is not yet verbalized, F, is multiple.
+
+(4B6) Any Concept Is One of Many
+- "Any concept is one of many."
+    - From the title alone, it seems to have a Buddhist feel or a "one for all, all for one" vibe, but that's not what is being said.
+- Based on 1-5, this is derived.
+    - > A newly created aspect of experience will be only one of very many that might have been created.
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> A newly created "aspect of experience" is merely one of many "aspects of experience that might have been created."
+- Especially from 1 and 5, it can be said that "one experienced meaning" is always a multiplicity of aspects that "could be specified."
+- "Q: If the experienced meaning determines the meaning of a newly created aspect, isn't there no multiplicity?"
+    - "A: Since all experiences are multiple, the aspects that can be created are multiple."
+    - When focusing on one aspect, it is specified quite finely by the involved "experienced meaning," but since there are many aspects that can be created, diverse things can be born.
+    - If all involved experiences were known, it might be said that the created meaning is uniquely determined.
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> This is rhetorical, saying, "Since all involved experiences cannot be known, the created meaning is not uniquely determined."
+- (4B6a): A newly specified aspect A of an experience X is merely one of many aspects that could have been specified from X.
+- What is derived from this:
+    - (4B6b): Any meaning A can be regarded as one of many aspects of several experiences.
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> The reason for saying this is probably because Eugene Gendlin has seen [[Carl Rogers]] get angry at trainee counselors who don't understand this.
+    - ![image](https://gyazo.com/49542b95055e1fdb24448e5f311423db/thumb/1000)
+    - When there is a client with something they can't quite verbalize, F, and the counselor listens to them, how do they interpret it when the client says "A"?
+        - Alice interprets it as "F=A," which is wrong.
+        - Bob interprets it as "There is a large F that is not yet verbalized, and A is merely one aspect of it," which is correct (right).
+    - The reason is that the client might start talking about B, which seems unrelated to A, afterward.
+        - ![image](https://gyazo.com/fab10fb9f4d1488d528bbb8973a61710/thumb/1000)
+        - If you think F=A, you might think, "They're talking about something unrelated to F."
+            - You might think the conversation has jumped or something.
+            - It is the counselor's attitude, who assumes F=A, that is wrong, not that the client's conversation is jumping.
+        - Instead, B is also an aspect of F, and they are "talking about something related."
+        - This way of perceiving is important in helping verbalize F.
+    - > (4B6b): Any meaning A can be regarded as one of many aspects of several experiences.
+        - "Can be regarded" might make some people think, "What meaning does that have?"
+        - Any statement by the client, the meaning it points to, is one of the many aspects of "what the client is trying to verbalize, F."
+            - By regarding it this way, the counselor can better receive the client's statements.
+            - Eugene Gendlin wrote this book as a philosophical text, not as a how-to book for psychotherapists, so it is not explicitly stated, "Doing this will improve your psychotherapy."
+        - F is called "several experiences" because (4B5d) The as yet unspecified is multiple.
+- Referring to this, [[I. A. Richards]] is quoted as saying "[[all specified meanings are metaphoric]]."
+    - This also relates to the engineer's intellectual production techniques [[(6.3.5) Build a Time Machine]].
+        - > The customer has something they want to express, but they don't know the right words to express it. So, they happened to choose "time machine," which they thought was the closest among the words they knew. This "time machine" is a metaphor.
+        - When a person tries to say "what is not yet well expressed," the words they come up with are not used in the "dictionary meaning" but are "metaphors" connected to personal meanings, and the "felt meaning" within that person cannot be understood from that symbol alone, so it is necessary to encourage more aspect symbolization.
+        - In the engineer's intellectual production techniques story, the customer wanted an automatic backup system but lacked the vocabulary to express it.
+        - So they used the word "time machine" to mean "I want to go back to before I overwrote the file and retrieve it."
+        - This "time machine" word should not be interpreted as the meaning evoked by oneself but as "the client has an unspoken F, and one aspect of it is expressed with the word 'time machine,'" and questions should be asked to specify that F.
+
+Impressions
+- Following the logical structure side, it is abstract, but when considered in light of what happens in the specific process of verbalization, it felt like a "[[Pattern Language of Verbalization]]."
+    - Probably like [[Design Patterns]] in programming, if you learn only the pattern without specific source code, it doesn't make sense.
+    - When paired with specific source code, it becomes "Ah, this is about that common pattern."
+    - (2025-09-18 Note) [[Eugene Gendlin]] studied under [[Carl Rogers]] in his career and wrote about the process of experiencing and symbolization in his doctoral thesis, so the interpretation that the theory of experiencing and symbolization is a pattern language of verbalization observed in the process of psychotherapy seems straightforward.
+
+Q&A
+- Q: Understanding that the words someone says are an aspect of a larger F seems important. In debates like those on Twitter, it seems like people are intentionally trying to interpret F=Fa.
+    - A: That's exactly what I thought, but it wasn't written in the materials.
+    - When Alice interprets P's talk about A as F=Fa, and P starts talking about B, Alice might say, "Don't change the subject!"
+    - From P's perspective, they are not changing the subject "F"; it's just that Alice thinks "F" is "Fa."
+    - From P's perspective, it looks like Alice is changing the subject or focusing on details that are not the main topic.
+    - ![image](https://gyazo.com/220bf4ed23ded309c600e956719b1166/thumb/1000)
+    - Alice: "When I pointed out C, they started talking about B, which is completely unrelated! They're changing the subject!"
+    - P: "C is indeed related to A, but it's not related to what I want to talk about now."
+- Q: When P's $F_A$ becomes the symbol A, and Alice hears it, what is evoked in Alice is $F_A'$.
+    - A: Yes, there is no guarantee of a match.
+        - Strictly speaking, the meaning evoked by the symbol A for Alice and Bob should be written as $F_{A,Alice}, F_{A,Bob}$, but it is abbreviated.
+- Q: Wouldn't there have to be a significant mismatch for insults to occur?
+    - A: Well, people who argue on Twitter think that the Fa they evoke with the symbol A is absolutely correct and that the other side is wrong. In such a state, things can't make sense.
+    - To have a productive exchange:
+        - Premise: What is evoked by the word A may differ from person to person.
+        - Therefore, align, approach each other, and try to make it common.
+        - This is necessary.
+    - This necessity needs to be a common understanding.
+        - People fighting on Twitter don't seem to recognize that.
+- Q: Is there no attempt to align F?
+    - A: Yes, I don't think you can have a meaningful discussion without trying to align it.
+    - As a result of trying to align it, both mathematics and philosophy have generated very long texts, making them not simple and not easy for newcomers.
+    - However, if you don't do that properly, you can't delve deeply into the discussion.
+        - Another metaphor: Building a tall tower on a foundation that is not properly solidified, a sand foundation, will cause it to tilt. [[Tower of Sand]]
+    - To do it properly, you need to put in considerable effort to create a shared "felt meaning."
+        - That is the state of "having a concept."
+        - (2025-09-18 Note) Creating a shared "felt meaning" with considerable effort is [[Socialization]] through [[Waigaya]].
+    - Twitter insults seem to lack the willingness to put in such effort.
+- Q: When trying to understand what the other person is saying, many symbols come out, and from that, you understand what they want to say.
+    - A: Yes
+- Q: When assuming that, I think text communication is difficult. In voice, rallies occur in a short time, and many symbols come out. In text communication, it's inconvenient.
+    - A: Personally, I see it the other way around.
+    - In voice communication, the symbols that come out disappear one after another, remaining only in memory.
+    - On the other hand, in text communication, they don't disappear.
+        - You can look back at "what was written earlier."
+    - Regarding "it's important for many symbols to come out in voice rallies":
+        - I completely agree that "it's important for many symbols to come out."
+        - If the participants are good at text communication, it's a solvable problem.
+        - If the participants are not good at text input or find voice easier, then voice is better.
+    - The cost of expressing symbols by people:
+        - It's better for symbols to come out freely, but if forcing text output raises the cost and they don't come out, it's counterproductive.
+        - If the cost is equal, text is better because it doesn't disappear.
+- Q: Do many people find it burdensome to put things into text?
+    - A: If there are people with psychological barriers to putting things into text, then the role of listening to them and putting it into text might become valuable.
+- Q: Isn't there information unique to voice, like intonation or hesitating?
+    - Q: Observing emotions is a big advantage of voice.
+    - A: That point is entirely correct. To simplify the explanation, I said, "symbols are words, though actually broader," but in the actual field of psychotherapy, expressions, hesitations, gestures, etc., are considered important symbol expressions.
+    - While focusing on linguistic symbols for explanation, there are indeed symbol expressions that can't be done with text alone.
+        - There are people who are good or bad at this type of expression, and everyone has their individuality.
+    - Instead of writing in text from the start, the role of listening to those who want to express verbally and putting it into text might be important.
+    - Not just listening, but if you want to connect it to long-term intellectual production on groupware, it's important to make it text, so it doesn't disappear, accumulates, and becomes searchable.
+    - Filling the process gap there might be important.
+- Text communication requires paying the cost of learning to master it, separate from the convenience of text, but without convenience, the cost of learning is not paid... if it's text for communication rather than for recording...
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> It's troubling because there's a chicken-and-egg problem where it won't become convenient until the cost of learning to use it is paid.
+        - Personally, I think everyone should train to be able to do text communication and discussions on text freely.
+        - Also, everyone should be able to draw on an iPad.
+        - And everyone should use the KJ method.
+        - Well, the cost of learning is high, so it's hard to get people to agree, which is my daily thought.
+- Q: If everyone could do text communication properly, wouldn't conflicts not occur, as it's quite difficult?
+    - A: Conflicts... well, people fight on Twitter, so I don't know.
+        - Additional note: Regardless of whether it's text or voice, if everyone could do "Eugene Gendlin's way of interpreting," conflicts might decrease.
+- Q: When converting voice to text, is there a need for skills to include modality information like emotions in the text? When communicating by email, hesitation information disappears. Should software support text conversion, or should a medium be created to convey such information?
+    - A: Indeed, there is a saying, "[[Hesitation Creates Meaning]]."
+    - The symbols that come out as a result of hesitating and not being able to say it well are important, and the symbols spoken fluently are superficial and not that important.
+    - When asked a question and hesitating with "um..." and then a word pops out after a while, that's what needs to be focused on.
+    - In text communication, that's not visible at all.
+        - Maybe a service that can utilize hesitation information would be good.
+        - Additional note: I tried adding a function to Keichobot to measure the time until an answer, but it didn't work well. In [[Interpersonal Voice Communication]], there is an implicit constraint to focus 100% on the person in front of you, not looking at your smartphone, while in chat, you can look away.
+- Q: The hesitation when verbalizing and the hesitation when revising a written text to convey it to others seem different.
+    - A: Yes
+    - Additional note: Personally, I think verbalization hesitation occurs in the process of "what is not yet verbalized being verbalized," and revision hesitation occurs in the process of "expressing what is already verbalized in private language in a common language that others can understand."
+        - During the latter process, new questions may arise, requiring new verbalization.
+        - "Huh? Is the leap between these two sentences too big? I need to verbalize something to fill the gap..."
+
+Next Session: [[Study Group on 'The Process of Experiencing and the Creation of Meaning' 4]]
+
+---
+This page is a high-quality translation from [/nishio/「体験過程と意味の創造」勉強会3](https://scrapbox.io/nishio/「体験過程と意味の創造」勉強会3). The original content is maintained by NISHIO Hirokazu.
